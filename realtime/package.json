@@ -1,0 +1,24 @@
+{
+  "name": "edulink-realtime",
+  "version": "1.0.0",
+  "description": "EduLink real-time Socket.io server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "pm2": "pm2 start server.js --name edulink-socket --instances 2 --exec-mode cluster"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "express": "^4.18.0",
+    "ioredis": "^5.3.0",
+    "jsonwebtoken": "^9.0.0",
+    "socket.io": "^4.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

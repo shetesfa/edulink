@@ -1,0 +1,51 @@
+{
+  "appId": "com.edulink.app",
+  "appName": "EduLink",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "allowNavigation": [
+      "*.edulink.com",
+      "meet.jit.si"
+    ]
+  },
+  "android": {
+    "allowMixedContent": true,
+    "webContentsDebuggingEnabled": false,
+    "buildOptions": {
+      "keystorePath": "release.keystore",
+      "keystoreAlias": "edulink",
+      "releaseType": "APK"
+    }
+  },
+  "ios": {
+    "contentInset": "always",
+    "scheme": "EduLink",
+    "backgroundColor": "#1E1B4B"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#1E1B4B",
+      "androidSplashResourceName": "splash",
+      "showSpinner": false
+    },
+    "PushNotifications": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    },
+    "Keyboard": {
+      "resize": "body",
+      "style": "dark",
+      "resizeOnFullScreen": true
+    },
+    "StatusBar": {
+      "style": "dark",
+      "backgroundColor": "#1E1B4B"
+    },
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon_config_sample",
+      "iconColor": "#7C3AED"
+    }
+  }
+}

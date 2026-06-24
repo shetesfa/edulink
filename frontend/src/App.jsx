@@ -1,6 +1,7 @@
 import React, { useEffect, Suspense, lazy } from 'react';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { Toaster } from 'react-hot-toast';
+import { Analytics } from '@vercel/analytics/react';
 import { useAuthStore } from '@/store';
 import { authAPI } from '@/utils/api';
 import AppLayout from '@/components/shared/AppLayout';
@@ -92,6 +93,7 @@ export default function App() {
           error:   { iconTheme: { primary: '#EF4444', secondary: '#fff' } },
         }}
       />
+      <Analytics />
 
       <Suspense fallback={<LoadingScreen />}>
         <Routes>

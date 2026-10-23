@@ -1,0 +1,79 @@
+name: edulink_app
+description: EduLink - Ethiopian school communication & learning platform
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Networking
+  dio: ^5.4.3
+  connectivity_plus: ^6.0.3
+
+  # Realtime chat (Reverb speaks the Pusher protocol)
+  pusher_channels_flutter: ^2.2.1
+  web_socket_channel: ^3.0.3
+
+  # Local offline database (mobile: sqflite, desktop: sqflite via ffi)
+  sqflite: ^2.3.3
+  sqflite_common_ffi: ^2.3.3
+  path: ^1.9.0
+  path_provider: ^2.1.3
+
+  # Secure token storage
+  flutter_secure_storage: ^9.2.2
+
+  # State management
+  provider: ^6.1.2
+
+  # Small helpers
+  uuid: ^4.4.0
+  intl: 0.20.2
+  shared_preferences: ^2.2.3
+  flutter_dotenv: ^5.1.0
+  flutter_markdown: ^0.6.14
+  image_picker: ^1.1.2
+  file_picker: ^8.1.2
+  cached_network_image: ^3.3.1
+  url_launcher: ^6.3.0
+  webview_flutter: ^4.8.0
+
+  # Competition features: QR class join, PDF report cards
+  qr_flutter: ^4.1.0
+  mobile_scanner: ^5.2.3
+  pdf: ^3.11.1
+  printing: ^5.13.2
+
+  # Push notifications (optional feature - uncomment after adding google-services.json)
+  # firebase_core: ^3.3.0
+  # firebase_messaging: ^15.1.0
+
+  # Google Sign-In (native OAuth)
+  google_sign_in: ^6.2.1
+
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - .env
+    - assets/models/
+    # ── 3D Science Lab Web Assets ──────────────────────────
+    - web_assets/chemistry/periodic_table/index.html
+    - web_assets/chemistry/periodic_table/css/
+    - web_assets/chemistry/molecules/viewer.html
+    - web_assets/chemistry/molecules/3Dmol-min.js
+    - web_assets/biology/human_body/viewer.html
+    - web_assets/biology/human_body/three.min.js
+    - web_assets/physics/simulations/viewer.html

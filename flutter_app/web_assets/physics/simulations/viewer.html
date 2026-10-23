@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>EduLink — Physics Simulations</title>
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  background: #0a0f1a;
+  color: #fff;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.header {
+  background: linear-gradient(135deg, #1a1200, #3d2800);
+  padding: 12px 16px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  border-bottom: 1px solid rgba(245,158,11,0.3);
+  flex-shrink: 0;
+}
+.header-icon { font-size: 24px; }
+.header-text h1 { font-size: 16px; font-weight: 700; color: #fbbf24; }
+.header-text p  { font-size: 11px; color: #6b7280; }
+.sim-tabs {
+  display: flex;
+  background: #111827;
+  border-bottom: 1px solid rgba(245,158,11,0.15);
+  overflow-x: auto;
+  flex-shrink: 0;
+  scrollbar-width: none;
+}
+.sim-tabs::-webkit-scrollbar { display: none; }
+.sim-tab {
+  flex-shrink: 0;
+  padding: 10px 14px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #6b7280;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s;
+  white-space: nowrap;
+}
+.sim-tab.active { color: #fbbf24; border-bottom-color: #fbbf24; background: rgba(245,158,11,0.08); }
+#sim-canvas {
+  flex: 1;
+  display: block;
+  width: 100%;
+  cursor: crosshair;
+}
+.controls {
+  background: #111827;
+  padding: 10px 16px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-shrink: 0;
+  border-top: 1px solid rgba(245,158,11,0.15);
+  flex-wrap: wrap;
+}
+.ctrl-btn {
+  background: rgba(245,158,11,0.15);
+  border: 1px solid rgba(245,158,11,0.3);
+  color: #fbbf24;
+  padding: 7px 14px;
+  border-radius: 10px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.ctrl-btn:hover { background: rgba(245,158,11,0.35); }
+.ctrl-btn.active { background: rgba(245,158,11,0.4); border-color: #fbbf24; }
+.ctrl-label { font-size: 11px; color: #9ca3af; }
+input[type=range] {
+  accent-color: #fbbf24;
+  width: 90px;
+}
+.info-bar {
+  background: #0d1117;
+  padding: 8px 16px;
+  display: flex;
+  gap: 16px;
+  flex-shrink: 0;
+  border-top: 1px solid rgba(255,255,255,0.05);
+  flex-wrap: wrap;
+}
+.stat { display: flex; flex-direction: column; }
+.stat .val { font-size: 14px; font-weight: 700; color: #fbbf24; }
+.stat .key { font-size: 10px; color: #6b7280; }
+</style>
+</head>
+<body>
+<div class="header">
+  <div class="header-icon">⚡</div>
+  <div class="header-text">
+    <h1>Physics Simulations</h1>
+    <p>Interactive — tap canvas to interact</p>
+  </div>
+</div>
+<div class="sim-tabs">
+  <div class="sim-tab active" onclick="switchSim('pendulum',this)">🕰️ Pendulum</div>
+  <div class="sim-tab" onclick="switchSim('projectile',this)">🚀 Projectile</div>
+  <div class="sim-tab" onclick="switchSim('waves',this)">🌊 Waves</div>
+  <div class="sim-tab" onclick="switchSim('gravity',this)">🌍 Gravity</div>
+  <div class="sim-tab" onclick="switchSim('optics',this)">🔆 Optics</div>
+</div>
+<canvas id="sim-canvas"></canvas>
+<div class="controls" id="controls"></div>
+<div class="info-bar" id="infoBar"></div>
+
+<script>
+const canvas = document.getElementById('sim-canvas');
+const ctx = canvas.getContext('2d');
+let currentSim = 'pendulum';
+let animId = null;
+let simState = {};
+
+function resize() {
+  const wrap = canvas.parentElement;
+  canvas.width = wrap.clientWidth;
+  canvas.height = canvas.clientHeight;
+}
+
+// ── PENDULUM ──────────────────────────────────────────
+function initPendulum() {
+  simState = {
+    angle: Math.PI / 4,
+    angleVel: 0,
+    length: 200,
+    gravity: 9.8,
+    damping: 0.999,
+    trail: [],
+    running: true,
+    t: 0
+  };
+  document.getElementById('controls').innerHTML = `
+    <div class="ctrl-label">Length:</div>
+    <input type="range" min="80" max="300" value="200" oninput="simState.length=+this.value;simState.trail=[]">
+    <div class="ctrl-label">Gravity:</div>
+    <input type="range" min="1" max="20" value="9" step="0.1" oninput="simState.gravity=+this.value">
+    <div class="ctrl-btn active" onclick="simState.running=!simState.running;this.textContent=simState.running?'⏸ Pause':'▶ Play'">⏸ Pause</div>
+    <div class="ctrl-btn" onclick="simState.angle=Math.PI/4;simState.angleVel=0;simState.trail=[]">🔄 Reset</div>
+  `;
+  document.getElementById('infoBar').innerHTML = `
+    <div class="stat"><div class="val" id="s-angle">45.0°</div><div class="key">Angle</div></div>
+    <div class="stat"><div class="val" id="s-period">—</div><div class="key">Period (T)</div></div>
+    <div class="stat"><div class="val" id="s-vel">0.00</div><div class="key">Angular Vel</div></div>
+    <div class="stat"><div class="val" id="s-energy">—</div><div class="key">Energy</div></div>
+  `;
+}
+
+function drawPendulum() {
+  const { angle, length, trail } = simState;
+  const cx = canvas.width / 2, cy = 80;
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+  // Background grid
+  ctx.strokeStyle = 'rgba(255,255,255,0.03)';
+  ctx.lineWidth = 1;
+  for (let x = 0; x < canvas.width; x += 40) { ctx.beginPath(); ctx.moveTo(x,0); ctx.lineTo(x,canvas.height); ctx.stroke(); }
+  for (let y = 0; y < canvas.height; y += 40) { ctx.beginPath(); ctx.moveTo(0,y); ctx.lineTo(canvas.width,y); ctx.stroke(); }
+
+  // Pivot
+  ctx.fillStyle = '#fbbf24';
+  ctx.beginPath(); ctx.arc(cx, cy, 8, 0, Math.PI*2); ctx.fill();
+
+  const bx = cx + Math.sin(angle) * length;
+  const by = cy + Math.cos(angle) * length;
+
+  // Trail
+  trail.push({x: bx, y: by});
+  if (trail.length > 120) trail.shift();
+  trail.forEach((p, i) => {
+    const alpha = i / trail.length;
+    ctx.beginPath();
+    ctx.arc(p.x, p.y, 2, 0, Math.PI*2);
+    ctx.fillStyle = `rgba(251,191,36,${alpha * 0.5})`;
+    ctx.fill();
+  });
+
+  // Rod
+  const grad = ctx.createLinearGradient(cx, cy, bx, by);
+  grad.addColorStop(0, '#6b7280'); grad.addColorStop(1, '#9ca3af');
+  ctx.strokeStyle = grad; ctx.lineWidth = 3;
+  ctx.beginPath(); ctx.moveTo(cx, cy); ctx.lineTo(bx, by); ctx.stroke();
+
+  // Bob
+  const bobGrad = ctx.createRadialGradient(bx-6, by-6, 2, bx, by, 22);
+  bobGrad.addColorStop(0, '#fde68a'); bobGrad.addColorStop(1, '#d97706');
+  ctx.fillStyle = bobGrad;
+  ctx.beginPath(); ctx.arc(bx, by, 22, 0, Math.PI*2); ctx.fill();
+  ctx.strokeStyle = '#fbbf24'; ctx.lineWidth = 2;
+  ctx.stroke();
+
+  // Equilibrium line
+  ctx.setLineDash([4,4]); ctx.strokeStyle = 'rgba(255,255,255,0.15)'; ctx.lineWidth = 1;
+  ctx.beginPath(); ctx.moveTo(cx, cy); ctx.lineTo(cx, cy + length + 30); ctx.stroke();
+  ctx.setLineDash([]);
+
+  // Update stats
+  const period = 2 * Math.PI * Math.sqrt(simState.length / 1000 / (simState.gravity));
+  const energy = 0.5 * Math.pow(simState.angleVel, 2) * Math.pow(simState.length/1000, 2);
+  if (document.getElementById('s-angle')) {
+    document.getElementById('s-angle').textContent = (angle * 180 / Math.PI).toFixed(1) + '°';
+    document.getElementById('s-period').textContent = period.toFixed(2) + 's';
+    document.getElementById('s-vel').textContent = simState.angleVel.toFixed(3);
+    document.getElementById('s-energy').textContent = (energy * 1000).toFixed(2) + 'mJ';
+  }
+}
+
+function stepPendulum() {
+  if (!simState.running) return;
+  const dt = 0.016;
+  simState.angleVel += -simState.gravity / (simState.length / 50) * Math.sin(simState.angle) * dt;
+  simState.angleVel *= simState.damping;
+  simState.angle += simState.angleVel * dt * 10;
+  simState.t += dt;
+}
+
+// ── PROJECTILE ───────────────────────────────────────
+function initProjectile() {
+  simState = { angle: 45, speed: 30, gravity: 9.8, running: false, t: 0,
+    x: 0, y: 0, vx: 0, vy: 0, trail: [], launched: false, landed: false,
+    maxH: 0, range: 0 };
+  document.getElementById('controls').innerHTML = `
+    <div class="ctrl-label">Angle:</div>
+    <input type="range" min="1" max="89" value="45" oninput="simState.angle=+this.value;document.getElementById('ang-val').textContent=this.value+'°'">
+    <span class="ctrl-label" id="ang-val">45°</span>
+    <div class="ctrl-label">Speed:</div>
+    <input type="range" min="5" max="60" value="30" oninput="simState.speed=+this.value;document.getElementById('spd-val').textContent=this.value+'m/s'">
+    <span class="ctrl-label" id="spd-val">30m/s</span>
+    <div class="ctrl-btn active" onclick="launchProjectile()">🚀 Launch</div>
+    <div class="ctrl-btn" onclick="resetProjectile()">🔄 Reset</div>
+  `;
+  document.getElementById('infoBar').innerHTML = `
+    <div class="stat"><div class="val" id="p-height">0.0m</div><div class="key">Height</div></div>
+    <div class="stat"><div class="val" id="p-range">0.0m</div><div class="key">Range</div></div>
+    <div class="stat"><div class="val" id="p-time">0.00s</div><div class="key">Time</div></div>
+    <div class="stat"><div class="val" id="p-maxh">0.0m</div><div class="key">Max Height</div></div>
+  `;
+}
+
+function launchProjectile() {
+  const rad = simState.angle * Math.PI / 180;
+  simState.vx = simState.speed * Math.cos(rad);
+  simState.vy = simState.speed * Math.sin(rad);
+  simState.x = 50; simState.y = 0; simState.t = 0;
+  simState.trail = []; simState.launched = true; simState.landed = false;
+  simState.running = true; simState.maxH = 0;
+}
+
+function resetProjectile() {
+  simState.running = false; simState.launched = false;
+  simState.x = 50; simState.y = 0; simState.trail = [];
+}
+
+function drawProjectile() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  const gnd = canvas.height - 60;
+  const scale = 8;
+
+  // Grid
+  ctx.strokeStyle = 'rgba(255,255,255,0.04)'; ctx.lineWidth = 1;
+  for (let x = 0; x < canvas.width; x += 50) { ctx.beginPath(); ctx.moveTo(x,0); ctx.lineTo(x,gnd); ctx.stroke(); }
+  for (let y = 0; y < gnd; y += 50) { ctx.beginPath(); ctx.moveTo(0,y); ctx.lineTo(canvas.width,y); ctx.stroke(); }
+
+  // Ground
+  const gg = ctx.createLinearGradient(0, gnd, 0, canvas.height);
+  gg.addColorStop(0, '#16a34a'); gg.addColorStop(1, '#15803d');
+  ctx.fillStyle = gg;
+  ctx.fillRect(0, gnd, canvas.width, canvas.height - gnd);
+
+  // Angle indicator
+  if (!simState.launched || simState.landed) {
+    const rad = simState.angle * Math.PI / 180;
+    ctx.strokeStyle = '#fbbf24'; ctx.lineWidth = 2; ctx.setLineDash([5,5]);
+    ctx.beginPath(); ctx.moveTo(50, gnd);
+    ctx.lineTo(50 + Math.cos(rad)*80, gnd - Math.sin(rad)*80); ctx.stroke();
+    ctx.setLineDash([]);
+    ctx.fillStyle = '#fbbf24'; ctx.font = 'bold 12px sans-serif';
+    ctx.fillText(simState.angle + '°', 60 + Math.cos(rad)*60, gnd - Math.sin(rad)*60);
+  }
+
+  // Trail
+  simState.trail.forEach((p, i) => {
+    const a = i / simState.trail.length;
+    ctx.beginPath(); ctx.arc(p.x, p.y, 3, 0, Math.PI*2);
+    ctx.fillStyle = `rgba(251,191,36,${a*0.6})`; ctx.fill();
+  });
+
+  // Ball
+  if (simState.launched) {
+    const px = 50 + simState.x * scale;
+    const py = gnd - simState.y * scale;
+    const bg = ctx.createRadialGradient(px-4, py-4, 2, px, py, 14);
+    bg.addColorStop(0, '#fde68a'); bg.addColorStop(1, '#dc2626');
+    ctx.fillStyle = bg;
+    ctx.beginPath(); ctx.arc(px, py, 14, 0, Math.PI*2); ctx.fill();
+    // Speed vector
+    if (!simState.landed) {
+      ctx.strokeStyle = '#60a5fa'; ctx.lineWidth = 2; ctx.setLineDash([3,3]);
+      ctx.beginPath(); ctx.moveTo(px, py);
+      ctx.lineTo(px + simState.vx * 0.5, py - simState.vy * 0.5); ctx.stroke();
+      ctx.setLineDash([]);
+    }
+    if (document.getElementById('p-height')) {
+      document.getElementById('p-height').textContent = Math.max(0, simState.y).toFixed(1) + 'm';
+      document.getElementById('p-range').textContent = Math.max(0, simState.x - 50/scale).toFixed(1) + 'm';
+      document.getElementById('p-time').textContent = simState.t.toFixed(2) + 's';
+      document.getElementById('p-maxh').textContent = simState.maxH.toFixed(1) + 'm';
+    }
+  }
+}
+
+function stepProjectile() {
+  if (!simState.running || simState.landed) return;
+  const dt = 0.016;
+  simState.vy -= simState.gravity * dt;
+  simState.x += simState.vx * dt;
+  simState.y += simState.vy * dt;
+  simState.t += dt;
+  simState.maxH = Math.max(simState.maxH, simState.y);
+  if (simState.y <= 0 && simState.t > 0.1) { simState.y = 0; simState.landed = true; simState.running = false; }
+  const px = 50 + simState.x * 8, py = (canvas.height - 60) - simState.y * 8;
+  simState.trail.push({x: px, y: py});
+  if (simState.trail.length > 200) simState.trail.shift();
+}
+
+// ── WAVES ────────────────────────────────────────────
+function initWaves() {
+  simState = { freq: 2, amp: 60, speed: 3, phase: 0, waves: [], running: true,
+    type: 'transverse' };
+  document.getElementById('controls').innerHTML = `
+    <div class="ctrl-label">Frequency:</div>
+    <input type="range" min="0.5" max="6" value="2" step="0.1" oninput="simState.freq=+this.value">
+    <div class="ctrl-label">Amplitude:</div>
+    <input type="range" min="10" max="100" value="60" oninput="simState.amp=+this.value">
+    <div class="ctrl-btn active" id="wave-type" onclick="toggleWaveType()">📐 Transverse</div>
+    <div class="ctrl-btn" onclick="simState.running=!simState.running;this.textContent=simState.running?'⏸ Pause':'▶ Play'">⏸ Pause</div>
+  `;
+  document.getElementById('infoBar').innerHTML = `
+    <div class="stat"><div class="val" id="w-freq">2.0 Hz</div><div class="key">Frequency</div></div>
+    <div class="stat"><div class="val" id="w-period">0.50s</div><div class="key">Period</div></div>
+    <div class="stat"><div class="val" id="w-wave">—</div><div class="key">Wavelength</div></div>
+    <div class="stat"><div class="val" id="w-type">Transverse</div><div class="key">Wave Type</div></div>
+  `;
+}
+
+function toggleWaveType() {
+  simState.type = simState.type === 'transverse' ? 'longitudinal' : 'transverse';
+  document.getElementById('wave-type').textContent = simState.type === 'transverse' ? '📐 Transverse' : '↔️ Longitudinal';
+}
+
+function drawWaves() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  const cy = canvas.height / 2;
+  const w = canvas.width;
+
+  // Grid
+  ctx.strokeStyle = 'rgba(255,255,255,0.04)'; ctx.lineWidth = 1;
+  for (let x = 0; x < w; x += 40) { ctx.beginPath(); ctx.moveTo(x,0); ctx.lineTo(x,canvas.height); ctx.stroke(); }
+  for (let y = 0; y < canvas.height; y += 40) { ctx.beginPath(); ctx.moveTo(0,y); ctx.lineTo(w,y); ctx.stroke(); }
+
+  // Equilibrium
+  ctx.strokeStyle = 'rgba(255,255,255,0.1)'; ctx.lineWidth = 1; ctx.setLineDash([8,8]);
+  ctx.beginPath(); ctx.moveTo(0,cy); ctx.lineTo(w,cy); ctx.stroke(); ctx.setLineDash([]);
+
+  const { freq, amp, phase, type } = simState;
+  const wavelength = w / freq;
+
+  if (type === 'transverse') {
+    // Main wave
+    const wg = ctx.createLinearGradient(0, cy - amp, 0, cy + amp);
+    wg.addColorStop(0, '#60a5fa'); wg.addColorStop(0.5, '#a78bfa'); wg.addColorStop(1, '#60a5fa');
+    ctx.strokeStyle = wg; ctx.lineWidth = 3; ctx.shadowColor = '#60a5fa'; ctx.shadowBlur = 8;
+    ctx.beginPath();
+    for (let x = 0; x <= w; x += 2) {
+      const y = cy + amp * Math.sin(2 * Math.PI * x / wavelength - phase);
+      x === 0 ? ctx.moveTo(x, y) : ctx.lineTo(x, y);
+    }
+    ctx.stroke(); ctx.shadowBlur = 0;
+
+    // Particle dots on wave
+    for (let x = 0; x <= w; x += wavelength / 8) {
+      const y = cy + amp * Math.sin(2 * Math.PI * x / wavelength - phase);
+      ctx.fillStyle = '#fbbf24';
+      ctx.beginPath(); ctx.arc(x, y, 5, 0, Math.PI*2); ctx.fill();
+    }
+  } else {
+    // Longitudinal wave — compression/rarefaction dots
+    const nDots = 60;
+    for (let i = 0; i < nDots; i++) {
+      const baseX = (i / nDots) * w;
+      const disp = amp * 0.3 * Math.sin(2 * Math.PI * i / nDots * freq - phase);
+      const x = baseX + disp;
+      const density = Math.abs(disp);
+      const r = Math.max(0.3, 1 - density / (amp * 0.3)) * 0.6 + 0.4;
+      ctx.fillStyle = `rgba(96,165,250,${r})`;
+      ctx.beginPath(); ctx.arc(x, cy, 8 * r, 0, Math.PI*2); ctx.fill();
+    }
+    // Labels
+    ctx.fillStyle = '#fbbf24'; ctx.font = '10px sans-serif';
+    ctx.fillText('← Compression →', w*0.1, cy - 40);
+    ctx.fillText('← Rarefaction →', w*0.55, cy + 50);
+  }
+
+  if (document.getElementById('w-freq')) {
+    document.getElementById('w-freq').textContent = freq.toFixed(1) + ' Hz';
+    document.getElementById('w-period').textContent = (1/freq).toFixed(2) + 's';
+    document.getElementById('w-wave').textContent = (wavelength).toFixed(0) + 'px';
+    document.getElementById('w-type').textContent = type === 'transverse' ? 'Transverse' : 'Longitudinal';
+  }
+}
+
+function stepWaves() {
+  if (simState.running) simState.phase += simState.speed * 0.02;
+}
+
+// ── GRAVITY ──────────────────────────────────────────
+function initGravity() {
+  simState = { bodies: [
+    { x: 300, y: 250, vx: 0, vy: 1.5, mass: 300, color: '#fbbf24', name: 'Sun', r: 30 },
+    { x: 500, y: 250, vx: 0, vy: -3, mass: 10, color: '#60a5fa', name: 'Earth', r: 12, trail: [] },
+    { x: 150, y: 250, vx: 0, vy: 3.5, mass: 5, color: '#a78bfa', name: 'Planet', r: 9, trail: [] },
+  ], running: true, G: 0.5 };
+  document.getElementById('controls').innerHTML = `
+    <div class="ctrl-btn active" onclick="simState.running=!simState.running;this.textContent=simState.running?'⏸ Pause':'▶ Play'">⏸ Pause</div>
+    <div class="ctrl-btn" onclick="initGravity()">🔄 Reset</div>
+    <div class="ctrl-label">Click canvas to add a body</div>
+  `;
+  document.getElementById('infoBar').innerHTML = `
+    <div class="stat"><div class="val">${simState.bodies.length}</div><div class="key">Bodies</div></div>
+    <div class="stat"><div class="val" id="g-ke">—</div><div class="key">Total KE</div></div>
+  `;
+  canvas.onclick = (e) => {
+    if (currentSim !== 'gravity') return;
+    const r = canvas.getBoundingClientRect();
+    simState.bodies.push({ x: e.clientX - r.left, y: e.clientY - r.top,
+      vx: (Math.random()-0.5)*4, vy: (Math.random()-0.5)*4,
+      mass: 5 + Math.random()*15,
+      color: `hsl(${Math.random()*360},70%,60%)`,
+      name: 'Body', r: 8, trail: [] });
+  };
+}
+
+function drawGravity() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  // Stars
+  if (!simState.stars) {
+    simState.stars = Array.from({length:80}, () => ({x: Math.random()*canvas.width, y: Math.random()*canvas.height, r: Math.random()*1.5}));
+  }
+  simState.stars.forEach(s => { ctx.fillStyle = 'rgba(255,255,255,0.5)'; ctx.beginPath(); ctx.arc(s.x, s.y, s.r, 0, Math.PI*2); ctx.fill(); });
+
+  simState.bodies.forEach(b => {
+    // Trail
+    if (b.trail) {
+      b.trail.forEach((p, i) => {
+        const a = i / b.trail.length * 0.5;
+        ctx.fillStyle = b.color.replace(')', `,${a})`).replace('rgb', 'rgba').replace('#', 'rgba(').replace(')', ','+a+')');
+        ctx.beginPath(); ctx.arc(p.x, p.y, 2, 0, Math.PI*2);
+        ctx.fillStyle = `rgba(200,200,200,${a*0.4})`; ctx.fill();
+      });
+    }
+    // Body
+    const gr = ctx.createRadialGradient(b.x - b.r*0.3, b.y - b.r*0.3, 1, b.x, b.y, b.r);
+    gr.addColorStop(0, '#ffffff'); gr.addColorStop(0.3, b.color); gr.addColorStop(1, b.color + '88');
+    ctx.fillStyle = gr;
+    ctx.shadowColor = b.color; ctx.shadowBlur = b.r;
+    ctx.beginPath(); ctx.arc(b.x, b.y, b.r, 0, Math.PI*2); ctx.fill();
+    ctx.shadowBlur = 0;
+    // Label
+    ctx.fillStyle = '#fff'; ctx.font = '10px sans-serif';
+    ctx.fillText(b.name, b.x - 10, b.y - b.r - 4);
+  });
+}
+
+function stepGravity() {
+  if (!simState.running) return;
+  const { bodies, G } = simState;
+  bodies.forEach((a, i) => {
+    bodies.forEach((b, j) => {
+      if (i === j) return;
+      const dx = b.x - a.x, dy = b.y - a.y;
+      const dist = Math.sqrt(dx*dx + dy*dy);
+      if (dist < 10) return;
+      const force = G * a.mass * b.mass / (dist * dist);
+      a.vx += force * dx / dist / a.mass;
+      a.vy += force * dy / dist / a.mass;
+    });
+    a.x += a.vx; a.y += a.vy;
+    // Bounce off walls
+    if (a.x < 0 || a.x > canvas.width) a.vx *= -0.9;
+    if (a.y < 0 || a.y > canvas.height) a.vy *= -0.9;
+    if (a.trail) { a.trail.push({x:a.x,y:a.y}); if (a.trail.length > 80) a.trail.shift(); }
+  });
+}
+
+// ── OPTICS ──────────────────────────────────────────
+function initOptics() {
+  simState = { lensX: 0, focalLength: 120, objX: -180, objH: 60, running: true };
+  document.getElementById('controls').innerHTML = `
+    <div class="ctrl-label">Focal length:</div>
+    <input type="range" min="40" max="220" value="120" oninput="simState.focalLength=+this.value">
+    <div class="ctrl-label">Object distance:</div>
+    <input type="range" min="50" max="300" value="180" oninput="simState.objX=-this.value">
+  `;
+  document.getElementById('infoBar').innerHTML = `
+    <div class="stat"><div class="val" id="o-u">—</div><div class="key">Object dist (u)</div></div>
+    <div class="stat"><div class="val" id="o-v">—</div><div class="key">Image dist (v)</div></div>
+    <div class="stat"><div class="val" id="o-m">—</div><div class="key">Magnification</div></div>
+    <div class="stat"><div class="val" id="o-type">—</div><div class="key">Image type</div></div>
+  `;
+}
+
+function drawOptics() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  const cx = canvas.width / 2, cy = canvas.height / 2;
+
+  // Optical axis
+  ctx.strokeStyle = 'rgba(255,255,255,0.2)'; ctx.lineWidth = 1; ctx.setLineDash([6,6]);
+  ctx.beginPath(); ctx.moveTo(0,cy); ctx.lineTo(canvas.width,cy); ctx.stroke(); ctx.setLineDash([]);
+
+  const f = simState.focalLength;
+  const u = -simState.objX;
+  let v = (f * u) / (u - f);
+  const m = -v / u;
+
+  // Focal points
+  ctx.fillStyle = '#fbbf24';
+  [cx+f, cx-f].forEach(fx => { ctx.beginPath(); ctx.arc(fx, cy, 5, 0, Math.PI*2); ctx.fill(); });
+  ctx.fillStyle = '#9ca3af'; ctx.font = '11px sans-serif';
+  ctx.fillText('F', cx+f+8, cy-8); ctx.fillText('F', cx-f+8, cy-8);
+
+  // Lens
+  ctx.strokeStyle = '#60a5fa'; ctx.lineWidth = 3;
+  ctx.beginPath();
+  ctx.moveTo(cx, cy - 120); ctx.lineTo(cx, cy + 120); ctx.stroke();
+  // Lens markers
+  ctx.beginPath();
+  ctx.moveTo(cx-8, cy-120); ctx.lineTo(cx+8, cy-120);
+  ctx.moveTo(cx-8, cy+120); ctx.lineTo(cx+8, cy+120); ctx.stroke();
+  ctx.fillStyle = '#60a5fa'; ctx.font = 'bold 12px sans-serif';
+  ctx.fillText('Convex Lens', cx+10, cy-125);
+
+  // Object arrow
+  const ox = cx + simState.objX;
+  const oh = simState.objH;
+  ctx.strokeStyle = '#34d399'; ctx.lineWidth = 3;
+  ctx.beginPath(); ctx.moveTo(ox, cy); ctx.lineTo(ox, cy - oh); ctx.stroke();
+  ctx.beginPath(); ctx.moveTo(ox-6, cy-oh+10); ctx.lineTo(ox, cy-oh); ctx.lineTo(ox+6, cy-oh+10); ctx.stroke();
+  ctx.fillStyle = '#34d399'; ctx.font = '11px sans-serif'; ctx.fillText('Object', ox-15, cy+15);
+
+  // Image arrow
+  const imgX = cx + v;
+  const imgH = oh * m;
+  if (Math.abs(imgX - cx) < canvas.width && Math.isFinite(imgH)) {
+    ctx.strokeStyle = m > 0 ? '#f87171' : '#fb923c'; ctx.lineWidth = 2;
+    ctx.setLineDash([4,4]);
+    ctx.beginPath(); ctx.moveTo(imgX, cy); ctx.lineTo(imgX, cy - imgH); ctx.stroke();
+    ctx.setLineDash([]);
+    ctx.fillStyle = m > 0 ? '#f87171' : '#fb923c'; ctx.font = '11px sans-serif';
+    ctx.fillText('Image', imgX + 5, cy + 15);
+  }
+
+  // Rays
+  const rays = [
+    {startY: cy - oh, color: '#fbbf24'},
+    {startY: cy, color: '#a78bfa'},
+  ];
+  rays.forEach(ray => {
+    ctx.strokeStyle = ray.color; ctx.lineWidth = 1.5; ctx.globalAlpha = 0.6;
+    ctx.beginPath(); ctx.moveTo(ox, ray.startY); ctx.lineTo(cx, ray.startY);
+    ctx.lineTo(cx + v, cy - imgH * (ray.startY - cy) / (oh > 0 ? -oh : 1)); ctx.stroke();
+    ctx.globalAlpha = 1;
+  });
+
+  if (document.getElementById('o-u')) {
+    document.getElementById('o-u').textContent = u.toFixed(0) + 'px';
+    document.getElementById('o-v').textContent = isFinite(v) ? v.toFixed(0) + 'px' : '∞';
+    document.getElementById('o-m').textContent = isFinite(m) ? m.toFixed(2) + 'x' : '∞';
+    const imgType = v > 0 ? 'Real, Inverted' : 'Virtual, Upright';
+    document.getElementById('o-type').textContent = isFinite(v) ? imgType : 'At infinity';
+  }
+}
+
+function stepOptics() { /* static simulation — no stepping needed */ }
+
+// ── MAIN LOOP ────────────────────────────────────────
+const simMap = {
+  pendulum: { init: initPendulum, draw: drawPendulum, step: stepPendulum },
+  projectile: { init: initProjectile, draw: drawProjectile, step: stepProjectile },
+  waves: { init: initWaves, draw: drawWaves, step: stepWaves },
+  gravity: { init: initGravity, draw: drawGravity, step: stepGravity },
+  optics: { init: initOptics, draw: drawOptics, step: stepOptics },
+};
+
+function switchSim(name, tab) {
+  currentSim = name;
+  canvas.onclick = null;
+  document.querySelectorAll('.sim-tab').forEach(t => t.classList.remove('active'));
+  tab.classList.add('active');
+  simMap[name].init();
+}
+
+function loop() {
+  resize();
+  simMap[currentSim].step();
+  simMap[currentSim].draw();
+  animId = requestAnimationFrame(loop);
+}
+
+window.addEventListener('resize', resize);
+resize();
+initPendulum();
+loop();
+</script>
+</body>
+</html>

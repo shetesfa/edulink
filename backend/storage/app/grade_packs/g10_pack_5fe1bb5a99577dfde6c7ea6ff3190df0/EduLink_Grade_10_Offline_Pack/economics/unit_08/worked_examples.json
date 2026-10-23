@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "economics",
+    "unit_number": 8,
+    "worked_examples": [
+        {
+            "id": "g10-economics-u08-we001",
+            "title": "Worked Example 1: Economic Growth & Development in Ethiopia",
+            "problem_statement": "Analyze the application of the topic explained on page 163.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 163.",
+            "source_page": "163"
+        },
+        {
+            "id": "g10-economics-u08-we002",
+            "title": "Worked Example 2: Economic Growth & Development in Ethiopia",
+            "problem_statement": "Analyze the application of the topic explained on page 164.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 164.",
+            "source_page": "164"
+        }
+    ]
+}

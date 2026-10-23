@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "history",
+    "unit_number": 4,
+    "examples": [
+        {
+            "example_id": "g9-history-u04-we001",
+            "title": "Worked Example 1: Professional Solution for The Middle Ages and Early Modern World (500-1750s)",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የThe Middle Ages and Early Modern World (500-1750s) ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 74-91.",
+            "problem_amharic": "ከገጽ 74-91 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "74-91"
+        }
+    ]
+}

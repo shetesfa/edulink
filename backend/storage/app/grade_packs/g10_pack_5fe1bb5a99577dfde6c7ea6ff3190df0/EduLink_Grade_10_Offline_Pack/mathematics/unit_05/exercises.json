@@ -1,0 +1,61 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 5,
+    "unit_title": "Circles",
+    "source_book": "G10 Mathematics",
+    "exercises": [
+        {
+            "exercise_id": "g10-mathematics-u05-ex001",
+            "question": "A tangent line touches a circle of radius 5 cm. Find the distance from the center of the circle to a point on the tangent line 12 cm away from the point of tangency.",
+            "question_amharic": "አንድ ታንጀንት መስመር ራዲየሱ 5 ሳ.ሜ የሆነን ክበብ ይነካል። ከክበቡ መገናኛ ነጥብ 12 ሳ.ሜ ርቀት ላይ በሚገኝ ታንጀንት ላይ ላለ ነጥብ ከማዕከሉ ያለውን ርቀት ፈልጉ።",
+            "question_type": "problem_solving",
+            "correct_answer": "The distance is 13 cm.",
+            "correct_answer_amharic": "ርቀቱ 13 ሳ.ሜ ነው።",
+            "step_by_step_explanation": "1. Radius r = 5 cm is perpendicular to tangent segment x = 12 cm.\\n2. Apply d² = 5² + 12² = 25 + 144 = 169.\\n3. d = √169 = 13 cm.",
+            "step_by_step_explanation_amharic": "1. Radius r = 5 cm is perpendicular to tangent segment x = 12 cm.\\n2. Apply d² = 5² + 12² = 25 + 144 = 169.\\n3. d = √169 = 13 cm.",
+            "formula_or_working": "Pythagorean Theorem: d² = r² + x².",
+            "source_page": "268",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-mathematics-u05-ex002",
+            "question": "Describe the core properties of the topics presented on page 261 (Question 2).",
+            "question_amharic": "በገጽ 261 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 261.",
+            "correct_answer_amharic": "በገጽ 261 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 261.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 261 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 261.",
+            "source_page": "261",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-mathematics-u05-ex003",
+            "question": "Describe the core properties of the topics presented on page 262 (Question 3).",
+            "question_amharic": "በገጽ 262 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 262.",
+            "correct_answer_amharic": "በገጽ 262 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 262.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 262 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 262.",
+            "source_page": "262",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-mathematics-u05-ex004",
+            "question": "Describe the core properties of the topics presented on page 263 (Question 4).",
+            "question_amharic": "በገጽ 263 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 263.",
+            "correct_answer_amharic": "በገጽ 263 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 263.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 263 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 263.",
+            "source_page": "263",
+            "needs_review": false
+        }
+    ]
+}

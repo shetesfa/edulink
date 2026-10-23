@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "information_technology",
+    "unit_number": 6,
+    "unit_title": "Computer Networks and Cyber Safety",
+    "source_book": "G10 Information Technology",
+    "concepts": [
+        {
+            "id": "g10-information_technology-u06-c001",
+            "name": "Fundamentals Of Programming 6.1 Unit Ove",
+            "simple_definition": "204 Unit 6 : Fundamentals of Programming 6.1 Unit Overview As it was defined and discussed in grade 9, problem-solving steps are used to solve day-to-day problems and make strategies to handle different situations which keep arising in day-to-day life",
+            "deep_explanation": "One method of solving problems in computer science is using algorithms",
+            "real_example": "Practical example of Fundamentals of Programming 6.1 Unit Ove from page 211.",
+            "common_confusion": "Students sometimes confuse Fundamentals of Programming 6.1 Unit Ove with adjacent topics in Chapter 6.",
+            "source_pages": "211",
+            "name_amharic": "Fundamentals of Programming 6.1 Unit Ove (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 204 Unit 6 : Fundamentals of Programming 6.1 Unit Overview As it was defined and discussed in grade 9, problem-solving steps are used to solve day-to-day problems and make strategies to handle different situations which keep arising in day-to-day life (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] One method of solving problems in computer science is using algorithms — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 211 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u06-c002",
+            "name": "Grade 10 Information Technology Student’",
+            "simple_definition": "Grade 10 Information Technology Student’s Textbook 205 Computers are dumb machines because they do only what they are asked to do",
+            "deep_explanation": "In computers, programs are developed to solve some problems",
+            "real_example": "Practical example of Grade 10 Information Technology Student’ from page 212.",
+            "common_confusion": "Students sometimes confuse Grade 10 Information Technology Student’ with adjacent topics in Chapter 6.",
+            "source_pages": "212",
+            "name_amharic": "Grade 10 Information Technology Student’ (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Grade 10 Information Technology Student’s Textbook 205 Computers are dumb machines because they do only what they are asked to do (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] In computers, programs are developed to solve some problems — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 212 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u06-c003",
+            "name": "Fundamentals Of Programming 2",
+            "simple_definition": "206 Unit 6 : Fundamentals of Programming 2",
+            "deep_explanation": "Explain the relationship between problem solving and algorithms",
+            "real_example": "Practical example of Fundamentals of Programming 2 from page 213.",
+            "common_confusion": "Students sometimes confuse Fundamentals of Programming 2 with adjacent topics in Chapter 6.",
+            "source_pages": "213",
+            "name_amharic": "Fundamentals of Programming 2 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 206 Unit 6 : Fundamentals of Programming 2 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Explain the relationship between problem solving and algorithms — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 213 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u06-c004",
+            "name": "Grade 10 Information Technology Student’",
+            "simple_definition": "Grade 10 Information Technology Student’s Textbook 207 Figure 6.2 Description of the algorithm Before a computer can be put to any meaningful use, the user must be able to define a unit sequence of operations or activities which are logically ordered as an unambiguous method of solving a problem or finding a solution to it, which is termed as an algorithm",
+            "deep_explanation": "The term algorithm means “a process or set of rules to be followed in calculations or other problem-solving operations”",
+            "real_example": "Practical example of Grade 10 Information Technology Student’ from page 214.",
+            "common_confusion": "Students sometimes confuse Grade 10 Information Technology Student’ with adjacent topics in Chapter 6.",
+            "source_pages": "214",
+            "name_amharic": "Grade 10 Information Technology Student’ (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Grade 10 Information Technology Student’s Textbook 207 Figure 6.2 Description of the algorithm Before a computer can be put to any meaningful use, the user must be able to define a unit sequence of operations or activities which are logically ordered as an unambiguous method of solving a problem or finding a solution to it, which is termed as an algorithm (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The term algorithm means “a process or set of rules to be followed in calculations or other problem-solving operations” — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 214 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u06-c005",
+            "name": "Fundamentals Of Programming One Would No",
+            "simple_definition": "208 Unit 6 : Fundamentals of Programming One would not follow any written instructions to cook a recipe, but only the standard one",
+            "deep_explanation": "Similarly, every written instruction for programming is not an algorithm",
+            "real_example": "Practical example of Fundamentals of Programming One would no from page 215.",
+            "common_confusion": "Students sometimes confuse Fundamentals of Programming One would no with adjacent topics in Chapter 6.",
+            "source_pages": "215",
+            "name_amharic": "Fundamentals of Programming One would no (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 208 Unit 6 : Fundamentals of Programming One would not follow any written instructions to cook a recipe, but only the standard one (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Similarly, every written instruction for programming is not an algorithm — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 215 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u06-c006",
+            "name": "Grade 10 Information Technology Student’",
+            "simple_definition": "Grade 10 Information Technology Student’s Textbook 209  In the algorithm the problem is broken down into smaller pieces or steps; hence, it is easier for the programmer to convert it into an actual program",
+            "deep_explanation": "Disadvantages of algorithm  Writing an algorithm takes a long time, so it is time-consuming",
+            "real_example": "Practical example of Grade 10 Information Technology Student’ from page 216.",
+            "common_confusion": "Students sometimes confuse Grade 10 Information Technology Student’ with adjacent topics in Chapter 6.",
+            "source_pages": "216",
+            "name_amharic": "Grade 10 Information Technology Student’ (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Grade 10 Information Technology Student’s Textbook 209  In the algorithm the problem is broken down into smaller pieces or steps; hence, it is easier for the programmer to convert it into an actual program (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Disadvantages of algorithm  Writing an algorithm takes a long time, so it is time-consuming — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 216 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

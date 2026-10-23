@@ -1,0 +1,36 @@
+{
+    "grade": 9,
+    "subject": "mathematics",
+    "unit_number": 2,
+    "unit_title": "The Number System",
+    "source_book": "G9 Mathematics",
+    "learning_objectives": [
+        "Describe rational numbers and represent them as decimals.",
+        "Locate rational numbers on the number line.",
+        "Describe irrational numbers and locate some of them on the number line.",
+        "Define real numbers and classify a number as rational or irrational.",
+        "Apply the laws of exponents and radicals to simplify expressions.",
+        "Round numbers and express them to a given number of decimal places or significant figures, and find upper\/lower bounds.",
+        "Express numbers in scientific (standard) notation.",
+        "Rationalize denominators containing radicals.",
+        "Solve real-life problems involving the number system (division, GCF\/LCM, measurement)."
+    ],
+    "summary": "This unit builds the full real number system step by step. It starts by revisiting natural numbers and integers, Euclid's Division Lemma, prime\/composite numbers, prime factorization, GCF and LCM. It then defines rational numbers, shows how to convert between fractions and decimals (terminating and repeating), and introduces irrational numbers as decimals that neither terminate nor repeat. Rational and irrational numbers together make up the real numbers, which can be compared, placed in intervals, and measured with absolute value. The unit covers the laws of exponents and radicals (including rational\/fractional exponents), practical measurement topics (rounding, decimal places, significant figures, upper\/lower bounds and how they combine under addition\/multiplication), scientific notation for very large or small numbers, and rationalizing denominators that contain radicals.",
+    "deep_explanation": "The unit is essentially a ladder: ℕ (natural numbers) ⊂ ℤ (integers) ⊂ ℚ (rationals) ⊂ ℝ (reals), with irrational numbers filling the 'gaps' left by rational numbers on the number line. Euclid's Division Lemma (a = bq + r) is the foundation for divisibility, GCF, and LCM, which in turn power real-world sharing\/grouping problems. Once decimals are understood as either terminating, repeating (both rational), or neither (irrational), the real numbers ℝ are simply defined as the union of rationals and irrationals -- every point on the number line corresponds to exactly one real number. The laws of exponents extend from whole-number powers to zero, negative, and fractional powers, which is what connects exponents to radicals (a^(1\/n) = ⁿ√a). Because measurements are never perfectly exact, the unit also teaches how to express a measured number to an appropriate precision (decimal places or significant figures) and how to compute the true range (upper\/lower bounds) that an approximated number could represent -- important for both mathematics and science. Scientific notation and rationalization are practical tools for working comfortably with extreme numbers and irrational denominators.",
+    "important_formulas_rules": [
+        "Euclid's Division Lemma: a = b × q + r, with 0 ≤ r < b",
+        "Prime number: exactly two factors (1 and itself); composite number: more than two factors; 1 is neither.",
+        "GCF(a,b) × LCM(a,b) = a × b",
+        "A rational number a\/b becomes a terminating or repeating decimal when divided; a decimal that is neither is irrational.",
+        "Real numbers ℝ = {x | x is rational or irrational}",
+        "|x| = x if x ≥ 0, and |x| = -x if x < 0",
+        "Laws of exponents: aⁿ × aᵐ = aⁿ⁺ᵐ; aⁿ\/aᵐ = aⁿ⁻ᵐ; (aⁿ)ᵐ = aⁿᵐ; (a×b)ⁿ = aⁿbⁿ; (a\/b)ⁿ = aⁿ\/bⁿ",
+        "Fractional exponent: b^(1\/n) = ⁿ√b (for b ≥ 0 when n is even)",
+        "Radical rules: √a × √b = √(ab); √a \/ √b = √(a\/b), for a,b > 0",
+        "Upper\/lower bound of a rounded number: divide the place value of accuracy by 2, then add\/subtract from the given value.",
+        "Scientific notation: a number is in the form a × 10ⁿ where 1 ≤ a < 10 and n is an integer.",
+        "Rationalizing factor for 1\/√a is √a\/√a; for 1\/(√a ± √b) it is (√a ∓ √b)\/(√a ∓ √b)."
+    ],
+    "source_pages": "27-104",
+    "unit_title_amharic": "The Number System (በአማርኛ)"
+}

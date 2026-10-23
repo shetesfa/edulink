@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g10-mathematics-u03-we001",
+            "title": "Worked Example 1: Exponential and Logarithmic Functions",
+            "problem_statement": "Analyze the application of the topic explained on page 130.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 130.",
+            "source_page": "130"
+        },
+        {
+            "id": "g10-mathematics-u03-we002",
+            "title": "Worked Example 2: Exponential and Logarithmic Functions",
+            "problem_statement": "Analyze the application of the topic explained on page 131.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 131.",
+            "source_page": "131"
+        }
+    ]
+}

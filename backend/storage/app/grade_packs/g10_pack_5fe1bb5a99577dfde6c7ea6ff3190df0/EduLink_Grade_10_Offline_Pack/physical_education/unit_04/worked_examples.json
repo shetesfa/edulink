@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "physical_education",
+    "unit_number": 4,
+    "worked_examples": [
+        {
+            "id": "g10-physical_education-u04-we001",
+            "title": "Worked Example 1: Ball Games: Football and Basketball Skills",
+            "problem_statement": "Analyze the application of the topic explained on page 97.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 97.",
+            "source_page": "97"
+        },
+        {
+            "id": "g10-physical_education-u04-we002",
+            "title": "Worked Example 2: Ball Games: Football and Basketball Skills",
+            "problem_statement": "Analyze the application of the topic explained on page 98.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 98.",
+            "source_page": "98"
+        }
+    ]
+}

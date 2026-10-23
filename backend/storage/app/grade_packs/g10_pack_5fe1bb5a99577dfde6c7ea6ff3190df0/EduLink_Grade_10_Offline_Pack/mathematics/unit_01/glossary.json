@@ -1,0 +1,37 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 1,
+    "glossary": [
+        {
+            "term": "Relation",
+            "definition": "A relation is a set of ordered pairs representing a correspondence between elements of two sets.",
+            "source_page": "10-15"
+        },
+        {
+            "term": "Function",
+            "definition": "A function is a relation in which each element of the domain is mapped to exactly one element of the range.",
+            "source_page": "16-20"
+        },
+        {
+            "term": "Relations And Functions 3 A Pattern Is A",
+            "definition": "Unit 1: Relations and Functions 3 A pattern is a regularity in the world in human-made design or in abstract ideas",
+            "source_page": "12"
+        },
+        {
+            "term": "Relations And Functions 4 The Sequences ",
+            "definition": "Unit 1: Relations and Functions 4 the sequences are based on the addition or subtraction of the terms",
+            "source_page": "13"
+        },
+        {
+            "term": "Relations And Functions 5 4",
+            "definition": "Unit 1: Relations and Functions 5 4",
+            "source_page": "14"
+        },
+        {
+            "term": "Relations And Functions 6 The Letters 𝑿a",
+            "definition": "Unit 1: Relations and Functions 6 the letters 𝑿and 𝒀, or 𝒙and 𝒚",
+            "source_page": "15"
+        }
+    ]
+}

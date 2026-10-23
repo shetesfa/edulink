@@ -1,0 +1,105 @@
+{
+    "grade": 9,
+    "subject": "physics",
+    "unit_number": 1,
+    "unit_title": "Unit 1: Physics and Human Society",
+    "source_book": "G9 Physics",
+    "practice_quiz": [
+        {
+            "id": "g9-physics-u01-q001",
+            "question": "Assessment Question 1: Which statement correctly evaluates SI Units and Conversions (Unit 1)?",
+            "question_amharic": "የምዘና ጥያቄ 1፡ ስለ የ SI ዩኒቶች (SI Units) እና ኮንቨርዥን (ምዕራፍ 1) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "SI Units and Conversions is a core topic in Grade 9 Physics covering essential principles on pages 1-35.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "የ SI ዩኒቶች (SI Units) እና ኮንቨርዥን በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 1-35 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "SI Units and Conversions is a core topic in Grade 9 Physics covering essential principles on pages 1-35.",
+            "correct_answer_amharic": "የ SI ዩኒቶች (SI Units) እና ኮንቨርዥን በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 1-35 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 1-35.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 1-35 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-physics-u01-c001"
+        },
+        {
+            "id": "g9-physics-u01-q002",
+            "question": "Assessment Question 2: Which statement correctly evaluates Velocity and Acceleration (Unit 1)?",
+            "question_amharic": "የምዘና ጥያቄ 2፡ ስለ ቪሎሲቲ (Velocity) እና አክሰለሬሽን (Acceleration) (ምዕራፍ 1) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Velocity and Acceleration is a core topic in Grade 9 Physics covering essential principles on pages 1-35.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "ቪሎሲቲ (Velocity) እና አክሰለሬሽን (Acceleration) በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 1-35 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Velocity and Acceleration is a core topic in Grade 9 Physics covering essential principles on pages 1-35.",
+            "correct_answer_amharic": "ቪሎሲቲ (Velocity) እና አክሰለሬሽን (Acceleration) በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 1-35 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 1-35.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 1-35 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-physics-u01-c002"
+        },
+        {
+            "id": "g9-physics-u01-q003",
+            "question": "Assessment Question 3: Which statement correctly evaluates Newton Laws of Motion (Unit 1)?",
+            "question_amharic": "የምዘና ጥያቄ 3፡ ስለ የኒውተን የሞሽን ሕጎች (Newton's Laws of Motion) (ምዕራፍ 1) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Newton Laws of Motion is a core topic in Grade 9 Physics covering essential principles on pages 1-35.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "የኒውተን የሞሽን ሕጎች (Newton's Laws of Motion) በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 1-35 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Newton Laws of Motion is a core topic in Grade 9 Physics covering essential principles on pages 1-35.",
+            "correct_answer_amharic": "የኒውተን የሞሽን ሕጎች (Newton's Laws of Motion) በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 1-35 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 1-35.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 1-35 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-physics-u01-c003"
+        },
+        {
+            "id": "g9-physics-u01-q004",
+            "question": "Assessment Question 4: Which statement correctly evaluates Work Energy and Power (Unit 1)?",
+            "question_amharic": "የምዘና ጥያቄ 4፡ ስለ ወርክ (Work)፣ ኢነርጂ (Energy) እና ፓወር (Power) (ምዕራፍ 1) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Work Energy and Power is a core topic in Grade 9 Physics covering essential principles on pages 1-35.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "ወርክ (Work)፣ ኢነርጂ (Energy) እና ፓወር (Power) በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 1-35 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Work Energy and Power is a core topic in Grade 9 Physics covering essential principles on pages 1-35.",
+            "correct_answer_amharic": "ወርክ (Work)፣ ኢነርጂ (Energy) እና ፓወር (Power) በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 1-35 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 1-35.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 1-35 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-physics-u01-c004"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "grade": 10,
+    "subject": "physics",
+    "unit_number": 2,
+    "glossary": [
+        {
+            "term": "Acceleration",
+            "definition": "Acceleration is the rate of change of velocity with time.",
+            "source_page": "27-32"
+        },
+        {
+            "term": "22 Unit 2 Uniformly Accelerated Motion 2",
+            "definition": "22 Unit 2 Uniformly Accelerated Motion 2.1 Position and Displacement By the end of this section, you should be able to: • deﬁne terms such as position, displacement, and distance; • determine the distance and displacement traveled by an object; • describe the difference between distance and displacement",
+            "source_page": "28"
+        },
+        {
+            "term": "2.1 Position And Displacement 23 Displac",
+            "definition": "2.1 Position and Displacement 23 Displacement Figure 2.1 The possible dis- tance and displacement of an object in motion between two points",
+            "source_page": "29"
+        },
+        {
+            "term": "24 Unit 2 Uniformly Accelerated Motion F",
+            "definition": "24 Unit 2 Uniformly Accelerated Motion For motion of the object from O to A, the distance covered is 60 km and the magnitude of displacement is also 60 km",
+            "source_page": "30"
+        },
+        {
+            "term": "2.2 Average Velocity And Instantaneous V",
+            "definition": "2.2 Average velocity and instantaneous velocity 25 Section summary • A description of motion depends on the reference frame from which it is described",
+            "source_page": "31"
+        },
+        {
+            "term": "26 Unit 2 Uniformly Accelerated Motion A",
+            "definition": "26 Unit 2 Uniformly Accelerated Motion Average velocity In grade 9, you learnt that the rate of change of distance with time is called speed, while the rate of change of displacement is known as velocity",
+            "source_page": "32"
+        }
+    ]
+}

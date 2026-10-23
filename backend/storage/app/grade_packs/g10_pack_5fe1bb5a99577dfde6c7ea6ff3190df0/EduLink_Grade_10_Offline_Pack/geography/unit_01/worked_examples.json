@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "geography",
+    "unit_number": 1,
+    "worked_examples": [
+        {
+            "id": "g10-geography-u01-we001",
+            "title": "Worked Example 1: Map Reading and Location",
+            "problem_statement": "Analyze the application of the topic explained on page 15.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 15.",
+            "source_page": "15"
+        },
+        {
+            "id": "g10-geography-u01-we002",
+            "title": "Worked Example 2: Map Reading and Location",
+            "problem_statement": "Analyze the application of the topic explained on page 16.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 16.",
+            "source_page": "16"
+        }
+    ]
+}

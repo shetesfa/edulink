@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "physics",
+    "unit_number": 2,
+    "worked_examples": [
+        {
+            "id": "g11-physics-u02-we001",
+            "title": "Worked Example 1: Kinematics and Dynamics of Motion",
+            "problem_statement": "Analyze the application of the topic explained on page 50.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 50.",
+            "source_page": "50"
+        },
+        {
+            "id": "g11-physics-u02-we002",
+            "title": "Worked Example 2: Kinematics and Dynamics of Motion",
+            "problem_statement": "Analyze the application of the topic explained on page 51.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 51.",
+            "source_page": "51"
+        }
+    ]
+}

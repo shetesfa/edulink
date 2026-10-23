@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "geography",
+    "unit_number": 2,
+    "worked_examples": [
+        {
+            "id": "g11-geography-u02-we001",
+            "title": "Worked Example 1: Physical Geography of the Earth",
+            "problem_statement": "Analyze the application of the topic explained on page 56.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 56.",
+            "source_page": "56"
+        },
+        {
+            "id": "g11-geography-u02-we002",
+            "title": "Worked Example 2: Physical Geography of the Earth",
+            "problem_statement": "Analyze the application of the topic explained on page 57.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 57.",
+            "source_page": "57"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "economics",
+    "unit_number": 7,
+    "worked_examples": [
+        {
+            "id": "g12-economics-u07-we001",
+            "title": "Worked Example 1: International Trade and Global Institutions",
+            "problem_statement": "Analyze the application of the topic explained on page 157.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 157.",
+            "source_page": "157"
+        },
+        {
+            "id": "g12-economics-u07-we002",
+            "title": "Worked Example 2: International Trade and Global Institutions",
+            "problem_statement": "Analyze the application of the topic explained on page 158.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 158.",
+            "source_page": "158"
+        }
+    ]
+}

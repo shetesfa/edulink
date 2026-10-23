@@ -1,0 +1,43 @@
+{
+    "grade": 9,
+    "subject": "mathematics",
+    "source_book": "G9 Mathematics",
+    "total_pages_in_source": 250,
+    "units": [
+        {
+            "unit_number": 3,
+            "unit_title": "Unit 3: Solving Equations and Inequalities",
+            "status": "completed"
+        },
+        {
+            "unit_number": 4,
+            "unit_title": "Unit 4: Proportionality, Percentage, and Consumer Arithmetic",
+            "status": "completed"
+        },
+        {
+            "unit_number": 5,
+            "unit_title": "Unit 5: Geometry: Polygons and Circles",
+            "status": "completed"
+        },
+        {
+            "unit_number": 6,
+            "unit_title": "Unit 6: Mensuration — Surface Area and Volume",
+            "status": "completed"
+        },
+        {
+            "unit_number": 7,
+            "unit_title": "Unit 7: Congruency and Similarity of Triangles",
+            "status": "completed"
+        },
+        {
+            "unit_number": 8,
+            "unit_title": "Unit 8: Vectors in Two Dimensions",
+            "status": "completed"
+        },
+        {
+            "unit_number": 9,
+            "unit_title": "Unit 9: Statistics and Probability",
+            "status": "completed"
+        }
+    ]
+}

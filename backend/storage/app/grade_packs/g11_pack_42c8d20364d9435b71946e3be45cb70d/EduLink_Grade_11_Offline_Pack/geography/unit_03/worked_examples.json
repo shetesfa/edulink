@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "geography",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g11-geography-u03-we001",
+            "title": "Worked Example 1: Climate and Meteorological Phenomena",
+            "problem_statement": "Analyze the application of the topic explained on page 96.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 96.",
+            "source_page": "96"
+        },
+        {
+            "id": "g11-geography-u03-we002",
+            "title": "Worked Example 2: Climate and Meteorological Phenomena",
+            "problem_statement": "Analyze the application of the topic explained on page 97.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 97.",
+            "source_page": "97"
+        }
+    ]
+}

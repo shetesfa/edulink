@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "information_technology",
+    "unit_number": 6,
+    "worked_examples": [
+        {
+            "id": "g10-information_technology-u06-we001",
+            "title": "Worked Example 1: Computer Networks and Cyber Safety",
+            "problem_statement": "Analyze the application of the topic explained on page 211.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 211.",
+            "source_page": "211"
+        },
+        {
+            "id": "g10-information_technology-u06-we002",
+            "title": "Worked Example 2: Computer Networks and Cyber Safety",
+            "problem_statement": "Analyze the application of the topic explained on page 212.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 212.",
+            "source_page": "212"
+        }
+    ]
+}

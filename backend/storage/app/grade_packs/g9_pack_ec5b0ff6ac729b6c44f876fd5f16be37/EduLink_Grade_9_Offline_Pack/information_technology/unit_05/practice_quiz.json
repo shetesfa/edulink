@@ -1,0 +1,105 @@
+{
+    "grade": 9,
+    "subject": "information_technology",
+    "unit_number": 5,
+    "unit_title": "Unit 5: Presentation Software and Multimedia",
+    "source_book": "G9 Information technology",
+    "practice_quiz": [
+        {
+            "id": "g9-information_technology-u05-q001",
+            "question": "Assessment Question 1: Which statement correctly evaluates CPU Hardware and RAM ROM Memory (Unit 5)?",
+            "question_amharic": "የምዘና ጥያቄ 1፡ ስለ ሲፒዩ (CPU)፣ ራም (RAM) እና ሮም (ROM) ሜሞሪ (ምዕራፍ 5) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "CPU Hardware and RAM ROM Memory is a core topic in Grade 9 Information technology covering essential principles on pages 151-180.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "ሲፒዩ (CPU)፣ ራም (RAM) እና ሮም (ROM) ሜሞሪ በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "CPU Hardware and RAM ROM Memory is a core topic in Grade 9 Information technology covering essential principles on pages 151-180.",
+            "correct_answer_amharic": "ሲፒዩ (CPU)፣ ራም (RAM) እና ሮም (ROM) ሜሞሪ በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 151-180.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-information_technology-u05-c001"
+        },
+        {
+            "id": "g9-information_technology-u05-q002",
+            "question": "Assessment Question 2: Which statement correctly evaluates Operating Systems (Unit 5)?",
+            "question_amharic": "የምዘና ጥያቄ 2፡ ስለ ኦፐሬቲንግ ሲስተም (Operating System) (ምዕራፍ 5) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Operating Systems is a core topic in Grade 9 Information technology covering essential principles on pages 151-180.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "ኦፐሬቲንግ ሲስተም (Operating System) በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Operating Systems is a core topic in Grade 9 Information technology covering essential principles on pages 151-180.",
+            "correct_answer_amharic": "ኦፐሬቲንግ ሲስተም (Operating System) በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 151-180.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-information_technology-u05-c002"
+        },
+        {
+            "id": "g9-information_technology-u05-q003",
+            "question": "Assessment Question 3: Which statement correctly evaluates Computer Networks and HTML (Unit 5)?",
+            "question_amharic": "የምዘና ጥያቄ 3፡ ስለ ኮምፒውተር ኔትወርክ (Network) እና HTML (ምዕራፍ 5) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Computer Networks and HTML is a core topic in Grade 9 Information technology covering essential principles on pages 151-180.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "ኮምፒውተር ኔትወርክ (Network) እና HTML በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Computer Networks and HTML is a core topic in Grade 9 Information technology covering essential principles on pages 151-180.",
+            "correct_answer_amharic": "ኮምፒውተር ኔትወርክ (Network) እና HTML በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 151-180.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-information_technology-u05-c003"
+        },
+        {
+            "id": "g9-information_technology-u05-q004",
+            "question": "Assessment Question 4: Which statement correctly evaluates CPU Hardware and RAM ROM Memory (Unit 5)?",
+            "question_amharic": "የምዘና ጥያቄ 4፡ ስለ ሲፒዩ (CPU)፣ ራም (RAM) እና ሮም (ROM) ሜሞሪ (ምዕራፍ 5) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "CPU Hardware and RAM ROM Memory is a core topic in Grade 9 Information technology covering essential principles on pages 151-180.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "ሲፒዩ (CPU)፣ ራም (RAM) እና ሮም (ROM) ሜሞሪ በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "CPU Hardware and RAM ROM Memory is a core topic in Grade 9 Information technology covering essential principles on pages 151-180.",
+            "correct_answer_amharic": "ሲፒዩ (CPU)፣ ራም (RAM) እና ሮም (ROM) ሜሞሪ በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 151-180.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-information_technology-u05-c004"
+        }
+    ]
+}

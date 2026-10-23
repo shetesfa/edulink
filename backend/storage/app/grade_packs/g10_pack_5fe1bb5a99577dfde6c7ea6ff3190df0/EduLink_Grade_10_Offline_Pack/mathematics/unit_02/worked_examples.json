@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 2,
+    "worked_examples": [
+        {
+            "id": "g10-mathematics-u02-we001",
+            "title": "Worked Example 1: Polynomial Functions",
+            "problem_statement": "Analyze the application of the topic explained on page 76.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 76.",
+            "source_page": "76"
+        },
+        {
+            "id": "g10-mathematics-u02-we002",
+            "title": "Worked Example 2: Polynomial Functions",
+            "problem_statement": "Analyze the application of the topic explained on page 77.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 77.",
+            "source_page": "77"
+        }
+    ]
+}

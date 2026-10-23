@@ -1,0 +1,80 @@
+{
+    "grade": 9,
+    "subject": "mathematics",
+    "unit_number": 1,
+    "unit_title": "Further on Sets",
+    "source_book": "G9 Mathematics",
+    "worked_examples": [
+        {
+            "id": "g9-mathematics-u01-we001",
+            "problem": "Two finite sets A and B satisfy n(A) = 20, n(B) = 28, and n(A ∪ B) = 36. Find n(A ∩ B).",
+            "given_information": "n(A) = 20, n(B) = 28, n(A ∪ B) = 36",
+            "step_by_step_solution": [
+                "Start from the union-counting formula: n(A ∪ B) = n(A) + n(B) − n(A ∩ B).",
+                "Substitute the known values: 36 = 20 + 28 − n(A ∩ B).",
+                "Simplify the right side: 36 = 48 − n(A ∩ B).",
+                "Solve for n(A ∩ B): n(A ∩ B) = 48 − 36."
+            ],
+            "final_answer": "n(A ∩ B) = 12",
+            "explanation": "The formula corrects for double-counting: elements in both A and B get counted once in n(A) and once again in n(B), so that overlap must be subtracted to get the true size of the union.",
+            "source_page": "21"
+        },
+        {
+            "id": "g9-mathematics-u01-we002",
+            "problem": "Let U = {1,2,...,10} be the universal set, A = {x | x is a positive factor of 10 in U}, and B = {x | x is an odd integer in U}. Find A' and B', then verify De Morgan's first law using (A∪B)' and A'∩B'.",
+            "given_information": "U = {1,2,3,4,5,6,7,8,9,10}; A = factors of 10 in U; B = odd integers in U",
+            "step_by_step_solution": [
+                "List A: the positive factors of 10 are 1, 2, 5, 10, so A = {1,2,5,10}.",
+                "List B: the odd integers from 1 to 10 are 1,3,5,7,9, so B = {1,3,5,7,9}.",
+                "Find A' (everything in U not in A): A' = {3,4,6,7,8,9}.",
+                "Find B' (everything in U not in B): B' = {2,4,6,8,10}.",
+                "Find A ∪ B = {1,2,3,5,7,9,10}, then (A ∪ B)' = U minus this set = {4,6,8}.",
+                "Find A' ∩ B' = {3,4,6,7,8,9} ∩ {2,4,6,8,10} = {4,6,8}."
+            ],
+            "final_answer": "(A ∪ B)' = A' ∩ B' = {4, 6, 8}, confirming De Morgan's first law.",
+            "explanation": "Both routes arrive at the same set, which is exactly what De Morgan's Law (A ∪ B)' = A' ∩ B' predicts. This shows the law is not just a rule to memorize -- it reflects a genuine logical equivalence.",
+            "source_page": "15"
+        },
+        {
+            "id": "g9-mathematics-u01-we003",
+            "problem": "Given A = {d, e, f} and B = {4, 5, 6}, find A∆B (the symmetric difference).",
+            "given_information": "A = {d, e, f}; B = {4, 5, 6}",
+            "step_by_step_solution": [
+                "Find A - B: since A and B share no elements at all, every element of A stays, so A - B = {d, e, f}.",
+                "Find B - A: similarly, B - A = {4, 5, 6}.",
+                "Combine: A∆B = (A - B) ∪ (B - A) = {d, e, f} ∪ {4, 5, 6}."
+            ],
+            "final_answer": "A∆B = {d, e, f, 4, 5, 6}",
+            "explanation": "When two sets are disjoint (share no elements), their symmetric difference is simply the union of the two sets, since nothing needs to be excluded.",
+            "source_page": "18"
+        },
+        {
+            "id": "g9-mathematics-u01-we004",
+            "problem": "If A × B = {(1,a),(1,b),(2,a),(2,b),(3,a),(3,b)}, find sets A and B.",
+            "given_information": "A × B is given as a full list of ordered pairs.",
+            "step_by_step_solution": [
+                "Set A consists of all the first coordinates that appear in the ordered pairs: 1, 2, and 3 all appear as first coordinates.",
+                "Set B consists of all the second coordinates that appear: a and b both appear as second coordinates.",
+                "Check: A × B should have n(A) × n(B) = 3 × 2 = 6 pairs, matching the 6 pairs given."
+            ],
+            "final_answer": "A = {1, 2, 3} and B = {a, b}",
+            "explanation": "Reconstructing the original sets from a Cartesian product means separately reading off all distinct first coordinates (for A) and all distinct second coordinates (for B).",
+            "source_page": "19"
+        },
+        {
+            "id": "g9-mathematics-u01-we005",
+            "problem": "Let U be the universal set of one-digit numbers {0,1,...,9}, A be the set of even numbers in U, and B be the set of prime numbers less than 10. Find A - B, B - A, A ∪ B, and U - (A ∪ B).",
+            "given_information": "U = {0,1,2,3,4,5,6,7,8,9}; A = {0,2,4,6,8}; B = {2,3,5,7}",
+            "step_by_step_solution": [
+                "Find A - B (in A, not in B): remove 2 (shared with B) from A, leaving {0,4,6,8}.",
+                "Find B - A (in B, not in A): remove 2 (shared with A) from B, leaving {3,5,7}.",
+                "Find A ∪ B: combine all elements of both sets without repeats: {0,2,3,4,5,6,7,8}.",
+                "Find U - (A ∪ B): remove every element of A∪B from U, leaving whatever is left over: {1,9}."
+            ],
+            "final_answer": "A - B = {0,4,6,8}; B - A = {3,5,7}; A ∪ B = {0,2,3,4,5,6,7,8}; U - (A ∪ B) = {1,9}",
+            "explanation": "This example shows that the only number shared between A (evens) and B (primes below 10) is 2, since 2 is the only even prime number -- which is why it is removed from both difference calculations.",
+            "source_page": "16-17"
+        }
+    ],
+    "unit_title_amharic": "Further on Sets (በአማርኛ)"
+}

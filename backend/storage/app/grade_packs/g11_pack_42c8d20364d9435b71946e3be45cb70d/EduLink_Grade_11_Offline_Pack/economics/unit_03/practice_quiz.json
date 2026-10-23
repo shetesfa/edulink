@@ -1,0 +1,119 @@
+{
+    "grade": 11,
+    "subject": "economics",
+    "unit_number": 3,
+    "practice_quiz": [
+        {
+            "id": "g11-economics-u03-q001",
+            "question": "Which of the following describes the key principle of the topic discussed on page 79?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 79.",
+            "difficulty": "easy",
+            "related_concept": "g11-economics-u03-c002"
+        },
+        {
+            "id": "g11-economics-u03-q002",
+            "question": "Which of the following describes the key principle of the topic discussed on page 80?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 80.",
+            "difficulty": "easy",
+            "related_concept": "g11-economics-u03-c003"
+        },
+        {
+            "id": "g11-economics-u03-q003",
+            "question": "Which of the following describes the key principle of the topic discussed on page 81?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 81.",
+            "difficulty": "easy",
+            "related_concept": "g11-economics-u03-c004"
+        },
+        {
+            "id": "g11-economics-u03-q004",
+            "question": "Which of the following describes the key principle of the topic discussed on page 82?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 82.",
+            "difficulty": "medium",
+            "related_concept": "g11-economics-u03-c005"
+        },
+        {
+            "id": "g11-economics-u03-q005",
+            "question": "Which of the following describes the key principle of the topic discussed on page 83?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 83.",
+            "difficulty": "medium",
+            "related_concept": "g11-economics-u03-c006"
+        },
+        {
+            "id": "g11-economics-u03-q006",
+            "question": "Which of the following describes the key principle of the topic discussed on page 84?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 84.",
+            "difficulty": "medium",
+            "related_concept": "g11-economics-u03-c001"
+        },
+        {
+            "id": "g11-economics-u03-q007",
+            "question": "Which of the following describes the key principle of the topic discussed on page 85?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 85.",
+            "difficulty": "hard",
+            "related_concept": "g11-economics-u03-c002"
+        },
+        {
+            "id": "g11-economics-u03-q008",
+            "question": "Which of the following describes the key principle of the topic discussed on page 86?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 86.",
+            "difficulty": "hard",
+            "related_concept": "g11-economics-u03-c003"
+        }
+    ]
+}

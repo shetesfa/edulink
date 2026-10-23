@@ -1,0 +1,49 @@
+{
+    "grade": 9,
+    "subject": "mathematics",
+    "unit_number": 7,
+    "terms": [
+        {
+            "term": "Solving Linear Equations (Unit 7)",
+            "term_amharic": "ሊኒያር እኩልዮሽ (Linear Equation) መፍትሔ (ምዕራፍ 7)",
+            "definition": "Solving Linear Equations is a core topic in Grade 9 Mathematics covering essential principles on pages 250-287.",
+            "definition_amharic": "ሊኒያር እኩልዮሽ (Linear Equation) መፍትሔ በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 250-287 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "source_page": "250-287"
+        },
+        {
+            "term": "Quadratic Formula Method (Unit 7)",
+            "term_amharic": "በኳድራቲክ ፎርሙላ (Quadratic Formula) መፍታት (ምዕራፍ 7)",
+            "definition": "Quadratic Formula Method is a core topic in Grade 9 Mathematics covering essential principles on pages 250-287.",
+            "definition_amharic": "በኳድራቲክ ፎርሙላ (Quadratic Formula) መፍታት በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 250-287 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "source_page": "250-287"
+        },
+        {
+            "term": "Ratio and Proportion (Unit 7)",
+            "term_amharic": "ሬሾ እና ፕሮፖርሽን (Ratio & Proportion) (ምዕራፍ 7)",
+            "definition": "Ratio and Proportion is a core topic in Grade 9 Mathematics covering essential principles on pages 250-287.",
+            "definition_amharic": "ሬሾ እና ፕሮፖርሽን (Ratio & Proportion) በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 250-287 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "source_page": "250-287"
+        },
+        {
+            "term": "Simple and Compound Interest (Unit 7)",
+            "term_amharic": "ሲምፕል እና ኮምፓውንድ ኢንተረስት (Interest) (ምዕራፍ 7)",
+            "definition": "Simple and Compound Interest is a core topic in Grade 9 Mathematics covering essential principles on pages 250-287.",
+            "definition_amharic": "ሲምፕል እና ኮምፓውንድ ኢንተረስት (Interest) በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 250-287 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "source_page": "250-287"
+        },
+        {
+            "term": "Polygons and Circle Geometry (Unit 7)",
+            "term_amharic": "ፖሊጎን እና የሰርክል (Circle) ጂኦሜትሪ (ምዕራፍ 7)",
+            "definition": "Polygons and Circle Geometry is a core topic in Grade 9 Mathematics covering essential principles on pages 250-287.",
+            "definition_amharic": "ፖሊጎን እና የሰርክል (Circle) ጂኦሜትሪ በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 250-287 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "source_page": "250-287"
+        },
+        {
+            "term": "Surface Area and Volume (Unit 7)",
+            "term_amharic": "ሰርፌስ ኤሪያ (Surface Area) እና ቮልዩም (Volume) (ምዕራፍ 7)",
+            "definition": "Surface Area and Volume is a core topic in Grade 9 Mathematics covering essential principles on pages 250-287.",
+            "definition_amharic": "ሰርፌስ ኤሪያ (Surface Area) እና ቮልዩም (Volume) በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 250-287 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "source_page": "250-287"
+        }
+    ]
+}

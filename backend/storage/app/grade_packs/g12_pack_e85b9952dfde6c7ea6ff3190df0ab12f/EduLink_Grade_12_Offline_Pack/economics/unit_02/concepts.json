@@ -1,0 +1,93 @@
+{
+    "grade": 12,
+    "subject": "economics",
+    "unit_number": 2,
+    "unit_title": "National Income Accounting",
+    "source_book": "G12 Economics",
+    "concepts": [
+        {
+            "id": "g12-economics-u02-c001",
+            "name": "AGGREGATE DEMAND AND AGGREGATE SUPPLY AN",
+            "simple_definition": "INTRODUCTION 25 UNIT 2: AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS UNIT 2 AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS INTRODUCTION Aggregate Supply - Aggregate demand (AS-AD) analysis is simply an aggregation of the microeconomic model",
+            "deep_explanation": "Instead of the quantity of output of a single industry, this model represents the quantity of output of an entire economy (national production)",
+            "real_example": "Practical example of AGGREGATE DEMAND AND AGGREGATE SUPPLY AN from page 35.",
+            "common_confusion": "Students sometimes confuse AGGREGATE DEMAND AND AGGREGATE SUPPLY AN with adjacent topics in Chapter 2.",
+            "source_pages": "35",
+            "name_amharic": "AGGREGATE DEMAND AND AGGREGATE SUPPLY AN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] INTRODUCTION 25 UNIT 2: AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS UNIT 2 AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS INTRODUCTION Aggregate Supply - Aggregate demand (AS-AD) analysis is simply an aggregation of the microeconomic model (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Instead of the quantity of output of a single industry, this model represents the quantity of output of an entire economy (national production) — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 35 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-economics-u02-c002",
+            "name": "2.1 Aggregate Demand 26 Grade 12 Economi",
+            "simple_definition": "2.1 Aggregate Demand 26 Grade 12 Economics Student Textbook Key Concepts  Aggregate Demand  Aggregate Supply  Equilibrium 2.1 Aggregate Demand At the end of this section, you will be able to:  define concept of aggregate demand",
+            "deep_explanation": " describe the basic determinants of aggregate demand",
+            "real_example": "Practical example of 2.1 Aggregate Demand 26 Grade 12 Economi from page 36.",
+            "common_confusion": "Students sometimes confuse 2.1 Aggregate Demand 26 Grade 12 Economi with adjacent topics in Chapter 2.",
+            "source_pages": "36",
+            "name_amharic": "2.1 Aggregate Demand 26 Grade 12 Economi (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 2.1 Aggregate Demand 26 Grade 12 Economics Student Textbook Key Concepts  Aggregate Demand  Aggregate Supply  Equilibrium 2.1 Aggregate Demand At the end of this section, you will be able to:  define concept of aggregate demand (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ]  describe the basic determinants of aggregate demand — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 36 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-economics-u02-c003",
+            "name": "AGGREGATE DEMAND AND AGGREGATE SUPPLY AN",
+            "simple_definition": "2.1 Aggregate Demand 27 UNIT 2: AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS There are four major components of AD",
+            "deep_explanation": "household consumption demand (C)  private investment demand(I)  government demand for goods and services (G)  net export demand (X-M) So that, ( – ) AD C I G X M = + + + A",
+            "real_example": "Practical example of AGGREGATE DEMAND AND AGGREGATE SUPPLY AN from page 37.",
+            "common_confusion": "Students sometimes confuse AGGREGATE DEMAND AND AGGREGATE SUPPLY AN with adjacent topics in Chapter 2.",
+            "source_pages": "37",
+            "name_amharic": "AGGREGATE DEMAND AND AGGREGATE SUPPLY AN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 2.1 Aggregate Demand 27 UNIT 2: AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS There are four major components of AD (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] household consumption demand (C)  private investment demand(I)  government demand for goods and services (G)  net export demand (X-M) So that, ( – ) AD C I G X M = + + + A — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 37 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-economics-u02-c004",
+            "name": "2.1 Aggregate Demand 28 Grade 12 Economi",
+            "simple_definition": "2.1 Aggregate Demand 28 Grade 12 Economics Student Textbook In general, it is observed that with other factors held constant, aggregate demand rises with a fall in the general price level",
+            "deep_explanation": "The inverse is also true",
+            "real_example": "Practical example of 2.1 Aggregate Demand 28 Grade 12 Economi from page 38.",
+            "common_confusion": "Students sometimes confuse 2.1 Aggregate Demand 28 Grade 12 Economi with adjacent topics in Chapter 2.",
+            "source_pages": "38",
+            "name_amharic": "2.1 Aggregate Demand 28 Grade 12 Economi (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 2.1 Aggregate Demand 28 Grade 12 Economics Student Textbook In general, it is observed that with other factors held constant, aggregate demand rises with a fall in the general price level (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The inverse is also true — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 38 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-economics-u02-c005",
+            "name": "AGGREGATE DEMAND AND AGGREGATE SUPPLY AN",
+            "simple_definition": "2.1 Aggregate Demand 29 UNIT 2: AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS interest rate is, say, 5%",
+            "deep_explanation": "But the investment will be unprofitable and will not be made when the interest rate has risen to 7%",
+            "real_example": "Practical example of AGGREGATE DEMAND AND AGGREGATE SUPPLY AN from page 39.",
+            "common_confusion": "Students sometimes confuse AGGREGATE DEMAND AND AGGREGATE SUPPLY AN with adjacent topics in Chapter 2.",
+            "source_pages": "39",
+            "name_amharic": "AGGREGATE DEMAND AND AGGREGATE SUPPLY AN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 2.1 Aggregate Demand 29 UNIT 2: AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS interest rate is, say, 5% (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] But the investment will be unprofitable and will not be made when the interest rate has risen to 7% — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 39 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-economics-u02-c006",
+            "name": "2.1 Aggregate Demand 30 Grade 12 Economi",
+            "simple_definition": "2.1 Aggregate Demand 30 Grade 12 Economics Student Textbook 2.1.3 Shifts in the Aggregate Demand Curve What are the kinds of variables that lead to shift in aggregate demand? In other words, what can cause aggregate demand to rise and what can cause it to fall? The simple answer to these questions is that aggregate demand changes when the spending on Ethiopian goods and services changes",
+            "deep_explanation": "For example, if spending increases at a given price level, aggregate demand rises; if spending decreases at a given price level, aggregate demand falls",
+            "real_example": "Practical example of 2.1 Aggregate Demand 30 Grade 12 Economi from page 40.",
+            "common_confusion": "Students sometimes confuse 2.1 Aggregate Demand 30 Grade 12 Economi with adjacent topics in Chapter 2.",
+            "source_pages": "40",
+            "name_amharic": "2.1 Aggregate Demand 30 Grade 12 Economi (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 2.1 Aggregate Demand 30 Grade 12 Economics Student Textbook 2.1.3 Shifts in the Aggregate Demand Curve What are the kinds of variables that lead to shift in aggregate demand? In other words, what can cause aggregate demand to rise and what can cause it to fall? The simple answer to these questions is that aggregate demand changes when the spending on Ethiopian goods and services changes (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] For example, if spending increases at a given price level, aggregate demand rises; if spending decreases at a given price level, aggregate demand falls — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 40 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

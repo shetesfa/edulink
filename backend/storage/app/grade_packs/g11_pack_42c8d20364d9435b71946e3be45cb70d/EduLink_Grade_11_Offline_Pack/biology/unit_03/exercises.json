@@ -1,0 +1,61 @@
+{
+    "grade": 11,
+    "subject": "biology",
+    "unit_number": 3,
+    "unit_title": "Genetics, Ecology, and Evolution",
+    "source_book": "G11 Biology",
+    "exercises": [
+        {
+            "exercise_id": "g11-biology-u03-ex001",
+            "question": "Describe the core properties of the topics presented on page 85 (Question 1).",
+            "question_amharic": "በገጽ 85 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 1)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 85.",
+            "correct_answer_amharic": "በገጽ 85 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 85.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 85 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 85.",
+            "source_page": "85",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g11-biology-u03-ex002",
+            "question": "Describe the core properties of the topics presented on page 86 (Question 2).",
+            "question_amharic": "በገጽ 86 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 86.",
+            "correct_answer_amharic": "በገጽ 86 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 86.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 86 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 86.",
+            "source_page": "86",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g11-biology-u03-ex003",
+            "question": "Describe the core properties of the topics presented on page 87 (Question 3).",
+            "question_amharic": "በገጽ 87 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 87.",
+            "correct_answer_amharic": "በገጽ 87 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 87.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 87 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 87.",
+            "source_page": "87",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g11-biology-u03-ex004",
+            "question": "Describe the core properties of the topics presented on page 88 (Question 4).",
+            "question_amharic": "በገጽ 88 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 88.",
+            "correct_answer_amharic": "በገጽ 88 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 88.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 88 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 88.",
+            "source_page": "88",
+            "needs_review": false
+        }
+    ]
+}

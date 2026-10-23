@@ -1,0 +1,37 @@
+{
+    "grade": 12,
+    "subject": "information_technology",
+    "unit_number": 3,
+    "glossary": [
+        {
+            "term": "Information Technology Grade 12 ~ Studen",
+            "definition": "Information Technology Grade 12 ~ Student Textbook 94 UNIT-3 Database Management System Example 2: The output in Table 3.5 can be further filtered by adding the criterion “Semester= ‘I’ ” as follows: SELECT COURSE.Course_id, COURSE.Course_name, COURSE.Grade, CourseOffering.Semester FROM COURSE, CourseOffering WHERE COURSE.Course_id = CourseOffering.Course_code AND Semester=’I’; Therefore, the output of the query includes only Semester I (as shown in Table 3.6) Table 3",
+            "source_page": "101"
+        },
+        {
+            "term": "Information Technology Grade 12 ~ Studen",
+            "definition": "Information Technology Grade 12 ~ Student Textbook 95 UNIT-3 Database Management System Key Terms There are many advantages of having databases, some of the major ones are sharing, security, less data redundancy, and data integrity",
+            "source_page": "102"
+        },
+        {
+            "term": "Information Technology Grade 12 ~ Studen",
+            "definition": "Information Technology Grade 12 ~ Student Textbook 96 UNIT-3 Database Management System Review Questions Part I: Choose the correct answer from the given alternatives",
+            "source_page": "103"
+        },
+        {
+            "term": "Information Technology Grade 12 ~ Studen",
+            "definition": "Information Technology Grade 12 ~ Student Textbook 97 UNIT-3 Database Management System 7",
+            "source_page": "104"
+        },
+        {
+            "term": "Information Technology Grade 12 ~ Studen",
+            "definition": "Information Technology Grade 12 ~ Student Textbook 98 UNIT-3 Database Management System 11",
+            "source_page": "105"
+        },
+        {
+            "term": "Information Technology Grade 12 ~ Studen",
+            "definition": "Information Technology Grade 12 ~ Student Textbook 99 UNIT-3 Database Management System Part II: Code Writing Identify a data management problem which can be addressed by designing a database solution",
+            "source_page": "106"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "physics",
+    "unit_number": 3,
+    "unit_title": "Newton's Laws of Motion",
+    "source_book": "G10 Physics",
+    "concepts": [
+        {
+            "id": "g10-physics-u03-c001",
+            "name": "Newton's Second Law",
+            "simple_definition": "Newton's second law states that acceleration is directly proportional to net force and inversely proportional to mass.",
+            "deep_explanation": "The mathematical formula is F_net = ma. If force is constant, increasing the mass decreases the acceleration.",
+            "real_example": "Pushing an empty shopping cart is easier (accelerates faster) than pushing a full one with the same force.",
+            "common_confusion": "Thinking force is needed to keep an object moving at a constant velocity.",
+            "source_pages": "65-70",
+            "name_amharic": "የኒውተን ሁለተኛ ሕግ",
+            "simple_definition_amharic": "የኒውተን ሁለተኛ ሕግ እንደሚያሳየው ማጣደፍ ከሚያርፈው ኃይል ጋር ቀጥታ የሚመጣጠን ሲሆን ከቁሱ ክብደት ጋር ደግሞ በተቃራኒው ይመጣጠናል (F = ma)።",
+            "deep_explanation_amharic": "የሂሳብ ቀመሩ F = ma ነው። የሚገፋው ኃይል ቋሚ ከሆነ፣ የቁሱ ክብደት ሲጨምር ማጣደፉ ይቀንሳል።",
+            "real_example_amharic": "ባዶ የገበያ ጋሪን መግፋት፣ ተመሳሳይ ኃይል ተጠቅሞ የተሞላውን ከመግፋት የበለጠ ፍጥነት ይሰጣል።",
+            "common_confusion_amharic": "አንድ ነገር በቋሚ ፍጥነት እንዲጓዝ ሁልጊዜ ኃይል ያስፈልገዋል ብሎ ማሰብ።"
+        },
+        {
+            "id": "g10-physics-u03-c002",
+            "name": "60 Unit 3 Elasticity And Static Equilibr",
+            "simple_definition": "60 Unit 3 Elasticity and Static Equilibrium of Rigid Body 3.1 Elasticity and plasticity By the end of this section, you should be able to: • deﬁne elasticity and plasticity; • explain the deformation of an object",
+            "deep_explanation": "Figure 3.1 Helical spring A rigid body generally means a hard solid object having a deﬁnite shape and size",
+            "real_example": "Practical example of 60 Unit 3 Elasticity and Static Equilibr from page 66.",
+            "common_confusion": "Students sometimes confuse 60 Unit 3 Elasticity and Static Equilibr with adjacent topics in Chapter 3.",
+            "source_pages": "66",
+            "name_amharic": "60 Unit 3 Elasticity and Static Equilibr (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 60 Unit 3 Elasticity and Static Equilibrium of Rigid Body 3.1 Elasticity and plasticity By the end of this section, you should be able to: • deﬁne elasticity and plasticity; • explain the deformation of an object (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Figure 3.1 Helical spring A rigid body generally means a hard solid object having a deﬁnite shape and size — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 66 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u03-c003",
+            "name": "3.1 Elasticity And Plasticity 61 And The",
+            "simple_definition": "3.1 Elasticity and plasticity 61 and the property is called plasticity",
+            "deep_explanation": "Figure 3.4 Stretched rubber band",
+            "real_example": "Practical example of 3.1 Elasticity and plasticity 61 and the from page 67.",
+            "common_confusion": "Students sometimes confuse 3.1 Elasticity and plasticity 61 and the with adjacent topics in Chapter 3.",
+            "source_pages": "67",
+            "name_amharic": "3.1 Elasticity and plasticity 61 and the (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 3.1 Elasticity and plasticity 61 and the property is called plasticity (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Figure 3.4 Stretched rubber band — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 67 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u03-c004",
+            "name": "62 Unit 3 Elasticity And Static Equilibr",
+            "simple_definition": "62 Unit 3 Elasticity and Static Equilibrium of Rigid Body tic deformation occurs in ductile materials such as metals (for example, copper) when the distortion surpasses the elastic limit",
+            "deep_explanation": "Plastic deforma- tion is vital in the manufacture of new goods utilizing heat or pressure treatments as well as molding",
+            "real_example": "Practical example of 62 Unit 3 Elasticity and Static Equilibr from page 68.",
+            "common_confusion": "Students sometimes confuse 62 Unit 3 Elasticity and Static Equilibr with adjacent topics in Chapter 3.",
+            "source_pages": "68",
+            "name_amharic": "62 Unit 3 Elasticity and Static Equilibr (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 62 Unit 3 Elasticity and Static Equilibrium of Rigid Body tic deformation occurs in ductile materials such as metals (for example, copper) when the distortion surpasses the elastic limit (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Plastic deforma- tion is vital in the manufacture of new goods utilizing heat or pressure treatments as well as molding — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 68 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u03-c005",
+            "name": "3.2 Density And Speciﬁc Gravity 63 Limit",
+            "simple_definition": "3.2 Density and speciﬁc gravity 63 limit",
+            "deep_explanation": "What is that limit? 3.2 Density and speciﬁc gravity By the end of this section, you should be able to: • deﬁne the density and the speciﬁc gravity of an object; • determine the density of an object; • compare the density of an unknown object with a standard value",
+            "real_example": "Practical example of 3.2 Density and speciﬁc gravity 63 limit from page 69.",
+            "common_confusion": "Students sometimes confuse 3.2 Density and speciﬁc gravity 63 limit with adjacent topics in Chapter 3.",
+            "source_pages": "69",
+            "name_amharic": "3.2 Density and speciﬁc gravity 63 limit (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 3.2 Density and speciﬁc gravity 63 limit (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] What is that limit? 3.2 Density and speciﬁc gravity By the end of this section, you should be able to: • deﬁne the density and the speciﬁc gravity of an object; • determine the density of an object; • compare the density of an unknown object with a standard value — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 69 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u03-c006",
+            "name": "64 Unit 3 Elasticity And Static Equilibr",
+            "simple_definition": "64 Unit 3 Elasticity and Static Equilibrium of Rigid Body • Rock sinks in the water, while wood, being less dense than the water, ﬂoats on the surface",
+            "deep_explanation": "• Oil is less dense than water",
+            "real_example": "Practical example of 64 Unit 3 Elasticity and Static Equilibr from page 70.",
+            "common_confusion": "Students sometimes confuse 64 Unit 3 Elasticity and Static Equilibr with adjacent topics in Chapter 3.",
+            "source_pages": "70",
+            "name_amharic": "64 Unit 3 Elasticity and Static Equilibr (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 64 Unit 3 Elasticity and Static Equilibrium of Rigid Body • Rock sinks in the water, while wood, being less dense than the water, ﬂoats on the surface (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] • Oil is less dense than water — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 70 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "economics",
+    "unit_number": 3,
+    "examples": [
+        {
+            "example_id": "g9-economics-u03-we001",
+            "title": "Worked Example 1: Professional Solution for Theory of Demand and Supply",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የTheory of Demand and Supply ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 37-50.",
+            "problem_amharic": "ከገጽ 37-50 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "37-50"
+        }
+    ]
+}

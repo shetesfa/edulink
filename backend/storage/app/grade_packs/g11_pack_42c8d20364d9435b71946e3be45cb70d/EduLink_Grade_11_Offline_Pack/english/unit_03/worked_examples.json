@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "english",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g11-english-u03-we001",
+            "title": "Worked Example 1: Unit 3: Health and Healthy Lifestyles",
+            "problem_statement": "Analyze the application of the topic explained on page 106.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 106.",
+            "source_page": "106"
+        },
+        {
+            "id": "g11-english-u03-we002",
+            "title": "Worked Example 2: Unit 3: Health and Healthy Lifestyles",
+            "problem_statement": "Analyze the application of the topic explained on page 106.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 106.",
+            "source_page": "106"
+        }
+    ]
+}

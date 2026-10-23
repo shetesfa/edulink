@@ -1,0 +1,93 @@
+{
+    "grade": 12,
+    "subject": "mathematics",
+    "unit_number": 2,
+    "unit_title": "Introduction to Limits and Continuity",
+    "source_book": "G12 Mathematics",
+    "concepts": [
+        {
+            "id": "g12-mathematics-u02-c001",
+            "name": "Limit Of A Function",
+            "simple_definition": "The limit is the value that a function approaches as the input approaches some value.",
+            "deep_explanation": "We write lim (x->c) f(x) = L. For the limit to exist, both the left-hand limit and right-hand limit must exist and be equal.",
+            "real_example": "lim (x->2) (x² - 4)\/(x - 2) = lim (x->2) (x+2) = 4, even though the function is undefined at x = 2.",
+            "common_confusion": "Thinking the limit value must equal the function value at that point. A function can have a limit at c even if f(c) is undefined.",
+            "source_pages": "76-82",
+            "name_amharic": "የፈንክሽን ሊሚት (Limit)",
+            "simple_definition_amharic": "ሊሚት ማለት ተለዋዋጩ (input) ወደ አንድ እሴት ሲጠጋ ፈንክሽኑ የሚጠጋበት ዋጋ ነው።",
+            "deep_explanation_amharic": "lim (x->c) f(x) = L ተብሎ ይጻፋል። ሊሚት ለመኖር ከቀኝና ከግራ ያሉት ሊሚቶች እኩል መሆን አለባቸው።",
+            "real_example_amharic": "ፈንክሽኑ በ x = 2 ላይ ባይገለጽም፣ lim (x->2) (x² - 4)\/(x - 2) = lim (x->2) (x+2) = 4 ነው።",
+            "common_confusion_amharic": "የሊሚት ዋጋ በዚያ ነጥብ ላይ ካለው የፈንክሽኑ እሴት ጋር እኩል መሆን አለበት ብሎ ማሰብ።"
+        },
+        {
+            "id": "g12-mathematics-u02-c002",
+            "name": "Important Core Curriculum Concepts And A",
+            "simple_definition": "Important core curriculum concepts and academic objectives for Introduction to Limits and Continuity in Grade 12.",
+            "deep_explanation": "Detailed academic explanation of Introduction to Limits and Continuity.",
+            "real_example": "Practical example of Important core curriculum concepts and a from page 61.",
+            "common_confusion": "Students sometimes confuse Important core curriculum concepts and a with adjacent topics in Chapter 2.",
+            "source_pages": "61",
+            "name_amharic": "Important core curriculum concepts and a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Important core curriculum concepts and academic objectives for Introduction to Limits and Continuity in Grade 12. (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Detailed academic explanation of Introduction to Limits and Continuity. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 61 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-mathematics-u02-c003",
+            "name": "Important Core Curriculum Concepts And A",
+            "simple_definition": "Important core curriculum concepts and academic objectives for Introduction to Limits and Continuity in Grade 12.",
+            "deep_explanation": "Detailed academic explanation of Introduction to Limits and Continuity.",
+            "real_example": "Practical example of Important core curriculum concepts and a from page 61.",
+            "common_confusion": "Students sometimes confuse Important core curriculum concepts and a with adjacent topics in Chapter 2.",
+            "source_pages": "61",
+            "name_amharic": "Important core curriculum concepts and a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Important core curriculum concepts and academic objectives for Introduction to Limits and Continuity in Grade 12. (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Detailed academic explanation of Introduction to Limits and Continuity. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 61 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-mathematics-u02-c004",
+            "name": "Important Core Curriculum Concepts And A",
+            "simple_definition": "Important core curriculum concepts and academic objectives for Introduction to Limits and Continuity in Grade 12.",
+            "deep_explanation": "Detailed academic explanation of Introduction to Limits and Continuity.",
+            "real_example": "Practical example of Important core curriculum concepts and a from page 61.",
+            "common_confusion": "Students sometimes confuse Important core curriculum concepts and a with adjacent topics in Chapter 2.",
+            "source_pages": "61",
+            "name_amharic": "Important core curriculum concepts and a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Important core curriculum concepts and academic objectives for Introduction to Limits and Continuity in Grade 12. (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Detailed academic explanation of Introduction to Limits and Continuity. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 61 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-mathematics-u02-c005",
+            "name": "Important Core Curriculum Concepts And A",
+            "simple_definition": "Important core curriculum concepts and academic objectives for Introduction to Limits and Continuity in Grade 12.",
+            "deep_explanation": "Detailed academic explanation of Introduction to Limits and Continuity.",
+            "real_example": "Practical example of Important core curriculum concepts and a from page 61.",
+            "common_confusion": "Students sometimes confuse Important core curriculum concepts and a with adjacent topics in Chapter 2.",
+            "source_pages": "61",
+            "name_amharic": "Important core curriculum concepts and a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Important core curriculum concepts and academic objectives for Introduction to Limits and Continuity in Grade 12. (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Detailed academic explanation of Introduction to Limits and Continuity. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 61 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-mathematics-u02-c006",
+            "name": "Important Core Curriculum Concepts And A",
+            "simple_definition": "Important core curriculum concepts and academic objectives for Introduction to Limits and Continuity in Grade 12.",
+            "deep_explanation": "Detailed academic explanation of Introduction to Limits and Continuity.",
+            "real_example": "Practical example of Important core curriculum concepts and a from page 61.",
+            "common_confusion": "Students sometimes confuse Important core curriculum concepts and a with adjacent topics in Chapter 2.",
+            "source_pages": "61",
+            "name_amharic": "Important core curriculum concepts and a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Important core curriculum concepts and academic objectives for Introduction to Limits and Continuity in Grade 12. (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Detailed academic explanation of Introduction to Limits and Continuity. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 61 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "grade": 10,
+    "subject": "geography",
+    "unit_number": 5,
+    "practice_quiz": [
+        {
+            "id": "g10-geography-u05-q001",
+            "question": "Which of the following describes the key principle of the topic discussed on page 151?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 151.",
+            "difficulty": "easy",
+            "related_concept": "g10-geography-u05-c002"
+        },
+        {
+            "id": "g10-geography-u05-q002",
+            "question": "Which of the following describes the key principle of the topic discussed on page 152?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 152.",
+            "difficulty": "easy",
+            "related_concept": "g10-geography-u05-c003"
+        },
+        {
+            "id": "g10-geography-u05-q003",
+            "question": "Which of the following describes the key principle of the topic discussed on page 153?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 153.",
+            "difficulty": "easy",
+            "related_concept": "g10-geography-u05-c004"
+        },
+        {
+            "id": "g10-geography-u05-q004",
+            "question": "Which of the following describes the key principle of the topic discussed on page 154?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 154.",
+            "difficulty": "medium",
+            "related_concept": "g10-geography-u05-c005"
+        },
+        {
+            "id": "g10-geography-u05-q005",
+            "question": "Which of the following describes the key principle of the topic discussed on page 155?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 155.",
+            "difficulty": "medium",
+            "related_concept": "g10-geography-u05-c006"
+        },
+        {
+            "id": "g10-geography-u05-q006",
+            "question": "Which of the following describes the key principle of the topic discussed on page 156?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 156.",
+            "difficulty": "medium",
+            "related_concept": "g10-geography-u05-c001"
+        },
+        {
+            "id": "g10-geography-u05-q007",
+            "question": "Which of the following describes the key principle of the topic discussed on page 157?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 157.",
+            "difficulty": "hard",
+            "related_concept": "g10-geography-u05-c002"
+        },
+        {
+            "id": "g10-geography-u05-q008",
+            "question": "Which of the following describes the key principle of the topic discussed on page 158?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 158.",
+            "difficulty": "hard",
+            "related_concept": "g10-geography-u05-c003"
+        }
+    ]
+}

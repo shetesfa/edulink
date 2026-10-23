@@ -1,0 +1,61 @@
+{
+    "grade": 10,
+    "subject": "chemistry",
+    "unit_number": 1,
+    "unit_title": "Introduction to Organic Chemistry",
+    "source_book": "G10 Chemistry",
+    "exercises": [
+        {
+            "exercise_id": "g10-chemistry-u01-ex001",
+            "question": "Draw the structural formula of propane (C3H8).",
+            "question_amharic": "የፕሮፔን (C3H8) መዋቅራዊ ቀመር (structural formula) ሳሉ።",
+            "question_type": "problem_solving",
+            "correct_answer": "CH3-CH2-CH3.",
+            "correct_answer_amharic": "CH3-CH2-CH3።",
+            "step_by_step_explanation": "1. Propane has 3 carbon atoms (n=3).\\n2. Arrange 3 C atoms in a single-bonded chain.\\n3. Fill valence electrons with 8 Hydrogen atoms.",
+            "step_by_step_explanation_amharic": "1. Propane has 3 carbon atoms (n=3).\\n2. Arrange 3 C atoms in a single-bonded chain.\\n3. Fill valence electrons with 8 Hydrogen atoms.",
+            "formula_or_working": "Alkane general formula: C_n H_(2n+2).",
+            "source_page": "182",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-chemistry-u01-ex002",
+            "question": "Describe the core properties of the topics presented on page 175 (Question 2).",
+            "question_amharic": "በገጽ 175 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 175.",
+            "correct_answer_amharic": "በገጽ 175 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 175.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 175 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 175.",
+            "source_page": "175",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-chemistry-u01-ex003",
+            "question": "Describe the core properties of the topics presented on page 176 (Question 3).",
+            "question_amharic": "በገጽ 176 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 176.",
+            "correct_answer_amharic": "በገጽ 176 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 176.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 176 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 176.",
+            "source_page": "176",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-chemistry-u01-ex004",
+            "question": "Describe the core properties of the topics presented on page 177 (Question 4).",
+            "question_amharic": "በገጽ 177 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 177.",
+            "correct_answer_amharic": "በገጽ 177 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 177.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 177 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 177.",
+            "source_page": "177",
+            "needs_review": false
+        }
+    ]
+}

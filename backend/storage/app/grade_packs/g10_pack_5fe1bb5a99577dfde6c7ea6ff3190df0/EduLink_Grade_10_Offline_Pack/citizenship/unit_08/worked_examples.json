@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "citizenship",
+    "unit_number": 8,
+    "worked_examples": [
+        {
+            "id": "g10-citizenship-u08-we001",
+            "title": "Worked Example 1: Active Civic Participation",
+            "problem_statement": "Analyze the application of the topic explained on page 174.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 174.",
+            "source_page": "174"
+        },
+        {
+            "id": "g10-citizenship-u08-we002",
+            "title": "Worked Example 2: Active Civic Participation",
+            "problem_statement": "Analyze the application of the topic explained on page 175.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 175.",
+            "source_page": "175"
+        }
+    ]
+}

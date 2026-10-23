@@ -1,0 +1,93 @@
+{
+    "grade": 12,
+    "subject": "geography",
+    "unit_number": 6,
+    "unit_title": "Economic Development and Continental Integration",
+    "source_book": "G12 Geography",
+    "concepts": [
+        {
+            "id": "g12-geography-u06-c001",
+            "name": "Geographical Enquiry And Map Making 237 ",
+            "simple_definition": "Geographical Enquiry and Map Making 237 Breaking points are determined through a clustering algorithm that maximizes similarity with class and difference between classes",
+            "deep_explanation": "The default option for data classification in many GIS software is natural break because natural break organizes data in itself, and works in most (if not all) cases",
+            "real_example": "Practical example of Geographical Enquiry and Map Making 237  from page 246.",
+            "common_confusion": "Students sometimes confuse Geographical Enquiry and Map Making 237  with adjacent topics in Chapter 6.",
+            "source_pages": "246",
+            "name_amharic": "Geographical Enquiry and Map Making 237  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Geographical Enquiry and Map Making 237 Breaking points are determined through a clustering algorithm that maximizes similarity with class and difference between classes (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The default option for data classification in many GIS software is natural break because natural break organizes data in itself, and works in most (if not all) cases — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 246 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-geography-u06-c002",
+            "name": "UNIT ONE UNIT ONE UNIT EIGHT 238 A Quant",
+            "simple_definition": "UNIT ONE UNIT ONE UNIT EIGHT 238 A quantile map divides data in terms of percentiles",
+            "deep_explanation": "If data is grouped into five classes, the first class (865–11031) represents the 0–20th percentile, the second class represents the 20– 40th percentile, and the fifth class (47615–105350) represents the 80–100th percentile",
+            "real_example": "Practical example of UNIT ONE UNIT ONE UNIT EIGHT 238 A quant from page 247.",
+            "common_confusion": "Students sometimes confuse UNIT ONE UNIT ONE UNIT EIGHT 238 A quant with adjacent topics in Chapter 6.",
+            "source_pages": "247",
+            "name_amharic": "UNIT ONE UNIT ONE UNIT EIGHT 238 A quant (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] UNIT ONE UNIT ONE UNIT EIGHT 238 A quantile map divides data in terms of percentiles (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] If data is grouped into five classes, the first class (865–11031) represents the 0–20th percentile, the second class represents the 20– 40th percentile, and the fifth class (47615–105350) represents the 80–100th percentile — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 247 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-geography-u06-c003",
+            "name": "Geographical Enquiry And Map Making 239 ",
+            "simple_definition": "Geographical Enquiry and Map Making 239 Data should be normalized as needed before mapping",
+            "deep_explanation": "Data normalization is intended to facilitate comparison of data values that are often measured in different units",
+            "real_example": "Practical example of Geographical Enquiry and Map Making 239  from page 248.",
+            "common_confusion": "Students sometimes confuse Geographical Enquiry and Map Making 239  with adjacent topics in Chapter 6.",
+            "source_pages": "248",
+            "name_amharic": "Geographical Enquiry and Map Making 239  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Geographical Enquiry and Map Making 239 Data should be normalized as needed before mapping (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Data normalization is intended to facilitate comparison of data values that are often measured in different units — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 248 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-geography-u06-c004",
+            "name": "UNIT ONE UNIT ONE UNIT EIGHT 240 Figure ",
+            "simple_definition": "UNIT ONE UNIT ONE UNIT EIGHT 240 Figure 8.12",
+            "deep_explanation": "The major steps the GIS project follows A GIS enhances the data analysis process by providing tools",
+            "real_example": "Practical example of UNIT ONE UNIT ONE UNIT EIGHT 240 Figure  from page 249.",
+            "common_confusion": "Students sometimes confuse UNIT ONE UNIT ONE UNIT EIGHT 240 Figure  with adjacent topics in Chapter 6.",
+            "source_pages": "249",
+            "name_amharic": "UNIT ONE UNIT ONE UNIT EIGHT 240 Figure  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] UNIT ONE UNIT ONE UNIT EIGHT 240 Figure 8.12 (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The major steps the GIS project follows A GIS enhances the data analysis process by providing tools — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 249 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-geography-u06-c005",
+            "name": "Geographical Enquiry And Map Making 241 ",
+            "simple_definition": "Geographical Enquiry and Map Making 241 b",
+            "deep_explanation": "Analysis to generate new data Students, let us take this spatial analysis concept a step further",
+            "real_example": "Practical example of Geographical Enquiry and Map Making 241  from page 250.",
+            "common_confusion": "Students sometimes confuse Geographical Enquiry and Map Making 241  with adjacent topics in Chapter 6.",
+            "source_pages": "250",
+            "name_amharic": "Geographical Enquiry and Map Making 241  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Geographical Enquiry and Map Making 241 b (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Analysis to generate new data Students, let us take this spatial analysis concept a step further — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 250 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-geography-u06-c006",
+            "name": "UNIT ONE UNIT ONE UNIT EIGHT 242 8.13",
+            "simple_definition": "UNIT ONE UNIT ONE UNIT EIGHT 242 8.13",
+            "deep_explanation": "Buffered lines, points and multiple ring buffers Raster-based distance tools: The ArcGIS Spatial Analyst extension Distance toolset contains tools that create raster showing the distance of each cell from a set of features or that allocate each cell to the closest feature",
+            "real_example": "Practical example of UNIT ONE UNIT ONE UNIT EIGHT 242 8.13 from page 251.",
+            "common_confusion": "Students sometimes confuse UNIT ONE UNIT ONE UNIT EIGHT 242 8.13 with adjacent topics in Chapter 6.",
+            "source_pages": "251",
+            "name_amharic": "UNIT ONE UNIT ONE UNIT EIGHT 242 8.13 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] UNIT ONE UNIT ONE UNIT EIGHT 242 8.13 (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Buffered lines, points and multiple ring buffers Raster-based distance tools: The ArcGIS Spatial Analyst extension Distance toolset contains tools that create raster showing the distance of each cell from a set of features or that allocate each cell to the closest feature — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 251 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

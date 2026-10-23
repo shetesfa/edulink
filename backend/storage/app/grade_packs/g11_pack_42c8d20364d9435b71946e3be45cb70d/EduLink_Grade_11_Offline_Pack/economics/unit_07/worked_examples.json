@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "economics",
+    "unit_number": 7,
+    "worked_examples": [
+        {
+            "id": "g11-economics-u07-we001",
+            "title": "Worked Example 1: Economic Planning and Development in Ethiopia",
+            "problem_statement": "Analyze the application of the topic explained on page 177.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 177.",
+            "source_page": "177"
+        },
+        {
+            "id": "g11-economics-u07-we002",
+            "title": "Worked Example 2: Economic Planning and Development in Ethiopia",
+            "problem_statement": "Analyze the application of the topic explained on page 178.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 178.",
+            "source_page": "178"
+        }
+    ]
+}

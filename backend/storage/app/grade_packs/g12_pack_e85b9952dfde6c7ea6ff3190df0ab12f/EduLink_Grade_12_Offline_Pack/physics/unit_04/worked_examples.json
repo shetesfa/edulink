@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "physics",
+    "unit_number": 4,
+    "worked_examples": [
+        {
+            "id": "g12-physics-u04-we001",
+            "title": "Worked Example 1: Atomic, Nuclear, and Particle Physics",
+            "problem_statement": "Analyze the application of the topic explained on page 123.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 123.",
+            "source_page": "123"
+        },
+        {
+            "id": "g12-physics-u04-we002",
+            "title": "Worked Example 2: Atomic, Nuclear, and Particle Physics",
+            "problem_statement": "Analyze the application of the topic explained on page 124.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 124.",
+            "source_page": "124"
+        }
+    ]
+}

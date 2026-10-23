@@ -1,0 +1,93 @@
+{
+    "grade": 12,
+    "subject": "physics",
+    "unit_number": 4,
+    "unit_title": "Atomic, Nuclear, and Particle Physics",
+    "source_book": "G12 Physics",
+    "concepts": [
+        {
+            "id": "g12-physics-u04-c001",
+            "name": "Unit 4 Electromagnetism Introduction Ele",
+            "simple_definition": "Unit 4 Electromagnetism Introduction Electromagnetism is one of the fundamental force in nature consisting of the elements electricity and magnetism",
+            "deep_explanation": "It involves the study of electromagnetic force",
+            "real_example": "Practical example of Unit 4 Electromagnetism Introduction Ele from page 123.",
+            "common_confusion": "Students sometimes confuse Unit 4 Electromagnetism Introduction Ele with adjacent topics in Chapter 4.",
+            "source_pages": "123",
+            "name_amharic": "Unit 4 Electromagnetism Introduction Ele (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 4 Electromagnetism Introduction Electromagnetism is one of the fundamental force in nature consisting of the elements electricity and magnetism (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] It involves the study of electromagnetic force — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 123 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u04-c002",
+            "name": "118 Unit 4 Electromagnetism Arising From",
+            "simple_definition": "118 Unit 4 Electromagnetism arising from electric charges in motion",
+            "deep_explanation": "Without an understanding of electromagnetism, devices such radios, televisions, computers, tape recorders, CD players, electric motors, and generators, could not have been invented",
+            "real_example": "Practical example of 118 Unit 4 Electromagnetism arising from from page 124.",
+            "common_confusion": "Students sometimes confuse 118 Unit 4 Electromagnetism arising from with adjacent topics in Chapter 4.",
+            "source_pages": "124",
+            "name_amharic": "118 Unit 4 Electromagnetism arising from (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 118 Unit 4 Electromagnetism arising from electric charges in motion (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Without an understanding of electromagnetism, devices such radios, televisions, computers, tape recorders, CD players, electric motors, and generators, could not have been invented — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 124 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u04-c003",
+            "name": "4.1 Magnets And Magnetic ﬁeld 119 Perman",
+            "simple_definition": "4.1 Magnets and Magnetic ﬁeld 119 permanent magnets are magnetized then they hold their magnetic property for a very long time",
+            "deep_explanation": "The magnet shown in Figure 4.1 is an example of permanent magnet",
+            "real_example": "Practical example of 4.1 Magnets and Magnetic ﬁeld 119 perman from page 125.",
+            "common_confusion": "Students sometimes confuse 4.1 Magnets and Magnetic ﬁeld 119 perman with adjacent topics in Chapter 4.",
+            "source_pages": "125",
+            "name_amharic": "4.1 Magnets and Magnetic ﬁeld 119 perman (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 4.1 Magnets and Magnetic ﬁeld 119 permanent magnets are magnetized then they hold their magnetic property for a very long time (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The magnet shown in Figure 4.1 is an example of permanent magnet — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 125 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u04-c004",
+            "name": "120 Unit 4 Electromagnetism • The Electr",
+            "simple_definition": "120 Unit 4 Electromagnetism • The electric ﬁeld lines do not form a loop whereas the magnetic ﬁeld lines form a closed loop",
+            "deep_explanation": "Exercise 4.1: 1",
+            "real_example": "Practical example of 120 Unit 4 Electromagnetism • The electr from page 126.",
+            "common_confusion": "Students sometimes confuse 120 Unit 4 Electromagnetism • The electr with adjacent topics in Chapter 4.",
+            "source_pages": "126",
+            "name_amharic": "120 Unit 4 Electromagnetism • The electr (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 120 Unit 4 Electromagnetism • The electric ﬁeld lines do not form a loop whereas the magnetic ﬁeld lines form a closed loop (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Exercise 4.1: 1 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 126 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u04-c005",
+            "name": "4.2 Magnetic ﬁeld Lines 121 Figure 4.4 A",
+            "simple_definition": "4.2 Magnetic ﬁeld lines 121 Figure 4.4 a) Magnetic ﬁeld pattern surrounding a bar magnet b) Magnetic ﬁeld pattern between opposite poles (N–S) of two bar magnets and c) Magnetic ﬁeld pattern between like poles (N–N) of two bar magnets",
+            "deep_explanation": "Properties of Magnetic Field Lines • Field lines have both direction and magnitude at any point on the ﬁeld",
+            "real_example": "Practical example of 4.2 Magnetic ﬁeld lines 121 Figure 4.4 a from page 127.",
+            "common_confusion": "Students sometimes confuse 4.2 Magnetic ﬁeld lines 121 Figure 4.4 a with adjacent topics in Chapter 4.",
+            "source_pages": "127",
+            "name_amharic": "4.2 Magnetic ﬁeld lines 121 Figure 4.4 a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 4.2 Magnetic ﬁeld lines 121 Figure 4.4 a) Magnetic ﬁeld pattern surrounding a bar magnet b) Magnetic ﬁeld pattern between opposite poles (N–S) of two bar magnets and c) Magnetic ﬁeld pattern between like poles (N–N) of two bar magnets (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Properties of Magnetic Field Lines • Field lines have both direction and magnitude at any point on the ﬁeld — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 127 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u04-c006",
+            "name": "Concept 6: Atomic, Nuclear, And Particle Physics",
+            "simple_definition": "122 Unit 4 Electromagnetism Exercise 4.2: 1",
+            "deep_explanation": "Deﬁne magnetic ﬁeld lines",
+            "real_example": "Practical example of Concept 6: Atomic, Nuclear, and Particle Physics from page 128.",
+            "common_confusion": "Students sometimes confuse Concept 6: Atomic, Nuclear, and Particle Physics with adjacent topics in Chapter 4.",
+            "source_pages": "128",
+            "name_amharic": "Concept 6: Atomic, Nuclear, and Particle Physics (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 122 Unit 4 Electromagnetism Exercise 4.2: 1 (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Deﬁne magnetic ﬁeld lines — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 128 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

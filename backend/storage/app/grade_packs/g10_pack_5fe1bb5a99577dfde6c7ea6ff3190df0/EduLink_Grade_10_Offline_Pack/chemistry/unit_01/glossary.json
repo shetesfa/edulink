@@ -1,0 +1,37 @@
+{
+    "grade": 10,
+    "subject": "chemistry",
+    "unit_number": 1,
+    "glossary": [
+        {
+            "term": "Organic Chemistry",
+            "definition": "Organic chemistry is the scientific study of carbon-based compounds, their structures, and reactions.",
+            "source_page": "174-178"
+        },
+        {
+            "term": "169 Energy Changes And Electrochemistry ",
+            "definition": "169 Energy Changes and Electrochemistry Note that the total energy of the universe remains constant",
+            "source_page": "175"
+        },
+        {
+            "term": "From Your Discussion On Activity 4.2, Yo",
+            "definition": "From your discussion on Activity 4.2, you can conclude that reactions that cause the surrounding to heat up are called heat releasing reactions and the process is exothermic",
+            "source_page": "176"
+        },
+        {
+            "term": "171 Energy Changes And Electrochemistry ",
+            "definition": "171 Energy Changes and Electrochemistry Reactions like this are described as being endothermic (from the Greek endo meaning within)",
+            "source_page": "177"
+        },
+        {
+            "term": "Example, A Substance With A Low Heat Cap",
+            "definition": "example, a substance with a low heat capacity, such as iron, will heat and cool quickly, while a substance with a high heat capacity, such as water, heats and cools slowly",
+            "source_page": "178"
+        },
+        {
+            "term": "173 Energy Changes And Electrochemistry ",
+            "definition": "173 Energy Changes and Electrochemistry 4.1.2 Importance of Chemical Changes At the end of this section, students will be able to discuss the importance of chemical changes in the production of new substances and energy",
+            "source_page": "179"
+        }
+    ]
+}

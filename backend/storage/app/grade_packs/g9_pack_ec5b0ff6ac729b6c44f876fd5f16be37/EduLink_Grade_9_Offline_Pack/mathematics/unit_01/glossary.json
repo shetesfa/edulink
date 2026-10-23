@@ -1,0 +1,130 @@
+{
+    "grade": 9,
+    "subject": "mathematics",
+    "unit_number": 1,
+    "unit_title": "Further on Sets",
+    "source_book": "G9 Mathematics",
+    "glossary": [
+        {
+            "word": "Set",
+            "meaning": "A collection of well-defined objects or elements.",
+            "subject_unit": "mathematics-u01",
+            "source_page": "2"
+        },
+        {
+            "word": "Element (member)",
+            "meaning": "An object that belongs to a set; denoted a ∈ A if a belongs to set A.",
+            "subject_unit": "mathematics-u01",
+            "source_page": "2"
+        },
+        {
+            "word": "Empty set (null set)",
+            "meaning": "A set containing no elements, written { } or ∅.",
+            "subject_unit": "mathematics-u01",
+            "source_page": "7"
+        },
+        {
+            "word": "Finite set",
+            "meaning": "A set with a definite (countable, limited) number of elements.",
+            "subject_unit": "mathematics-u01",
+            "source_page": "7"
+        },
+        {
+            "word": "Infinite set",
+            "meaning": "A set that is not finite; its elements cannot all be counted.",
+            "subject_unit": "mathematics-u01",
+            "source_page": "7"
+        },
+        {
+            "word": "Equal sets",
+            "meaning": "Two sets that contain exactly the same elements.",
+            "subject_unit": "mathematics-u01",
+            "source_page": "8"
+        },
+        {
+            "word": "Equivalent sets",
+            "meaning": "Two sets with a one-to-one correspondence between their elements (i.e. the same number of elements).",
+            "subject_unit": "mathematics-u01",
+            "source_page": "8"
+        },
+        {
+            "word": "Universal set (U)",
+            "meaning": "A set containing all elements relevant to a particular discussion, with no repeated elements.",
+            "subject_unit": "mathematics-u01",
+            "source_page": "9"
+        },
+        {
+            "word": "Subset (⊆)",
+            "meaning": "Set A is a subset of B if every element of A is also an element of B.",
+            "subject_unit": "mathematics-u01",
+            "source_page": "9"
+        },
+        {
+            "word": "Proper subset (⊂)",
+            "meaning": "A subset A of B where A ⊆ B and A ≠ B.",
+            "subject_unit": "mathematics-u01",
+            "source_page": "10"
+        },
+        {
+            "word": "Venn diagram",
+            "meaning": "A pictorial representation of sets using interlocking circles inside a rectangle representing the universal set.",
+            "subject_unit": "mathematics-u01",
+            "source_page": "12"
+        },
+        {
+            "word": "Union (∪)",
+            "meaning": "The set of all elements that are in set A or set B (or both).",
+            "subject_unit": "mathematics-u01",
+            "source_page": "13"
+        },
+        {
+            "word": "Intersection (∩)",
+            "meaning": "The set of all elements that are in both set A and set B.",
+            "subject_unit": "mathematics-u01",
+            "source_page": "13"
+        },
+        {
+            "word": "Disjoint sets",
+            "meaning": "Two sets whose intersection is the empty set (they share no elements).",
+            "subject_unit": "mathematics-u01",
+            "source_page": "13"
+        },
+        {
+            "word": "Complement (A')",
+            "meaning": "The set of all elements in the universal set U that are not in A.",
+            "subject_unit": "mathematics-u01",
+            "source_page": "14"
+        },
+        {
+            "word": "De Morgan's Law",
+            "meaning": "Rules relating complement to union\/intersection: (A∪B)' = A'∩B' and (A∩B)' = A'∪B'.",
+            "subject_unit": "mathematics-u01",
+            "source_page": "16"
+        },
+        {
+            "word": "Difference (A - B)",
+            "meaning": "The set of elements in A that are not in B; also called the relative complement of A with respect to B.",
+            "subject_unit": "mathematics-u01",
+            "source_page": "16"
+        },
+        {
+            "word": "Symmetric difference (A∆B)",
+            "meaning": "The set of elements that are in exactly one of A or B, but not both.",
+            "subject_unit": "mathematics-u01",
+            "source_page": "18"
+        },
+        {
+            "word": "Cartesian product (A × B)",
+            "meaning": "The set of all ordered pairs (a,b) where a ∈ A and b ∈ B.",
+            "subject_unit": "mathematics-u01",
+            "source_page": "19"
+        },
+        {
+            "word": "n(A)",
+            "meaning": "Notation for the number of elements (cardinality) in a finite set A.",
+            "subject_unit": "mathematics-u01",
+            "source_page": "8"
+        }
+    ],
+    "unit_title_amharic": "Further on Sets (በአማርኛ)"
+}

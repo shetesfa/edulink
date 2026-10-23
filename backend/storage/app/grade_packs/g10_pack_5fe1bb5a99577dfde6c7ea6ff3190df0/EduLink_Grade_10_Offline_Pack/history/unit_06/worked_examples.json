@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "history",
+    "unit_number": 6,
+    "worked_examples": [
+        {
+            "id": "g10-history-u06-we001",
+            "title": "Worked Example 1: Africa and the Outside World",
+            "problem_statement": "Analyze the application of the topic explained on page 153.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 153.",
+            "source_page": "153"
+        },
+        {
+            "id": "g10-history-u06-we002",
+            "title": "Worked Example 2: Africa and the Outside World",
+            "problem_statement": "Analyze the application of the topic explained on page 154.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 154.",
+            "source_page": "154"
+        }
+    ]
+}

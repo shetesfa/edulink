@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "economics",
+    "unit_number": 2,
+    "worked_examples": [
+        {
+            "id": "g12-economics-u02-we001",
+            "title": "Worked Example 1: National Income Accounting",
+            "problem_statement": "Analyze the application of the topic explained on page 35.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 35.",
+            "source_page": "35"
+        },
+        {
+            "id": "g12-economics-u02-we002",
+            "title": "Worked Example 2: National Income Accounting",
+            "problem_statement": "Analyze the application of the topic explained on page 36.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 36.",
+            "source_page": "36"
+        }
+    ]
+}

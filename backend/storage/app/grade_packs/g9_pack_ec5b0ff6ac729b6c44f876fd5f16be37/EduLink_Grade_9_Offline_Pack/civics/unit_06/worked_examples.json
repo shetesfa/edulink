@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "civics",
+    "unit_number": 6,
+    "examples": [
+        {
+            "example_id": "g9-civics-u06-we001",
+            "title": "Worked Example 1: Professional Solution for Self-Reliance and Entrepreneurship",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የSelf-Reliance and Entrepreneurship ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 117-134.",
+            "problem_amharic": "ከገጽ 117-134 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "117-134"
+        }
+    ]
+}

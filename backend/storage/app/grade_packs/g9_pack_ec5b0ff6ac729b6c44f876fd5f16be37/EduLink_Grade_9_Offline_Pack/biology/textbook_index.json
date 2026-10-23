@@ -1,0 +1,38 @@
+{
+    "grade": 9,
+    "subject": "biology",
+    "source_book": "G9 Biology",
+    "total_pages_in_source": 250,
+    "units": [
+        {
+            "unit_number": 1,
+            "unit_title": "Unit 1: Introduction to Biology and Microscope",
+            "status": "completed"
+        },
+        {
+            "unit_number": 2,
+            "unit_title": "Unit 2: Cell Biology and Transport Mechanisms",
+            "status": "completed"
+        },
+        {
+            "unit_number": 3,
+            "unit_title": "Unit 3: Human Biology, Systems, and Health",
+            "status": "completed"
+        },
+        {
+            "unit_number": 4,
+            "unit_title": "Unit 4: Plant Anatomy and Physiology",
+            "status": "completed"
+        },
+        {
+            "unit_number": 5,
+            "unit_title": "Unit 5: Animal Diversity and Physiology",
+            "status": "completed"
+        },
+        {
+            "unit_number": 6,
+            "unit_title": "Unit 6: Ecology and Environmental Conservation in Ethiopia",
+            "status": "completed"
+        }
+    ]
+}

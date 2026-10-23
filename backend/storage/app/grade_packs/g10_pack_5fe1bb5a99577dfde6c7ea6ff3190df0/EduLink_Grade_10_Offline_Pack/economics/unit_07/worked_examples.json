@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "economics",
+    "unit_number": 7,
+    "worked_examples": [
+        {
+            "id": "g10-economics-u07-we001",
+            "title": "Worked Example 1: Money, Banking & Financial Institutions in Ethiopia",
+            "problem_statement": "Analyze the application of the topic explained on page 137.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 137.",
+            "source_page": "137"
+        },
+        {
+            "id": "g10-economics-u07-we002",
+            "title": "Worked Example 2: Money, Banking & Financial Institutions in Ethiopia",
+            "problem_statement": "Analyze the application of the topic explained on page 138.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 138.",
+            "source_page": "138"
+        }
+    ]
+}

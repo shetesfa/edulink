@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "history",
+    "unit_number": 2,
+    "worked_examples": [
+        {
+            "id": "g12-history-u02-we001",
+            "title": "Worked Example 1: Unit 2: Interwar Period and Rise of Fascism",
+            "problem_statement": "Analyze the application of the topic explained on page 46.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 46.",
+            "source_page": "46"
+        },
+        {
+            "id": "g12-history-u02-we002",
+            "title": "Worked Example 2: Unit 2: Interwar Period and Rise of Fascism",
+            "problem_statement": "Analyze the application of the topic explained on page 47.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 47.",
+            "source_page": "47"
+        }
+    ]
+}

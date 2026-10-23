@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "physics",
+    "unit_number": 2,
+    "unit_title": "One Dimensional Motion",
+    "source_book": "G10 Physics",
+    "concepts": [
+        {
+            "id": "g10-physics-u02-c001",
+            "name": "Acceleration",
+            "simple_definition": "Acceleration is the rate of change of velocity with time.",
+            "deep_explanation": "Average acceleration is a_avg = (v - u) \/ t, where v is final velocity and u is initial velocity. It is measured in m\/s².",
+            "real_example": "A rocket accelerating from rest to 100 m\/s in 10 seconds has an acceleration of 10 m\/s².",
+            "common_confusion": "Assuming negative acceleration always means slowing down. It can mean speeding up in the negative direction.",
+            "source_pages": "27-32",
+            "name_amharic": "ማጣደፍ (Acceleration)",
+            "simple_definition_amharic": "ማጣደፍ ማለት የፍጥነት ለውጥ በጊዜ ሂደት ያለውን ፍጥነት የሚለካበት የፊዚክስ መጠን ነው።",
+            "deep_explanation_amharic": "አማካይ ማጣደፍ a = (v - u) \/ t ሲሆን፣ v የመጨረሻ ፍጥነት u ደግሞ መጀመሪያ ፍጥነት ነው። ክፍሉ ሜ\/ሰ² ነው።",
+            "real_example_amharic": "አንድ ሮኬት ከእረፍት ተነስቶ በ 10 ሰከንድ ውስጥ 100 ሜ\/ሰ ፍጥነት ላይ ሲደርስ ማጣደፉ 10 ሜ\/ሰ² ይሆናል።",
+            "common_confusion_amharic": "አሉታዊ ማጣደፍ ሁልጊዜ ፍጥነት መቀነስን ብቻ ያሳያል ብሎ ማሰብ።"
+        },
+        {
+            "id": "g10-physics-u02-c002",
+            "name": "22 Unit 2 Uniformly Accelerated Motion 2",
+            "simple_definition": "22 Unit 2 Uniformly Accelerated Motion 2.1 Position and Displacement By the end of this section, you should be able to: • deﬁne terms such as position, displacement, and distance; • determine the distance and displacement traveled by an object; • describe the difference between distance and displacement",
+            "deep_explanation": "Exercise 2.1 Can two objects be at the same distance from a single point while being in different positions? Why or why not? Key Concept \u001f The location of an object in a frame of reference is called position",
+            "real_example": "Practical example of 22 Unit 2 Uniformly Accelerated Motion 2 from page 28.",
+            "common_confusion": "Students sometimes confuse 22 Unit 2 Uniformly Accelerated Motion 2 with adjacent topics in Chapter 2.",
+            "source_pages": "28",
+            "name_amharic": "22 Unit 2 Uniformly Accelerated Motion 2 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 22 Unit 2 Uniformly Accelerated Motion 2.1 Position and Displacement By the end of this section, you should be able to: • deﬁne terms such as position, displacement, and distance; • determine the distance and displacement traveled by an object; • describe the difference between distance and displacement (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Exercise 2.1 Can two objects be at the same distance from a single point while being in different positions? Why or why not? Key Concept \u001f The location of an object in a frame of reference is called position — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 28 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u02-c003",
+            "name": "2.1 Position And Displacement 23 Displac",
+            "simple_definition": "2.1 Position and Displacement 23 Displacement Figure 2.1 The possible dis- tance and displacement of an object in motion between two points",
+            "deep_explanation": "From your grade 9 Physics, you know that distance is the total length of the path taken in going from the initial position to the ﬁnal position",
+            "real_example": "Practical example of 2.1 Position and Displacement 23 Displac from page 29.",
+            "common_confusion": "Students sometimes confuse 2.1 Position and Displacement 23 Displac with adjacent topics in Chapter 2.",
+            "source_pages": "29",
+            "name_amharic": "2.1 Position and Displacement 23 Displac (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 2.1 Position and Displacement 23 Displacement Figure 2.1 The possible dis- tance and displacement of an object in motion between two points (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] From your grade 9 Physics, you know that distance is the total length of the path taken in going from the initial position to the ﬁnal position — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 29 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u02-c004",
+            "name": "24 Unit 2 Uniformly Accelerated Motion F",
+            "simple_definition": "24 Unit 2 Uniformly Accelerated Motion For motion of the object from O to A, the distance covered is 60 km and the magnitude of displacement is also 60 km",
+            "deep_explanation": "During its motion from O to A and back to B, the distance covered = 60 km + 25 km = 85 km while the magnitude of displacement = 60 km - 25 km = 35 km",
+            "real_example": "Practical example of 24 Unit 2 Uniformly Accelerated Motion F from page 30.",
+            "common_confusion": "Students sometimes confuse 24 Unit 2 Uniformly Accelerated Motion F with adjacent topics in Chapter 2.",
+            "source_pages": "30",
+            "name_amharic": "24 Unit 2 Uniformly Accelerated Motion F (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 24 Unit 2 Uniformly Accelerated Motion For motion of the object from O to A, the distance covered is 60 km and the magnitude of displacement is also 60 km (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] During its motion from O to A and back to B, the distance covered = 60 km + 25 km = 85 km while the magnitude of displacement = 60 km - 25 km = 35 km — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 30 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u02-c005",
+            "name": "2.2 Average Velocity And Instantaneous V",
+            "simple_definition": "2.2 Average velocity and instantaneous velocity 25 Section summary • A description of motion depends on the reference frame from which it is described",
+            "deep_explanation": "• Position is the location of an object compared to a reference frame (point)",
+            "real_example": "Practical example of 2.2 Average velocity and instantaneous v from page 31.",
+            "common_confusion": "Students sometimes confuse 2.2 Average velocity and instantaneous v with adjacent topics in Chapter 2.",
+            "source_pages": "31",
+            "name_amharic": "2.2 Average velocity and instantaneous v (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 2.2 Average velocity and instantaneous velocity 25 Section summary • A description of motion depends on the reference frame from which it is described (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] • Position is the location of an object compared to a reference frame (point) — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 31 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u02-c006",
+            "name": "26 Unit 2 Uniformly Accelerated Motion A",
+            "simple_definition": "26 Unit 2 Uniformly Accelerated Motion Average velocity In grade 9, you learnt that the rate of change of distance with time is called speed, while the rate of change of displacement is known as velocity",
+            "deep_explanation": "Un- like speed, velocity is a vector quantity",
+            "real_example": "Practical example of 26 Unit 2 Uniformly Accelerated Motion A from page 32.",
+            "common_confusion": "Students sometimes confuse 26 Unit 2 Uniformly Accelerated Motion A with adjacent topics in Chapter 2.",
+            "source_pages": "32",
+            "name_amharic": "26 Unit 2 Uniformly Accelerated Motion A (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 26 Unit 2 Uniformly Accelerated Motion Average velocity In grade 9, you learnt that the rate of change of distance with time is called speed, while the rate of change of displacement is known as velocity (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Un- like speed, velocity is a vector quantity — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 32 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

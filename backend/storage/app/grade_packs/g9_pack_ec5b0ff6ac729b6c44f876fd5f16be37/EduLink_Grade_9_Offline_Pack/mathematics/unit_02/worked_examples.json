@@ -1,0 +1,89 @@
+{
+    "grade": 9,
+    "subject": "mathematics",
+    "unit_number": 2,
+    "unit_title": "The Number System",
+    "source_book": "G9 Mathematics",
+    "worked_examples": [
+        {
+            "id": "g9-mathematics-u02-we001",
+            "problem": "Three strings of lengths 78 cm, 117 cm, and 351 cm are to be cut into equal-length pieces with nothing left over. Find the greatest possible length of each piece.",
+            "given_information": "String lengths: 78 cm, 117 cm, 351 cm",
+            "step_by_step_solution": [
+                "Prime factorize each length: 78 = 2 × 3 × 13; 117 = 3² × 13; 351 = 3³ × 13.",
+                "Identify the common prime factors across all three: 3 and 13 (using the lowest power each appears with -- 3¹ and 13¹).",
+                "Multiply the common prime factors: GCF = 3 × 13 = 39."
+            ],
+            "final_answer": "The greatest possible piece length is 39 cm.",
+            "explanation": "Cutting all three strings into equal pieces with none left over means the piece length must divide all three lengths exactly -- the largest such length is the GCF.",
+            "source_page": "97"
+        },
+        {
+            "id": "g9-mathematics-u02-we002",
+            "problem": "Convert the repeating decimal 1.216̄̄̄̄ (where 216 repeats) to a fraction in simplest form.",
+            "given_information": "d = 1.216216216...",
+            "step_by_step_solution": [
+                "Let d = 1.216216216... . Since 3 digits repeat, multiply both sides by 1000: 1000d = 1216.216216...",
+                "Subtract the original equation from this new one: 1000d - d = 1216.216216... - 1.216216... , giving 999d = 1215.",
+                "Solve for d: d = 1215\/999.",
+                "Simplify the fraction by dividing numerator and denominator by their GCF, 27: 1215÷27 = 45, 999÷27 = 37."
+            ],
+            "final_answer": "1.216216... = 45\/37",
+            "explanation": "Multiplying by the right power of 10 (matching the length of the repeating block) makes the infinite repeating parts cancel exactly when subtracted, leaving a simple linear equation.",
+            "source_page": "50"
+        },
+        {
+            "id": "g9-mathematics-u02-we003",
+            "problem": "Simplify 5√8 + 6√32.",
+            "given_information": "Expression: 5√8 + 6√32",
+            "step_by_step_solution": [
+                "Break each radicand into a perfect square times a remaining factor: √8 = √(4×2) = 2√2; √32 = √(16×2) = 4√2.",
+                "Substitute back: 5√8 + 6√32 = 5(2√2) + 6(4√2) = 10√2 + 24√2.",
+                "Since both terms are now like radicals (same radicand, √2), add their coefficients: 10 + 24 = 34."
+            ],
+            "final_answer": "5√8 + 6√32 = 34√2",
+            "explanation": "Radicals can only be combined directly once they share the same radicand -- simplifying each term first often reveals a hidden common radicand.",
+            "source_page": "73"
+        },
+        {
+            "id": "g9-mathematics-u02-we004",
+            "problem": "A rectangular farmland has length 12 m and width 6 m, both accurate to the nearest metre. Find the range (upper and lower bounds) of the farmland's area.",
+            "given_information": "Length l = 12 m (to nearest m); Width w = 6 m (to nearest m)",
+            "step_by_step_solution": [
+                "Find the bounds of each measurement: since each is rounded to the nearest whole metre, the place value is 1, so the margin is 0.5. This gives 11.5 ≤ l < 12.5 and 5.5 ≤ w < 6.5.",
+                "The minimum possible area comes from multiplying the two lower bounds: 11.5 × 5.5.",
+                "The maximum possible area comes from multiplying the two upper bounds: 12.5 × 6.5."
+            ],
+            "final_answer": "The area lies between 63.25 m² and 81.25 m².",
+            "explanation": "When two approximated quantities are multiplied, the true minimum and maximum of the product come from pairing the lower bound with the lower bound, and the upper bound with the upper bound (for two positive quantities).",
+            "source_page": "88"
+        },
+        {
+            "id": "g9-mathematics-u02-we005",
+            "problem": "Rationalize the denominator of 1\/(√2+1).",
+            "given_information": "Expression: 1\/(√2+1)",
+            "step_by_step_solution": [
+                "Identify the rationalizing factor as the conjugate of the denominator: √2-1.",
+                "Multiply numerator and denominator by (√2-1): [1×(√2-1)] \/ [(√2+1)(√2-1)].",
+                "Expand the denominator using (a+b)(a-b) = a² - b²: (√2)² - 1² = 2 - 1 = 1."
+            ],
+            "final_answer": "1\/(√2+1) = √2 - 1",
+            "explanation": "Multiplying a two-term radical denominator by its conjugate always produces a difference of squares, which eliminates the radical from the denominator.",
+            "source_page": "94"
+        },
+        {
+            "id": "g9-mathematics-u02-we006",
+            "problem": "When the positive integers a, b, and c are each divided by 13, the remainders are 9, 7, and 10 respectively. Show that a + b + c is divisible by 13.",
+            "given_information": "a = 13k₁ + 9, b = 13k₂ + 7, c = 13k₃ + 10, for some non-negative integers k₁, k₂, k₃ (by Euclid's Division Lemma)",
+            "step_by_step_solution": [
+                "Add the three expressions: a + b + c = 13k₁ + 9 + 13k₂ + 7 + 13k₃ + 10.",
+                "Group the multiples of 13 together and add the remainders: = 13(k₁+k₂+k₃) + (9+7+10) = 13(k₁+k₂+k₃) + 26.",
+                "Notice that 26 = 13 × 2, which is itself a multiple of 13: = 13(k₁+k₂+k₃) + 13(2) = 13(k₁+k₂+k₃+2)."
+            ],
+            "final_answer": "a + b + c = 13 × (k₁+k₂+k₃+2), which is clearly a multiple of 13 -- so a+b+c is divisible by 13.",
+            "explanation": "This is a direct application of Euclid's Division Lemma: writing each number in terms of its quotient and remainder lets you combine them algebraically and check divisibility exactly.",
+            "source_page": "103"
+        }
+    ],
+    "unit_title_amharic": "The Number System (በአማርኛ)"
+}

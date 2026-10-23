@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "history",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g12-history-u05-we001",
+            "title": "Worked Example 1: Unit 5: Imperial Ethiopia and Modern Reforms",
+            "problem_statement": "Analyze the application of the topic explained on page 181.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 181.",
+            "source_page": "181"
+        },
+        {
+            "id": "g12-history-u05-we002",
+            "title": "Worked Example 2: Unit 5: Imperial Ethiopia and Modern Reforms",
+            "problem_statement": "Analyze the application of the topic explained on page 182.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 182.",
+            "source_page": "182"
+        }
+    ]
+}

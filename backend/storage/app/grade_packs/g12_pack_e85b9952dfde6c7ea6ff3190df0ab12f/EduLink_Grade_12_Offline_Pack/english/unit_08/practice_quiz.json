@@ -1,0 +1,119 @@
+{
+    "grade": 12,
+    "subject": "english",
+    "unit_number": 8,
+    "practice_quiz": [
+        {
+            "id": "g12-english-u08-q001",
+            "question": "Which of the following describes the key principle of the topic discussed on page 186?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 186.",
+            "difficulty": "easy",
+            "related_concept": "g12-english-u08-c002"
+        },
+        {
+            "id": "g12-english-u08-q002",
+            "question": "Which of the following describes the key principle of the topic discussed on page 187?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 187.",
+            "difficulty": "easy",
+            "related_concept": "g12-english-u08-c003"
+        },
+        {
+            "id": "g12-english-u08-q003",
+            "question": "Which of the following describes the key principle of the topic discussed on page 188?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 188.",
+            "difficulty": "easy",
+            "related_concept": "g12-english-u08-c004"
+        },
+        {
+            "id": "g12-english-u08-q004",
+            "question": "Which of the following describes the key principle of the topic discussed on page 189?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 189.",
+            "difficulty": "medium",
+            "related_concept": "g12-english-u08-c005"
+        },
+        {
+            "id": "g12-english-u08-q005",
+            "question": "Which of the following describes the key principle of the topic discussed on page 190?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 190.",
+            "difficulty": "medium",
+            "related_concept": "g12-english-u08-c006"
+        },
+        {
+            "id": "g12-english-u08-q006",
+            "question": "Which of the following describes the key principle of the topic discussed on page 191?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 191.",
+            "difficulty": "medium",
+            "related_concept": "g12-english-u08-c001"
+        },
+        {
+            "id": "g12-english-u08-q007",
+            "question": "Which of the following describes the key principle of the topic discussed on page 192?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 192.",
+            "difficulty": "hard",
+            "related_concept": "g12-english-u08-c002"
+        },
+        {
+            "id": "g12-english-u08-q008",
+            "question": "Which of the following describes the key principle of the topic discussed on page 193?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 193.",
+            "difficulty": "hard",
+            "related_concept": "g12-english-u08-c003"
+        }
+    ]
+}

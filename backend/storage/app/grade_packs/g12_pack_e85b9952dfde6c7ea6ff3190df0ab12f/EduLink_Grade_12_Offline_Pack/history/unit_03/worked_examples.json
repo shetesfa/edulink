@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "history",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g12-history-u03-we001",
+            "title": "Worked Example 1: Unit 3: The Second World War and Global Order",
+            "problem_statement": "Analyze the application of the topic explained on page 91.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 91.",
+            "source_page": "91"
+        },
+        {
+            "id": "g12-history-u03-we002",
+            "title": "Worked Example 2: Unit 3: The Second World War and Global Order",
+            "problem_statement": "Analyze the application of the topic explained on page 92.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 92.",
+            "source_page": "92"
+        }
+    ]
+}

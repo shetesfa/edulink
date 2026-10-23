@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 2,
+    "unit_title": "Polynomial Functions",
+    "source_book": "G10 Mathematics",
+    "concepts": [
+        {
+            "id": "g10-mathematics-u02-c001",
+            "name": "Polynomial Function",
+            "simple_definition": "A polynomial function is a function of the form f(x) = a_n x^n + ... + a_1 x + a_0, where n is a non-negative integer.",
+            "deep_explanation": "The leading coefficient a_n cannot be zero, and n represents the degree of the polynomial. The domain of any polynomial function is all real numbers.",
+            "real_example": "f(x) = 3x³ - 5x + 2 is a polynomial function of degree 3.",
+            "common_confusion": "Thinking functions with negative exponents (like x⁻¹) or fractional exponents (like x^1\/2) are polynomials.",
+            "source_pages": "76-80",
+            "name_amharic": "ፖሊኖሚያል ፈንክሽን",
+            "simple_definition_amharic": "ፖሊኖሚያል ፈንክሽን ማለት የf(x) = a_n x^n + ... + a_0 ቅርጽ ያለው ፈንክሽን ሲሆን፣ ገላጮቹ ኢ-አሉታዊ ሙሉ ቁጥሮች ናቸው።",
+            "deep_explanation_amharic": "የመጀመሪያው ረዳት ቁጥር (leading coefficient) 0 መሆን የለበትም፣ n ደግሞ የፖሊኖሚያሉን ዲግሪ ያሳያል።",
+            "real_example_amharic": "f(x) = 3x³ - 5x + 2 የዲግሪ 3 ፖሊኖሚያል ፈንክሽን ነው።",
+            "common_confusion_amharic": "አሉታዊ ገላጭ (x⁻¹) ወይም ክፍልፋይ ገላጭ (x^1\/2) ያላቸውን ፈንክሽኖች ፖሊኖሚያል ናቸው ብሎ ማሰብ ስህተት ነው።"
+        },
+        {
+            "id": "g10-mathematics-u02-c002",
+            "name": "Polynomial Functions 68 ✓ Linear Functio",
+            "simple_definition": "Unit 2: Polynomial Functions 68 ✓ Linear function ✓ Domain ✓ Location Theorem ✓ Turning point ✓ x-intercept ✓ Zero(s) of polynomial ✓ Remainder theorem ✓ Polynomial Division Theorem ✓ y-intercept ✓ Factor theorem ✓ Polynomial Function ✓ Multiplicity ✓ Leading Coefficient ✓ Rational root test ✓ Degree ✓Constant function ✓ Constant term Introduction In unit one of this textbook, you saw functions of the form 𝑦= 𝑏, 𝑦= 𝑎𝑥+ 𝑏 and 𝑎𝑥2 + 𝑏𝑥+ 𝑐",
+            "deep_explanation": "You also attempted to sketch their graphs",
+            "real_example": "Practical example of Polynomial Functions 68 ✓ Linear functio from page 77.",
+            "common_confusion": "Students sometimes confuse Polynomial Functions 68 ✓ Linear functio with adjacent topics in Chapter 2.",
+            "source_pages": "77",
+            "name_amharic": "Polynomial Functions 68 ✓ Linear functio (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 2: Polynomial Functions 68 ✓ Linear function ✓ Domain ✓ Location Theorem ✓ Turning point ✓ x-intercept ✓ Zero(s) of polynomial ✓ Remainder theorem ✓ Polynomial Division Theorem ✓ y-intercept ✓ Factor theorem ✓ Polynomial Function ✓ Multiplicity ✓ Leading Coefficient ✓ Rational root test ✓ Degree ✓Constant function ✓ Constant term Introduction In unit one of this textbook, you saw functions of the form 𝑦= 𝑏, 𝑦= 𝑎𝑥+ 𝑏 and 𝑎𝑥2 + 𝑏𝑥+ 𝑐 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] You also attempted to sketch their graphs — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 77 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u02-c003",
+            "name": "Polynomial Functions 69 A Function 𝑓is A",
+            "simple_definition": "Unit 2: Polynomial Functions 69 A function 𝑓is a constant function if it can be written in the form 𝑓(𝑥) = 𝑏, where 𝑏is a real number",
+            "deep_explanation": "The domain of 𝑓is the set of all real numbers and the range is the set containing only the number 𝑏",
+            "real_example": "Practical example of Polynomial Functions 69 A function 𝑓is a from page 78.",
+            "common_confusion": "Students sometimes confuse Polynomial Functions 69 A function 𝑓is a with adjacent topics in Chapter 2.",
+            "source_pages": "78",
+            "name_amharic": "Polynomial Functions 69 A function 𝑓is a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 2: Polynomial Functions 69 A function 𝑓is a constant function if it can be written in the form 𝑓(𝑥) = 𝑏, where 𝑏is a real number (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The domain of 𝑓is the set of all real numbers and the range is the set containing only the number 𝑏 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 78 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u02-c004",
+            "name": "Polynomial Functions 70 In The Above Def",
+            "simple_definition": "Unit 2: Polynomial Functions 70 In the above definition of polynomial function i",
+            "deep_explanation": "𝑎𝑛, 𝑎𝑛−1,",
+            "real_example": "Practical example of Polynomial Functions 70 In the above def from page 79.",
+            "common_confusion": "Students sometimes confuse Polynomial Functions 70 In the above def with adjacent topics in Chapter 2.",
+            "source_pages": "79",
+            "name_amharic": "Polynomial Functions 70 In the above def (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 2: Polynomial Functions 70 In the above definition of polynomial function i (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 𝑎𝑛, 𝑎𝑛−1, — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 79 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u02-c005",
+            "name": "Polynomial Functions 71 B",
+            "simple_definition": "Unit 2: Polynomial Functions 71 b",
+            "deep_explanation": "It is a polynomial function with degree 2, leading coefficient 3 and constant term −3",
+            "real_example": "Practical example of Polynomial Functions 71 b from page 80.",
+            "common_confusion": "Students sometimes confuse Polynomial Functions 71 b with adjacent topics in Chapter 2.",
+            "source_pages": "80",
+            "name_amharic": "Polynomial Functions 71 b (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 2: Polynomial Functions 71 b (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] It is a polynomial function with degree 2, leading coefficient 3 and constant term −3 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 80 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u02-c006",
+            "name": "Polynomial Functions 72 Determine If The",
+            "simple_definition": "Unit 2: Polynomial Functions 72 Determine if the following are polynomial function or not",
+            "deep_explanation": "𝑔(𝑥) = 4𝑥−2 + 3𝑥−1 −7 2",
+            "real_example": "Practical example of Polynomial Functions 72 Determine if the from page 81.",
+            "common_confusion": "Students sometimes confuse Polynomial Functions 72 Determine if the with adjacent topics in Chapter 2.",
+            "source_pages": "81",
+            "name_amharic": "Polynomial Functions 72 Determine if the (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 2: Polynomial Functions 72 Determine if the following are polynomial function or not (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 𝑔(𝑥) = 4𝑥−2 + 3𝑥−1 −7 2 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 81 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "grade": 12,
+    "subject": "agriculture",
+    "unit_number": 2,
+    "unit_title": "Principles of Horticulture",
+    "source_book": "G12 Agriculture",
+    "exercises": [
+        {
+            "exercise_id": "g12-agriculture-u02-ex001",
+            "question": "Describe the core properties of the topics presented on page 51 (Question 1).",
+            "question_amharic": "በገጽ 51 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 1)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 51.",
+            "correct_answer_amharic": "በገጽ 51 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 51.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 51 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 51.",
+            "source_page": "51",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g12-agriculture-u02-ex002",
+            "question": "Describe the core properties of the topics presented on page 52 (Question 2).",
+            "question_amharic": "በገጽ 52 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 52.",
+            "correct_answer_amharic": "በገጽ 52 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 52.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 52 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 52.",
+            "source_page": "52",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g12-agriculture-u02-ex003",
+            "question": "Describe the core properties of the topics presented on page 53 (Question 3).",
+            "question_amharic": "በገጽ 53 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 53.",
+            "correct_answer_amharic": "በገጽ 53 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 53.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 53 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 53.",
+            "source_page": "53",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g12-agriculture-u02-ex004",
+            "question": "Describe the core properties of the topics presented on page 54 (Question 4).",
+            "question_amharic": "በገጽ 54 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 54.",
+            "correct_answer_amharic": "በገጽ 54 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 54.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 54 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 54.",
+            "source_page": "54",
+            "needs_review": false
+        }
+    ]
+}

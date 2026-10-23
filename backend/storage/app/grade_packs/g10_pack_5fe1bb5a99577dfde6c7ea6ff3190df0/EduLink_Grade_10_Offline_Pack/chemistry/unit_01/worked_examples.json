@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "chemistry",
+    "unit_number": 1,
+    "worked_examples": [
+        {
+            "id": "g10-chemistry-u01-we001",
+            "title": "Worked Example 1: Introduction to Organic Chemistry",
+            "problem_statement": "Analyze the application of the topic explained on page 174.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 174.",
+            "source_page": "174"
+        },
+        {
+            "id": "g10-chemistry-u01-we002",
+            "title": "Worked Example 2: Introduction to Organic Chemistry",
+            "problem_statement": "Analyze the application of the topic explained on page 175.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 175.",
+            "source_page": "175"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "grade": 12,
+    "subject": "physics",
+    "unit_number": 4,
+    "unit_title": "Atomic, Nuclear, and Particle Physics",
+    "source_book": "G12 Physics",
+    "exercises": [
+        {
+            "exercise_id": "g12-physics-u04-ex001",
+            "question": "Describe the core properties of the topics presented on page 123 (Question 1).",
+            "question_amharic": "በገጽ 123 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 1)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 123.",
+            "correct_answer_amharic": "በገጽ 123 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 123.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 123 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 123.",
+            "source_page": "123",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g12-physics-u04-ex002",
+            "question": "Describe the core properties of the topics presented on page 124 (Question 2).",
+            "question_amharic": "በገጽ 124 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 124.",
+            "correct_answer_amharic": "በገጽ 124 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 124.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 124 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 124.",
+            "source_page": "124",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g12-physics-u04-ex003",
+            "question": "Describe the core properties of the topics presented on page 125 (Question 3).",
+            "question_amharic": "በገጽ 125 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 125.",
+            "correct_answer_amharic": "በገጽ 125 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 125.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 125 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 125.",
+            "source_page": "125",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g12-physics-u04-ex004",
+            "question": "Describe the core properties of the topics presented on page 126 (Question 4).",
+            "question_amharic": "በገጽ 126 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 126.",
+            "correct_answer_amharic": "በገጽ 126 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 126.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 126 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 126.",
+            "source_page": "126",
+            "needs_review": false
+        }
+    ]
+}

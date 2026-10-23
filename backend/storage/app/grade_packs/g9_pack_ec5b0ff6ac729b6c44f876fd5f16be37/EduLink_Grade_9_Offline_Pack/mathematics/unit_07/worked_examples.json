@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "mathematics",
+    "unit_number": 7,
+    "examples": [
+        {
+            "example_id": "g9-mathematics-u07-we001",
+            "title": "Worked Example 1: Professional Solution for Congruency and Similarity of Triangles",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የCongruency and Similarity of Triangles ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 250-287.",
+            "problem_amharic": "ከገጽ 250-287 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "250-287"
+        }
+    ]
+}

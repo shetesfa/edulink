@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "citizenship",
+    "unit_number": 7,
+    "worked_examples": [
+        {
+            "id": "g10-citizenship-u07-we001",
+            "title": "Worked Example 1: Saving, Investment, and Financial Literacy",
+            "problem_statement": "Analyze the application of the topic explained on page 149.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 149.",
+            "source_page": "149"
+        },
+        {
+            "id": "g10-citizenship-u07-we002",
+            "title": "Worked Example 2: Saving, Investment, and Financial Literacy",
+            "problem_statement": "Analyze the application of the topic explained on page 150.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 150.",
+            "source_page": "150"
+        }
+    ]
+}

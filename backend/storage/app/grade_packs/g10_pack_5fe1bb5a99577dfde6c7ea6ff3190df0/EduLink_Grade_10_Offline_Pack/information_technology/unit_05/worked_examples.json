@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "information_technology",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g10-information_technology-u05-we001",
+            "title": "Worked Example 1: Multimedia & Interactive Presentations",
+            "problem_statement": "Analyze the application of the topic explained on page 189.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 189.",
+            "source_page": "189"
+        },
+        {
+            "id": "g10-information_technology-u05-we002",
+            "title": "Worked Example 2: Multimedia & Interactive Presentations",
+            "problem_statement": "Analyze the application of the topic explained on page 190.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 190.",
+            "source_page": "190"
+        }
+    ]
+}

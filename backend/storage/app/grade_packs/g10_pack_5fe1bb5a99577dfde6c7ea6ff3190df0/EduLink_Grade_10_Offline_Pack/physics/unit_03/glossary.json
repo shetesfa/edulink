@@ -1,0 +1,37 @@
+{
+    "grade": 10,
+    "subject": "physics",
+    "unit_number": 3,
+    "glossary": [
+        {
+            "term": "Newton's Second Law",
+            "definition": "Newton's second law states that acceleration is directly proportional to net force and inversely proportional to mass.",
+            "source_page": "65-70"
+        },
+        {
+            "term": "60 Unit 3 Elasticity And Static Equilibr",
+            "definition": "60 Unit 3 Elasticity and Static Equilibrium of Rigid Body 3.1 Elasticity and plasticity By the end of this section, you should be able to: • deﬁne elasticity and plasticity; • explain the deformation of an object",
+            "source_page": "66"
+        },
+        {
+            "term": "3.1 Elasticity And Plasticity 61 And The",
+            "definition": "3.1 Elasticity and plasticity 61 and the property is called plasticity",
+            "source_page": "67"
+        },
+        {
+            "term": "62 Unit 3 Elasticity And Static Equilibr",
+            "definition": "62 Unit 3 Elasticity and Static Equilibrium of Rigid Body tic deformation occurs in ductile materials such as metals (for example, copper) when the distortion surpasses the elastic limit",
+            "source_page": "68"
+        },
+        {
+            "term": "3.2 Density And Speciﬁc Gravity 63 Limit",
+            "definition": "3.2 Density and speciﬁc gravity 63 limit",
+            "source_page": "69"
+        },
+        {
+            "term": "64 Unit 3 Elasticity And Static Equilibr",
+            "definition": "64 Unit 3 Elasticity and Static Equilibrium of Rigid Body • Rock sinks in the water, while wood, being less dense than the water, ﬂoats on the surface",
+            "source_page": "70"
+        }
+    ]
+}

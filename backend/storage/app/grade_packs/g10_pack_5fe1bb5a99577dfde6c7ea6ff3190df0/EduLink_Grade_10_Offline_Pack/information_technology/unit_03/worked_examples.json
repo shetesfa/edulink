@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "information_technology",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g10-information_technology-u03-we001",
+            "title": "Worked Example 1: Word Processing & Document Layouts",
+            "problem_statement": "Analyze the application of the topic explained on page 88.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 88.",
+            "source_page": "88"
+        },
+        {
+            "id": "g10-information_technology-u03-we002",
+            "title": "Worked Example 2: Word Processing & Document Layouts",
+            "problem_statement": "Analyze the application of the topic explained on page 89.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 89.",
+            "source_page": "89"
+        }
+    ]
+}

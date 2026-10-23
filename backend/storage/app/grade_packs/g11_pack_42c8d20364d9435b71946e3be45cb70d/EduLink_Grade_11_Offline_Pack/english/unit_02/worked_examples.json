@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "english",
+    "unit_number": 2,
+    "worked_examples": [
+        {
+            "id": "g11-english-u02-we001",
+            "title": "Worked Example 1: Unit 2: Technology and Future Trends",
+            "problem_statement": "Analyze the application of the topic explained on page 61.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 61.",
+            "source_page": "61"
+        },
+        {
+            "id": "g11-english-u02-we002",
+            "title": "Worked Example 2: Unit 2: Technology and Future Trends",
+            "problem_statement": "Analyze the application of the topic explained on page 61.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 61.",
+            "source_page": "61"
+        }
+    ]
+}

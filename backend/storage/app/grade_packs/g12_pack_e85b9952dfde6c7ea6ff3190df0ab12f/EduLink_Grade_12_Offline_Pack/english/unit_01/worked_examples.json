@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "english",
+    "unit_number": 1,
+    "worked_examples": [
+        {
+            "id": "g12-english-u01-we001",
+            "title": "Worked Example 1: Unit 1: Interpersonal Communication",
+            "problem_statement": "Analyze the application of the topic explained on page 5.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 5.",
+            "source_page": "5"
+        },
+        {
+            "id": "g12-english-u01-we002",
+            "title": "Worked Example 2: Unit 1: Interpersonal Communication",
+            "problem_statement": "Analyze the application of the topic explained on page 6.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 6.",
+            "source_page": "6"
+        }
+    ]
+}

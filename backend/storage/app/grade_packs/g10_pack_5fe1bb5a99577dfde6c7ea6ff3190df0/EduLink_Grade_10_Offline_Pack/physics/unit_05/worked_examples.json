@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "physics",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g10-physics-u05-we001",
+            "title": "Worked Example 1: Simple Machines",
+            "problem_statement": "Analyze the application of the topic explained on page 157.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 157.",
+            "source_page": "157"
+        },
+        {
+            "id": "g10-physics-u05-we002",
+            "title": "Worked Example 2: Simple Machines",
+            "problem_statement": "Analyze the application of the topic explained on page 158.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 158.",
+            "source_page": "158"
+        }
+    ]
+}

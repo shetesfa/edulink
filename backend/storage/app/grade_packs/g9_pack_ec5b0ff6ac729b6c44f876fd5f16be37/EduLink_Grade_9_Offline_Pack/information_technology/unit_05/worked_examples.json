@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "information_technology",
+    "unit_number": 5,
+    "examples": [
+        {
+            "example_id": "g9-information_technology-u05-we001",
+            "title": "Worked Example 1: Professional Solution for Presentation Software and Multimedia",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የPresentation Software and Multimedia ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 151-180.",
+            "problem_amharic": "ከገጽ 151-180 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "151-180"
+        }
+    ]
+}

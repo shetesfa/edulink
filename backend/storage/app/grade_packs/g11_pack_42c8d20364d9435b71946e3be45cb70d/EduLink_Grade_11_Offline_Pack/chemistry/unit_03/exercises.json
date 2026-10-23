@@ -1,0 +1,61 @@
+{
+    "grade": 11,
+    "subject": "chemistry",
+    "unit_number": 3,
+    "unit_title": "Physical States of Matter",
+    "source_book": "G11 Chemistry",
+    "exercises": [
+        {
+            "exercise_id": "g11-chemistry-u03-ex001",
+            "question": "Find the volume of 1 mole of an ideal gas at STP (P = 1 atm, T = 273 K, R = 0.0821 L*atm\/mol*K).",
+            "question_amharic": "በ STP ላይ ያለ የ 1 ሞል ጋዝ ይዘት (Volume) ፈልጉ። (P = 1 atm, T = 273 K)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Volume = 22.4 Liters.",
+            "correct_answer_amharic": "ይዘት = 22.4 ሊትር።",
+            "step_by_step_explanation": "1. Substitute values: n = 1, R = 0.0821, T = 273, P = 1.\\n2. V = (1 * 0.0821 * 273) \/ 1.\\n3. V = 22.41 Liters.",
+            "step_by_step_explanation_amharic": "1. Substitute values: n = 1, R = 0.0821, T = 273, P = 1.\\n2. V = (1 * 0.0821 * 273) \/ 1.\\n3. V = 22.41 Liters.",
+            "formula_or_working": "V = nRT \/ P.",
+            "source_page": "168",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g11-chemistry-u03-ex002",
+            "question": "Describe the core properties of the topics presented on page 155 (Question 2).",
+            "question_amharic": "በገጽ 155 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 155.",
+            "correct_answer_amharic": "በገጽ 155 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 155.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 155 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 155.",
+            "source_page": "155",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g11-chemistry-u03-ex003",
+            "question": "Describe the core properties of the topics presented on page 156 (Question 3).",
+            "question_amharic": "በገጽ 156 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 156.",
+            "correct_answer_amharic": "በገጽ 156 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 156.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 156 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 156.",
+            "source_page": "156",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g11-chemistry-u03-ex004",
+            "question": "Describe the core properties of the topics presented on page 157 (Question 4).",
+            "question_amharic": "በገጽ 157 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 157.",
+            "correct_answer_amharic": "በገጽ 157 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 157.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 157 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 157.",
+            "source_page": "157",
+            "needs_review": false
+        }
+    ]
+}

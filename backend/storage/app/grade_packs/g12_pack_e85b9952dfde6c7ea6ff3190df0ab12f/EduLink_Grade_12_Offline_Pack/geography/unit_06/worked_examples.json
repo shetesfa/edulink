@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "geography",
+    "unit_number": 6,
+    "worked_examples": [
+        {
+            "id": "g12-geography-u06-we001",
+            "title": "Worked Example 1: Economic Development and Continental Integration",
+            "problem_statement": "Analyze the application of the topic explained on page 246.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 246.",
+            "source_page": "246"
+        },
+        {
+            "id": "g12-geography-u06-we002",
+            "title": "Worked Example 2: Economic Development and Continental Integration",
+            "problem_statement": "Analyze the application of the topic explained on page 247.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 247.",
+            "source_page": "247"
+        }
+    ]
+}

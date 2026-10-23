@@ -1,0 +1,37 @@
+{
+    "grade": 12,
+    "subject": "mathematics",
+    "unit_number": 1,
+    "glossary": [
+        {
+            "term": "Arithmetic Sequence",
+            "definition": "An arithmetic sequence is a sequence of numbers in which the difference between consecutive terms is constant.",
+            "source_page": "10-15"
+        },
+        {
+            "term": "Geometric Sequence",
+            "definition": "A geometric sequence is a sequence of numbers where each term after the first is found by multiplying the previous term by a constant ratio.",
+            "source_page": "16-20"
+        },
+        {
+            "term": "Important Core Curriculum Concepts And A",
+            "definition": "Important core curriculum concepts and academic objectives for Sequences and Series in Grade 12.",
+            "source_page": "10"
+        },
+        {
+            "term": "Important Core Curriculum Concepts And A",
+            "definition": "Important core curriculum concepts and academic objectives for Sequences and Series in Grade 12.",
+            "source_page": "10"
+        },
+        {
+            "term": "Important Core Curriculum Concepts And A",
+            "definition": "Important core curriculum concepts and academic objectives for Sequences and Series in Grade 12.",
+            "source_page": "10"
+        },
+        {
+            "term": "Important Core Curriculum Concepts And A",
+            "definition": "Important core curriculum concepts and academic objectives for Sequences and Series in Grade 12.",
+            "source_page": "10"
+        }
+    ]
+}

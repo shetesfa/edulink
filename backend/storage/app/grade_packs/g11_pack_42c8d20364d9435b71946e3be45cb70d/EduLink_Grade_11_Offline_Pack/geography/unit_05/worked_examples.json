@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "geography",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g11-geography-u05-we001",
+            "title": "Worked Example 1: Human Geography and Population Trends",
+            "problem_statement": "Analyze the application of the topic explained on page 176.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 176.",
+            "source_page": "176"
+        },
+        {
+            "id": "g11-geography-u05-we002",
+            "title": "Worked Example 2: Human Geography and Population Trends",
+            "problem_statement": "Analyze the application of the topic explained on page 177.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 177.",
+            "source_page": "177"
+        }
+    ]
+}

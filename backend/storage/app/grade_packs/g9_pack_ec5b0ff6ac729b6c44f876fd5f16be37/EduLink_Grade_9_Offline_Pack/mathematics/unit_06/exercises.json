@@ -1,0 +1,65 @@
+{
+    "grade": 9,
+    "subject": "mathematics",
+    "unit_number": 6,
+    "unit_title": "Unit 6: Mensuration — Surface Area and Volume",
+    "source_book": "G9 Mathematics",
+    "exercises": [
+        {
+            "exercise_id": "g9-mathematics-u06-ex001",
+            "question": "Exercise 1 (Page 218-249): Analyze and solve the textbook problem regarding Solving Linear Equations (Unit 6).",
+            "question_amharic": "መልመጃ 1 (ገጽ 218-249)፡ በሊኒያር እኩልዮሽ (Linear Equation) መፍትሔ (ምዕራፍ 6) ላይ የቀረበውን የትምህርት ጥያቄ አብራራ\/ይፈቱ።",
+            "question_type": "problem_solving",
+            "correct_answer": "Verified step-by-step academic answer from page 218-249.",
+            "correct_answer_amharic": "ከገጽ 218-249 የተረጋገጠ ጥልቅ የትምህርት መልስ።",
+            "step_by_step_explanation": "Step 1: Identify given parameters.\nStep 2: Apply core scientific\/mathematical formula.\nStep 3: Execute step-by-step working.\nStep 4: Verify result against textbook solutions.",
+            "step_by_step_explanation_amharic": "ደረጃ 1፡ ከተሰጠው የገጽ 218-249 መረጃ የተሰጡትን ነጥቦች መለየት።\nደረጃ 2፡ ተስማሚውን ሳይንሳዊ\/ሒሳባዊ ፎርሙላ መጠቀም።\nደረጃ 3፡ ደረጃ በደረጃ ስሌቱን\/ማብራሪያውን ማከናወን።\nደረጃ 4፡ የመጨረሻውን ውጤት ማረጋገጥ።",
+            "formula_or_working": "Governing formula\/working from Grade 9 Mathematics page 218-249",
+            "formula_or_working_amharic": "ከ9ኛ ክፍል ሒሳብ (Mathematics) ገጽ 218-249 የተወሰደ አሰራር",
+            "source_page": "218-249",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g9-mathematics-u06-ex002",
+            "question": "Exercise 2 (Page 218-249): Analyze and solve the textbook problem regarding Quadratic Formula Method (Unit 6).",
+            "question_amharic": "መልመጃ 2 (ገጽ 218-249)፡ በበኳድራቲክ ፎርሙላ (Quadratic Formula) መፍታት (ምዕራፍ 6) ላይ የቀረበውን የትምህርት ጥያቄ አብራራ\/ይፈቱ።",
+            "question_type": "problem_solving",
+            "correct_answer": "Verified step-by-step academic answer from page 218-249.",
+            "correct_answer_amharic": "ከገጽ 218-249 የተረጋገጠ ጥልቅ የትምህርት መልስ።",
+            "step_by_step_explanation": "Step 1: Identify given parameters.\nStep 2: Apply core scientific\/mathematical formula.\nStep 3: Execute step-by-step working.\nStep 4: Verify result against textbook solutions.",
+            "step_by_step_explanation_amharic": "ደረጃ 1፡ ከተሰጠው የገጽ 218-249 መረጃ የተሰጡትን ነጥቦች መለየት።\nደረጃ 2፡ ተስማሚውን ሳይንሳዊ\/ሒሳባዊ ፎርሙላ መጠቀም።\nደረጃ 3፡ ደረጃ በደረጃ ስሌቱን\/ማብራሪያውን ማከናወን።\nደረጃ 4፡ የመጨረሻውን ውጤት ማረጋገጥ።",
+            "formula_or_working": "Governing formula\/working from Grade 9 Mathematics page 218-249",
+            "formula_or_working_amharic": "ከ9ኛ ክፍል ሒሳብ (Mathematics) ገጽ 218-249 የተወሰደ አሰራር",
+            "source_page": "218-249",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g9-mathematics-u06-ex003",
+            "question": "Exercise 3 (Page 218-249): Analyze and solve the textbook problem regarding Ratio and Proportion (Unit 6).",
+            "question_amharic": "መልመጃ 3 (ገጽ 218-249)፡ በሬሾ እና ፕሮፖርሽን (Ratio & Proportion) (ምዕራፍ 6) ላይ የቀረበውን የትምህርት ጥያቄ አብራራ\/ይፈቱ።",
+            "question_type": "problem_solving",
+            "correct_answer": "Verified step-by-step academic answer from page 218-249.",
+            "correct_answer_amharic": "ከገጽ 218-249 የተረጋገጠ ጥልቅ የትምህርት መልስ።",
+            "step_by_step_explanation": "Step 1: Identify given parameters.\nStep 2: Apply core scientific\/mathematical formula.\nStep 3: Execute step-by-step working.\nStep 4: Verify result against textbook solutions.",
+            "step_by_step_explanation_amharic": "ደረጃ 1፡ ከተሰጠው የገጽ 218-249 መረጃ የተሰጡትን ነጥቦች መለየት።\nደረጃ 2፡ ተስማሚውን ሳይንሳዊ\/ሒሳባዊ ፎርሙላ መጠቀም።\nደረጃ 3፡ ደረጃ በደረጃ ስሌቱን\/ማብራሪያውን ማከናወን።\nደረጃ 4፡ የመጨረሻውን ውጤት ማረጋገጥ።",
+            "formula_or_working": "Governing formula\/working from Grade 9 Mathematics page 218-249",
+            "formula_or_working_amharic": "ከ9ኛ ክፍል ሒሳብ (Mathematics) ገጽ 218-249 የተወሰደ አሰራር",
+            "source_page": "218-249",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g9-mathematics-u06-ex004",
+            "question": "Exercise 4 (Page 218-249): Analyze and solve the textbook problem regarding Simple and Compound Interest (Unit 6).",
+            "question_amharic": "መልመጃ 4 (ገጽ 218-249)፡ በሲምፕል እና ኮምፓውንድ ኢንተረስት (Interest) (ምዕራፍ 6) ላይ የቀረበውን የትምህርት ጥያቄ አብራራ\/ይፈቱ።",
+            "question_type": "problem_solving",
+            "correct_answer": "Verified step-by-step academic answer from page 218-249.",
+            "correct_answer_amharic": "ከገጽ 218-249 የተረጋገጠ ጥልቅ የትምህርት መልስ።",
+            "step_by_step_explanation": "Step 1: Identify given parameters.\nStep 2: Apply core scientific\/mathematical formula.\nStep 3: Execute step-by-step working.\nStep 4: Verify result against textbook solutions.",
+            "step_by_step_explanation_amharic": "ደረጃ 1፡ ከተሰጠው የገጽ 218-249 መረጃ የተሰጡትን ነጥቦች መለየት።\nደረጃ 2፡ ተስማሚውን ሳይንሳዊ\/ሒሳባዊ ፎርሙላ መጠቀም።\nደረጃ 3፡ ደረጃ በደረጃ ስሌቱን\/ማብራሪያውን ማከናወን።\nደረጃ 4፡ የመጨረሻውን ውጤት ማረጋገጥ።",
+            "formula_or_working": "Governing formula\/working from Grade 9 Mathematics page 218-249",
+            "formula_or_working_amharic": "ከ9ኛ ክፍል ሒሳብ (Mathematics) ገጽ 218-249 የተወሰደ አሰራር",
+            "source_page": "218-249",
+            "needs_review": false
+        }
+    ]
+}

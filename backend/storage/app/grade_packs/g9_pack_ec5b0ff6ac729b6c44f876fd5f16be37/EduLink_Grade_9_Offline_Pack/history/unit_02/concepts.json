@@ -1,0 +1,93 @@
+{
+    "grade": 9,
+    "subject": "history",
+    "unit_number": 2,
+    "unit_title": "Unit 2: Ancient World Civilizations up to c. 500 AD",
+    "source_book": "G9 History",
+    "concepts": [
+        {
+            "id": "g9-history-u02-c001",
+            "name": "Historical Sources and Fossils (Unit 2)",
+            "name_amharic": "የታሪክ ሶርሶች (Sources) እና ሉሲ (Lucy) ቅሪተ-አካል (ምዕራፍ 2)",
+            "simple_definition": "Historical Sources and Fossils is a core topic in Grade 9 History covering essential principles on pages 32-47.",
+            "simple_definition_amharic": "የታሪክ ሶርሶች (Sources) እና ሉሲ (Lucy) ቅሪተ-አካል በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 32-47 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Historical Sources and Fossils. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 32-47.",
+            "deep_explanation_amharic": "የየታሪክ ሶርሶች (Sources) እና ሉሲ (Lucy) ቅሪተ-አካል ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 32-47 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Historical Sources and Fossils.",
+            "real_example_amharic": "በየታሪክ ሶርሶች (Sources) እና ሉሲ (Lucy) ቅሪተ-አካል ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Historical Sources and Fossils.",
+            "common_confusion_amharic": "በየታሪክ ሶርሶች (Sources) እና ሉሲ (Lucy) ቅሪተ-አካል ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "32-47"
+        },
+        {
+            "id": "g9-history-u02-c002",
+            "name": "Ancient World Civilizations (Unit 2)",
+            "name_amharic": "የቀደሙ የዓለም ሲቪላይዜሽኖች (Civilizations) (ምዕራፍ 2)",
+            "simple_definition": "Ancient World Civilizations is a core topic in Grade 9 History covering essential principles on pages 32-47.",
+            "simple_definition_amharic": "የቀደሙ የዓለም ሲቪላይዜሽኖች (Civilizations) በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 32-47 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Ancient World Civilizations. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 32-47.",
+            "deep_explanation_amharic": "የየቀደሙ የዓለም ሲቪላይዜሽኖች (Civilizations) ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 32-47 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Ancient World Civilizations.",
+            "real_example_amharic": "በየቀደሙ የዓለም ሲቪላይዜሽኖች (Civilizations) ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Ancient World Civilizations.",
+            "common_confusion_amharic": "በየቀደሙ የዓለም ሲቪላይዜሽኖች (Civilizations) ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "32-47"
+        },
+        {
+            "id": "g9-history-u02-c003",
+            "name": "Ethiopian State Formation (Unit 2)",
+            "name_amharic": "የኢትዮጵያ መንግሥት ምስረታ እና ታሪክ (ምዕራፍ 2)",
+            "simple_definition": "Ethiopian State Formation is a core topic in Grade 9 History covering essential principles on pages 32-47.",
+            "simple_definition_amharic": "የኢትዮጵያ መንግሥት ምስረታ እና ታሪክ በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 32-47 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Ethiopian State Formation. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 32-47.",
+            "deep_explanation_amharic": "የየኢትዮጵያ መንግሥት ምስረታ እና ታሪክ ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 32-47 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Ethiopian State Formation.",
+            "real_example_amharic": "በየኢትዮጵያ መንግሥት ምስረታ እና ታሪክ ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Ethiopian State Formation.",
+            "common_confusion_amharic": "በየኢትዮጵያ መንግሥት ምስረታ እና ታሪክ ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "32-47"
+        },
+        {
+            "id": "g9-history-u02-c004",
+            "name": "Historical Sources and Fossils (Unit 2)",
+            "name_amharic": "የታሪክ ሶርሶች (Sources) እና ሉሲ (Lucy) ቅሪተ-አካል (ምዕራፍ 2)",
+            "simple_definition": "Historical Sources and Fossils is a core topic in Grade 9 History covering essential principles on pages 32-47.",
+            "simple_definition_amharic": "የታሪክ ሶርሶች (Sources) እና ሉሲ (Lucy) ቅሪተ-አካል በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 32-47 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Historical Sources and Fossils. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 32-47.",
+            "deep_explanation_amharic": "የየታሪክ ሶርሶች (Sources) እና ሉሲ (Lucy) ቅሪተ-አካል ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 32-47 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Historical Sources and Fossils.",
+            "real_example_amharic": "በየታሪክ ሶርሶች (Sources) እና ሉሲ (Lucy) ቅሪተ-አካል ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Historical Sources and Fossils.",
+            "common_confusion_amharic": "በየታሪክ ሶርሶች (Sources) እና ሉሲ (Lucy) ቅሪተ-አካል ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "32-47"
+        },
+        {
+            "id": "g9-history-u02-c005",
+            "name": "Ancient World Civilizations (Unit 2)",
+            "name_amharic": "የቀደሙ የዓለም ሲቪላይዜሽኖች (Civilizations) (ምዕራፍ 2)",
+            "simple_definition": "Ancient World Civilizations is a core topic in Grade 9 History covering essential principles on pages 32-47.",
+            "simple_definition_amharic": "የቀደሙ የዓለም ሲቪላይዜሽኖች (Civilizations) በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 32-47 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Ancient World Civilizations. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 32-47.",
+            "deep_explanation_amharic": "የየቀደሙ የዓለም ሲቪላይዜሽኖች (Civilizations) ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 32-47 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Ancient World Civilizations.",
+            "real_example_amharic": "በየቀደሙ የዓለም ሲቪላይዜሽኖች (Civilizations) ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Ancient World Civilizations.",
+            "common_confusion_amharic": "በየቀደሙ የዓለም ሲቪላይዜሽኖች (Civilizations) ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "32-47"
+        },
+        {
+            "id": "g9-history-u02-c006",
+            "name": "Ethiopian State Formation (Unit 2)",
+            "name_amharic": "የኢትዮጵያ መንግሥት ምስረታ እና ታሪክ (ምዕራፍ 2)",
+            "simple_definition": "Ethiopian State Formation is a core topic in Grade 9 History covering essential principles on pages 32-47.",
+            "simple_definition_amharic": "የኢትዮጵያ መንግሥት ምስረታ እና ታሪክ በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 32-47 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Ethiopian State Formation. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 32-47.",
+            "deep_explanation_amharic": "የየኢትዮጵያ መንግሥት ምስረታ እና ታሪክ ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 32-47 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Ethiopian State Formation.",
+            "real_example_amharic": "በየኢትዮጵያ መንግሥት ምስረታ እና ታሪክ ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Ethiopian State Formation.",
+            "common_confusion_amharic": "በየኢትዮጵያ መንግሥት ምስረታ እና ታሪክ ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "32-47"
+        }
+    ]
+}

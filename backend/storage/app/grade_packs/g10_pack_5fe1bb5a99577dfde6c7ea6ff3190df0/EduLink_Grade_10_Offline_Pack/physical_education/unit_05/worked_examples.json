@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "physical_education",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g10-physical_education-u05-we001",
+            "title": "Worked Example 1: Traditional Games and Outdoor Recreation",
+            "problem_statement": "Analyze the application of the topic explained on page 129.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 129.",
+            "source_page": "129"
+        },
+        {
+            "id": "g10-physical_education-u05-we002",
+            "title": "Worked Example 2: Traditional Games and Outdoor Recreation",
+            "problem_statement": "Analyze the application of the topic explained on page 130.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 130.",
+            "source_page": "130"
+        }
+    ]
+}

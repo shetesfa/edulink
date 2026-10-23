@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "chemistry",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g11-chemistry-u03-we001",
+            "title": "Worked Example 1: Physical States of Matter",
+            "problem_statement": "Analyze the application of the topic explained on page 154.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 154.",
+            "source_page": "154"
+        },
+        {
+            "id": "g11-chemistry-u03-we002",
+            "title": "Worked Example 2: Physical States of Matter",
+            "problem_statement": "Analyze the application of the topic explained on page 155.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 155.",
+            "source_page": "155"
+        }
+    ]
+}

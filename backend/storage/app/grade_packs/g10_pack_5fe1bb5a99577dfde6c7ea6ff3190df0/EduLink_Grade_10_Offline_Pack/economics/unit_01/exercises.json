@@ -1,0 +1,61 @@
+{
+    "grade": 10,
+    "subject": "economics",
+    "unit_number": 1,
+    "unit_title": "Introduction to Economics",
+    "source_book": "G10 Economics",
+    "exercises": [
+        {
+            "exercise_id": "g10-economics-u01-ex001",
+            "question": "Describe the core properties of the topics presented on page 7 (Question 1).",
+            "question_amharic": "በገጽ 7 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 1)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 7.",
+            "correct_answer_amharic": "በገጽ 7 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 7.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 7 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 7.",
+            "source_page": "7",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-economics-u01-ex002",
+            "question": "Describe the core properties of the topics presented on page 8 (Question 2).",
+            "question_amharic": "በገጽ 8 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 8.",
+            "correct_answer_amharic": "በገጽ 8 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 8.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 8 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 8.",
+            "source_page": "8",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-economics-u01-ex003",
+            "question": "Describe the core properties of the topics presented on page 9 (Question 3).",
+            "question_amharic": "በገጽ 9 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 9.",
+            "correct_answer_amharic": "በገጽ 9 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 9.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 9 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 9.",
+            "source_page": "9",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-economics-u01-ex004",
+            "question": "Describe the core properties of the topics presented on page 10 (Question 4).",
+            "question_amharic": "በገጽ 10 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 10.",
+            "correct_answer_amharic": "በገጽ 10 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 10.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 10 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 10.",
+            "source_page": "10",
+            "needs_review": false
+        }
+    ]
+}

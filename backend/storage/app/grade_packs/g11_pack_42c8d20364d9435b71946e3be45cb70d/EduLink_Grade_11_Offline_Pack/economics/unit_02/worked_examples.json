@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "economics",
+    "unit_number": 2,
+    "worked_examples": [
+        {
+            "id": "g11-economics-u02-we001",
+            "title": "Worked Example 1: Theory of Consumer Behavior",
+            "problem_statement": "Analyze the application of the topic explained on page 45.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 45.",
+            "source_page": "45"
+        },
+        {
+            "id": "g11-economics-u02-we002",
+            "title": "Worked Example 2: Theory of Consumer Behavior",
+            "problem_statement": "Analyze the application of the topic explained on page 46.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 46.",
+            "source_page": "46"
+        }
+    ]
+}

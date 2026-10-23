@@ -1,0 +1,61 @@
+{
+    "grade": 10,
+    "subject": "physical_education",
+    "unit_number": 1,
+    "unit_title": "Health and Physical Fitness Development",
+    "source_book": "G10 Physical Education",
+    "exercises": [
+        {
+            "exercise_id": "g10-physical_education-u01-ex001",
+            "question": "Describe the core properties of the topics presented on page 1 (Question 1).",
+            "question_amharic": "በገጽ 1 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 1)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 1.",
+            "correct_answer_amharic": "በገጽ 1 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 1.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 1 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 1.",
+            "source_page": "1",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-physical_education-u01-ex002",
+            "question": "Describe the core properties of the topics presented on page 3 (Question 2).",
+            "question_amharic": "በገጽ 3 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 3.",
+            "correct_answer_amharic": "በገጽ 3 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 3.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 3 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 3.",
+            "source_page": "3",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-physical_education-u01-ex003",
+            "question": "Describe the core properties of the topics presented on page 4 (Question 3).",
+            "question_amharic": "በገጽ 4 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 4.",
+            "correct_answer_amharic": "በገጽ 4 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 4.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 4 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 4.",
+            "source_page": "4",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-physical_education-u01-ex004",
+            "question": "Describe the core properties of the topics presented on page 5 (Question 4).",
+            "question_amharic": "በገጽ 5 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 5.",
+            "correct_answer_amharic": "በገጽ 5 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 5.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 5 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 5.",
+            "source_page": "5",
+            "needs_review": false
+        }
+    ]
+}

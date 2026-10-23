@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "english",
+    "unit_number": 7,
+    "worked_examples": [
+        {
+            "id": "g12-english-u07-we001",
+            "title": "Worked Example 1: Unit 7: Civic Rights and Legal Responsibilities",
+            "problem_statement": "Analyze the application of the topic explained on page 164.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 164.",
+            "source_page": "164"
+        },
+        {
+            "id": "g12-english-u07-we002",
+            "title": "Worked Example 2: Unit 7: Civic Rights and Legal Responsibilities",
+            "problem_statement": "Analyze the application of the topic explained on page 165.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 165.",
+            "source_page": "165"
+        }
+    ]
+}

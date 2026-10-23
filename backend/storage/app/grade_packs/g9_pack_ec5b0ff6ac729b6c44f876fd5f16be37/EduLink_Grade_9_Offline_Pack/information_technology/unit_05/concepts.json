@@ -1,0 +1,93 @@
+{
+    "grade": 9,
+    "subject": "information_technology",
+    "unit_number": 5,
+    "unit_title": "Unit 5: Presentation Software and Multimedia",
+    "source_book": "G9 Information technology",
+    "concepts": [
+        {
+            "id": "g9-information_technology-u05-c001",
+            "name": "CPU Hardware and RAM ROM Memory (Unit 5)",
+            "name_amharic": "ሲፒዩ (CPU)፣ ራም (RAM) እና ሮም (ROM) ሜሞሪ (ምዕራፍ 5)",
+            "simple_definition": "CPU Hardware and RAM ROM Memory is a core topic in Grade 9 Information technology covering essential principles on pages 151-180.",
+            "simple_definition_amharic": "ሲፒዩ (CPU)፣ ራም (RAM) እና ሮም (ROM) ሜሞሪ በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of CPU Hardware and RAM ROM Memory. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 151-180.",
+            "deep_explanation_amharic": "የሲፒዩ (CPU)፣ ራም (RAM) እና ሮም (ROM) ሜሞሪ ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of CPU Hardware and RAM ROM Memory.",
+            "real_example_amharic": "በሲፒዩ (CPU)፣ ራም (RAM) እና ሮም (ROM) ሜሞሪ ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding CPU Hardware and RAM ROM Memory.",
+            "common_confusion_amharic": "በሲፒዩ (CPU)፣ ራም (RAM) እና ሮም (ROM) ሜሞሪ ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "151-180"
+        },
+        {
+            "id": "g9-information_technology-u05-c002",
+            "name": "Operating Systems (Unit 5)",
+            "name_amharic": "ኦፐሬቲንግ ሲስተም (Operating System) (ምዕራፍ 5)",
+            "simple_definition": "Operating Systems is a core topic in Grade 9 Information technology covering essential principles on pages 151-180.",
+            "simple_definition_amharic": "ኦፐሬቲንግ ሲስተም (Operating System) በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Operating Systems. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 151-180.",
+            "deep_explanation_amharic": "የኦፐሬቲንግ ሲስተም (Operating System) ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Operating Systems.",
+            "real_example_amharic": "በኦፐሬቲንግ ሲስተም (Operating System) ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Operating Systems.",
+            "common_confusion_amharic": "በኦፐሬቲንግ ሲስተም (Operating System) ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "151-180"
+        },
+        {
+            "id": "g9-information_technology-u05-c003",
+            "name": "Computer Networks and HTML (Unit 5)",
+            "name_amharic": "ኮምፒውተር ኔትወርክ (Network) እና HTML (ምዕራፍ 5)",
+            "simple_definition": "Computer Networks and HTML is a core topic in Grade 9 Information technology covering essential principles on pages 151-180.",
+            "simple_definition_amharic": "ኮምፒውተር ኔትወርክ (Network) እና HTML በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Computer Networks and HTML. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 151-180.",
+            "deep_explanation_amharic": "የኮምፒውተር ኔትወርክ (Network) እና HTML ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Computer Networks and HTML.",
+            "real_example_amharic": "በኮምፒውተር ኔትወርክ (Network) እና HTML ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Computer Networks and HTML.",
+            "common_confusion_amharic": "በኮምፒውተር ኔትወርክ (Network) እና HTML ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "151-180"
+        },
+        {
+            "id": "g9-information_technology-u05-c004",
+            "name": "CPU Hardware and RAM ROM Memory (Unit 5)",
+            "name_amharic": "ሲፒዩ (CPU)፣ ራም (RAM) እና ሮም (ROM) ሜሞሪ (ምዕራፍ 5)",
+            "simple_definition": "CPU Hardware and RAM ROM Memory is a core topic in Grade 9 Information technology covering essential principles on pages 151-180.",
+            "simple_definition_amharic": "ሲፒዩ (CPU)፣ ራም (RAM) እና ሮም (ROM) ሜሞሪ በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of CPU Hardware and RAM ROM Memory. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 151-180.",
+            "deep_explanation_amharic": "የሲፒዩ (CPU)፣ ራም (RAM) እና ሮም (ROM) ሜሞሪ ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of CPU Hardware and RAM ROM Memory.",
+            "real_example_amharic": "በሲፒዩ (CPU)፣ ራም (RAM) እና ሮም (ROM) ሜሞሪ ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding CPU Hardware and RAM ROM Memory.",
+            "common_confusion_amharic": "በሲፒዩ (CPU)፣ ራም (RAM) እና ሮም (ROM) ሜሞሪ ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "151-180"
+        },
+        {
+            "id": "g9-information_technology-u05-c005",
+            "name": "Operating Systems (Unit 5)",
+            "name_amharic": "ኦፐሬቲንግ ሲስተም (Operating System) (ምዕራፍ 5)",
+            "simple_definition": "Operating Systems is a core topic in Grade 9 Information technology covering essential principles on pages 151-180.",
+            "simple_definition_amharic": "ኦፐሬቲንግ ሲስተም (Operating System) በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Operating Systems. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 151-180.",
+            "deep_explanation_amharic": "የኦፐሬቲንግ ሲስተም (Operating System) ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Operating Systems.",
+            "real_example_amharic": "በኦፐሬቲንግ ሲስተም (Operating System) ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Operating Systems.",
+            "common_confusion_amharic": "በኦፐሬቲንግ ሲስተም (Operating System) ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "151-180"
+        },
+        {
+            "id": "g9-information_technology-u05-c006",
+            "name": "Computer Networks and HTML (Unit 5)",
+            "name_amharic": "ኮምፒውተር ኔትወርክ (Network) እና HTML (ምዕራፍ 5)",
+            "simple_definition": "Computer Networks and HTML is a core topic in Grade 9 Information technology covering essential principles on pages 151-180.",
+            "simple_definition_amharic": "ኮምፒውተር ኔትወርክ (Network) እና HTML በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Computer Networks and HTML. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 151-180.",
+            "deep_explanation_amharic": "የኮምፒውተር ኔትወርክ (Network) እና HTML ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ኢንፎርሜሽን ቴክኖሎጂ (IT) መጽሐፍ ገጽ 151-180 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Computer Networks and HTML.",
+            "real_example_amharic": "በኮምፒውተር ኔትወርክ (Network) እና HTML ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Computer Networks and HTML.",
+            "common_confusion_amharic": "በኮምፒውተር ኔትወርክ (Network) እና HTML ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "151-180"
+        }
+    ]
+}

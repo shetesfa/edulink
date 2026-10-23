@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "information_technology",
+    "unit_number": 8,
+    "examples": [
+        {
+            "example_id": "g9-information_technology-u08-we001",
+            "title": "Worked Example 1: Professional Solution for Computer Security, Ethics, and Cyber Safety",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የComputer Security, Ethics, and Cyber Safety ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 231-245.",
+            "problem_amharic": "ከገጽ 231-245 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "231-245"
+        }
+    ]
+}

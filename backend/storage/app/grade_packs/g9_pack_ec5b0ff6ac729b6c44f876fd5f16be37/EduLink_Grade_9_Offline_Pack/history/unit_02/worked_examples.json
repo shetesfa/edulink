@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "history",
+    "unit_number": 2,
+    "examples": [
+        {
+            "example_id": "g9-history-u02-we001",
+            "title": "Worked Example 1: Professional Solution for Ancient World Civilizations up to c. 500 AD",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የAncient World Civilizations up to c. 500 AD ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 32-47.",
+            "problem_amharic": "ከገጽ 32-47 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "32-47"
+        }
+    ]
+}

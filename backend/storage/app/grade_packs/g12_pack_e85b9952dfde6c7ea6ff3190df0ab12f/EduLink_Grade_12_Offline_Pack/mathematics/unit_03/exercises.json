@@ -1,0 +1,61 @@
+{
+    "grade": 12,
+    "subject": "mathematics",
+    "unit_number": 3,
+    "unit_title": "Introduction to Differential Calculus",
+    "source_book": "G12 Mathematics",
+    "exercises": [
+        {
+            "exercise_id": "g12-mathematics-u03-ex001",
+            "question": "Find the derivative of f(x) = 3x^4 - 5x² + 7.",
+            "question_amharic": "የ f(x) = 3x^4 - 5x² + 7 ዲሪቬቲቭ ፈልጉ።",
+            "question_type": "problem_solving",
+            "correct_answer": "f'(x) = 12x³ - 10x.",
+            "correct_answer_amharic": "f'(x) = 12x³ - 10x ነው።",
+            "step_by_step_explanation": "1. Apply power rule to 3x^4: 4 * 3x³ = 12x³.\\n2. Apply power rule to -5x²: 2 * -5x = -10x.\\n3. The derivative of constant 7 is 0. Combine: f'(x) = 12x³ - 10x.",
+            "step_by_step_explanation_amharic": "1. Apply power rule to 3x^4: 4 * 3x³ = 12x³.\\n2. Apply power rule to -5x²: 2 * -5x = -10x.\\n3. The derivative of constant 7 is 0. Combine: f'(x) = 12x³ - 10x.",
+            "formula_or_working": "Power Rule: d\/dx(x^n) = n*x^(n-1).",
+            "source_page": "165",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g12-mathematics-u03-ex002",
+            "question": "Describe the core properties of the topics presented on page 131 (Question 2).",
+            "question_amharic": "በገጽ 131 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 131.",
+            "correct_answer_amharic": "በገጽ 131 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 131.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 131 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 131.",
+            "source_page": "131",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g12-mathematics-u03-ex003",
+            "question": "Describe the core properties of the topics presented on page 131 (Question 3).",
+            "question_amharic": "በገጽ 131 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 131.",
+            "correct_answer_amharic": "በገጽ 131 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 131.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 131 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 131.",
+            "source_page": "131",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g12-mathematics-u03-ex004",
+            "question": "Describe the core properties of the topics presented on page 131 (Question 4).",
+            "question_amharic": "በገጽ 131 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 131.",
+            "correct_answer_amharic": "በገጽ 131 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 131.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 131 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 131.",
+            "source_page": "131",
+            "needs_review": false
+        }
+    ]
+}

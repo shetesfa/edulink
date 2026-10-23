@@ -1,0 +1,62 @@
+{
+    "pack_id": "g11_pack_42c8d20364d9435b71946e3be45cb70d",
+    "pack_name": "EduLink Grade 11 Offline Study Pack",
+    "grade": 11,
+    "version": "1.0.0-professional",
+    "imported_at": "2026-07-31 14:41:01",
+    "source_file": "EduLink_Grade_11_Offline_Pack_Generated.zip",
+    "extract_dir": "E:\/EduLink-Complete\/backend\/storage\/app\/grade_packs\/g11_pack_42c8d20364d9435b71946e3be45cb70d\/EduLink_Grade_11_Offline_Pack",
+    "manifest": {
+        "pack_name": "EduLink Grade 11 Offline Study Pack",
+        "grade": 11,
+        "version": "1.0.0-professional",
+        "language": "Bilingual (Professional English & Standard Academic Amharic)",
+        "subjects": [
+            {
+                "key": "agriculture",
+                "source_book": "G11 Agriculture",
+                "status": "6_units_complete"
+            },
+            {
+                "key": "biology",
+                "source_book": "G11 Biology",
+                "status": "3_units_complete"
+            },
+            {
+                "key": "chemistry",
+                "source_book": "G11 Chemistry",
+                "status": "6_units_complete"
+            },
+            {
+                "key": "economics",
+                "source_book": "G11 Economics",
+                "status": "7_units_complete"
+            },
+            {
+                "key": "english",
+                "source_book": "G11 English",
+                "status": "6_units_complete"
+            },
+            {
+                "key": "geography",
+                "source_book": "G11 Geography",
+                "status": "6_units_complete"
+            },
+            {
+                "key": "history",
+                "source_book": "G11 History",
+                "status": "6_units_complete"
+            },
+            {
+                "key": "information_technology",
+                "source_book": "G11 Information Technology",
+                "status": "4_units_complete"
+            },
+            {
+                "key": "physics",
+                "source_book": "G11 Physics",
+                "status": "3_units_complete"
+            }
+        ]
+    }
+}

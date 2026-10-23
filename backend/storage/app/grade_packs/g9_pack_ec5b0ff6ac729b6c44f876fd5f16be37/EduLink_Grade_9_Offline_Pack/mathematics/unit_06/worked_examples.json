@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "mathematics",
+    "unit_number": 6,
+    "examples": [
+        {
+            "example_id": "g9-mathematics-u06-we001",
+            "title": "Worked Example 1: Professional Solution for Mensuration — Surface Area and Volume",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የMensuration — Surface Area and Volume ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 218-249.",
+            "problem_amharic": "ከገጽ 218-249 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "218-249"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "civics",
+    "unit_number": 2,
+    "examples": [
+        {
+            "example_id": "g9-civics-u02-we001",
+            "title": "Worked Example 1: Professional Solution for Rule of Law and Judicial Protection",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የRule of Law and Judicial Protection ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 42-63.",
+            "problem_amharic": "ከገጽ 42-63 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "42-63"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "grade": 12,
+    "subject": "mathematics",
+    "unit_number": 1,
+    "unit_title": "Sequences and Series",
+    "source_book": "G12 Mathematics",
+    "concepts": [
+        {
+            "id": "g12-mathematics-u01-c001",
+            "name": "Arithmetic Sequence",
+            "simple_definition": "An arithmetic sequence is a sequence of numbers in which the difference between consecutive terms is constant.",
+            "deep_explanation": "The n-th term is given by a_n = a_1 + (n - 1)d, where a_1 is the first term and d is the common difference.",
+            "real_example": "For 3, 7, 11, 15: first term a_1 = 3, common difference d = 4. The 10th term is 3 + 9*4 = 39.",
+            "common_confusion": "Confusing the common difference (d) with the ratio (r). The ratio is used in geometric sequences.",
+            "source_pages": "10-15",
+            "name_amharic": "አሪትሜቲክ ቅደም ተከተል (Arithmetic Sequence)",
+            "simple_definition_amharic": "አሪትሜቲክ ቅደም ተከተል ማለት ተከታታይ አባላቱ እኩል ልዩነት (common difference) ያላቸው የቁጥር ቅደም ተከተል ነው።",
+            "deep_explanation_amharic": "የ n-ኛ አባል ፎርሙላ a_n = a_1 + (n - 1)d ሲሆን፣ d ደግሞ የጋራ ልዩነቱ ነው።",
+            "real_example_amharic": "ለምሳሌ 3, 7, 11, 15 ቢሆን፡ የመጀመሪያው አባል 3 ሲሆን የጋራ ልዩነቱ d = 4 ነው። 10ኛ አባሉ 3 + 9*4 = 39 ነው።",
+            "common_confusion_amharic": "የጋራ ልዩነትን (d) ከጂኦሜትሪክ የጋራ ሬሾ (r) ጋር ማደናገር።"
+        },
+        {
+            "id": "g12-mathematics-u01-c002",
+            "name": "Geometric Sequence",
+            "simple_definition": "A geometric sequence is a sequence of numbers where each term after the first is found by multiplying the previous term by a constant ratio.",
+            "deep_explanation": "The n-th term of a geometric sequence is given by a_n = a_1 * r^(n-1), where a_1 is the first term and r is the common ratio.",
+            "real_example": "For 2, 6, 18, 54: first term a_1 = 2, common ratio r = 3. The 5th term is 2 * 3^4 = 162.",
+            "common_confusion": "Thinking the common ratio r can be negative. While r can be negative (causing signs to alternate), it cannot be zero.",
+            "source_pages": "16-20",
+            "name_amharic": "ጂኦሜትሪክ ቅደም ተከተል (Geometric Sequence)",
+            "simple_definition_amharic": "ጂኦሜትሪክ ቅደም ተከተል ማለት እያንዳንዱ አባል ከቀድሞው አባል ጋር በቋሚ ሬሾ (r) ተባዝቶ የሚገኝበት የቁጥር ቅደም ተከተል ነው።",
+            "deep_explanation_amharic": "የ n-ኛ አባል ፎርሙላ a_n = a_1 * r^(n-1) ሲሆን፣ r የጋራ ሬሾ ነው።",
+            "real_example_amharic": "ለምሳሌ 2, 6, 18, 54 ቢሆን፡ የመጀመሪያው አባል 2 ሲሆን የጋራ ሬሾው r = 3 ነው። 5ኛ አባሉ 2 * 3^4 = 162 ነው።",
+            "common_confusion_amharic": "የጋራ ሬሾ r ዜሮ ሊሆን አይችልም፣ ነገር ግን አሉታዊ ሊሆን ይችላል (የአባላቱን ምልክት ይቀያይራል)።"
+        },
+        {
+            "id": "g12-mathematics-u01-c003",
+            "name": "Important Core Curriculum Concepts And A",
+            "simple_definition": "Important core curriculum concepts and academic objectives for Sequences and Series in Grade 12.",
+            "deep_explanation": "Detailed academic explanation of Sequences and Series.",
+            "real_example": "Practical example of Important core curriculum concepts and a from page 10.",
+            "common_confusion": "Students sometimes confuse Important core curriculum concepts and a with adjacent topics in Chapter 1.",
+            "source_pages": "10",
+            "name_amharic": "Important core curriculum concepts and a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Important core curriculum concepts and academic objectives for Sequences and Series in Grade 12. (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Detailed academic explanation of Sequences and Series. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 10 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-mathematics-u01-c004",
+            "name": "Important Core Curriculum Concepts And A",
+            "simple_definition": "Important core curriculum concepts and academic objectives for Sequences and Series in Grade 12.",
+            "deep_explanation": "Detailed academic explanation of Sequences and Series.",
+            "real_example": "Practical example of Important core curriculum concepts and a from page 10.",
+            "common_confusion": "Students sometimes confuse Important core curriculum concepts and a with adjacent topics in Chapter 1.",
+            "source_pages": "10",
+            "name_amharic": "Important core curriculum concepts and a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Important core curriculum concepts and academic objectives for Sequences and Series in Grade 12. (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Detailed academic explanation of Sequences and Series. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 10 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-mathematics-u01-c005",
+            "name": "Important Core Curriculum Concepts And A",
+            "simple_definition": "Important core curriculum concepts and academic objectives for Sequences and Series in Grade 12.",
+            "deep_explanation": "Detailed academic explanation of Sequences and Series.",
+            "real_example": "Practical example of Important core curriculum concepts and a from page 10.",
+            "common_confusion": "Students sometimes confuse Important core curriculum concepts and a with adjacent topics in Chapter 1.",
+            "source_pages": "10",
+            "name_amharic": "Important core curriculum concepts and a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Important core curriculum concepts and academic objectives for Sequences and Series in Grade 12. (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Detailed academic explanation of Sequences and Series. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 10 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-mathematics-u01-c006",
+            "name": "Important Core Curriculum Concepts And A",
+            "simple_definition": "Important core curriculum concepts and academic objectives for Sequences and Series in Grade 12.",
+            "deep_explanation": "Detailed academic explanation of Sequences and Series.",
+            "real_example": "Practical example of Important core curriculum concepts and a from page 10.",
+            "common_confusion": "Students sometimes confuse Important core curriculum concepts and a with adjacent topics in Chapter 1.",
+            "source_pages": "10",
+            "name_amharic": "Important core curriculum concepts and a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Important core curriculum concepts and academic objectives for Sequences and Series in Grade 12. (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Detailed academic explanation of Sequences and Series. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 10 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

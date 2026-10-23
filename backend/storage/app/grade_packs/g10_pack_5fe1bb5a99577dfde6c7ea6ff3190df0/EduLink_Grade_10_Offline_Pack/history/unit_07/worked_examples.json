@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "history",
+    "unit_number": 7,
+    "worked_examples": [
+        {
+            "id": "g10-history-u07-we001",
+            "title": "Worked Example 1: States and Movements in Ethiopia (16th-19th C.)",
+            "problem_statement": "Analyze the application of the topic explained on page 179.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 179.",
+            "source_page": "179"
+        },
+        {
+            "id": "g10-history-u07-we002",
+            "title": "Worked Example 2: States and Movements in Ethiopia (16th-19th C.)",
+            "problem_statement": "Analyze the application of the topic explained on page 180.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 180.",
+            "source_page": "180"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "geography",
+    "unit_number": 6,
+    "worked_examples": [
+        {
+            "id": "g10-geography-u06-we001",
+            "title": "Worked Example 1: Economic Geography and Development",
+            "problem_statement": "Analyze the application of the topic explained on page 185.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 185.",
+            "source_page": "185"
+        },
+        {
+            "id": "g10-geography-u06-we002",
+            "title": "Worked Example 2: Economic Geography and Development",
+            "problem_statement": "Analyze the application of the topic explained on page 186.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 186.",
+            "source_page": "186"
+        }
+    ]
+}

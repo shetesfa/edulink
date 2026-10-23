@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "economics",
+    "unit_number": 4,
+    "worked_examples": [
+        {
+            "id": "g11-economics-u04-we001",
+            "title": "Worked Example 1: Macroeconomic Concepts and Policy",
+            "problem_statement": "Analyze the application of the topic explained on page 100.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 100.",
+            "source_page": "100"
+        },
+        {
+            "id": "g11-economics-u04-we002",
+            "title": "Worked Example 2: Macroeconomic Concepts and Policy",
+            "problem_statement": "Analyze the application of the topic explained on page 101.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 101.",
+            "source_page": "101"
+        }
+    ]
+}

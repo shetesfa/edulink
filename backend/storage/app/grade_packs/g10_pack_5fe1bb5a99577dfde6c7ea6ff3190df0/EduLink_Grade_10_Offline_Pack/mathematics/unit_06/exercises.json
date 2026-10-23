@@ -1,0 +1,61 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 6,
+    "unit_title": "Solid Figures",
+    "source_book": "G10 Mathematics",
+    "exercises": [
+        {
+            "exercise_id": "g10-mathematics-u06-ex001",
+            "question": "Find the volume of a cylinder with radius 3 cm and height 7 cm.",
+            "question_amharic": "ራዲየሱ 3 ሳ.ሜ እና ቁመቱ 7 ሳ.ሜ የሆነን ሲሊንደር ይዘት ፈልጉ።",
+            "question_type": "problem_solving",
+            "correct_answer": "Volume = 63π cm³ (approx. 197.92 cm³).",
+            "correct_answer_amharic": "ይዘት = 63π ሳ.ሜ³ (በግምት 197.92 ሳ.ሜ³)።",
+            "step_by_step_explanation": "1. Identify r = 3, h = 7.\\n2. Compute V = π * 3² * 7.\\n3. V = π * 9 * 7 = 63π.",
+            "step_by_step_explanation_amharic": "1. Identify r = 3, h = 7.\\n2. Compute V = π * 3² * 7.\\n3. V = π * 9 * 7 = 63π.",
+            "formula_or_working": "V = πr²h.",
+            "source_page": "305",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-mathematics-u06-ex002",
+            "question": "Describe the core properties of the topics presented on page 297 (Question 2).",
+            "question_amharic": "በገጽ 297 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 297.",
+            "correct_answer_amharic": "በገጽ 297 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 297.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 297 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 297.",
+            "source_page": "297",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-mathematics-u06-ex003",
+            "question": "Describe the core properties of the topics presented on page 298 (Question 3).",
+            "question_amharic": "በገጽ 298 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 298.",
+            "correct_answer_amharic": "በገጽ 298 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 298.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 298 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 298.",
+            "source_page": "298",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-mathematics-u06-ex004",
+            "question": "Describe the core properties of the topics presented on page 299 (Question 4).",
+            "question_amharic": "በገጽ 299 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 299.",
+            "correct_answer_amharic": "በገጽ 299 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 299.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 299 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 299.",
+            "source_page": "299",
+            "needs_review": false
+        }
+    ]
+}

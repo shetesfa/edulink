@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "economics",
+    "unit_number": 4,
+    "unit_title": "Market Equilibrium & Elasticity",
+    "source_book": "G10 Economics",
+    "concepts": [
+        {
+            "id": "g10-economics-u04-c001",
+            "name": "Market Structures 69 Unit Introduction I",
+            "simple_definition": "Unit 4: Market Structures 69 Unit Introduction In the previous unit, we discussed the theory of production and cost",
+            "deep_explanation": "There, we studied concepts related to a firm’s production function and cost curves",
+            "real_example": "Practical example of Market Structures 69 Unit Introduction I from page 77.",
+            "common_confusion": "Students sometimes confuse Market Structures 69 Unit Introduction I with adjacent topics in Chapter 4.",
+            "source_pages": "77",
+            "name_amharic": "Market Structures 69 Unit Introduction I (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 4: Market Structures 69 Unit Introduction In the previous unit, we discussed the theory of production and cost (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] There, we studied concepts related to a firm’s production function and cost curves — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 77 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-economics-u04-c002",
+            "name": "Market Structures 70 Main Contents 4.1 P",
+            "simple_definition": "Unit 4: Market Structures 70 Main Contents 4.1 Perfectly competitive market",
+            "deep_explanation": "4.2 Pure monopoly market",
+            "real_example": "Practical example of Market Structures 70 Main Contents 4.1 P from page 78.",
+            "common_confusion": "Students sometimes confuse Market Structures 70 Main Contents 4.1 P with adjacent topics in Chapter 4.",
+            "source_pages": "78",
+            "name_amharic": "Market Structures 70 Main Contents 4.1 P (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 4: Market Structures 70 Main Contents 4.1 Perfectly competitive market (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 4.2 Pure monopoly market — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 78 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-economics-u04-c003",
+            "name": "Market Structures 71 4.1 Perfectly Compe",
+            "simple_definition": "Unit 4: Market Structures 71 4.1 Perfectly Competitive Markets At the end of this section, students will be able to: 6 Define a market that is completely competitive",
+            "deep_explanation": "6 Review the characteristics of a perfectly competitive market",
+            "real_example": "Practical example of Market Structures 71 4.1 Perfectly Compe from page 79.",
+            "common_confusion": "Students sometimes confuse Market Structures 71 4.1 Perfectly Compe with adjacent topics in Chapter 4.",
+            "source_pages": "79",
+            "name_amharic": "Market Structures 71 4.1 Perfectly Compe (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 4: Market Structures 71 4.1 Perfectly Competitive Markets At the end of this section, students will be able to: 6 Define a market that is completely competitive (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 6 Review the characteristics of a perfectly competitive market — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 79 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-economics-u04-c004",
+            "name": "Market Structures 72 For Example, In The",
+            "simple_definition": "Unit 4: Market Structures 72 For example, in the wheat market, there are thousands of farmers who sell wheat and millions of consumers who use wheat and wheat products",
+            "deep_explanation": "Because no single buyer or seller can influence the price of wheat, each takes the price as given",
+            "real_example": "Practical example of Market Structures 72 For example, in the from page 80.",
+            "common_confusion": "Students sometimes confuse Market Structures 72 For example, in the with adjacent topics in Chapter 4.",
+            "source_pages": "80",
+            "name_amharic": "Market Structures 72 For example, in the (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 4: Market Structures 72 For example, in the wheat market, there are thousands of farmers who sell wheat and millions of consumers who use wheat and wheat products (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Because no single buyer or seller can influence the price of wheat, each takes the price as given — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 80 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-economics-u04-c005",
+            "name": "Market Structures 73 Market, The Produce",
+            "simple_definition": "Unit 4: Market Structures 73 market, the producer takes the price (p* in Figure 4.2) as given",
+            "deep_explanation": "Hence, the demand curve that the firm faces in this market situation is a horizontal line drawn at the equilibrium price, p*",
+            "real_example": "Practical example of Market Structures 73 market, the produce from page 81.",
+            "common_confusion": "Students sometimes confuse Market Structures 73 market, the produce with adjacent topics in Chapter 4.",
+            "source_pages": "81",
+            "name_amharic": "Market Structures 73 market, the produce (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 4: Market Structures 73 market, the producer takes the price (p* in Figure 4.2) as given (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Hence, the demand curve that the firm faces in this market situation is a horizontal line drawn at the equilibrium price, p* — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 81 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-economics-u04-c006",
+            "name": "Market Structures 74 Figure 4.3: Determi",
+            "simple_definition": "Unit 4: Market Structures 74 Figure 4.3: Determination of equilibrium price under perfect competition In a perfect competition, a firm can sell any amount of output at a given market price",
+            "deep_explanation": "It means that a firm’s additional revenue (MR) from the sale of every additional unit of the commodity is just equal to the market price (P) or average rate of the commodity (AR)",
+            "real_example": "Practical example of Market Structures 74 Figure 4.3: Determi from page 82.",
+            "common_confusion": "Students sometimes confuse Market Structures 74 Figure 4.3: Determi with adjacent topics in Chapter 4.",
+            "source_pages": "82",
+            "name_amharic": "Market Structures 74 Figure 4.3: Determi (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 4: Market Structures 74 Figure 4.3: Determination of equilibrium price under perfect competition In a perfect competition, a firm can sell any amount of output at a given market price (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] It means that a firm’s additional revenue (MR) from the sale of every additional unit of the commodity is just equal to the market price (P) or average rate of the commodity (AR) — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 82 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

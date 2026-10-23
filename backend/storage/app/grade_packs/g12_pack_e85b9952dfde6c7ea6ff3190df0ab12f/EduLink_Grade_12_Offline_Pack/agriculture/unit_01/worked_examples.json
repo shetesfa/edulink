@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "agriculture",
+    "unit_number": 1,
+    "worked_examples": [
+        {
+            "id": "g12-agriculture-u01-we001",
+            "title": "Worked Example 1: Agricultural Economics and Marketing",
+            "problem_statement": "Analyze the application of the topic explained on page 9.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 9.",
+            "source_page": "9"
+        },
+        {
+            "id": "g12-agriculture-u01-we002",
+            "title": "Worked Example 2: Agricultural Economics and Marketing",
+            "problem_statement": "Analyze the application of the topic explained on page 10.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 10.",
+            "source_page": "10"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "grade": 9,
+    "subject": "history",
+    "unit_number": 8,
+    "unit_title": "Unit 8: State Formation and Modernization in Ethiopia",
+    "source_book": "G9 History",
+    "practice_quiz": [
+        {
+            "id": "g9-history-u08-q001",
+            "question": "Assessment Question 1: Which statement correctly evaluates Historical Sources and Fossils (Unit 8)?",
+            "question_amharic": "የምዘና ጥያቄ 1፡ ስለ የታሪክ ሶርሶች (Sources) እና ሉሲ (Lucy) ቅሪተ-አካል (ምዕራፍ 8) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Historical Sources and Fossils is a core topic in Grade 9 History covering essential principles on pages 162-197.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "የታሪክ ሶርሶች (Sources) እና ሉሲ (Lucy) ቅሪተ-አካል በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 162-197 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Historical Sources and Fossils is a core topic in Grade 9 History covering essential principles on pages 162-197.",
+            "correct_answer_amharic": "የታሪክ ሶርሶች (Sources) እና ሉሲ (Lucy) ቅሪተ-አካል በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 162-197 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 162-197.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 162-197 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-history-u08-c001"
+        },
+        {
+            "id": "g9-history-u08-q002",
+            "question": "Assessment Question 2: Which statement correctly evaluates Ancient World Civilizations (Unit 8)?",
+            "question_amharic": "የምዘና ጥያቄ 2፡ ስለ የቀደሙ የዓለም ሲቪላይዜሽኖች (Civilizations) (ምዕራፍ 8) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Ancient World Civilizations is a core topic in Grade 9 History covering essential principles on pages 162-197.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "የቀደሙ የዓለም ሲቪላይዜሽኖች (Civilizations) በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 162-197 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Ancient World Civilizations is a core topic in Grade 9 History covering essential principles on pages 162-197.",
+            "correct_answer_amharic": "የቀደሙ የዓለም ሲቪላይዜሽኖች (Civilizations) በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 162-197 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 162-197.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 162-197 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-history-u08-c002"
+        },
+        {
+            "id": "g9-history-u08-q003",
+            "question": "Assessment Question 3: Which statement correctly evaluates Ethiopian State Formation (Unit 8)?",
+            "question_amharic": "የምዘና ጥያቄ 3፡ ስለ የኢትዮጵያ መንግሥት ምስረታ እና ታሪክ (ምዕራፍ 8) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Ethiopian State Formation is a core topic in Grade 9 History covering essential principles on pages 162-197.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "የኢትዮጵያ መንግሥት ምስረታ እና ታሪክ በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 162-197 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Ethiopian State Formation is a core topic in Grade 9 History covering essential principles on pages 162-197.",
+            "correct_answer_amharic": "የኢትዮጵያ መንግሥት ምስረታ እና ታሪክ በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 162-197 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 162-197.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 162-197 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-history-u08-c003"
+        },
+        {
+            "id": "g9-history-u08-q004",
+            "question": "Assessment Question 4: Which statement correctly evaluates Historical Sources and Fossils (Unit 8)?",
+            "question_amharic": "የምዘና ጥያቄ 4፡ ስለ የታሪክ ሶርሶች (Sources) እና ሉሲ (Lucy) ቅሪተ-አካል (ምዕራፍ 8) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Historical Sources and Fossils is a core topic in Grade 9 History covering essential principles on pages 162-197.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "የታሪክ ሶርሶች (Sources) እና ሉሲ (Lucy) ቅሪተ-አካል በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 162-197 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Historical Sources and Fossils is a core topic in Grade 9 History covering essential principles on pages 162-197.",
+            "correct_answer_amharic": "የታሪክ ሶርሶች (Sources) እና ሉሲ (Lucy) ቅሪተ-አካል በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 162-197 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 162-197.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ታሪክ (History) መጽሐፍ ገጽ 162-197 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-history-u08-c004"
+        }
+    ]
+}

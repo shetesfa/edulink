@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "english",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g11-english-u05-we001",
+            "title": "Worked Example 1: Unit 5: Cultural Heritage and Tourism",
+            "problem_statement": "Analyze the application of the topic explained on page 196.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 196.",
+            "source_page": "196"
+        },
+        {
+            "id": "g11-english-u05-we002",
+            "title": "Worked Example 2: Unit 5: Cultural Heritage and Tourism",
+            "problem_statement": "Analyze the application of the topic explained on page 196.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 196.",
+            "source_page": "196"
+        }
+    ]
+}

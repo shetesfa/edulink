@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "chemistry",
+    "unit_number": 6,
+    "worked_examples": [
+        {
+            "id": "g11-chemistry-u06-we001",
+            "title": "Worked Example 1: Solutions and Solubility",
+            "problem_statement": "Analyze the application of the topic explained on page 274.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 274.",
+            "source_page": "274"
+        },
+        {
+            "id": "g11-chemistry-u06-we002",
+            "title": "Worked Example 2: Solutions and Solubility",
+            "problem_statement": "Analyze the application of the topic explained on page 275.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 275.",
+            "source_page": "275"
+        }
+    ]
+}

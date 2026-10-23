@@ -1,0 +1,93 @@
+{
+    "grade": 12,
+    "subject": "physics",
+    "unit_number": 1,
+    "unit_title": "Thermodynamics and Heat Engines",
+    "source_book": "G12 Physics",
+    "concepts": [
+        {
+            "id": "g12-physics-u01-c001",
+            "name": "Lenz's Law",
+            "simple_definition": "Lenz's Law states that the direction of an induced current always opposes the change in magnetic flux that produced it.",
+            "deep_explanation": "This law is a consequence of the law of conservation of energy, represented by the negative sign in Faraday's Law: ε = -N(dΦ\/dt).",
+            "real_example": "Pushing a magnet into a coil of wire induces a current that creates a magnetic field repelling the incoming magnet.",
+            "common_confusion": "Thinking Lenz's law allows creating free energy. It prevents free energy creation by requiring work to push the magnet.",
+            "source_pages": "45-50",
+            "name_amharic": "የሌንዝ ሕግ (Lenz's Law)",
+            "simple_definition_amharic": "የሌንዝ ሕግ እንደሚገልጸው የተፈጠረው የኤሌክትሪክ ፍሰት አቅጣጫ ሁልጊዜ እንዲፈጠር ካደረገው የማግኔቲክ ለውጥ ጋር ይቃረናል።",
+            "deep_explanation_amharic": "ይህ ሕግ የኢነርጂ ጥበቃ ሕግ መገለጫ ሲሆን በፋራዳይ ሕግ ውስጥ በአሉታዊ ምልክት (-) ይገለጻል፦ ε = -N(dΦ\/dt)።",
+            "real_example_amharic": "ማግኔትን ወደ ሽቦ ጠምዛዛ ሲገፉት፣ ማግኔቱን የሚገፋ ተቃራኒ የኤሌክትሪክ ፍሰት ይፈጠራል።",
+            "common_confusion_amharic": "የሌንዝ ሕግ ያለምንም ሥራ ኃይል መፍጠር ያስችላል ብሎ ማሰብ።"
+        },
+        {
+            "id": "g12-physics-u01-c002",
+            "name": "2 Unit 1 Application Of Physics In Other",
+            "simple_definition": "2 Unit 1 Application of physics in other ﬁelds 1.1 Physics and other sciences Physics is the most essential ﬁeld of science and it has a strong inﬂuence on most scientiﬁc developments",
+            "deep_explanation": "We can ﬁnd different concepts of physics in many of the modern sciences",
+            "real_example": "Practical example of 2 Unit 1 Application of physics in other from page 8.",
+            "common_confusion": "Students sometimes confuse 2 Unit 1 Application of physics in other with adjacent topics in Chapter 1.",
+            "source_pages": "8",
+            "name_amharic": "2 Unit 1 Application of physics in other (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 2 Unit 1 Application of physics in other ﬁelds 1.1 Physics and other sciences Physics is the most essential ﬁeld of science and it has a strong inﬂuence on most scientiﬁc developments (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] We can ﬁnd different concepts of physics in many of the modern sciences — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 8 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u01-c003",
+            "name": "1.1 Physics And Other Sciences 3 Spectro",
+            "simple_definition": "1.1 Physics and other sciences 3 Spectroscopy is a fundamental examining tool in many ﬁelds including physics and chemistry",
+            "deep_explanation": "Most of what we know about the structure of atoms and molecules comes from spectroscopic study",
+            "real_example": "Practical example of 1.1 Physics and other sciences 3 Spectro from page 9.",
+            "common_confusion": "Students sometimes confuse 1.1 Physics and other sciences 3 Spectro with adjacent topics in Chapter 1.",
+            "source_pages": "9",
+            "name_amharic": "1.1 Physics and other sciences 3 Spectro (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 1.1 Physics and other sciences 3 Spectroscopy is a fundamental examining tool in many ﬁelds including physics and chemistry (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Most of what we know about the structure of atoms and molecules comes from spectroscopic study — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 9 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u01-c004",
+            "name": "4 Unit 1 Application Of Physics In Other",
+            "simple_definition": "4 Unit 1 Application of physics in other ﬁelds Discussion question 1.2 (i) Why it is difﬁcult to stand on one foot than the two feet? Why we are more stable when we sleep than we are standing? (ii) Figure 1.1 (a) shows freely standing person and Figure 1.1 (b) shows the way a person carrying a load stands",
+            "deep_explanation": "Why the person carrying the load stands bending in Figure 1.1(b) than the person in Figure 1.1(a)? Physics of ﬂuid ﬂow and biology Discussion question 1.3 (i) Have you observed when the earthworm moves? How do earthworms locomote without limbs? (ii) How a blood moves against gravity from the feet to the heart or from the heart to the brain when a person stands erect? The physics of ﬂuid ﬂow, like viscosity, equation of continuity and turbulent ﬂow, is very important in understanding the circulation of blood and blood pressure in the multicellular organisms",
+            "real_example": "Practical example of 4 Unit 1 Application of physics in other from page 10.",
+            "common_confusion": "Students sometimes confuse 4 Unit 1 Application of physics in other with adjacent topics in Chapter 1.",
+            "source_pages": "10",
+            "name_amharic": "4 Unit 1 Application of physics in other (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 4 Unit 1 Application of physics in other ﬁelds Discussion question 1.2 (i) Why it is difﬁcult to stand on one foot than the two feet? Why we are more stable when we sleep than we are standing? (ii) Figure 1.1 (a) shows freely standing person and Figure 1.1 (b) shows the way a person carrying a load stands (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Why the person carrying the load stands bending in Figure 1.1(b) than the person in Figure 1.1(a)? Physics of ﬂuid ﬂow and biology Discussion question 1.3 (i) Have you observed when the earthworm moves? How do earthworms locomote without limbs? (ii) How a blood moves against gravity from the feet to the heart or from the heart to the brain when a person stands erect? The physics of ﬂuid ﬂow, like viscosity, equation of continuity and turbulent ﬂow, is very important in understanding the circulation of blood and blood pressure in the multicellular organisms — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 10 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u01-c005",
+            "name": "1.1 Physics And Other Sciences 5 Eardrum",
+            "simple_definition": "1.1 Physics and other sciences 5 eardrum to vibrate; this produces nerve impulses that are interpreted by the brain",
+            "deep_explanation": "Physics of electricity and biology Many life processes involve electrical phenomena",
+            "real_example": "Practical example of 1.1 Physics and other sciences 5 eardrum from page 11.",
+            "common_confusion": "Students sometimes confuse 1.1 Physics and other sciences 5 eardrum with adjacent topics in Chapter 1.",
+            "source_pages": "11",
+            "name_amharic": "1.1 Physics and other sciences 5 eardrum (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 1.1 Physics and other sciences 5 eardrum to vibrate; this produces nerve impulses that are interpreted by the brain (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Physics of electricity and biology Many life processes involve electrical phenomena — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 11 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u01-c006",
+            "name": "6 Unit 1 Application Of Physics In Other",
+            "simple_definition": "6 Unit 1 Application of physics in other ﬁelds and ﬁnally the study of the Universe as a whole",
+            "deep_explanation": "Brain storming question 1.4 Most of the astronomical objects are far from the earth where astronomers live",
+            "real_example": "Practical example of 6 Unit 1 Application of physics in other from page 12.",
+            "common_confusion": "Students sometimes confuse 6 Unit 1 Application of physics in other with adjacent topics in Chapter 1.",
+            "source_pages": "12",
+            "name_amharic": "6 Unit 1 Application of physics in other (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 6 Unit 1 Application of physics in other ﬁelds and ﬁnally the study of the Universe as a whole (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Brain storming question 1.4 Most of the astronomical objects are far from the earth where astronomers live — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 12 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

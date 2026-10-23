@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "english",
+    "unit_number": 10,
+    "worked_examples": [
+        {
+            "id": "g12-english-u10-we001",
+            "title": "Worked Example 1: Unit 10: Lifetime Learning and Personal Goals",
+            "problem_statement": "Analyze the application of the topic explained on page 249.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 249.",
+            "source_page": "249"
+        },
+        {
+            "id": "g12-english-u10-we002",
+            "title": "Worked Example 2: Unit 10: Lifetime Learning and Personal Goals",
+            "problem_statement": "Analyze the application of the topic explained on page 250.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 250.",
+            "source_page": "250"
+        }
+    ]
+}

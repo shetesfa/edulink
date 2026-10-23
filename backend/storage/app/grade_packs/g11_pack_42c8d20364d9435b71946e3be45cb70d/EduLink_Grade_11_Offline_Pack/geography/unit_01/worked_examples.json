@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "geography",
+    "unit_number": 1,
+    "worked_examples": [
+        {
+            "id": "g11-geography-u01-we001",
+            "title": "Worked Example 1: Map Work and Geospatial Information",
+            "problem_statement": "Analyze the application of the topic explained on page 15.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 15.",
+            "source_page": "15"
+        },
+        {
+            "id": "g11-geography-u01-we002",
+            "title": "Worked Example 2: Map Work and Geospatial Information",
+            "problem_statement": "Analyze the application of the topic explained on page 16.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 16.",
+            "source_page": "16"
+        }
+    ]
+}

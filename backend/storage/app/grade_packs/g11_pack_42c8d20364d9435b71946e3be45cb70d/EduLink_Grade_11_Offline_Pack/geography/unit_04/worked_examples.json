@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "geography",
+    "unit_number": 4,
+    "worked_examples": [
+        {
+            "id": "g11-geography-u04-we001",
+            "title": "Worked Example 1: Natural Vegetation and Soils",
+            "problem_statement": "Analyze the application of the topic explained on page 136.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 136.",
+            "source_page": "136"
+        },
+        {
+            "id": "g11-geography-u04-we002",
+            "title": "Worked Example 2: Natural Vegetation and Soils",
+            "problem_statement": "Analyze the application of the topic explained on page 137.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 137.",
+            "source_page": "137"
+        }
+    ]
+}

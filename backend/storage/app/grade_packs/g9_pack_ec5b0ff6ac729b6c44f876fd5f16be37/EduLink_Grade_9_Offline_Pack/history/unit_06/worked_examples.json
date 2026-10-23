@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "history",
+    "unit_number": 6,
+    "examples": [
+        {
+            "example_id": "g9-history-u06-we001",
+            "title": "Worked Example 1: Professional Solution for Africa and the Outside World (1500-1880s)",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የAfrica and the Outside World (1500-1880s) ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 112-127.",
+            "problem_amharic": "ከገጽ 112-127 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "112-127"
+        }
+    ]
+}

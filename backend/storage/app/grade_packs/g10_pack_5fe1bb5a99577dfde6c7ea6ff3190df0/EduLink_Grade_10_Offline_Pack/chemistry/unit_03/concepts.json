@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "chemistry",
+    "unit_number": 3,
+    "unit_title": "Electrochemistry",
+    "source_book": "G10 Chemistry",
+    "concepts": [
+        {
+            "id": "g10-chemistry-u03-c001",
+            "name": "Electrolysis",
+            "simple_definition": "Electrolysis is the process of using electrical energy to drive a non-spontaneous chemical reaction.",
+            "deep_explanation": "Electric current enters through the anode (oxidation occurs) and leaves through the cathode (reduction occurs) inside an electrolyte solution.",
+            "real_example": "Electrolysis of water splits water molecules into hydrogen gas at the cathode and oxygen gas at the anode.",
+            "common_confusion": "Confusing anode and cathode polarities in electrolytic vs galvanic cells.",
+            "source_pages": "207-212",
+            "name_amharic": "ኤሌክትሮላይሲስ",
+            "simple_definition_amharic": "ኤሌክትሮላይሲስ ማለት የኤሌክትሪክ ኃይልን በመጠቀም ራሱን ችሎ የማይካሄድን ኬሚካላዊ ግብረመልስ የማካሄድ ሂደት ነው።",
+            "deep_explanation_amharic": "የኤሌክትሪክ ፍሰት በአኖድ በኩል ይገባል (ኦክሳይድ ይከናወናል) እንዲሁም በካቶድ በኩል ይወጣል (ሪዳክሽን ይከናወናል)።",
+            "real_example_amharic": "የውሃ ኤሌክትሮላይሲስ ውሃን በመክፈል ሃይድሮጅን ጋዝ በካቶድ እና ኦክስጅን ጋዝ በአኖድ ላይ እንዲፈጠር ያደርጋል።",
+            "common_confusion_amharic": "በኤሌክትሮላይቲክ እና በጋልቫኒክ ሴሎች ውስጥ የአኖድ እና ካቶድ ምልክቶችን ማደናገር።"
+        },
+        {
+            "id": "g10-chemistry-u03-c002",
+            "name": "Natural Occurrence And Extraction Of Met",
+            "simple_definition": "Natural occurrence and extraction of metals Noble metals Ag, Au, Bi, Cu, Pd, Pt exist in nature as uncombined or free state",
+            "deep_explanation": "More active metals like alkali and alkaline earth metals never exist in uncombined state",
+            "real_example": "Practical example of Natural occurrence and extraction of met from page 208.",
+            "common_confusion": "Students sometimes confuse Natural occurrence and extraction of met with adjacent topics in Chapter 3.",
+            "source_pages": "208",
+            "name_amharic": "Natural occurrence and extraction of met (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Natural occurrence and extraction of metals Noble metals Ag, Au, Bi, Cu, Pd, Pt exist in nature as uncombined or free state (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] More active metals like alkali and alkaline earth metals never exist in uncombined state — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 208 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-chemistry-u03-c003",
+            "name": "203 Metals And Nonmetals Project Read Fr",
+            "simple_definition": "203 Metals and Nonmetals Project Read from a reliable source about the uses of some common metals (sodium, potasium, magnsium, calcium and tantalum) and their common compounds",
+            "deep_explanation": "Submit to your teacher and discuss in class",
+            "real_example": "Practical example of 203 Metals and Nonmetals Project Read fr from page 209.",
+            "common_confusion": "Students sometimes confuse 203 Metals and Nonmetals Project Read fr with adjacent topics in Chapter 3.",
+            "source_pages": "209",
+            "name_amharic": "203 Metals and Nonmetals Project Read fr (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 203 Metals and Nonmetals Project Read from a reliable source about the uses of some common metals (sodium, potasium, magnsium, calcium and tantalum) and their common compounds (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Submit to your teacher and discuss in class — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 209 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-chemistry-u03-c004",
+            "name": "Nowadays 22 Carat Gold Is Used To Make J",
+            "simple_definition": "Nowadays 22 carat gold is used to make jewelry",
+            "deep_explanation": "18 carat contains 18 parts of pure gold by mass in 24 parts of alloy",
+            "real_example": "Practical example of Nowadays 22 carat gold is used to make j from page 210.",
+            "common_confusion": "Students sometimes confuse Nowadays 22 carat gold is used to make j with adjacent topics in Chapter 3.",
+            "source_pages": "210",
+            "name_amharic": "Nowadays 22 carat gold is used to make j (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Nowadays 22 carat gold is used to make jewelry (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 18 carat contains 18 parts of pure gold by mass in 24 parts of alloy — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 210 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-chemistry-u03-c005",
+            "name": "205 Metals And Nonmetals SiO2 (s) + 2NaO",
+            "simple_definition": "205 Metals and Nonmetals SiO2 (s) + 2NaOH (aq) → Na2SiO3 (aq) + H2O (l) Insoluble soluble At the same time aluminum oxide is converted to soluble sodium aluminate",
+            "deep_explanation": "Al2O3 (s) + 2NaOH (aq) → NaAlO2 (aq) + H2O (l) Insoluble soluble The impurities like iron oxides and titanium (IV) oxide remain unaffected by the base and are filtered off",
+            "real_example": "Practical example of 205 Metals and Nonmetals SiO2 (s) + 2NaO from page 211.",
+            "common_confusion": "Students sometimes confuse 205 Metals and Nonmetals SiO2 (s) + 2NaO with adjacent topics in Chapter 3.",
+            "source_pages": "211",
+            "name_amharic": "205 Metals and Nonmetals SiO2 (s) + 2NaO (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 205 Metals and Nonmetals SiO2 (s) + 2NaOH (aq) → Na2SiO3 (aq) + H2O (l) Insoluble soluble At the same time aluminum oxide is converted to soluble sodium aluminate (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Al2O3 (s) + 2NaOH (aq) → NaAlO2 (aq) + H2O (l) Insoluble soluble The impurities like iron oxides and titanium (IV) oxide remain unaffected by the base and are filtered off — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 211 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-chemistry-u03-c006",
+            "name": "Note That Under The Prevailing Condition",
+            "simple_definition": "Note that under the prevailing conditions in the electrolytic cell, the anode (graphite electrode) will gradually oxidize to carbon dioxide and must be replaced regularly",
+            "deep_explanation": "Molten aluminum is siphoned or drawn from the bottom of the electrolytic cell",
+            "real_example": "Practical example of Note that under the prevailing condition from page 212.",
+            "common_confusion": "Students sometimes confuse Note that under the prevailing condition with adjacent topics in Chapter 3.",
+            "source_pages": "212",
+            "name_amharic": "Note that under the prevailing condition (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Note that under the prevailing conditions in the electrolytic cell, the anode (graphite electrode) will gradually oxidize to carbon dioxide and must be replaced regularly (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Molten aluminum is siphoned or drawn from the bottom of the electrolytic cell — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 212 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

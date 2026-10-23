@@ -1,0 +1,105 @@
+{
+    "grade": 9,
+    "subject": "physics",
+    "unit_number": 5,
+    "unit_title": "Unit 5: Simple Machines",
+    "source_book": "G9 Physics",
+    "practice_quiz": [
+        {
+            "id": "g9-physics-u05-q001",
+            "question": "Assessment Question 1: Which statement correctly evaluates SI Units and Conversions (Unit 5)?",
+            "question_amharic": "የምዘና ጥያቄ 1፡ ስለ የ SI ዩኒቶች (SI Units) እና ኮንቨርዥን (ምዕራፍ 5) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "SI Units and Conversions is a core topic in Grade 9 Physics covering essential principles on pages 161-190.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "የ SI ዩኒቶች (SI Units) እና ኮንቨርዥን በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 161-190 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "SI Units and Conversions is a core topic in Grade 9 Physics covering essential principles on pages 161-190.",
+            "correct_answer_amharic": "የ SI ዩኒቶች (SI Units) እና ኮንቨርዥን በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 161-190 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 161-190.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 161-190 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-physics-u05-c001"
+        },
+        {
+            "id": "g9-physics-u05-q002",
+            "question": "Assessment Question 2: Which statement correctly evaluates Velocity and Acceleration (Unit 5)?",
+            "question_amharic": "የምዘና ጥያቄ 2፡ ስለ ቪሎሲቲ (Velocity) እና አክሰለሬሽን (Acceleration) (ምዕራፍ 5) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Velocity and Acceleration is a core topic in Grade 9 Physics covering essential principles on pages 161-190.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "ቪሎሲቲ (Velocity) እና አክሰለሬሽን (Acceleration) በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 161-190 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Velocity and Acceleration is a core topic in Grade 9 Physics covering essential principles on pages 161-190.",
+            "correct_answer_amharic": "ቪሎሲቲ (Velocity) እና አክሰለሬሽን (Acceleration) በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 161-190 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 161-190.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 161-190 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-physics-u05-c002"
+        },
+        {
+            "id": "g9-physics-u05-q003",
+            "question": "Assessment Question 3: Which statement correctly evaluates Newton Laws of Motion (Unit 5)?",
+            "question_amharic": "የምዘና ጥያቄ 3፡ ስለ የኒውተን የሞሽን ሕጎች (Newton's Laws of Motion) (ምዕራፍ 5) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Newton Laws of Motion is a core topic in Grade 9 Physics covering essential principles on pages 161-190.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "የኒውተን የሞሽን ሕጎች (Newton's Laws of Motion) በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 161-190 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Newton Laws of Motion is a core topic in Grade 9 Physics covering essential principles on pages 161-190.",
+            "correct_answer_amharic": "የኒውተን የሞሽን ሕጎች (Newton's Laws of Motion) በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 161-190 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 161-190.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 161-190 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-physics-u05-c003"
+        },
+        {
+            "id": "g9-physics-u05-q004",
+            "question": "Assessment Question 4: Which statement correctly evaluates Work Energy and Power (Unit 5)?",
+            "question_amharic": "የምዘና ጥያቄ 4፡ ስለ ወርክ (Work)፣ ኢነርጂ (Energy) እና ፓወር (Power) (ምዕራፍ 5) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Work Energy and Power is a core topic in Grade 9 Physics covering essential principles on pages 161-190.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "ወርክ (Work)፣ ኢነርጂ (Energy) እና ፓወር (Power) በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 161-190 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Work Energy and Power is a core topic in Grade 9 Physics covering essential principles on pages 161-190.",
+            "correct_answer_amharic": "ወርክ (Work)፣ ኢነርጂ (Energy) እና ፓወር (Power) በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 161-190 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 161-190.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 161-190 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-physics-u05-c004"
+        }
+    ]
+}

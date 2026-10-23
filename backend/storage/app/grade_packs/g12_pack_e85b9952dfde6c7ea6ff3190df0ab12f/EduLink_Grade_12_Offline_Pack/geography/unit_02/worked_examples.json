@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "geography",
+    "unit_number": 2,
+    "worked_examples": [
+        {
+            "id": "g12-geography-u02-we001",
+            "title": "Worked Example 1: Physical Geography of Africa",
+            "problem_statement": "Analyze the application of the topic explained on page 66.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 66.",
+            "source_page": "66"
+        },
+        {
+            "id": "g12-geography-u02-we002",
+            "title": "Worked Example 2: Physical Geography of Africa",
+            "problem_statement": "Analyze the application of the topic explained on page 67.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 67.",
+            "source_page": "67"
+        }
+    ]
+}

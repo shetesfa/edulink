@@ -1,0 +1,93 @@
+{
+    "grade": 12,
+    "subject": "information_technology",
+    "unit_number": 4,
+    "unit_title": "Emerging Technologies & Cyber Law",
+    "source_book": "G12 Information Technology",
+    "concepts": [
+        {
+            "id": "g12-information_technology-u04-c001",
+            "name": "Information Technology Grade 12 ~ Studen",
+            "simple_definition": "Information Technology Grade 12 ~ Student Textbook 177 UNIT-6 Fundamentals of Programming Notes   Any statement that is preceded by the hash symbol (#) is a comment and ignored by the Python interpreter",
+            "deep_explanation": "You will learn comments in Section 6.2",
+            "real_example": "Practical example of Information Technology Grade 12 ~ Studen from page 184.",
+            "common_confusion": "Students sometimes confuse Information Technology Grade 12 ~ Studen with adjacent topics in Chapter 4.",
+            "source_pages": "184",
+            "name_amharic": "Information Technology Grade 12 ~ Studen (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Information Technology Grade 12 ~ Student Textbook 177 UNIT-6 Fundamentals of Programming Notes   Any statement that is preceded by the hash symbol (#) is a comment and ignored by the Python interpreter (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] You will learn comments in Section 6.2 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 184 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-information_technology-u04-c002",
+            "name": "Information Technology Grade 12 ~ Studen",
+            "simple_definition": "Information Technology Grade 12 ~ Student Textbook 178 UNIT-6 Fundamentals of Programming Activity 6.8 • What is the output of the program in Figure 6.10? 6.1.2 Loops or Iteration Program Flow Controls Brainstorming 6.3   How do you represent 1 to 10 by repeating some pattern? Most of real-world problems include some action that is repeated several number of times",
+            "deep_explanation": "For example, consider the program you designed in (Activity 6.6 Question 2) that determines the student’s mark as “Excellent”, “Very Good”, etc",
+            "real_example": "Practical example of Information Technology Grade 12 ~ Studen from page 185.",
+            "common_confusion": "Students sometimes confuse Information Technology Grade 12 ~ Studen with adjacent topics in Chapter 4.",
+            "source_pages": "185",
+            "name_amharic": "Information Technology Grade 12 ~ Studen (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Information Technology Grade 12 ~ Student Textbook 178 UNIT-6 Fundamentals of Programming Activity 6.8 • What is the output of the program in Figure 6.10? 6.1.2 Loops or Iteration Program Flow Controls Brainstorming 6.3   How do you represent 1 to 10 by repeating some pattern? Most of real-world problems include some action that is repeated several number of times (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] For example, consider the program you designed in (Activity 6.6 Question 2) that determines the student’s mark as “Excellent”, “Very Good”, etc — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 185 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-information_technology-u04-c003",
+            "name": "Information Technology Grade 12 ~ Studen",
+            "simple_definition": "Information Technology Grade 12 ~ Student Textbook 179 UNIT-6 Fundamentals of Programming Syntax: for variable_name in sequence :     statement_1     statement_2     [....] Figure 6",
+            "deep_explanation": "11 For Loop Syntax in Python The description of the above for loop syntax is: Name Description variable_name This represents a temporary variable that sets a new value for each iteration of the loop",
+            "real_example": "Practical example of Information Technology Grade 12 ~ Studen from page 186.",
+            "common_confusion": "Students sometimes confuse Information Technology Grade 12 ~ Studen with adjacent topics in Chapter 4.",
+            "source_pages": "186",
+            "name_amharic": "Information Technology Grade 12 ~ Studen (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Information Technology Grade 12 ~ Student Textbook 179 UNIT-6 Fundamentals of Programming Syntax: for variable_name in sequence :     statement_1     statement_2     [....] Figure 6 (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 11 For Loop Syntax in Python The description of the above for loop syntax is: Name Description variable_name This represents a temporary variable that sets a new value for each iteration of the loop — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 186 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-information_technology-u04-c004",
+            "name": "Information Technology Grade 12 ~ Studen",
+            "simple_definition": "Information Technology Grade 12 ~ Student Textbook 180 UNIT-6 Fundamentals of Programming Python script Output on IDLE Shell Figure 6",
+            "deep_explanation": "13 Implementation of for Loop with Range - Code (left) and Output (right) Activity 6.9 1",
+            "real_example": "Practical example of Information Technology Grade 12 ~ Studen from page 187.",
+            "common_confusion": "Students sometimes confuse Information Technology Grade 12 ~ Studen with adjacent topics in Chapter 4.",
+            "source_pages": "187",
+            "name_amharic": "Information Technology Grade 12 ~ Studen (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Information Technology Grade 12 ~ Student Textbook 180 UNIT-6 Fundamentals of Programming Python script Output on IDLE Shell Figure 6 (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 13 Implementation of for Loop with Range - Code (left) and Output (right) Activity 6.9 1 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 187 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-information_technology-u04-c005",
+            "name": "Information Technology Grade 12 ~ Studen",
+            "simple_definition": "Information Technology Grade 12 ~ Student Textbook 181 UNIT-6 Fundamentals of Programming range(x, y, z): This generates a sequence of numbers from x to y excluding y, incrementing by z",
+            "deep_explanation": "This is different from the above range function in that the increment is set by the z value ( See Figure 6.15)",
+            "real_example": "Practical example of Information Technology Grade 12 ~ Studen from page 188.",
+            "common_confusion": "Students sometimes confuse Information Technology Grade 12 ~ Studen with adjacent topics in Chapter 4.",
+            "source_pages": "188",
+            "name_amharic": "Information Technology Grade 12 ~ Studen (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Information Technology Grade 12 ~ Student Textbook 181 UNIT-6 Fundamentals of Programming range(x, y, z): This generates a sequence of numbers from x to y excluding y, incrementing by z (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] This is different from the above range function in that the increment is set by the z value ( See Figure 6.15) — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 188 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-information_technology-u04-c006",
+            "name": "Information Technology Grade 12 ~ Studen",
+            "simple_definition": "Information Technology Grade 12 ~ Student Textbook 182 UNIT-6 Fundamentals of Programming The for loop program in Figure 6.16 is condition controlled",
+            "deep_explanation": "The ‘regionalState’ is a sequence that contains a list of regional states",
+            "real_example": "Practical example of Information Technology Grade 12 ~ Studen from page 189.",
+            "common_confusion": "Students sometimes confuse Information Technology Grade 12 ~ Studen with adjacent topics in Chapter 4.",
+            "source_pages": "189",
+            "name_amharic": "Information Technology Grade 12 ~ Studen (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Information Technology Grade 12 ~ Student Textbook 182 UNIT-6 Fundamentals of Programming The for loop program in Figure 6.16 is condition controlled (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The ‘regionalState’ is a sequence that contains a list of regional states — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 189 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

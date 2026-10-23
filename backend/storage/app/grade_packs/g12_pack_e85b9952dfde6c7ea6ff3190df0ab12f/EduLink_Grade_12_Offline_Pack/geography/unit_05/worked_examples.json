@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "geography",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g12-geography-u05-we001",
+            "title": "Worked Example 1: Population and Urbanization Trends in Africa",
+            "problem_statement": "Analyze the application of the topic explained on page 216.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 216.",
+            "source_page": "216"
+        },
+        {
+            "id": "g12-geography-u05-we002",
+            "title": "Worked Example 2: Population and Urbanization Trends in Africa",
+            "problem_statement": "Analyze the application of the topic explained on page 217.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 217.",
+            "source_page": "217"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "grade": 9,
+    "subject": "civics",
+    "source_book": "G9 Civics",
+    "total_pages_in_source": 250,
+    "units": [
+        {
+            "unit_number": 1,
+            "unit_title": "Unit 1: Democratic System and Constitutionalism",
+            "status": "completed"
+        },
+        {
+            "unit_number": 2,
+            "unit_title": "Unit 2: Rule of Law and Judicial Protection",
+            "status": "completed"
+        },
+        {
+            "unit_number": 3,
+            "unit_title": "Unit 3: Human Rights and Democratic Rights in Ethiopia",
+            "status": "completed"
+        },
+        {
+            "unit_number": 4,
+            "unit_title": "Unit 4: Patriotism and National Interest",
+            "status": "completed"
+        },
+        {
+            "unit_number": 5,
+            "unit_title": "Unit 5: Work Culture and Economic Development",
+            "status": "completed"
+        },
+        {
+            "unit_number": 6,
+            "unit_title": "Unit 6: Self-Reliance and Entrepreneurship",
+            "status": "completed"
+        },
+        {
+            "unit_number": 7,
+            "unit_title": "Unit 7: Saving, Investment, and Financial Literacy",
+            "status": "completed"
+        },
+        {
+            "unit_number": 8,
+            "unit_title": "Unit 8: Active Civic Participation and Community Service",
+            "status": "completed"
+        }
+    ]
+}

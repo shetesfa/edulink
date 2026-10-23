@@ -1,0 +1,93 @@
+{
+    "grade": 12,
+    "subject": "english",
+    "unit_number": 1,
+    "unit_title": "Unit 1: Interpersonal Communication",
+    "source_book": "G12 English",
+    "concepts": [
+        {
+            "id": "g12-english-u01-c001",
+            "name": "Sustainable Development \b...............",
+            "simple_definition": "Table of Contents Unit 1: Sustainable Development \b.........................................1 1A",
+            "deep_explanation": "Listening Skills\b������������������������������������������������������������������������������������������������������1 1B",
+            "real_example": "Practical example of Sustainable Development \b............... from page 5.",
+            "common_confusion": "Students sometimes confuse Sustainable Development \b............... with adjacent topics in Chapter 1.",
+            "source_pages": "5",
+            "name_amharic": "Sustainable Development \b............... (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Table of Contents Unit 1: Sustainable Development \b.........................................1 1A (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Listening Skills\b������������������������������������������������������������������������������������������������������1 1B — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 5 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-english-u01-c002",
+            "name": "Green Economies\b.�.�.�.�.�.�.�.�.�.�.�.�",
+            "simple_definition": "Unit 6: Green Economies\b.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�",
+            "deep_explanation": "128 6A Listening\b��������������������������������������������������������������������������������������������������������������129 6B Speaking Skills \b����������������������������������������������������������������������������������������������������133 6C Reading Skills \b����������������������������������������������������������������������������������������������������139 6D Vocabulary Skills\b������������������������������������������������������������������������������������������������146 6E Grammar Skills\b����������������������������������������������������������������������������������������������������149 6F Writing Skills\b��������������������������������������������������������������������������������������������������������151 Unit 7: National Pride \b.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�158 7A Listening Skills\b����������������������������������������������������������������������������������������������������158 7B: Speaking Skills\b����������������������������������������������������������������������������������������������������162 7C: Reading Skills\b������������������������������������������������������������������������������������������������������164 7D: Vocabulary Skills \b����������������������������������������������������������������������������������������������170 7E: Grammar Skills \b��������������������������������������������������������������������������������������������������172 7F: Writing Skills \b������������������������������������������������������������������������������������������������������177 Unit 8: Telemedicine\b.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�",
+            "real_example": "Practical example of Green Economies\b.�.�.�.�.�.�.�.�.�.�.�.� from page 6.",
+            "common_confusion": "Students sometimes confuse Green Economies\b.�.�.�.�.�.�.�.�.�.�.�.� with adjacent topics in Chapter 1.",
+            "source_pages": "6",
+            "name_amharic": "Green Economies\b.�.�.�.�.�.�.�.�.�.�.�.� (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 6: Green Economies\b.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.� (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 128 6A Listening\b��������������������������������������������������������������������������������������������������������������129 6B Speaking Skills \b����������������������������������������������������������������������������������������������������133 6C Reading Skills \b����������������������������������������������������������������������������������������������������139 6D Vocabulary Skills\b������������������������������������������������������������������������������������������������146 6E Grammar Skills\b����������������������������������������������������������������������������������������������������149 6F Writing Skills\b��������������������������������������������������������������������������������������������������������151 Unit 7: National Pride \b.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�158 7A Listening Skills\b����������������������������������������������������������������������������������������������������158 7B: Speaking Skills\b����������������������������������������������������������������������������������������������������162 7C: Reading Skills\b������������������������������������������������������������������������������������������������������164 7D: Vocabulary Skills \b����������������������������������������������������������������������������������������������170 7E: Grammar Skills \b��������������������������������������������������������������������������������������������������172 7F: Writing Skills \b������������������������������������������������������������������������������������������������������177 Unit 8: Telemedicine\b.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.� — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 6 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-english-u01-c003",
+            "name": "ENGLISH STUDENT TEXTBOOK GRADE 12 1 UNIT",
+            "simple_definition": "ENGLISH STUDENT TEXTBOOK GRADE 12 1 UNIT UNIT 1 Sustainable Development Objectives By the end of unit one, you will be able to: • comprehend listening texts; • reorder incidents; • skim a text to tell the main idea of the text; • identify detail information; • connect the text with their real life experience; • discuss in pairs or a small group on a given topic; • make a public speech on a given topic; • guess meaning from the given context; • solve verbal reasoning questions; • identify common expressions of comparison and contrast; • correct sentence fragments; • identify organization of a paragraph; and • write paragraphs comparing and contrasting things",
+            "deep_explanation": "Listening Skills 1A.1 Listening Text A: Development Projects in Addis Ababa V Activity 1.1 I",
+            "real_example": "Practical example of ENGLISH STUDENT TEXTBOOK GRADE 12 1 UNIT from page 7.",
+            "common_confusion": "Students sometimes confuse ENGLISH STUDENT TEXTBOOK GRADE 12 1 UNIT with adjacent topics in Chapter 1.",
+            "source_pages": "7",
+            "name_amharic": "ENGLISH STUDENT TEXTBOOK GRADE 12 1 UNIT (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] ENGLISH STUDENT TEXTBOOK GRADE 12 1 UNIT UNIT 1 Sustainable Development Objectives By the end of unit one, you will be able to: • comprehend listening texts; • reorder incidents; • skim a text to tell the main idea of the text; • identify detail information; • connect the text with their real life experience; • discuss in pairs or a small group on a given topic; • make a public speech on a given topic; • guess meaning from the given context; • solve verbal reasoning questions; • identify common expressions of comparison and contrast; • correct sentence fragments; • identify organization of a paragraph; and • write paragraphs comparing and contrasting things (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Listening Skills 1A.1 Listening Text A: Development Projects in Addis Ababa V Activity 1.1 I — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 7 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-english-u01-c004",
+            "name": "UNIT 1 Sustainable Development ENGLISH S",
+            "simple_definition": "UNIT 1 Sustainable Development ENGLISH STUDENT TEXTBOOK GRADE 12 2 3",
+            "deep_explanation": "Are there any projects in your area? What are their contributions or damages to the environment\/ the people? 1",
+            "real_example": "Practical example of UNIT 1 Sustainable Development ENGLISH S from page 8.",
+            "common_confusion": "Students sometimes confuse UNIT 1 Sustainable Development ENGLISH S with adjacent topics in Chapter 1.",
+            "source_pages": "8",
+            "name_amharic": "UNIT 1 Sustainable Development ENGLISH S (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] UNIT 1 Sustainable Development ENGLISH STUDENT TEXTBOOK GRADE 12 2 3 (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Are there any projects in your area? What are their contributions or damages to the environment\/ the people? 1 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 8 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-english-u01-c005",
+            "name": "ENGLISH STUDENT TEXTBOOK GRADE 12 UNIT 1",
+            "simple_definition": "ENGLISH STUDENT TEXTBOOK GRADE 12 UNIT 1 Sustainable Development 3 III",
+            "deep_explanation": "Complete the statements with correct words from the listening text 1",
+            "real_example": "Practical example of ENGLISH STUDENT TEXTBOOK GRADE 12 UNIT 1 from page 9.",
+            "common_confusion": "Students sometimes confuse ENGLISH STUDENT TEXTBOOK GRADE 12 UNIT 1 with adjacent topics in Chapter 1.",
+            "source_pages": "9",
+            "name_amharic": "ENGLISH STUDENT TEXTBOOK GRADE 12 UNIT 1 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] ENGLISH STUDENT TEXTBOOK GRADE 12 UNIT 1 Sustainable Development 3 III (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Complete the statements with correct words from the listening text 1 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 9 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-english-u01-c006",
+            "name": "UNIT 1 Sustainable Development ENGLISH S",
+            "simple_definition": "UNIT 1 Sustainable Development ENGLISH STUDENT TEXTBOOK GRADE 12 4 II",
+            "deep_explanation": "Listen to the text and say whether the following statements are “TRUE” or “FALSE” 1",
+            "real_example": "Practical example of UNIT 1 Sustainable Development ENGLISH S from page 10.",
+            "common_confusion": "Students sometimes confuse UNIT 1 Sustainable Development ENGLISH S with adjacent topics in Chapter 1.",
+            "source_pages": "10",
+            "name_amharic": "UNIT 1 Sustainable Development ENGLISH S (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] UNIT 1 Sustainable Development ENGLISH STUDENT TEXTBOOK GRADE 12 4 II (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Listen to the text and say whether the following statements are “TRUE” or “FALSE” 1 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 10 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

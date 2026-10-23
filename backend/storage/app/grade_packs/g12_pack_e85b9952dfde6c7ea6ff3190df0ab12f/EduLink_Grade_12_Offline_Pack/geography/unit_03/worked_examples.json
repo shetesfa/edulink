@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "geography",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g12-geography-u03-we001",
+            "title": "Worked Example 1: Climate Zones and Vegetation of Africa",
+            "problem_statement": "Analyze the application of the topic explained on page 116.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 116.",
+            "source_page": "116"
+        },
+        {
+            "id": "g12-geography-u03-we002",
+            "title": "Worked Example 2: Climate Zones and Vegetation of Africa",
+            "problem_statement": "Analyze the application of the topic explained on page 117.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 117.",
+            "source_page": "117"
+        }
+    ]
+}

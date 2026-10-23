@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "physics",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g11-physics-u03-we001",
+            "title": "Worked Example 1: Rotational Motion, Waves, and Thermodynamics",
+            "problem_statement": "Analyze the application of the topic explained on page 175.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 175.",
+            "source_page": "175"
+        },
+        {
+            "id": "g11-physics-u03-we002",
+            "title": "Worked Example 2: Rotational Motion, Waves, and Thermodynamics",
+            "problem_statement": "Analyze the application of the topic explained on page 176.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 176.",
+            "source_page": "176"
+        }
+    ]
+}

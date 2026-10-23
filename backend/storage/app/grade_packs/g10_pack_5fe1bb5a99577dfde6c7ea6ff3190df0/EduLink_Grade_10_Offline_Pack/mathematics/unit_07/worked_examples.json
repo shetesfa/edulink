@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 7,
+    "worked_examples": [
+        {
+            "id": "g10-mathematics-u07-we001",
+            "title": "Worked Example 1: Coordinate Geometry",
+            "problem_statement": "Analyze the application of the topic explained on page 354.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 354.",
+            "source_page": "354"
+        },
+        {
+            "id": "g10-mathematics-u07-we002",
+            "title": "Worked Example 2: Coordinate Geometry",
+            "problem_statement": "Analyze the application of the topic explained on page 355.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 355.",
+            "source_page": "355"
+        }
+    ]
+}

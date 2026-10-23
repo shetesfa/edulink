@@ -1,0 +1,93 @@
+{
+    "grade": 12,
+    "subject": "physics",
+    "unit_number": 3,
+    "unit_title": "Alternating Current Circuits",
+    "source_book": "G12 Physics",
+    "concepts": [
+        {
+            "id": "g12-physics-u03-c001",
+            "name": "Unit 3 Fluid Mechanics Introduction Brai",
+            "simple_definition": "Unit 3 Fluid Mechanics Introduction Brainstorming question 3.1 1",
+            "deep_explanation": "Why do over- inﬂated balloon bursts? 2",
+            "real_example": "Practical example of Unit 3 Fluid Mechanics Introduction Brai from page 75.",
+            "common_confusion": "Students sometimes confuse Unit 3 Fluid Mechanics Introduction Brai with adjacent topics in Chapter 3.",
+            "source_pages": "75",
+            "name_amharic": "Unit 3 Fluid Mechanics Introduction Brai (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 3 Fluid Mechanics Introduction Brainstorming question 3.1 1 (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Why do over- inﬂated balloon bursts? 2 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 75 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u03-c002",
+            "name": "70 Unit 3 Fluid Mechanics • Convert Valu",
+            "simple_definition": "70 Unit 3 Fluid Mechanics • Convert values of pressure from one pressure unit to another",
+            "deep_explanation": "• Explain causes of pressure in gas and liquids",
+            "real_example": "Practical example of 70 Unit 3 Fluid Mechanics • Convert valu from page 76.",
+            "common_confusion": "Students sometimes confuse 70 Unit 3 Fluid Mechanics • Convert valu with adjacent topics in Chapter 3.",
+            "source_pages": "76",
+            "name_amharic": "70 Unit 3 Fluid Mechanics • Convert valu (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 70 Unit 3 Fluid Mechanics • Convert values of pressure from one pressure unit to another (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] • Explain causes of pressure in gas and liquids — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 76 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u03-c003",
+            "name": "3.1 Fluid Statics 71 Solid Phase Except ",
+            "simple_definition": "3.1 Fluid Statics 71 solid phase except the molecules are no longer at ﬁxed positions relative to each other and they can rotate and translate freely",
+            "deep_explanation": "In a liquid, the intermolecular forces are weaker relative to solids, but still strong compared with gases",
+            "real_example": "Practical example of 3.1 Fluid Statics 71 solid phase except  from page 77.",
+            "common_confusion": "Students sometimes confuse 3.1 Fluid Statics 71 solid phase except  with adjacent topics in Chapter 3.",
+            "source_pages": "77",
+            "name_amharic": "3.1 Fluid Statics 71 solid phase except  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 3.1 Fluid Statics 71 solid phase except the molecules are no longer at ﬁxed positions relative to each other and they can rotate and translate freely (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] In a liquid, the intermolecular forces are weaker relative to solids, but still strong compared with gases — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 77 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u03-c004",
+            "name": "72 Unit 3 Fluid Mechanics • Pull Air In ",
+            "simple_definition": "72 Unit 3 Fluid Mechanics • Pull air in to it by pulling the piston back to its maximum limit",
+            "deep_explanation": "• Close the air ﬁlled syringe tightly by your ﬁnger and push the piston",
+            "real_example": "Practical example of 72 Unit 3 Fluid Mechanics • Pull air in  from page 78.",
+            "common_confusion": "Students sometimes confuse 72 Unit 3 Fluid Mechanics • Pull air in  with adjacent topics in Chapter 3.",
+            "source_pages": "78",
+            "name_amharic": "72 Unit 3 Fluid Mechanics • Pull air in  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 72 Unit 3 Fluid Mechanics • Pull air in to it by pulling the piston back to its maximum limit (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] • Close the air ﬁlled syringe tightly by your ﬁnger and push the piston — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 78 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u03-c005",
+            "name": "3.1 Fluid Statics 73 Figure 3.4 Effect O",
+            "simple_definition": "3.1 Fluid Statics 73 Figure 3.4 Effect of lying and standing on a mattress",
+            "deep_explanation": "Activity 3.2: Hold a sharp pencil between your two ﬁngers and start pressing it from both sides",
+            "real_example": "Practical example of 3.1 Fluid Statics 73 Figure 3.4 Effect o from page 79.",
+            "common_confusion": "Students sometimes confuse 3.1 Fluid Statics 73 Figure 3.4 Effect o with adjacent topics in Chapter 3.",
+            "source_pages": "79",
+            "name_amharic": "3.1 Fluid Statics 73 Figure 3.4 Effect o (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 3.1 Fluid Statics 73 Figure 3.4 Effect of lying and standing on a mattress (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Activity 3.2: Hold a sharp pencil between your two ﬁngers and start pressing it from both sides — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 79 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u03-c006",
+            "name": "(a) Assuming The Shoe Is Rectangular, It",
+            "simple_definition": "74 Unit 3 Fluid Mechanics Solution: (a) Assuming the shoe is rectangular, its are is obtained by the relation A = w ×l = 10 cm ×30 cm = 300 cm2 = 0.03 m2 The force exerted on the ﬂoor is the wait of the woman, which is obtained from the relation F = mg = 55.0 kg ×9.8 m\/s2 = 539.00 N Therefore, the pressure P = F A = 539.00 N 0.03 m2 = 1.8×101 K Pa Exercise 3.1 Repeat example 3.1, if the woman stands on her two shoes",
+            "deep_explanation": "Compare the result with example 3.1",
+            "real_example": "Practical example of (a) Assuming the shoe is rectangular, it from page 80.",
+            "common_confusion": "Students sometimes confuse (a) Assuming the shoe is rectangular, it with adjacent topics in Chapter 3.",
+            "source_pages": "80",
+            "name_amharic": "(a) Assuming the shoe is rectangular, it (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 74 Unit 3 Fluid Mechanics Solution: (a) Assuming the shoe is rectangular, its are is obtained by the relation A = w ×l = 10 cm ×30 cm = 300 cm2 = 0.03 m2 The force exerted on the ﬂoor is the wait of the woman, which is obtained from the relation F = mg = 55.0 kg ×9.8 m\/s2 = 539.00 N Therefore, the pressure P = F A = 539.00 N 0.03 m2 = 1.8×101 K Pa Exercise 3.1 Repeat example 3.1, if the woman stands on her two shoes (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Compare the result with example 3.1 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 80 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

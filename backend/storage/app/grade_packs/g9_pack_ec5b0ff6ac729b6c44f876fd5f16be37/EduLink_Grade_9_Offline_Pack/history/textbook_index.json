@@ -1,0 +1,53 @@
+{
+    "grade": 9,
+    "subject": "history",
+    "source_book": "G9 History",
+    "total_pages_in_source": 250,
+    "units": [
+        {
+            "unit_number": 1,
+            "unit_title": "Unit 1: The Discipline of History and Human Evolution",
+            "status": "completed"
+        },
+        {
+            "unit_number": 2,
+            "unit_title": "Unit 2: Ancient World Civilizations up to c. 500 AD",
+            "status": "completed"
+        },
+        {
+            "unit_number": 3,
+            "unit_title": "Unit 3: Peoples and States in Ethiopia and the Horn to 13th C.",
+            "status": "completed"
+        },
+        {
+            "unit_number": 4,
+            "unit_title": "Unit 4: The Middle Ages and Early Modern World (500-1750s)",
+            "status": "completed"
+        },
+        {
+            "unit_number": 5,
+            "unit_title": "Unit 5: Peoples and States of Africa to 1500",
+            "status": "completed"
+        },
+        {
+            "unit_number": 6,
+            "unit_title": "Unit 6: Africa and the Outside World (1500-1880s)",
+            "status": "completed"
+        },
+        {
+            "unit_number": 7,
+            "unit_title": "Unit 7: States, Population Movements in Ethiopia (16th-19th C.)",
+            "status": "completed"
+        },
+        {
+            "unit_number": 8,
+            "unit_title": "Unit 8: State Formation and Modernization in Ethiopia",
+            "status": "completed"
+        },
+        {
+            "unit_number": 9,
+            "unit_title": "Unit 9: Contemporary World and Global Relations",
+            "status": "completed"
+        }
+    ]
+}

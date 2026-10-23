@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "citizenship",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g10-citizenship-u05-we001",
+            "title": "Worked Example 1: Work Culture and Economic Development",
+            "problem_statement": "Analyze the application of the topic explained on page 110.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 110.",
+            "source_page": "110"
+        },
+        {
+            "id": "g10-citizenship-u05-we002",
+            "title": "Worked Example 2: Work Culture and Economic Development",
+            "problem_statement": "Analyze the application of the topic explained on page 111.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 111.",
+            "source_page": "111"
+        }
+    ]
+}

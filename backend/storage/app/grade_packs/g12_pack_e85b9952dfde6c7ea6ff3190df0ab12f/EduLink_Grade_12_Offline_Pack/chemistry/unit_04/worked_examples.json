@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "chemistry",
+    "unit_number": 4,
+    "worked_examples": [
+        {
+            "id": "g12-chemistry-u04-we001",
+            "title": "Worked Example 1: Polymers and Macromolecules",
+            "problem_statement": "Analyze the application of the topic explained on page 8.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 8.",
+            "source_page": "8"
+        },
+        {
+            "id": "g12-chemistry-u04-we002",
+            "title": "Worked Example 2: Polymers and Macromolecules",
+            "problem_statement": "Analyze the application of the topic explained on page 9.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 9.",
+            "source_page": "9"
+        }
+    ]
+}

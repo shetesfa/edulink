@@ -1,0 +1,93 @@
+{
+    "grade": 11,
+    "subject": "information_technology",
+    "unit_number": 3,
+    "unit_title": "Web Development and HTML5\/CSS3",
+    "source_book": "G11 Information Technology",
+    "concepts": [
+        {
+            "id": "g11-information_technology-u03-c001",
+            "name": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "simple_definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 95 UNIT-4 Web Development Notes  Note the following points from Figure 4.12: • The first <th> of the first <tr> does not have data as shown in the output",
+            "deep_explanation": "• As the value given to the “colspan” attribute of the second and third <th> of the first <tr> is 2, the “Cases” and “Deaths” columns span the two columns under them",
+            "real_example": "Practical example of INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN from page 101.",
+            "common_confusion": "Students sometimes confuse INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN with adjacent topics in Chapter 3.",
+            "source_pages": "101",
+            "name_amharic": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 95 UNIT-4 Web Development Notes  Note the following points from Figure 4.12: • The first <th> of the first <tr> does not have data as shown in the output (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] • As the value given to the “colspan” attribute of the second and third <th> of the first <tr> is 2, the “Cases” and “Deaths” columns span the two columns under them — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 101 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-information_technology-u03-c002",
+            "name": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "simple_definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 96 UNIT-4 Web Development HTML Code <!DOCTYPE html> <html> <head> <\/head> <body> <table width=”100%”> <tr> <td colspan=”2” height=”100px” bgcolor=”#666666”> <h1>Website Logo<\/h1> <\/td> <\/tr> <tr> <td width=”20%” bgcolor=”#cccccc” height=”300px”> <h3>Sidebar<\/h3> <\/td> <td width=”80%” bgcolor=”#eeeeee”> <h3>Content<\/h3> <\/td> <\/tr> <tr> <td colspan=”2” bgcolor=”#777777”> Footer <\/td> <\/tr> <\/table> <\/body> <\/html> Figure 4.13(a) HTML code for Page layout using tables",
+            "deep_explanation": "Detailed academic explanation of Web Development and HTML5\/CSS3.",
+            "real_example": "Practical example of INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN from page 102.",
+            "common_confusion": "Students sometimes confuse INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN with adjacent topics in Chapter 3.",
+            "source_pages": "102",
+            "name_amharic": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 96 UNIT-4 Web Development HTML Code <!DOCTYPE html> <html> <head> <\/head> <body> <table width=”100%”> <tr> <td colspan=”2” height=”100px” bgcolor=”#666666”> <h1>Website Logo<\/h1> <\/td> <\/tr> <tr> <td width=”20%” bgcolor=”#cccccc” height=”300px”> <h3>Sidebar<\/h3> <\/td> <td width=”80%” bgcolor=”#eeeeee”> <h3>Content<\/h3> <\/td> <\/tr> <tr> <td colspan=”2” bgcolor=”#777777”> Footer <\/td> <\/tr> <\/table> <\/body> <\/html> Figure 4.13(a) HTML code for Page layout using tables (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Detailed academic explanation of Web Development and HTML5\/CSS3. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 102 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-information_technology-u03-c003",
+            "name": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "simple_definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 97 UNIT-4 Web Development Output on the Web Browser Figure 4.13(b) Page layout using tables Notes  Note the following points from Figure 4.13(a) and Figure 4.13(b): • The “width” attribute is given the value 100% so that the table occupies the entire width of the page",
+            "deep_explanation": "• “px” stands for pixel",
+            "real_example": "Practical example of INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN from page 103.",
+            "common_confusion": "Students sometimes confuse INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN with adjacent topics in Chapter 3.",
+            "source_pages": "103",
+            "name_amharic": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 97 UNIT-4 Web Development Output on the Web Browser Figure 4.13(b) Page layout using tables Notes  Note the following points from Figure 4.13(a) and Figure 4.13(b): • The “width” attribute is given the value 100% so that the table occupies the entire width of the page (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] • “px” stands for pixel — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 103 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-information_technology-u03-c004",
+            "name": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "simple_definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 98 UNIT-4 Web Development 4.6",
+            "deep_explanation": "HTML Lists HTML lists are used to present different types of lists",
+            "real_example": "Practical example of INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN from page 104.",
+            "common_confusion": "Students sometimes confuse INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN with adjacent topics in Chapter 3.",
+            "source_pages": "104",
+            "name_amharic": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 98 UNIT-4 Web Development 4.6 (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] HTML Lists HTML lists are used to present different types of lists — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 104 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-information_technology-u03-c005",
+            "name": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "simple_definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 99 UNIT-4 Web Development HTML Code Output on the Web Browser <ol> <li>Coronary heart disease<\/li> <li>Influenza and pneumonia<\/li> <li>Diarrheal diseases<\/li> <li>Stroke<\/li> <li>Tuberculosis<\/li> <li>Road traffic accidents<\/li> <li>Liver disease<\/li> <li>Diabetes mellitus<\/li> <li>HIV\/AIDS<\/li> <li>Breast cancer<\/li> <\/ol> 1",
+            "deep_explanation": "Coronary heart disease 2",
+            "real_example": "Practical example of INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN from page 105.",
+            "common_confusion": "Students sometimes confuse INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN with adjacent topics in Chapter 3.",
+            "source_pages": "105",
+            "name_amharic": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 99 UNIT-4 Web Development HTML Code Output on the Web Browser <ol> <li>Coronary heart disease<\/li> <li>Influenza and pneumonia<\/li> <li>Diarrheal diseases<\/li> <li>Stroke<\/li> <li>Tuberculosis<\/li> <li>Road traffic accidents<\/li> <li>Liver disease<\/li> <li>Diabetes mellitus<\/li> <li>HIV\/AIDS<\/li> <li>Breast cancer<\/li> <\/ol> 1 (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Coronary heart disease 2 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 105 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-information_technology-u03-c006",
+            "name": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "simple_definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 100 UNIT-4 Web Development Table 4.6 The “type” attribute and its values for Unordered List Value Meaning Disc  (Default) square  circle  Notes  As stated in Table 4.6, the default bullet type for unordered lists is “disc”",
+            "deep_explanation": "In the example shown in Figure 4.9, however, the output shows the list using the “circle” bullet type",
+            "real_example": "Practical example of INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN from page 106.",
+            "common_confusion": "Students sometimes confuse INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN with adjacent topics in Chapter 3.",
+            "source_pages": "106",
+            "name_amharic": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 100 UNIT-4 Web Development Table 4.6 The “type” attribute and its values for Unordered List Value Meaning Disc  (Default) square  circle  Notes  As stated in Table 4.6, the default bullet type for unordered lists is “disc” (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] In the example shown in Figure 4.9, however, the output shows the list using the “circle” bullet type — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 106 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

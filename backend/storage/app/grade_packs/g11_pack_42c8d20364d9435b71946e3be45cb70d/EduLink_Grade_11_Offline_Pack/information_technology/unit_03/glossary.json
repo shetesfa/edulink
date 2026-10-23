@@ -1,0 +1,37 @@
+{
+    "grade": 11,
+    "subject": "information_technology",
+    "unit_number": 3,
+    "glossary": [
+        {
+            "term": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 95 UNIT-4 Web Development Notes  Note the following points from Figure 4.12: • The first <th> of the first <tr> does not have data as shown in the output",
+            "source_page": "101"
+        },
+        {
+            "term": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 96 UNIT-4 Web Development HTML Code <!DOCTYPE html> <html> <head> <\/head> <body> <table width=”100%”> <tr> <td colspan=”2” height=”100px” bgcolor=”#666666”> <h1>Website Logo<\/h1> <\/td> <\/tr> <tr> <td width=”20%” bgcolor=”#cccccc” height=”300px”> <h3>Sidebar<\/h3> <\/td> <td width=”80%” bgcolor=”#eeeeee”> <h3>Content<\/h3> <\/td> <\/tr> <tr> <td colspan=”2” bgcolor=”#777777”> Footer <\/td> <\/tr> <\/table> <\/body> <\/html> Figure 4.13(a) HTML code for Page layout using tables",
+            "source_page": "102"
+        },
+        {
+            "term": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 97 UNIT-4 Web Development Output on the Web Browser Figure 4.13(b) Page layout using tables Notes  Note the following points from Figure 4.13(a) and Figure 4.13(b): • The “width” attribute is given the value 100% so that the table occupies the entire width of the page",
+            "source_page": "103"
+        },
+        {
+            "term": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 98 UNIT-4 Web Development 4.6",
+            "source_page": "104"
+        },
+        {
+            "term": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 99 UNIT-4 Web Development HTML Code Output on the Web Browser <ol> <li>Coronary heart disease<\/li> <li>Influenza and pneumonia<\/li> <li>Diarrheal diseases<\/li> <li>Stroke<\/li> <li>Tuberculosis<\/li> <li>Road traffic accidents<\/li> <li>Liver disease<\/li> <li>Diabetes mellitus<\/li> <li>HIV\/AIDS<\/li> <li>Breast cancer<\/li> <\/ol> 1",
+            "source_page": "105"
+        },
+        {
+            "term": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 100 UNIT-4 Web Development Table 4.6 The “type” attribute and its values for Unordered List Value Meaning Disc  (Default) square  circle  Notes  As stated in Table 4.6, the default bullet type for unordered lists is “disc”",
+            "source_page": "106"
+        }
+    ]
+}

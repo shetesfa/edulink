@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "history",
+    "unit_number": 1,
+    "worked_examples": [
+        {
+            "id": "g12-history-u01-we001",
+            "title": "Worked Example 1: Unit 1: The First World War and Global Consequences",
+            "problem_statement": "Analyze the application of the topic explained on page 9.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 9.",
+            "source_page": "9"
+        },
+        {
+            "id": "g12-history-u01-we002",
+            "title": "Worked Example 2: Unit 1: The First World War and Global Consequences",
+            "problem_statement": "Analyze the application of the topic explained on page 10.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 10.",
+            "source_page": "10"
+        }
+    ]
+}

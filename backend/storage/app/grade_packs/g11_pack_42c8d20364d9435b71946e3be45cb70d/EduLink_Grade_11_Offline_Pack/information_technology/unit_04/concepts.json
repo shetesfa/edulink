@@ -1,0 +1,93 @@
+{
+    "grade": 11,
+    "subject": "information_technology",
+    "unit_number": 4,
+    "unit_title": "Network Security and Cyber Ethics",
+    "source_book": "G11 Information Technology",
+    "concepts": [
+        {
+            "id": "g11-information_technology-u04-c001",
+            "name": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "simple_definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 140 UNIT-6 Fundamentals of Programming The example that follows shows how a variable named “y” is created and assigned to the result of an expression",
+            "deep_explanation": "The value of “y” would be the sum of 5 and 9, which is 14",
+            "real_example": "Practical example of INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN from page 146.",
+            "common_confusion": "Students sometimes confuse INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN with adjacent topics in Chapter 4.",
+            "source_pages": "146",
+            "name_amharic": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 140 UNIT-6 Fundamentals of Programming The example that follows shows how a variable named “y” is created and assigned to the result of an expression (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The value of “y” would be the sum of 5 and 9, which is 14 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 146 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-information_technology-u04-c002",
+            "name": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "simple_definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 141 UNIT-6 Fundamentals of Programming and del from not while as elif global or with assert else if pass yield break except import print class exec in raise continue finally is return def for lambda try Figure 6.6 Keywords in Python Notes  Keywords are reserved words that have predefined meanings in a programming language",
+            "deep_explanation": "According to the above rule, the following are valid identifiers: X area area_5 x5 The identifiers given below, on the other hand, are not valid identifiers as they violate the rules stated above",
+            "real_example": "Practical example of INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN from page 147.",
+            "common_confusion": "Students sometimes confuse INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN with adjacent topics in Chapter 4.",
+            "source_pages": "147",
+            "name_amharic": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 141 UNIT-6 Fundamentals of Programming and del from not while as elif global or with assert else if pass yield break except import print class exec in raise continue finally is return def for lambda try Figure 6.6 Keywords in Python Notes  Keywords are reserved words that have predefined meanings in a programming language (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] According to the above rule, the following are valid identifiers: X area area_5 x5 The identifiers given below, on the other hand, are not valid identifiers as they violate the rules stated above — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 147 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-information_technology-u04-c003",
+            "name": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "simple_definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 142 UNIT-6 Fundamentals of Programming Although meeting the above requirements suffices to define a valid identifier, it is always recommended to use identifiers that are self-descriptive",
+            "deep_explanation": "Self-descriptive identifiers are names that express what they are intended to be used for",
+            "real_example": "Practical example of INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN from page 148.",
+            "common_confusion": "Students sometimes confuse INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN with adjacent topics in Chapter 4.",
+            "source_pages": "148",
+            "name_amharic": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 142 UNIT-6 Fundamentals of Programming Although meeting the above requirements suffices to define a valid identifier, it is always recommended to use identifiers that are self-descriptive (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Self-descriptive identifiers are names that express what they are intended to be used for — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 148 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-information_technology-u04-c004",
+            "name": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "simple_definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 143 UNIT-6 Fundamentals of Programming Notes  As you can see in the above example, string values should be placed in quotation marks",
+            "deep_explanation": " To learn the data type of a particular variable, the type() function can be used",
+            "real_example": "Practical example of INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN from page 149.",
+            "common_confusion": "Students sometimes confuse INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN with adjacent topics in Chapter 4.",
+            "source_pages": "149",
+            "name_amharic": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 143 UNIT-6 Fundamentals of Programming Notes  As you can see in the above example, string values should be placed in quotation marks (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ]  To learn the data type of a particular variable, the type() function can be used — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 149 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-information_technology-u04-c005",
+            "name": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "simple_definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 144 UNIT-6 Fundamentals of Programming Table 6.1 Data types Data Type Meanings and sample values Associated operators Sample expressions Int Integer numbers Example: 34 4 56 10 Arithmetic operators • Addition (+) • Subtraction (-) • Division (\/) • Floor Division (\/\/) • Multiplication (*) • Modulus (%) • Exponentiation (**) float Floating-point numbers",
+            "deep_explanation": "Example: 4.5 10.6 100.0 Arithmetic operators • Addition (+) • Subtraction (-) • Division (\/) • Multiplication (*) • Exponentiation (**) Str A sequence of characters en- closed in a dou- ble quotation",
+            "real_example": "Practical example of INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN from page 150.",
+            "common_confusion": "Students sometimes confuse INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN with adjacent topics in Chapter 4.",
+            "source_pages": "150",
+            "name_amharic": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 144 UNIT-6 Fundamentals of Programming Table 6.1 Data types Data Type Meanings and sample values Associated operators Sample expressions Int Integer numbers Example: 34 4 56 10 Arithmetic operators • Addition (+) • Subtraction (-) • Division (\/) • Floor Division (\/\/) • Multiplication (*) • Modulus (%) • Exponentiation (**) float Floating-point numbers (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Example: 4.5 10.6 100.0 Arithmetic operators • Addition (+) • Subtraction (-) • Division (\/) • Multiplication (*) • Exponentiation (**) Str A sequence of characters en- closed in a dou- ble quotation — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 150 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-information_technology-u04-c006",
+            "name": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "simple_definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 145 UNIT-6 Fundamentals of Programming Notes Note the following points on some of the operators listed in Table 6.1:  The + operator behaves differently depending on the type of the operand",
+            "deep_explanation": "When the operands are integer or floating-point numbers, the operator serves as a normal addition operator known in mathematics",
+            "real_example": "Practical example of INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN from page 151.",
+            "common_confusion": "Students sometimes confuse INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN with adjacent topics in Chapter 4.",
+            "source_pages": "151",
+            "name_amharic": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 145 UNIT-6 Fundamentals of Programming Notes Note the following points on some of the operators listed in Table 6.1:  The + operator behaves differently depending on the type of the operand (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] When the operands are integer or floating-point numbers, the operator serves as a normal addition operator known in mathematics — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 151 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

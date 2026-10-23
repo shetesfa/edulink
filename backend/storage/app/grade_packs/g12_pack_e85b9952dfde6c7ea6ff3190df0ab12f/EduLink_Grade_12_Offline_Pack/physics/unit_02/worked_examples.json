@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "physics",
+    "unit_number": 2,
+    "worked_examples": [
+        {
+            "id": "g12-physics-u02-we001",
+            "title": "Worked Example 1: Electromagnetism and Induction",
+            "problem_statement": "Analyze the application of the topic explained on page 30.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 30.",
+            "source_page": "30"
+        },
+        {
+            "id": "g12-physics-u02-we002",
+            "title": "Worked Example 2: Electromagnetism and Induction",
+            "problem_statement": "Analyze the application of the topic explained on page 31.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 31.",
+            "source_page": "31"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 6,
+    "glossary": [
+        {
+            "term": "Cylinder And Cone Volume",
+            "definition": "The volume of a cylinder is πr²h, and a cone of same base and height is 1\/3 of that volume.",
+            "source_page": "296-302"
+        },
+        {
+            "term": "Solid Figures 288 ✓ Lateral Surface ✓ Sl",
+            "definition": "Unit 6: Solid Figures 288 ✓ Lateral surface ✓ Slant height ✓ Prism ✓ Sphere ✓ Pyramid ✓ Total surface Area ✓ Frustum ✓ Regular pyramid ✓ Volume ✓ Cone ✓ Cross-section ✓ Cylinder INTRODUCTION Recall that solid figures are three-dimensional objects, meaning they have length, width and height",
+            "source_page": "297"
+        },
+        {
+            "term": "Solid Figures 289 Find The Total Surface",
+            "definition": "Unit 6: Solid Figures 289 Find the total surface area and the volume of the right triangular prism shown in figure 6.2",
+            "source_page": "298"
+        },
+        {
+            "term": "Solid Figures 290 Therefore, BA = 1 2 𝑎𝑏",
+            "definition": "Unit 6: Solid Figures 290 Therefore, BA = 1 2 𝑎𝑏= 1 2 × 3 × 4 = 6 cm2, TSA = LSA + 2BA = 84 cm2",
+            "source_page": "299"
+        },
+        {
+            "term": "Solid Figures 291 Since BD തതതതis The Hy",
+            "definition": "Unit 6: Solid Figures 291 Since BD തതതതis the hypotenuse of the right- angle triangle ∆BCD, the length of BD തതതത= √62+82 = 10, LSA = 𝑝ℎ= (7 + 14 + 1 + 10 + 6) × 6 = 228, TSA = LSA + 2BA = 376",
+            "source_page": "300"
+        },
+        {
+            "term": "Solid Figures 292 4",
+            "definition": "Unit 6: Solid Figures 292 4",
+            "source_page": "301"
+        }
+    ]
+}

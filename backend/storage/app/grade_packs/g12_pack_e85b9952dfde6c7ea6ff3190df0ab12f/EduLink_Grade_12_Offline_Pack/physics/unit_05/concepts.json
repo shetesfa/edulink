@@ -1,0 +1,93 @@
+{
+    "grade": 12,
+    "subject": "physics",
+    "unit_number": 5,
+    "unit_title": "Cosmology and Stellar Evolution",
+    "source_book": "G12 Physics",
+    "concepts": [
+        {
+            "id": "g12-physics-u05-c001",
+            "name": "Unit 5 Basics Of Electronics Introductio",
+            "simple_definition": "Unit 5 Basics of electronics Introduction Electronic devices inﬂuence our daily lives in such a way that it is almost impossible to spend even a few hours without them",
+            "deep_explanation": "Calculators, digital watches, mobile phones, televisions, and computers are just some of the electronic devices that we use every day",
+            "real_example": "Practical example of Unit 5 Basics of electronics Introductio from page 148.",
+            "common_confusion": "Students sometimes confuse Unit 5 Basics of electronics Introductio with adjacent topics in Chapter 5.",
+            "source_pages": "148",
+            "name_amharic": "Unit 5 Basics of electronics Introductio (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 5 Basics of electronics Introduction Electronic devices inﬂuence our daily lives in such a way that it is almost impossible to spend even a few hours without them (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Calculators, digital watches, mobile phones, televisions, and computers are just some of the electronic devices that we use every day — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 148 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u05-c002",
+            "name": "5.1 Semiconductors 143 5.1 Semiconductor",
+            "simple_definition": "5.1 Semiconductors 143 5.1 Semiconductors At the end of this section, you will be able to: • Describe the difference between conductor, insulator and semiconductor",
+            "deep_explanation": "• Give example of semiconductor elements",
+            "real_example": "Practical example of 5.1 Semiconductors 143 5.1 Semiconductor from page 149.",
+            "common_confusion": "Students sometimes confuse 5.1 Semiconductors 143 5.1 Semiconductor with adjacent topics in Chapter 5.",
+            "source_pages": "149",
+            "name_amharic": "5.1 Semiconductors 143 5.1 Semiconductor (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 5.1 Semiconductors 143 5.1 Semiconductors At the end of this section, you will be able to: • Describe the difference between conductor, insulator and semiconductor (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] • Give example of semiconductor elements — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 149 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u05-c003",
+            "name": "144 Unit 5 Basics Of Electronics Of A Co",
+            "simple_definition": "144 Unit 5 Basics of electronics of a covalent bond",
+            "deep_explanation": "A covalent bond consists of two atoms sharing a pair of electrons",
+            "real_example": "Practical example of 144 Unit 5 Basics of electronics of a co from page 150.",
+            "common_confusion": "Students sometimes confuse 144 Unit 5 Basics of electronics of a co with adjacent topics in Chapter 5.",
+            "source_pages": "150",
+            "name_amharic": "144 Unit 5 Basics of electronics of a co (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 144 Unit 5 Basics of electronics of a covalent bond (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] A covalent bond consists of two atoms sharing a pair of electrons — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 150 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u05-c004",
+            "name": "5.1 Semiconductors 145 The Main Aim Of D",
+            "simple_definition": "5.1 Semiconductors 145 The main aim of doping is to make sure that there are either too many electrons (surplus) or too few electrons (deﬁciency)",
+            "deep_explanation": "Depending on what situation you want to create, you use different elements for the doping",
+            "real_example": "Practical example of 5.1 Semiconductors 145 The main aim of d from page 151.",
+            "common_confusion": "Students sometimes confuse 5.1 Semiconductors 145 The main aim of d with adjacent topics in Chapter 5.",
+            "source_pages": "151",
+            "name_amharic": "5.1 Semiconductors 145 The main aim of d (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 5.1 Semiconductors 145 The main aim of doping is to make sure that there are either too many electrons (surplus) or too few electrons (deﬁciency) (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Depending on what situation you want to create, you use different elements for the doping — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 151 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u05-c005",
+            "name": "146 Unit 5 Basics Of Electronics Conduct",
+            "simple_definition": "146 Unit 5 Basics of electronics Conduction is due to the majority charge carriers which are holes",
+            "deep_explanation": "Here the holes are behaving like positive charge carriers",
+            "real_example": "Practical example of 146 Unit 5 Basics of electronics Conduct from page 152.",
+            "common_confusion": "Students sometimes confuse 146 Unit 5 Basics of electronics Conduct with adjacent topics in Chapter 5.",
+            "source_pages": "152",
+            "name_amharic": "146 Unit 5 Basics of electronics Conduct (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 146 Unit 5 Basics of electronics Conduction is due to the majority charge carriers which are holes (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Here the holes are behaving like positive charge carriers — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 152 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u05-c006",
+            "name": "5.2 Diodes And Their Functions 147 5.2 D",
+            "simple_definition": "5.2 Diodes and their Functions 147 5.2 Diodes and their Functions At the end of this section, you will be able to: • Describe what a junction diode is and how it is made",
+            "deep_explanation": "• Draw and label the schematic symbol for a diode",
+            "real_example": "Practical example of 5.2 Diodes and their Functions 147 5.2 D from page 153.",
+            "common_confusion": "Students sometimes confuse 5.2 Diodes and their Functions 147 5.2 D with adjacent topics in Chapter 5.",
+            "source_pages": "153",
+            "name_amharic": "5.2 Diodes and their Functions 147 5.2 D (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 5.2 Diodes and their Functions 147 5.2 Diodes and their Functions At the end of this section, you will be able to: • Describe what a junction diode is and how it is made (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] • Draw and label the schematic symbol for a diode — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 153 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "grade": 12,
+    "subject": "physics",
+    "unit_number": 3,
+    "glossary": [
+        {
+            "term": "Unit 3 Fluid Mechanics Introduction Brai",
+            "definition": "Unit 3 Fluid Mechanics Introduction Brainstorming question 3.1 1",
+            "source_page": "75"
+        },
+        {
+            "term": "70 Unit 3 Fluid Mechanics • Convert Valu",
+            "definition": "70 Unit 3 Fluid Mechanics • Convert values of pressure from one pressure unit to another",
+            "source_page": "76"
+        },
+        {
+            "term": "3.1 Fluid Statics 71 Solid Phase Except ",
+            "definition": "3.1 Fluid Statics 71 solid phase except the molecules are no longer at ﬁxed positions relative to each other and they can rotate and translate freely",
+            "source_page": "77"
+        },
+        {
+            "term": "72 Unit 3 Fluid Mechanics • Pull Air In ",
+            "definition": "72 Unit 3 Fluid Mechanics • Pull air in to it by pulling the piston back to its maximum limit",
+            "source_page": "78"
+        },
+        {
+            "term": "3.1 Fluid Statics 73 Figure 3.4 Effect O",
+            "definition": "3.1 Fluid Statics 73 Figure 3.4 Effect of lying and standing on a mattress",
+            "source_page": "79"
+        },
+        {
+            "term": "(a) Assuming The Shoe Is Rectangular, It",
+            "definition": "74 Unit 3 Fluid Mechanics Solution: (a) Assuming the shoe is rectangular, its are is obtained by the relation A = w ×l = 10 cm ×30 cm = 300 cm2 = 0.03 m2 The force exerted on the ﬂoor is the wait of the woman, which is obtained from the relation F = mg = 55.0 kg ×9.8 m\/s2 = 539.00 N Therefore, the pressure P = F A = 539.00 N 0.03 m2 = 1.8×101 K Pa Exercise 3.1 Repeat example 3.1, if the woman stands on her two shoes",
+            "source_page": "80"
+        }
+    ]
+}

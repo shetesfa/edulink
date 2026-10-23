@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "economics",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g12-economics-u05-we001",
+            "title": "Worked Example 1: Monetary Policy and Banking System",
+            "problem_statement": "Analyze the application of the topic explained on page 111.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 111.",
+            "source_page": "111"
+        },
+        {
+            "id": "g12-economics-u05-we002",
+            "title": "Worked Example 2: Monetary Policy and Banking System",
+            "problem_statement": "Analyze the application of the topic explained on page 112.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 112.",
+            "source_page": "112"
+        }
+    ]
+}

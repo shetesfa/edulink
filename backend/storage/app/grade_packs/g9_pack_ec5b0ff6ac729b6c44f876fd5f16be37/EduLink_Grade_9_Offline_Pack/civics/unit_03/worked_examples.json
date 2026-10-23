@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "civics",
+    "unit_number": 3,
+    "examples": [
+        {
+            "example_id": "g9-civics-u03-we001",
+            "title": "Worked Example 1: Professional Solution for Human Rights and Democratic Rights in Ethiopia",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የHuman Rights and Democratic Rights in Ethiopia ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 64-81.",
+            "problem_amharic": "ከገጽ 64-81 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "64-81"
+        }
+    ]
+}

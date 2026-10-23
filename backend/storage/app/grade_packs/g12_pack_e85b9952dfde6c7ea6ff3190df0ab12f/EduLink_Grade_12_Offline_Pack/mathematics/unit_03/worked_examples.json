@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "mathematics",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g12-mathematics-u03-we001",
+            "title": "Worked Example 1: Introduction to Differential Calculus",
+            "problem_statement": "Analyze the application of the topic explained on page 131.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 131.",
+            "source_page": "131"
+        },
+        {
+            "id": "g12-mathematics-u03-we002",
+            "title": "Worked Example 2: Introduction to Differential Calculus",
+            "problem_statement": "Analyze the application of the topic explained on page 131.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 131.",
+            "source_page": "131"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "civics",
+    "unit_number": 7,
+    "examples": [
+        {
+            "example_id": "g9-civics-u07-we001",
+            "title": "Worked Example 1: Professional Solution for Saving, Investment, and Financial Literacy",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የSaving, Investment, and Financial Literacy ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 135-157.",
+            "problem_amharic": "ከገጽ 135-157 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "135-157"
+        }
+    ]
+}

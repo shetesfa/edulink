@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "information_technology",
+    "unit_number": 2,
+    "unit_title": "Operating Systems and Utility Software",
+    "source_book": "G10 Information Technology",
+    "concepts": [
+        {
+            "id": "g10-information_technology-u02-c001",
+            "name": "Computer Network 2.1 Unit Overview As It",
+            "simple_definition": "36 Unit 2 : Computer Network 2.1 Unit Overview As it was defined and discussed in grade 9, unit 2, the computer network is the connection of two or more computers or communication devices connected by transmission media and guided by a set of rules for communication purposes that allow users to communicate with each other and share applications and data",
+            "deep_explanation": "The fundamental components of a network are devices, media, messages and protocols",
+            "real_example": "Practical example of Computer Network 2.1 Unit Overview As it from page 43.",
+            "common_confusion": "Students sometimes confuse Computer Network 2.1 Unit Overview As it with adjacent topics in Chapter 2.",
+            "source_pages": "43",
+            "name_amharic": "Computer Network 2.1 Unit Overview As it (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 36 Unit 2 : Computer Network 2.1 Unit Overview As it was defined and discussed in grade 9, unit 2, the computer network is the connection of two or more computers or communication devices connected by transmission media and guided by a set of rules for communication purposes that allow users to communicate with each other and share applications and data (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The fundamental components of a network are devices, media, messages and protocols — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 43 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u02-c002",
+            "name": "Grade 10 Information Technology Student’",
+            "simple_definition": "Grade 10 Information Technology Student’s Textbook 37 In this unit, you are going to learn about network media, telecommunications networks, mobile communications, cellular networks, satellite networks, data communications and internet protocol (IP)",
+            "deep_explanation": "2.2 Network Media (Transmission Media) Brainstorming 1",
+            "real_example": "Practical example of Grade 10 Information Technology Student’ from page 44.",
+            "common_confusion": "Students sometimes confuse Grade 10 Information Technology Student’ with adjacent topics in Chapter 2.",
+            "source_pages": "44",
+            "name_amharic": "Grade 10 Information Technology Student’ (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Grade 10 Information Technology Student’s Textbook 37 In this unit, you are going to learn about network media, telecommunications networks, mobile communications, cellular networks, satellite networks, data communications and internet protocol (IP) (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 2.2 Network Media (Transmission Media) Brainstorming 1 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 44 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u02-c003",
+            "name": "Computer Network Figure 2.2 Network Medi",
+            "simple_definition": "38 Unit 2 : Computer Network Figure 2.2 Network media The signal encoding that must occur for the message to be transmitted is different for each media type",
+            "deep_explanation": "On metallic wires, the data is encoded into electrical impulses that match specific patterns",
+            "real_example": "Practical example of Computer Network Figure 2.2 Network medi from page 45.",
+            "common_confusion": "Students sometimes confuse Computer Network Figure 2.2 Network medi with adjacent topics in Chapter 2.",
+            "source_pages": "45",
+            "name_amharic": "Computer Network Figure 2.2 Network medi (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 38 Unit 2 : Computer Network Figure 2.2 Network media The signal encoding that must occur for the message to be transmitted is different for each media type (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] On metallic wires, the data is encoded into electrical impulses that match specific patterns — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 45 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u02-c004",
+            "name": "Grade 10 Information Technology Student’",
+            "simple_definition": "Grade 10 Information Technology Student’s Textbook 39 Figure 2.3 Classification of transmission media 2.2.1 Guided (Wired) Media Guided media are those that provide a conduit from one device to another",
+            "deep_explanation": "These include twisted-pair cable, coaxial cable and fiber-optic cable",
+            "real_example": "Practical example of Grade 10 Information Technology Student’ from page 46.",
+            "common_confusion": "Students sometimes confuse Grade 10 Information Technology Student’ with adjacent topics in Chapter 2.",
+            "source_pages": "46",
+            "name_amharic": "Grade 10 Information Technology Student’ (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Grade 10 Information Technology Student’s Textbook 39 Figure 2.3 Classification of transmission media 2.2.1 Guided (Wired) Media Guided media are those that provide a conduit from one device to another (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] These include twisted-pair cable, coaxial cable and fiber-optic cable — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 46 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u02-c005",
+            "name": "Computer Network By Twisting The Pairs, ",
+            "simple_definition": "40 Unit 2 : Computer Network By twisting the pairs, a balance is maintained",
+            "deep_explanation": "For example, suppose in one twist, one wire is closer to the noise source and the other is farther; in the next twist, the reverse is true",
+            "real_example": "Practical example of Computer Network By twisting the pairs,  from page 47.",
+            "common_confusion": "Students sometimes confuse Computer Network By twisting the pairs,  with adjacent topics in Chapter 2.",
+            "source_pages": "47",
+            "name_amharic": "Computer Network By twisting the pairs,  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 40 Unit 2 : Computer Network By twisting the pairs, a balance is maintained (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] For example, suppose in one twist, one wire is closer to the noise source and the other is farther; in the next twist, the reverse is true — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 47 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u02-c006",
+            "name": "Grade 10 Information Technology Student’",
+            "simple_definition": "Grade 10 Information Technology Student’s Textbook 41 UTP Cable Connectors The most common UTP connector is RJ45",
+            "deep_explanation": "RJ stands for registered jack, implying that the connector follows a standard borrowed from the telephone industry, as shown in Figure 2.6",
+            "real_example": "Practical example of Grade 10 Information Technology Student’ from page 48.",
+            "common_confusion": "Students sometimes confuse Grade 10 Information Technology Student’ with adjacent topics in Chapter 2.",
+            "source_pages": "48",
+            "name_amharic": "Grade 10 Information Technology Student’ (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Grade 10 Information Technology Student’s Textbook 41 UTP Cable Connectors The most common UTP connector is RJ45 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] RJ stands for registered jack, implying that the connector follows a standard borrowed from the telephone industry, as shown in Figure 2.6 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 48 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

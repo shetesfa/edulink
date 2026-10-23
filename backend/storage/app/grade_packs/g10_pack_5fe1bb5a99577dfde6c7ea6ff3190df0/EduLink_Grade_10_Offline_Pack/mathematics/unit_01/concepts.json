@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 1,
+    "unit_title": "Relations and Functions",
+    "source_book": "G10 Mathematics",
+    "concepts": [
+        {
+            "id": "g10-mathematics-u01-c001",
+            "name": "Relation",
+            "simple_definition": "A relation is a set of ordered pairs representing a correspondence between elements of two sets.",
+            "deep_explanation": "Mathematically, a relation R from set A to set B is a subset of the Cartesian product A × B. If (x,y) ∈ R, we say x is related to y.",
+            "real_example": "Let A = {1, 2} and B = {3, 4}. A relation R = {(1, 3), (2, 4)} represents a one-to-one mapping.",
+            "common_confusion": "Students often confuse a general relation with a function. Not all relations are functions.",
+            "source_pages": "10-15",
+            "name_amharic": "ግንኙነት (Relation)",
+            "simple_definition_amharic": "ግንኙነት ማለት በሁለት ስብስቦች አባላት መካከል ያለውን ተዛምዶ የሚገልጽ የተገመዱ ጥንዶች ስብስብ ነው።",
+            "deep_explanation_amharic": "በሂሳብ ትርጓሜ፣ ከስብስብ A ወደ ስብስብ B የሚደረግ ግንኙነት R የካርቴዢያን ብዜት A × B ንዑስ ስብስብ ነው።",
+            "real_example_amharic": "ለምሳሌ A = {1, 2} እና B = {3, 4} ቢሆኑ፣ ግንኙነት R = {(1, 3), (2, 4)} የአንድ ለአንድ ተዛምዶን ያሳያል።",
+            "common_confusion_amharic": "ተማሪዎች ብዙ ጊዜ ግንኙነትን (Relation) ከፈንክሽን (Function) ጋር ያደናግራሉ። ሁሉም ግንኙነቶች ፈንክሽን አይደሉም።"
+        },
+        {
+            "id": "g10-mathematics-u01-c002",
+            "name": "Function",
+            "simple_definition": "A function is a relation in which each element of the domain is mapped to exactly one element of the range.",
+            "deep_explanation": "For a relation to be a function, no two distinct ordered pairs can have the same first coordinate. This is tested graphically using the vertical line test.",
+            "real_example": "y = 2x + 1 is a function because for every input x, there is a unique output y.",
+            "common_confusion": "Thinking that x² + y² = 1 is a function. It is a circle, and fails the vertical line test.",
+            "source_pages": "16-20",
+            "name_amharic": "ፈንክሽን (Function)",
+            "simple_definition_amharic": "ፈንክሽን ማለት በእያንዳንዱ የዶሜን አባል ላይ አንድ እና አንድ የሬንጅ አባል ብቻ የሚያዛምድ ግንኙነት ነው።",
+            "deep_explanation_amharic": "አንድ ግንኙነት ፈንክሽን ለመሆን በማንኛውም ሁለት ጥንዶች ውስጥ የመጀመሪያው ቅንጅት ተመሳሳይ መሆን የለበትም። ይህ በቁም መስመር መፈተኛ (vertical line test) ይረጋገጣል።",
+            "real_example_amharic": "y = 2x + 1 ፈንክሽን ነው፤ ምክንያቱም ለእያንዳንዱ የ x እሴት አንድ የ y እሴት ብቻ ስላለው።",
+            "common_confusion_amharic": "x² + y² = 1 ፈንክሽን ነው ብሎ ማሰብ ስህተት ነው። ይህ የክበብ ቀመር ሲሆን የቁም መስመር መፈተኛን አያልፍም።"
+        },
+        {
+            "id": "g10-mathematics-u01-c003",
+            "name": "Relations And Functions 3 A Pattern Is A",
+            "simple_definition": "Unit 1: Relations and Functions 3 A pattern is a regularity in the world in human-made design or in abstract ideas",
+            "deep_explanation": "As such, the elements of a pattern repeat in a predictable manner",
+            "real_example": "Practical example of Relations and Functions 3 A pattern is a from page 12.",
+            "common_confusion": "Students sometimes confuse Relations and Functions 3 A pattern is a with adjacent topics in Chapter 1.",
+            "source_pages": "12",
+            "name_amharic": "Relations and Functions 3 A pattern is a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 1: Relations and Functions 3 A pattern is a regularity in the world in human-made design or in abstract ideas (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] As such, the elements of a pattern repeat in a predictable manner — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 12 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u01-c004",
+            "name": "Relations And Functions 4 The Sequences ",
+            "simple_definition": "Unit 1: Relations and Functions 4 the sequences are based on the addition or subtraction of the terms",
+            "deep_explanation": "If two or more terms in the sequence are given, we can use addition or subtraction to find the arithmetic pattern",
+            "real_example": "Practical example of Relations and Functions 4 the sequences  from page 13.",
+            "common_confusion": "Students sometimes confuse Relations and Functions 4 the sequences  with adjacent topics in Chapter 1.",
+            "source_pages": "13",
+            "name_amharic": "Relations and Functions 4 the sequences  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 1: Relations and Functions 4 the sequences are based on the addition or subtraction of the terms (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] If two or more terms in the sequence are given, we can use addition or subtraction to find the arithmetic pattern — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 13 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u01-c005",
+            "name": "Relations And Functions 5 4",
+            "simple_definition": "Unit 1: Relations and Functions 5 4",
+            "deep_explanation": "Find the missing value for the geometric pattern: 96, 48, 24, __, 6, __",
+            "real_example": "Practical example of Relations and Functions 5 4 from page 14.",
+            "common_confusion": "Students sometimes confuse Relations and Functions 5 4 with adjacent topics in Chapter 1.",
+            "source_pages": "14",
+            "name_amharic": "Relations and Functions 5 4 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 1: Relations and Functions 5 4 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Find the missing value for the geometric pattern: 96, 48, 24, __, 6, __ — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 14 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u01-c006",
+            "name": "Relations And Functions 6 The Letters 𝑿a",
+            "simple_definition": "Unit 1: Relations and Functions 6 the letters 𝑿and 𝒀, or 𝒙and 𝒚",
+            "deep_explanation": "The axes may then be referred to as the and -axis",
+            "real_example": "Practical example of Relations and Functions 6 the letters 𝑿a from page 15.",
+            "common_confusion": "Students sometimes confuse Relations and Functions 6 the letters 𝑿a with adjacent topics in Chapter 1.",
+            "source_pages": "15",
+            "name_amharic": "Relations and Functions 6 the letters 𝑿a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 1: Relations and Functions 6 the letters 𝑿and 𝒀, or 𝒙and 𝒚 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The axes may then be referred to as the and -axis — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 15 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

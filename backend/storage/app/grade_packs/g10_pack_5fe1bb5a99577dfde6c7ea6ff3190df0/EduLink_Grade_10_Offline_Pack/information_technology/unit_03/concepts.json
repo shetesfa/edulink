@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "information_technology",
+    "unit_number": 3,
+    "unit_title": "Word Processing & Document Layouts",
+    "source_book": "G10 Information Technology",
+    "concepts": [
+        {
+            "id": "g10-information_technology-u03-c001",
+            "name": "Grade 10 Information Technology Student’",
+            "simple_definition": "Grade 10 Information Technology Student’s Textbook 81 3.1 Unit overview You learned basic concepts on word processing and spreadsheet in grade 9, unit 3",
+            "deep_explanation": "In this unit, you are going to learn advanced topics such as creating table, formatting table, inserting pictures, clip arts and shapes, and formatting page numbers in word processor",
+            "real_example": "Practical example of Grade 10 Information Technology Student’ from page 88.",
+            "common_confusion": "Students sometimes confuse Grade 10 Information Technology Student’ with adjacent topics in Chapter 3.",
+            "source_pages": "88",
+            "name_amharic": "Grade 10 Information Technology Student’ (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Grade 10 Information Technology Student’s Textbook 81 3.1 Unit overview You learned basic concepts on word processing and spreadsheet in grade 9, unit 3 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] In this unit, you are going to learn advanced topics such as creating table, formatting table, inserting pictures, clip arts and shapes, and formatting page numbers in word processor — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 88 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u03-c002",
+            "name": "Application Software 3.2 Word Processing",
+            "simple_definition": "82 Unit 3 : Application Software 3.2 Word Processing Brainstorming 1",
+            "deep_explanation": "Can you open and identify word processing on your school computer? 2",
+            "real_example": "Practical example of Application Software 3.2 Word Processing from page 89.",
+            "common_confusion": "Students sometimes confuse Application Software 3.2 Word Processing with adjacent topics in Chapter 3.",
+            "source_pages": "89",
+            "name_amharic": "Application Software 3.2 Word Processing (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 82 Unit 3 : Application Software 3.2 Word Processing Brainstorming 1 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Can you open and identify word processing on your school computer? 2 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 89 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u03-c003",
+            "name": "Grade 10 Information Technology Student’",
+            "simple_definition": "Grade 10 Information Technology Student’s Textbook 83 a",
+            "deep_explanation": "Inserting a Table by Dragging In this section, you will learn how easily and quickly you can create a table from the Insert Table menu by dragging the mouse pointer to specify the number of rows and columns you need",
+            "real_example": "Practical example of Grade 10 Information Technology Student’ from page 90.",
+            "common_confusion": "Students sometimes confuse Grade 10 Information Technology Student’ with adjacent topics in Chapter 3.",
+            "source_pages": "90",
+            "name_amharic": "Grade 10 Information Technology Student’ (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Grade 10 Information Technology Student’s Textbook 83 a (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Inserting a Table by Dragging In this section, you will learn how easily and quickly you can create a table from the Insert Table menu by dragging the mouse pointer to specify the number of rows and columns you need — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 90 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u03-c004",
+            "name": "Application Software B",
+            "simple_definition": "84 Unit 3 : Application Software b",
+            "deep_explanation": "Using Insert Table Dialog Box In the insert table dialog box, you can click the spin box arrows or type in the number of columns and rows you need in a table",
+            "real_example": "Practical example of Application Software b from page 91.",
+            "common_confusion": "Students sometimes confuse Application Software b with adjacent topics in Chapter 3.",
+            "source_pages": "91",
+            "name_amharic": "Application Software b (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 84 Unit 3 : Application Software b (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Using Insert Table Dialog Box In the insert table dialog box, you can click the spin box arrows or type in the number of columns and rows you need in a table — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 91 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u03-c005",
+            "name": "Grade 10 Information Technology Student’",
+            "simple_definition": "Grade 10 Information Technology Student’s Textbook 85 c",
+            "deep_explanation": "Drawing Table Word provides options to draw complex tables using the draw table command, which enables you to draw a table as you would with a pencil and paper",
+            "real_example": "Practical example of Grade 10 Information Technology Student’ from page 92.",
+            "common_confusion": "Students sometimes confuse Grade 10 Information Technology Student’ with adjacent topics in Chapter 3.",
+            "source_pages": "92",
+            "name_amharic": "Grade 10 Information Technology Student’ (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Grade 10 Information Technology Student’s Textbook 85 c (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Drawing Table Word provides options to draw complex tables using the draw table command, which enables you to draw a table as you would with a pencil and paper — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 92 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u03-c006",
+            "name": "Application Software 6",
+            "simple_definition": "86 Unit 3 : Application Software 6",
+            "deep_explanation": "Click and drag the pencil from the left border to the right border to draw a horizontal line",
+            "real_example": "Practical example of Application Software 6 from page 93.",
+            "common_confusion": "Students sometimes confuse Application Software 6 with adjacent topics in Chapter 3.",
+            "source_pages": "93",
+            "name_amharic": "Application Software 6 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 86 Unit 3 : Application Software 6 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Click and drag the pencil from the left border to the right border to draw a horizontal line — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 93 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "physics",
+    "unit_number": 6,
+    "worked_examples": [
+        {
+            "id": "g10-physics-u06-we001",
+            "title": "Worked Example 1: Heat and Temperature",
+            "problem_statement": "Analyze the application of the topic explained on page 183.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 183.",
+            "source_page": "183"
+        },
+        {
+            "id": "g10-physics-u06-we002",
+            "title": "Worked Example 2: Heat and Temperature",
+            "problem_statement": "Analyze the application of the topic explained on page 184.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 184.",
+            "source_page": "184"
+        }
+    ]
+}

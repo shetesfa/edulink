@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "economics",
+    "unit_number": 1,
+    "unit_title": "Introduction to Economics",
+    "source_book": "G10 Economics",
+    "concepts": [
+        {
+            "id": "g10-economics-u01-c001",
+            "name": "Theory Of Consumer Behaviour",
+            "simple_definition": "III Table of Contents Content Page Unit 1: Theory of Consumer Behaviour",
+            "deep_explanation": "1 1.1 The Concept of Utility",
+            "real_example": "Practical example of Theory of Consumer Behaviour from page 7.",
+            "common_confusion": "Students sometimes confuse Theory of Consumer Behaviour with adjacent topics in Chapter 1.",
+            "source_pages": "7",
+            "name_amharic": "Theory of Consumer Behaviour (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] III Table of Contents Content Page Unit 1: Theory of Consumer Behaviour (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 1 1.1 The Concept of Utility — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 7 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-economics-u01-c002",
+            "name": "Economic Growth",
+            "simple_definition": "IV Unit 6: Economic Growth",
+            "deep_explanation": "113 6.1 Review of Macroeconomic Variables",
+            "real_example": "Practical example of Economic Growth from page 8.",
+            "common_confusion": "Students sometimes confuse Economic Growth with adjacent topics in Chapter 1.",
+            "source_pages": "8",
+            "name_amharic": "Economic Growth (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] IV Unit 6: Economic Growth (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 113 6.1 Review of Macroeconomic Variables — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 8 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-economics-u01-c003",
+            "name": "Theory Of Consumer Behaviour 1 Unit Intr",
+            "simple_definition": "Unit 1: Theory of Consumer Behaviour 1 Unit Introduction A consumer is a decision making unit (an individual or a household) who uses or consumes a commodity or service",
+            "deep_explanation": "The theory of consumer behavior is concerned with how a consumer decides on the basket of goods and services he\/she consumes in order to maximize his\/her satisfaction",
+            "real_example": "Practical example of Theory of Consumer Behaviour 1 Unit Intr from page 9.",
+            "common_confusion": "Students sometimes confuse Theory of Consumer Behaviour 1 Unit Intr with adjacent topics in Chapter 1.",
+            "source_pages": "9",
+            "name_amharic": "Theory of Consumer Behaviour 1 Unit Intr (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 1: Theory of Consumer Behaviour 1 Unit Introduction A consumer is a decision making unit (an individual or a household) who uses or consumes a commodity or service (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The theory of consumer behavior is concerned with how a consumer decides on the basket of goods and services he\/she consumes in order to maximize his\/her satisfaction — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 9 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-economics-u01-c004",
+            "name": "Theory Of Consumer Behaviour 2 1.1 The C",
+            "simple_definition": "Unit 1: Theory of Consumer Behaviour 2 1.1 The Concept of Utility At the end of this section, students will be able to: 6 Define the term utility 6 Discuss relativity of utility Key Concepts Commodity, Satisfaction, Utility Startup Activity 1",
+            "deep_explanation": "Why do you buy goods and services? In our everyday lives, we buy different goods and services for consumption",
+            "real_example": "Practical example of Theory of Consumer Behaviour 2 1.1 The C from page 10.",
+            "common_confusion": "Students sometimes confuse Theory of Consumer Behaviour 2 1.1 The C with adjacent topics in Chapter 1.",
+            "source_pages": "10",
+            "name_amharic": "Theory of Consumer Behaviour 2 1.1 The C (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 1: Theory of Consumer Behaviour 2 1.1 The Concept of Utility At the end of this section, students will be able to: 6 Define the term utility 6 Discuss relativity of utility Key Concepts Commodity, Satisfaction, Utility Startup Activity 1 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Why do you buy goods and services? In our everyday lives, we buy different goods and services for consumption — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 10 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-economics-u01-c005",
+            "name": "Theory Of Consumer Behaviour 3 1.2",
+            "simple_definition": "Unit 1: Theory of Consumer Behaviour 3 1.2",
+            "deep_explanation": "The Cardinal Utility Theory At the end of this section, students will be able to: 6 Discuss the cardinal utility and its key assumptions 6 Compute total utility 6 Calculate marginal utility 6 State law of diminishing marginal utility 6 Derive consumer optimum Key Concepts utils, cardinal utility Startup Activity 1",
+            "real_example": "Practical example of Theory of Consumer Behaviour 3 1.2 from page 11.",
+            "common_confusion": "Students sometimes confuse Theory of Consumer Behaviour 3 1.2 with adjacent topics in Chapter 1.",
+            "source_pages": "11",
+            "name_amharic": "Theory of Consumer Behaviour 3 1.2 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 1: Theory of Consumer Behaviour 3 1.2 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The Cardinal Utility Theory At the end of this section, students will be able to: 6 Discuss the cardinal utility and its key assumptions 6 Compute total utility 6 Calculate marginal utility 6 State law of diminishing marginal utility 6 Derive consumer optimum Key Concepts utils, cardinal utility Startup Activity 1 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 11 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-economics-u01-c006",
+            "name": "Theory Of Consumer Behaviour 4 V",
+            "simple_definition": "Unit 1: Theory of Consumer Behaviour 4 V",
+            "deep_explanation": "The total utility of a basket of goods depends on the quantities of the individual commodities",
+            "real_example": "Practical example of Theory of Consumer Behaviour 4 V from page 12.",
+            "common_confusion": "Students sometimes confuse Theory of Consumer Behaviour 4 V with adjacent topics in Chapter 1.",
+            "source_pages": "12",
+            "name_amharic": "Theory of Consumer Behaviour 4 V (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 1: Theory of Consumer Behaviour 4 V (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The total utility of a basket of goods depends on the quantities of the individual commodities — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 12 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

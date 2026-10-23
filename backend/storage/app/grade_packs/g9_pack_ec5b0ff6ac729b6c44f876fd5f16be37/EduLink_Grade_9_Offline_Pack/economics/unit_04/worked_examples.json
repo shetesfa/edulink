@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "economics",
+    "unit_number": 4,
+    "examples": [
+        {
+            "example_id": "g9-economics-u04-we001",
+            "title": "Worked Example 1: Professional Solution for Market Equilibrium and Price Elasticity",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የMarket Equilibrium and Price Elasticity ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 51-62.",
+            "problem_amharic": "ከገጽ 51-62 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "51-62"
+        }
+    ]
+}

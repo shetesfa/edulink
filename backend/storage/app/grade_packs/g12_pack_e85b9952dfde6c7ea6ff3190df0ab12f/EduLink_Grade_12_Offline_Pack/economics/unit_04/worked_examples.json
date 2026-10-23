@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "economics",
+    "unit_number": 4,
+    "worked_examples": [
+        {
+            "id": "g12-economics-u04-we001",
+            "title": "Worked Example 1: Fiscal Policy and Government Budget",
+            "problem_statement": "Analyze the application of the topic explained on page 81.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 81.",
+            "source_page": "81"
+        },
+        {
+            "id": "g12-economics-u04-we002",
+            "title": "Worked Example 2: Fiscal Policy and Government Budget",
+            "problem_statement": "Analyze the application of the topic explained on page 82.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 82.",
+            "source_page": "82"
+        }
+    ]
+}

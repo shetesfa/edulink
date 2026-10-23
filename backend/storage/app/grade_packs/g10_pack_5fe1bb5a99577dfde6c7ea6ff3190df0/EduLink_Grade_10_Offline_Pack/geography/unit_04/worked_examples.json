@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "geography",
+    "unit_number": 4,
+    "worked_examples": [
+        {
+            "id": "g10-geography-u04-we001",
+            "title": "Worked Example 1: Natural Vegetation & Wildlife of Ethiopia",
+            "problem_statement": "Analyze the application of the topic explained on page 117.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 117.",
+            "source_page": "117"
+        },
+        {
+            "id": "g10-geography-u04-we002",
+            "title": "Worked Example 2: Natural Vegetation & Wildlife of Ethiopia",
+            "problem_statement": "Analyze the application of the topic explained on page 118.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 118.",
+            "source_page": "118"
+        }
+    ]
+}

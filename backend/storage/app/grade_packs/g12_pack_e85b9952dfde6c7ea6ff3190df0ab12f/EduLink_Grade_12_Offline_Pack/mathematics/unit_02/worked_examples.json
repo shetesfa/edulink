@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "mathematics",
+    "unit_number": 2,
+    "worked_examples": [
+        {
+            "id": "g12-mathematics-u02-we001",
+            "title": "Worked Example 1: Introduction to Limits and Continuity",
+            "problem_statement": "Analyze the application of the topic explained on page 61.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 61.",
+            "source_page": "61"
+        },
+        {
+            "id": "g12-mathematics-u02-we002",
+            "title": "Worked Example 2: Introduction to Limits and Continuity",
+            "problem_statement": "Analyze the application of the topic explained on page 61.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 61.",
+            "source_page": "61"
+        }
+    ]
+}

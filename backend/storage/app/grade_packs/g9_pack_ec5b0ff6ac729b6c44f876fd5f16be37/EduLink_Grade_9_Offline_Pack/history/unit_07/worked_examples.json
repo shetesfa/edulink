@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "history",
+    "unit_number": 7,
+    "examples": [
+        {
+            "example_id": "g9-history-u07-we001",
+            "title": "Worked Example 1: Professional Solution for States, Population Movements in Ethiopia (16th-19th C.)",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የStates, Population Movements in Ethiopia (16th-19th C.) ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 128-161.",
+            "problem_amharic": "ከገጽ 128-161 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "128-161"
+        }
+    ]
+}

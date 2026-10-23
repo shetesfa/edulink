@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 7,
+    "unit_title": "Coordinate Geometry",
+    "source_book": "G10 Mathematics",
+    "concepts": [
+        {
+            "id": "g10-mathematics-u07-c001",
+            "name": "Slope Of A Line",
+            "simple_definition": "The slope measures the steepness and direction of a straight line, defined as rise over run.",
+            "deep_explanation": "For any two points (x1, y1) and (x2, y2), slope m = (y2 - y1) \/ (x2 - x1). Parallel lines have equal slopes; perpendicular lines have slopes that multiply to -1.",
+            "real_example": "A line passing through (1, 2) and (3, 6) has a slope of (6 - 2) \/ (3 - 1) = 2.",
+            "common_confusion": "Mixing up the coordinates, putting x changes on top of y changes.",
+            "source_pages": "354-358",
+            "name_amharic": "የመስመር ስሎፕ (Slope)",
+            "simple_definition_amharic": "ስሎፕ ማለት የአንድን ቀጥተኛ መስመር አቅጣጫ እና ዳገትነት የሚለካ ሲሆን፣ በቁመት ለውጥ ለጎን ለውጥ ይገለጻል።",
+            "deep_explanation_amharic": "በማንኛውም ሁለት ነጥቦች መካከል ያለው ስሎፕ m = (y2 - y1) \/ (x2 - x1) ነው። ትይዩ መስመሮች እኩል ስሎፕ አላቸው።",
+            "real_example_amharic": "በ (1, 2) እና (3, 6) ውስጥ የሚያልፍ መስመር ስሎፕ (6 - 2) \/ (3 - 1) = 2 ነው።",
+            "common_confusion_amharic": "የነጥቦቹን ቅደም ተከተል ማደናገር፣ የ x ለውጥን ከላይ የ y ለውጥን ከታች ማድረግ።"
+        },
+        {
+            "id": "g10-mathematics-u07-c002",
+            "name": "Coordinate Geometry 346 ✓ Point-slope Fo",
+            "simple_definition": "Unit 7: Coordinate Geometry 346 ✓ Point-slope form ✓ Slope (gradient) ✓ Inclination of a line ✓ Two-point form ✓ Slope-intercept form ✓ Mid-point ✓ Equation of a line ✓ General Equation of a line ✓ Steepness ✓ Horizontal line ✓ Non-vertical line ✓ Coordinates ✓ Angle of inclination ✓ Coordinate geometry INTRODUCTION Coordinate geometry is one of the most important and exciting ideas of mathematics",
+            "deep_explanation": "In particular, it is central to mathematics students",
+            "real_example": "Practical example of Coordinate Geometry 346 ✓ Point-slope fo from page 355.",
+            "common_confusion": "Students sometimes confuse Coordinate Geometry 346 ✓ Point-slope fo with adjacent topics in Chapter 7.",
+            "source_pages": "355",
+            "name_amharic": "Coordinate Geometry 346 ✓ Point-slope fo (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 7: Coordinate Geometry 346 ✓ Point-slope form ✓ Slope (gradient) ✓ Inclination of a line ✓ Two-point form ✓ Slope-intercept form ✓ Mid-point ✓ Equation of a line ✓ General Equation of a line ✓ Steepness ✓ Horizontal line ✓ Non-vertical line ✓ Coordinates ✓ Angle of inclination ✓ Coordinate geometry INTRODUCTION Coordinate geometry is one of the most important and exciting ideas of mathematics (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] In particular, it is central to mathematics students — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 355 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u07-c003",
+            "name": "Coordinate Geometry 347 7.1 Distance Bet",
+            "simple_definition": "Unit 7: Coordinate Geometry 347 7.1 Distance Between Two Points In unit one, you have discussed the Cartesian coordinate plane and you have seen that there is one-to-one correspondence between the set of points in the plane and the set of all ordered pairs of real numbers",
+            "deep_explanation": "Distance is always positive, or zero if the points coincide",
+            "real_example": "Practical example of Coordinate Geometry 347 7.1 Distance Bet from page 356.",
+            "common_confusion": "Students sometimes confuse Coordinate Geometry 347 7.1 Distance Bet with adjacent topics in Chapter 7.",
+            "source_pages": "356",
+            "name_amharic": "Coordinate Geometry 347 7.1 Distance Bet (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 7: Coordinate Geometry 347 7.1 Distance Between Two Points In unit one, you have discussed the Cartesian coordinate plane and you have seen that there is one-to-one correspondence between the set of points in the plane and the set of all ordered pairs of real numbers (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Distance is always positive, or zero if the points coincide — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 356 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u07-c004",
+            "name": "Coordinate Geometry 348 1",
+            "simple_definition": "Unit 7: Coordinate Geometry 348 1",
+            "deep_explanation": "Find the distance between the following pairs of points",
+            "real_example": "Practical example of Coordinate Geometry 348 1 from page 357.",
+            "common_confusion": "Students sometimes confuse Coordinate Geometry 348 1 with adjacent topics in Chapter 7.",
+            "source_pages": "357",
+            "name_amharic": "Coordinate Geometry 348 1 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 7: Coordinate Geometry 348 1 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Find the distance between the following pairs of points — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 357 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u07-c005",
+            "name": "Coordinate Geometry 349 Find The Distanc",
+            "simple_definition": "Unit 7: Coordinate Geometry 349 Find the distance between the following points",
+            "deep_explanation": "𝐴(2, 3), 𝐵(5, 3) b",
+            "real_example": "Practical example of Coordinate Geometry 349 Find the distanc from page 358.",
+            "common_confusion": "Students sometimes confuse Coordinate Geometry 349 Find the distanc with adjacent topics in Chapter 7.",
+            "source_pages": "358",
+            "name_amharic": "Coordinate Geometry 349 Find the distanc (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 7: Coordinate Geometry 349 Find the distance between the following points (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 𝐴(2, 3), 𝐵(5, 3) b — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 358 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u07-c006",
+            "name": "Coordinate Geometry 350 The Distance PQ ",
+            "simple_definition": "Unit 7: Coordinate Geometry 350 The distance PQ can be defined as follows",
+            "deep_explanation": "Note that ΔPQR is a right-angled triangle and by the Pythagoras Theorem, we have (PQ)2 = (PR)2 + (RQ)2",
+            "real_example": "Practical example of Coordinate Geometry 350 The distance PQ  from page 359.",
+            "common_confusion": "Students sometimes confuse Coordinate Geometry 350 The distance PQ  with adjacent topics in Chapter 7.",
+            "source_pages": "359",
+            "name_amharic": "Coordinate Geometry 350 The distance PQ  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 7: Coordinate Geometry 350 The distance PQ can be defined as follows (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Note that ΔPQR is a right-angled triangle and by the Pythagoras Theorem, we have (PQ)2 = (PR)2 + (RQ)2 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 359 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

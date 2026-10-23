@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "biology",
+    "unit_number": 3,
+    "examples": [
+        {
+            "example_id": "g9-biology-u03-we001",
+            "title": "Worked Example 1: Professional Solution for Human Biology, Systems, and Health",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የHuman Biology, Systems, and Health ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 113-146.",
+            "problem_amharic": "ከገጽ 113-146 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "113-146"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "economics",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g12-economics-u03-we001",
+            "title": "Worked Example 1: Aggregate Demand and Supply Analysis",
+            "problem_statement": "Analyze the application of the topic explained on page 58.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 58.",
+            "source_page": "58"
+        },
+        {
+            "id": "g12-economics-u03-we002",
+            "title": "Worked Example 2: Aggregate Demand and Supply Analysis",
+            "problem_statement": "Analyze the application of the topic explained on page 59.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 59.",
+            "source_page": "59"
+        }
+    ]
+}

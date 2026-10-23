@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "geography",
+    "unit_number": 4,
+    "worked_examples": [
+        {
+            "id": "g12-geography-u04-we001",
+            "title": "Worked Example 1: Soils and Natural Resources of Africa",
+            "problem_statement": "Analyze the application of the topic explained on page 166.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 166.",
+            "source_page": "166"
+        },
+        {
+            "id": "g12-geography-u04-we002",
+            "title": "Worked Example 2: Soils and Natural Resources of Africa",
+            "problem_statement": "Analyze the application of the topic explained on page 167.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 167.",
+            "source_page": "167"
+        }
+    ]
+}

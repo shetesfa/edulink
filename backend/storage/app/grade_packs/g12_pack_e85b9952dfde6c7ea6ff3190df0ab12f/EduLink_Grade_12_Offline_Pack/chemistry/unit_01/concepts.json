@@ -1,0 +1,93 @@
+{
+    "grade": 12,
+    "subject": "chemistry",
+    "unit_number": 1,
+    "unit_title": "Acid-Base Equilibria and Titrations",
+    "source_book": "G12 Chemistry",
+    "concepts": [
+        {
+            "id": "g12-chemistry-u01-c001",
+            "name": "Buffer Solution",
+            "simple_definition": "A buffer solution resists changes in pH when small amounts of acid or base are added.",
+            "deep_explanation": "It consists of a weak acid and its conjugate base, or a weak base and its conjugate acid. The pH is calculated using the Henderson-Hasselbalch equation.",
+            "real_example": "Human blood is a buffer solution containing carbonic acid (H2CO3) and bicarbonate (HCO3-) to maintain pH around 7.4.",
+            "common_confusion": "Thinking a buffer can resist any amount of acid. It has a limit called buffer capacity.",
+            "source_pages": "15-22",
+            "name_amharic": "በፈር ሶሉሽን (Buffer Solution)",
+            "simple_definition_amharic": "በፈር ሶሉሽን ማለት አነስተኛ አሲድ ወይም ቤዝ ሲጨመርበት የ pH ለውጥን የሚከላከል ድብልቅ ነው።",
+            "deep_explanation_amharic": "ደካማ አሲድ እና ተጓዳኝ ቤዙን ይይዛል። የ pH እሴቱ በሄንደርሰን-ሃሰልባልሽ ቀመር ይሰላል።",
+            "real_example_amharic": "የሰው ደም በፈር ሶሉሽን ነው፤ ካርቦኒክ አሲድ እና ባይካርቦኔት በመያዝ የደምን pH 7.4 ላይ ይጠብቃል።",
+            "common_confusion_amharic": "በፈር ሶሉሽን ማንኛውንም መጠን ያለው አሲድ መቋቋም ይችላል ብሎ ማሰብ። የራሱ ወሰን (buffer capacity) አለው።"
+        },
+        {
+            "id": "g12-chemistry-u01-c002",
+            "name": "II Content Content UNIT 2 ELECTROCHEMIST",
+            "simple_definition": "II Content Content UNIT 2 ELECTROCHEMISTRY 2.1 Oxidation-Reduction Reactions ....................................",
+            "deep_explanation": "57 2.1.1 Oxidation .........................................................",
+            "real_example": "Practical example of II Content Content UNIT 2 ELECTROCHEMIST from page 6.",
+            "common_confusion": "Students sometimes confuse II Content Content UNIT 2 ELECTROCHEMIST with adjacent topics in Chapter 1.",
+            "source_pages": "6",
+            "name_amharic": "II Content Content UNIT 2 ELECTROCHEMIST (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] II Content Content UNIT 2 ELECTROCHEMISTRY 2.1 Oxidation-Reduction Reactions .................................... (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 57 2.1.1 Oxidation ......................................................... — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 6 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-chemistry-u01-c003",
+            "name": "III Content Content UNIT 3 INDUSTRIAL CH",
+            "simple_definition": "III Content Content UNIT 3 INDUSTRIAL CHEMISTRY 3.1 Introduction ...........................................................",
+            "deep_explanation": "136 3.2 Natural Resources and Industry...................................",
+            "real_example": "Practical example of III Content Content UNIT 3 INDUSTRIAL CH from page 7.",
+            "common_confusion": "Students sometimes confuse III Content Content UNIT 3 INDUSTRIAL CH with adjacent topics in Chapter 1.",
+            "source_pages": "7",
+            "name_amharic": "III Content Content UNIT 3 INDUSTRIAL CH (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] III Content Content UNIT 3 INDUSTRIAL CHEMISTRY 3.1 Introduction ........................................................... (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 136 3.2 Natural Resources and Industry................................... — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 7 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-chemistry-u01-c004",
+            "name": "IV Content Content UNIT 4 POLYMERS 4.1 I",
+            "simple_definition": "IV Content Content UNIT 4 POLYMERS 4.1 Introduction to Polymers .............................................214 4.2 Polymerization Reactions .............................................215 4.3 Classiﬁcation of Polymers ...........................................224 UNIT 5 INTRODUCTION TO ENVIRONMENTAL CHEMISTRY 5.1 Introduction .............................................................241 5.1.1 Components of the Environment ..........................242 5.1.2 Natural Cycles in the Environment .........................247 5.1.3 Concepts Related to Environmental Chemistry .........253 5.2 Environmental Pollution .............................................255 5.2.1 Air Pollution ....................................................",
+            "deep_explanation": "256 5.2.2 Water Pollution ................................................",
+            "real_example": "Practical example of IV Content Content UNIT 4 POLYMERS 4.1 I from page 8.",
+            "common_confusion": "Students sometimes confuse IV Content Content UNIT 4 POLYMERS 4.1 I with adjacent topics in Chapter 1.",
+            "source_pages": "8",
+            "name_amharic": "IV Content Content UNIT 4 POLYMERS 4.1 I (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] IV Content Content UNIT 4 POLYMERS 4.1 Introduction to Polymers .............................................214 4.2 Polymerization Reactions .............................................215 4.3 Classiﬁcation of Polymers ...........................................224 UNIT 5 INTRODUCTION TO ENVIRONMENTAL CHEMISTRY 5.1 Introduction .............................................................241 5.1.1 Components of the Environment ..........................242 5.1.2 Natural Cycles in the Environment .........................247 5.1.3 Concepts Related to Environmental Chemistry .........253 5.2 Environmental Pollution .............................................255 5.2.1 Air Pollution .................................................... (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 256 5.2.2 Water Pollution ................................................ — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 8 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-chemistry-u01-c005",
+            "name": "1 UNIT 1 Unit Outcomes At The End Of Thi",
+            "simple_definition": "1 UNIT 1 Unit outcomes At the end of this unit, you will be able to: ) describe the draw backs of Arrhenius, acid base concepts ) define Bronsted-Lowery and Lewis concepts of acids and bases ) describe the dissociation of water, weak mono-protic and polyprotic acids, and weak bases ) solve equilibrium problems involving concentration of reactants and products,Ka, Kb, PH and POH ) discuss the common ion effect, buffer solution, hydrolysis of salts, acid- base indicators and acid-base titrations ) explain how buffering action affects our daily lives using examples ) determine the equivalents of acid or base that are required to neutralize specific amount of acid or base ) predict, in qualitative terms, whether a solution of a specific salt will be acidic, basic or neutral ) explain how to solve problems involving concentration and pH of acid- base titration ) Write chemical equations to show differences in the three definitions of acids and bases",
+            "deep_explanation": "\u001f \u001e \u001d \u001c1 ACID-BASE EQUILIBRIA",
+            "real_example": "Practical example of 1 UNIT 1 Unit outcomes At the end of thi from page 9.",
+            "common_confusion": "Students sometimes confuse 1 UNIT 1 Unit outcomes At the end of thi with adjacent topics in Chapter 1.",
+            "source_pages": "9",
+            "name_amharic": "1 UNIT 1 Unit outcomes At the end of thi (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 1 UNIT 1 Unit outcomes At the end of this unit, you will be able to: ) describe the draw backs of Arrhenius, acid base concepts ) define Bronsted-Lowery and Lewis concepts of acids and bases ) describe the dissociation of water, weak mono-protic and polyprotic acids, and weak bases ) solve equilibrium problems involving concentration of reactants and products,Ka, Kb, PH and POH ) discuss the common ion effect, buffer solution, hydrolysis of salts, acid- base indicators and acid-base titrations ) explain how buffering action affects our daily lives using examples ) determine the equivalents of acid or base that are required to neutralize specific amount of acid or base ) predict, in qualitative terms, whether a solution of a specific salt will be acidic, basic or neutral ) explain how to solve problems involving concentration and pH of acid- base titration ) Write chemical equations to show differences in the three definitions of acids and bases (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] \u001f \u001e \u001d \u001c1 ACID-BASE EQUILIBRIA — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 9 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-chemistry-u01-c006",
+            "name": "CHEMISTRY GRADE 12 2 UNIT 1 Start-up Act",
+            "simple_definition": "CHEMISTRY GRADE 12 2 UNIT 1 Start-up Activity You have learnt the acid-base concepts and properties",
+            "deep_explanation": "Remember this and discuss the following questions in group",
+            "real_example": "Practical example of CHEMISTRY GRADE 12 2 UNIT 1 Start-up Act from page 10.",
+            "common_confusion": "Students sometimes confuse CHEMISTRY GRADE 12 2 UNIT 1 Start-up Act with adjacent topics in Chapter 1.",
+            "source_pages": "10",
+            "name_amharic": "CHEMISTRY GRADE 12 2 UNIT 1 Start-up Act (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] CHEMISTRY GRADE 12 2 UNIT 1 Start-up Activity You have learnt the acid-base concepts and properties (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Remember this and discuss the following questions in group — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 10 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

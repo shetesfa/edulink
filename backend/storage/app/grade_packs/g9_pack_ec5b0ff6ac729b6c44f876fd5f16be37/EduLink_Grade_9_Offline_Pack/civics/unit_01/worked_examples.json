@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "civics",
+    "unit_number": 1,
+    "examples": [
+        {
+            "example_id": "g9-civics-u01-we001",
+            "title": "Worked Example 1: Professional Solution for Democratic System and Constitutionalism",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የDemocratic System and Constitutionalism ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 6-41.",
+            "problem_amharic": "ከገጽ 6-41 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "6-41"
+        }
+    ]
+}

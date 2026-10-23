@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "geography",
+    "unit_number": 6,
+    "worked_examples": [
+        {
+            "id": "g11-geography-u06-we001",
+            "title": "Worked Example 1: Economic Activities and Global Relations",
+            "problem_statement": "Analyze the application of the topic explained on page 216.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 216.",
+            "source_page": "216"
+        },
+        {
+            "id": "g11-geography-u06-we002",
+            "title": "Worked Example 2: Economic Activities and Global Relations",
+            "problem_statement": "Analyze the application of the topic explained on page 217.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 217.",
+            "source_page": "217"
+        }
+    ]
+}

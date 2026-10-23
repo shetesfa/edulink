@@ -1,0 +1,93 @@
+{
+    "grade": 11,
+    "subject": "biology",
+    "unit_number": 1,
+    "unit_title": "The Science of Biology and Scientific Investigation",
+    "source_book": "G11 Biology",
+    "concepts": [
+        {
+            "id": "g11-biology-u01-c001",
+            "name": "Scientific Method",
+            "simple_definition": "The scientific method is a systematic way of investigating observations and testing hypotheses.",
+            "deep_explanation": "It involves formulating a hypothesis, designing a controlled experiment, collecting variables (independent\/dependent), and drawing conclusions.",
+            "real_example": "Testing if plant growth depends on light by placing plants in light and dark conditions.",
+            "common_confusion": "Thinking a hypothesis is a random guess. A hypothesis is a testable explanation based on prior knowledge.",
+            "source_pages": "13-16",
+            "name_amharic": "ሳይንሳዊ ምርምር ዘዴ",
+            "simple_definition_amharic": "ሳይንሳዊ ዘዴ ማለት ምልከታዎችን ለመመርመር እና መላምቶችን ለመፈተሽ የሚረዳ ስልታዊ መንገድ ነው።",
+            "deep_explanation_amharic": "መላምት ማውጣትን፣ ቁጥጥር የሚደረግበት ሙከራ ማዘጋጀት፣ እና ማጠቃለያዎችን መወሰንን ያካትታል።",
+            "real_example_amharic": "የብርሃን ተጽዕኖ በዕፅዋት ዕድገት ላይ ለመፈተሽ ዕፅዋትን በብርሃንና በጨለማ ቦታዎች ማስቀመጥ።",
+            "common_confusion_amharic": "መላምት እንዲሁ መገመት ነው ብሎ ማሰብ። መላምት ሊፈተሽ የሚችል እውቀት ላይ የተመሠረተ ሐሳብ ነው።"
+        },
+        {
+            "id": "g11-biology-u01-c002",
+            "name": "BIOLOGY GRADE 11 STUDENT TEXTBOOK Figure",
+            "simple_definition": "BIOLOGY GRADE 11 STUDENT TEXTBOOK Figure 1.2 Mound inspired architecture for the East Gate Building 4",
+            "deep_explanation": "The first heavy aircraft technology was designed by imitating birds",
+            "real_example": "Practical example of BIOLOGY GRADE 11 STUDENT TEXTBOOK Figure from page 14.",
+            "common_confusion": "Students sometimes confuse BIOLOGY GRADE 11 STUDENT TEXTBOOK Figure with adjacent topics in Chapter 1.",
+            "source_pages": "14",
+            "name_amharic": "BIOLOGY GRADE 11 STUDENT TEXTBOOK Figure (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] BIOLOGY GRADE 11 STUDENT TEXTBOOK Figure 1.2 Mound inspired architecture for the East Gate Building 4 (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The first heavy aircraft technology was designed by imitating birds — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 14 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-biology-u01-c003",
+            "name": "BIOLOGY & TECHNOLOGY Figure 1.4 Robotic ",
+            "simple_definition": "BIOLOGY GRADE 11 UNIT 1: BIOLOGY & TECHNOLOGY Figure 1.4 Robotic arms imitated from elephant trunk Lab activity 1.1 Construction of models imitating nature Construct a model of a human hand to imitate nature",
+            "deep_explanation": "Materials Locally available resources Procedure  Construct a human hand model with jointed finger structures  Paint the model with pertinent color Assessments 1",
+            "real_example": "Practical example of BIOLOGY & TECHNOLOGY Figure 1.4 Robotic  from page 15.",
+            "common_confusion": "Students sometimes confuse BIOLOGY & TECHNOLOGY Figure 1.4 Robotic  with adjacent topics in Chapter 1.",
+            "source_pages": "15",
+            "name_amharic": "BIOLOGY & TECHNOLOGY Figure 1.4 Robotic  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] BIOLOGY GRADE 11 UNIT 1: BIOLOGY & TECHNOLOGY Figure 1.4 Robotic arms imitated from elephant trunk Lab activity 1.1 Construction of models imitating nature Construct a model of a human hand to imitate nature (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Materials Locally available resources Procedure  Construct a human hand model with jointed finger structures  Paint the model with pertinent color Assessments 1 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 15 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-biology-u01-c004",
+            "name": "The Structures, Functions, Growth, Origi",
+            "simple_definition": "BIOLOGY GRADE 11 STUDENT TEXTBOOK 1.2 Biology and technology Biology is the study of life: the structures, functions, growth, origins, evolution and distribution of living organisms",
+            "deep_explanation": "Technology is the application of scientific knowledge, skills, methods and processes for the production of devices and tools for scientific investigations",
+            "real_example": "Practical example of the structures, functions, growth, origi from page 16.",
+            "common_confusion": "Students sometimes confuse the structures, functions, growth, origi with adjacent topics in Chapter 1.",
+            "source_pages": "16",
+            "name_amharic": "the structures, functions, growth, origi (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] BIOLOGY GRADE 11 STUDENT TEXTBOOK 1.2 Biology and technology Biology is the study of life: the structures, functions, growth, origins, evolution and distribution of living organisms (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Technology is the application of scientific knowledge, skills, methods and processes for the production of devices and tools for scientific investigations — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 16 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-biology-u01-c005",
+            "name": "BIOLOGY & TECHNOLOGY Cure Genetic Condit",
+            "simple_definition": "BIOLOGY GRADE 11 UNIT 1: BIOLOGY & TECHNOLOGY cure genetic conditions and the creation of biosynthetic materials to repair damaged body tissues",
+            "deep_explanation": "Building design: Engineers have imitated the mound architecture of termites in the design of buildings with chimneys which have a constant temperature and humidity",
+            "real_example": "Practical example of BIOLOGY & TECHNOLOGY cure genetic condit from page 17.",
+            "common_confusion": "Students sometimes confuse BIOLOGY & TECHNOLOGY cure genetic condit with adjacent topics in Chapter 1.",
+            "source_pages": "17",
+            "name_amharic": "BIOLOGY & TECHNOLOGY cure genetic condit (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] BIOLOGY GRADE 11 UNIT 1: BIOLOGY & TECHNOLOGY cure genetic conditions and the creation of biosynthetic materials to repair damaged body tissues (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Building design: Engineers have imitated the mound architecture of termites in the design of buildings with chimneys which have a constant temperature and humidity — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 17 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-biology-u01-c006",
+            "name": "1.2.2Uses Of Technology In Biology The U",
+            "simple_definition": "1.2.2Uses of technology in biology The uses of technology in biology are the ways in which technological tools can be applied to solve various human problems",
+            "deep_explanation": "It is the practical application of biotechnological instruments (products) in providing required human services and investigations of new biological questions",
+            "real_example": "Practical example of 1.2.2Uses of technology in biology The u from page 18.",
+            "common_confusion": "Students sometimes confuse 1.2.2Uses of technology in biology The u with adjacent topics in Chapter 1.",
+            "source_pages": "18",
+            "name_amharic": "1.2.2Uses of technology in biology The u (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 1.2.2Uses of technology in biology The uses of technology in biology are the ways in which technological tools can be applied to solve various human problems (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] It is the practical application of biotechnological instruments (products) in providing required human services and investigations of new biological questions — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 18 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

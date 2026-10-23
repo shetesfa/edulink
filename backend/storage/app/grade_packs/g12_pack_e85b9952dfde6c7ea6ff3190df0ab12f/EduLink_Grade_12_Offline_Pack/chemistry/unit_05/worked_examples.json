@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "chemistry",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g12-chemistry-u05-we001",
+            "title": "Worked Example 1: Introduction to Biochemistry",
+            "problem_statement": "Analyze the application of the topic explained on page 248.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 248.",
+            "source_page": "248"
+        },
+        {
+            "id": "g12-chemistry-u05-we002",
+            "title": "Worked Example 2: Introduction to Biochemistry",
+            "problem_statement": "Analyze the application of the topic explained on page 249.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 249.",
+            "source_page": "249"
+        }
+    ]
+}

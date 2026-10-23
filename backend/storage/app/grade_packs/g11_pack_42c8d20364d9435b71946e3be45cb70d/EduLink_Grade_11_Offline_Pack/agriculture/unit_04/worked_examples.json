@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "agriculture",
+    "unit_number": 4,
+    "worked_examples": [
+        {
+            "id": "g11-agriculture-u04-we001",
+            "title": "Worked Example 1: Soil Science and Fertilizer Application",
+            "problem_statement": "Analyze the application of the topic explained on page 101.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 101.",
+            "source_page": "101"
+        },
+        {
+            "id": "g11-agriculture-u04-we002",
+            "title": "Worked Example 2: Soil Science and Fertilizer Application",
+            "problem_statement": "Analyze the application of the topic explained on page 102.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 102.",
+            "source_page": "102"
+        }
+    ]
+}

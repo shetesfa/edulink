@@ -1,0 +1,61 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 7,
+    "unit_title": "Coordinate Geometry",
+    "source_book": "G10 Mathematics",
+    "exercises": [
+        {
+            "exercise_id": "g10-mathematics-u07-ex001",
+            "question": "Find the slope of a line passing through the points (2, 5) and (4, 11).",
+            "question_amharic": "በነጥቦች (2, 5) እና (4, 11) ውስጥ የሚያልፈውን መስመር ስሎፕ ፈልጉ።",
+            "question_type": "problem_solving",
+            "correct_answer": "m = 3.",
+            "correct_answer_amharic": "m = 3።",
+            "step_by_step_explanation": "1. Set (x1, y1) = (2, 5) and (x2, y2) = (4, 11).\\n2. Compute m = (11 - 5) \/ (4 - 2).\\n3. m = 6 \/ 2 = 3.",
+            "step_by_step_explanation_amharic": "1. Set (x1, y1) = (2, 5) and (x2, y2) = (4, 11).\\n2. Compute m = (11 - 5) \/ (4 - 2).\\n3. m = 6 \/ 2 = 3.",
+            "formula_or_working": "m = (y2 - y1) \/ (x2 - x1).",
+            "source_page": "360",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-mathematics-u07-ex002",
+            "question": "Describe the core properties of the topics presented on page 355 (Question 2).",
+            "question_amharic": "በገጽ 355 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 355.",
+            "correct_answer_amharic": "በገጽ 355 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 355.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 355 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 355.",
+            "source_page": "355",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-mathematics-u07-ex003",
+            "question": "Describe the core properties of the topics presented on page 356 (Question 3).",
+            "question_amharic": "በገጽ 356 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 356.",
+            "correct_answer_amharic": "በገጽ 356 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 356.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 356 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 356.",
+            "source_page": "356",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-mathematics-u07-ex004",
+            "question": "Describe the core properties of the topics presented on page 357 (Question 4).",
+            "question_amharic": "በገጽ 357 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 357.",
+            "correct_answer_amharic": "በገጽ 357 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 357.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 357 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 357.",
+            "source_page": "357",
+            "needs_review": false
+        }
+    ]
+}

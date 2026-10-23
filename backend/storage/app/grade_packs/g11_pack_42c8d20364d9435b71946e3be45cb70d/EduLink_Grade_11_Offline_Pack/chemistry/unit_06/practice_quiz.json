@@ -1,0 +1,119 @@
+{
+    "grade": 11,
+    "subject": "chemistry",
+    "unit_number": 6,
+    "practice_quiz": [
+        {
+            "id": "g11-chemistry-u06-q001",
+            "question": "Which of the following describes the key principle of the topic discussed on page 274?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 274.",
+            "difficulty": "easy",
+            "related_concept": "g11-chemistry-u06-c002"
+        },
+        {
+            "id": "g11-chemistry-u06-q002",
+            "question": "Which of the following describes the key principle of the topic discussed on page 275?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 275.",
+            "difficulty": "easy",
+            "related_concept": "g11-chemistry-u06-c003"
+        },
+        {
+            "id": "g11-chemistry-u06-q003",
+            "question": "Which of the following describes the key principle of the topic discussed on page 276?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 276.",
+            "difficulty": "easy",
+            "related_concept": "g11-chemistry-u06-c004"
+        },
+        {
+            "id": "g11-chemistry-u06-q004",
+            "question": "Which of the following describes the key principle of the topic discussed on page 277?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 277.",
+            "difficulty": "medium",
+            "related_concept": "g11-chemistry-u06-c005"
+        },
+        {
+            "id": "g11-chemistry-u06-q005",
+            "question": "Which of the following describes the key principle of the topic discussed on page 278?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 278.",
+            "difficulty": "medium",
+            "related_concept": "g11-chemistry-u06-c006"
+        },
+        {
+            "id": "g11-chemistry-u06-q006",
+            "question": "Which of the following describes the key principle of the topic discussed on page 279?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 279.",
+            "difficulty": "medium",
+            "related_concept": "g11-chemistry-u06-c001"
+        },
+        {
+            "id": "g11-chemistry-u06-q007",
+            "question": "Which of the following describes the key principle of the topic discussed on page 280?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 280.",
+            "difficulty": "hard",
+            "related_concept": "g11-chemistry-u06-c002"
+        },
+        {
+            "id": "g11-chemistry-u06-q008",
+            "question": "Which of the following describes the key principle of the topic discussed on page 281?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 281.",
+            "difficulty": "hard",
+            "related_concept": "g11-chemistry-u06-c003"
+        }
+    ]
+}

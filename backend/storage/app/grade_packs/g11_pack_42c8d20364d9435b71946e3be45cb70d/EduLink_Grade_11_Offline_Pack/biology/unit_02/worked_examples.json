@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "biology",
+    "unit_number": 2,
+    "worked_examples": [
+        {
+            "id": "g11-biology-u02-we001",
+            "title": "Worked Example 1: Cell Biology and Biochemistry",
+            "problem_statement": "Analyze the application of the topic explained on page 19.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 19.",
+            "source_page": "19"
+        },
+        {
+            "id": "g11-biology-u02-we002",
+            "title": "Worked Example 2: Cell Biology and Biochemistry",
+            "problem_statement": "Analyze the application of the topic explained on page 20.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 20.",
+            "source_page": "20"
+        }
+    ]
+}

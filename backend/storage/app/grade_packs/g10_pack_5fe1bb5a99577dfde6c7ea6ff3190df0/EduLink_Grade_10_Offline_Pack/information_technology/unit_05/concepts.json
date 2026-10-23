@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "information_technology",
+    "unit_number": 5,
+    "unit_title": "Multimedia & Interactive Presentations",
+    "source_book": "G10 Information Technology",
+    "concepts": [
+        {
+            "id": "g10-information_technology-u05-c001",
+            "name": "Information And Computer Security 5.1 Un",
+            "simple_definition": "182 Unit 5 : Information and Computer Security 5.1 Unit Overview In grade 9, you learned basic concepts of information and computer security",
+            "deep_explanation": "You know that computer viruses can corrupt and damage computers",
+            "real_example": "Practical example of Information and Computer Security 5.1 Un from page 189.",
+            "common_confusion": "Students sometimes confuse Information and Computer Security 5.1 Un with adjacent topics in Chapter 5.",
+            "source_pages": "189",
+            "name_amharic": "Information and Computer Security 5.1 Un (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 182 Unit 5 : Information and Computer Security 5.1 Unit Overview In grade 9, you learned basic concepts of information and computer security (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] You know that computer viruses can corrupt and damage computers — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 189 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u05-c002",
+            "name": "Grade 10 Information Technology Student’",
+            "simple_definition": "Grade 10 Information Technology Student’s Textbook 183 In this unit you are going to learn advanced concepts on information security, computer security, impact of information and computer security on society, privacy and security, threat prevention strategies and cyber security",
+            "deep_explanation": "5.2 Information and Computer Security Brainstorming 1",
+            "real_example": "Practical example of Grade 10 Information Technology Student’ from page 190.",
+            "common_confusion": "Students sometimes confuse Grade 10 Information Technology Student’ with adjacent topics in Chapter 5.",
+            "source_pages": "190",
+            "name_amharic": "Grade 10 Information Technology Student’ (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Grade 10 Information Technology Student’s Textbook 183 In this unit you are going to learn advanced concepts on information security, computer security, impact of information and computer security on society, privacy and security, threat prevention strategies and cyber security (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 5.2 Information and Computer Security Brainstorming 1 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 190 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u05-c003",
+            "name": "Information And Computer Security 5.3 Im",
+            "simple_definition": "184 Unit 5 : Information and Computer Security 5.3 Impact of Information and Computer Security on Society Brainstorming 1",
+            "deep_explanation": "What does it mean by information or computer security? 2",
+            "real_example": "Practical example of Information and Computer Security 5.3 Im from page 191.",
+            "common_confusion": "Students sometimes confuse Information and Computer Security 5.3 Im with adjacent topics in Chapter 5.",
+            "source_pages": "191",
+            "name_amharic": "Information and Computer Security 5.3 Im (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 184 Unit 5 : Information and Computer Security 5.3 Impact of Information and Computer Security on Society Brainstorming 1 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] What does it mean by information or computer security? 2 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 191 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u05-c004",
+            "name": "Grade 10 Information Technology Student’",
+            "simple_definition": "Grade 10 Information Technology Student’s Textbook 185 All of us must make sure that we are aware of the security risks and develop the ability to know what to do in different situations",
+            "deep_explanation": "Figure 5.2 shows the impact of information and computer security on society",
+            "real_example": "Practical example of Grade 10 Information Technology Student’ from page 192.",
+            "common_confusion": "Students sometimes confuse Grade 10 Information Technology Student’ with adjacent topics in Chapter 5.",
+            "source_pages": "192",
+            "name_amharic": "Grade 10 Information Technology Student’ (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Grade 10 Information Technology Student’s Textbook 185 All of us must make sure that we are aware of the security risks and develop the ability to know what to do in different situations (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Figure 5.2 shows the impact of information and computer security on society — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 192 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u05-c005",
+            "name": "Information And Computer Security Privac",
+            "simple_definition": "186 Unit 5 : Information and Computer Security Privacy is concerned with safeguarding and respecting people’s rights to manage their data in a broader sense",
+            "deep_explanation": "Individuals should have the right to access – if they ask for it – as well as the opportunity to modify or erase erroneous information about themselves that firms maintain in databases according to privacy activists",
+            "real_example": "Practical example of Information and Computer Security Privac from page 193.",
+            "common_confusion": "Students sometimes confuse Information and Computer Security Privac with adjacent topics in Chapter 5.",
+            "source_pages": "193",
+            "name_amharic": "Information and Computer Security Privac (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 186 Unit 5 : Information and Computer Security Privacy is concerned with safeguarding and respecting people’s rights to manage their data in a broader sense (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Individuals should have the right to access – if they ask for it – as well as the opportunity to modify or erase erroneous information about themselves that firms maintain in databases according to privacy activists — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 193 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u05-c006",
+            "name": "Grade 10 Information Technology Student’",
+            "simple_definition": "Grade 10 Information Technology Student’s Textbook 187 Activity 5.3 Answer the following activities accordingly in a group",
+            "deep_explanation": "Compare and contrast privacy and security",
+            "real_example": "Practical example of Grade 10 Information Technology Student’ from page 194.",
+            "common_confusion": "Students sometimes confuse Grade 10 Information Technology Student’ with adjacent topics in Chapter 5.",
+            "source_pages": "194",
+            "name_amharic": "Grade 10 Information Technology Student’ (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Grade 10 Information Technology Student’s Textbook 187 Activity 5.3 Answer the following activities accordingly in a group (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Compare and contrast privacy and security — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 194 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

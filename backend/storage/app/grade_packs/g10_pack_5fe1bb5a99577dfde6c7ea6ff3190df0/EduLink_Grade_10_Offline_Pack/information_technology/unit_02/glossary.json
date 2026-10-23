@@ -1,0 +1,37 @@
+{
+    "grade": 10,
+    "subject": "information_technology",
+    "unit_number": 2,
+    "glossary": [
+        {
+            "term": "Computer Network 2.1 Unit Overview As It",
+            "definition": "36 Unit 2 : Computer Network 2.1 Unit Overview As it was defined and discussed in grade 9, unit 2, the computer network is the connection of two or more computers or communication devices connected by transmission media and guided by a set of rules for communication purposes that allow users to communicate with each other and share applications and data",
+            "source_page": "43"
+        },
+        {
+            "term": "Grade 10 Information Technology Student’",
+            "definition": "Grade 10 Information Technology Student’s Textbook 37 In this unit, you are going to learn about network media, telecommunications networks, mobile communications, cellular networks, satellite networks, data communications and internet protocol (IP)",
+            "source_page": "44"
+        },
+        {
+            "term": "Computer Network Figure 2.2 Network Medi",
+            "definition": "38 Unit 2 : Computer Network Figure 2.2 Network media The signal encoding that must occur for the message to be transmitted is different for each media type",
+            "source_page": "45"
+        },
+        {
+            "term": "Grade 10 Information Technology Student’",
+            "definition": "Grade 10 Information Technology Student’s Textbook 39 Figure 2.3 Classification of transmission media 2.2.1 Guided (Wired) Media Guided media are those that provide a conduit from one device to another",
+            "source_page": "46"
+        },
+        {
+            "term": "Computer Network By Twisting The Pairs, ",
+            "definition": "40 Unit 2 : Computer Network By twisting the pairs, a balance is maintained",
+            "source_page": "47"
+        },
+        {
+            "term": "Grade 10 Information Technology Student’",
+            "definition": "Grade 10 Information Technology Student’s Textbook 41 UTP Cable Connectors The most common UTP connector is RJ45",
+            "source_page": "48"
+        }
+    ]
+}

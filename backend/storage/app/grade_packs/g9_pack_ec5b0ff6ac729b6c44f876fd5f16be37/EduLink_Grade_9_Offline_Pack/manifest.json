@@ -1,0 +1,48 @@
+{
+    "pack_name": "EduLink Grade 9 Offline Study Pack (Professional Academic EN\/AM)",
+    "grade": 9,
+    "version": "1.0.0-professional-academic-loanwords",
+    "language": "Bilingual (Professional English & Standard Academic Loanword Amharic)",
+    "subjects": [
+        {
+            "key": "mathematics",
+            "source_book": "G9 Mathematics",
+            "status": "all_9_units_professional"
+        },
+        {
+            "key": "biology",
+            "source_book": "G9 Biology",
+            "status": "all_6_units_professional"
+        },
+        {
+            "key": "chemistry",
+            "source_book": "G9 Chemistry",
+            "status": "all_5_units_professional"
+        },
+        {
+            "key": "physics",
+            "source_book": "G9 Physics",
+            "status": "all_6_units_professional"
+        },
+        {
+            "key": "history",
+            "source_book": "G9 History",
+            "status": "all_9_units_professional"
+        },
+        {
+            "key": "economics",
+            "source_book": "G9 Economics",
+            "status": "all_8_units_professional"
+        },
+        {
+            "key": "information_technology",
+            "source_book": "G9 Information Technology",
+            "status": "all_9_units_professional"
+        },
+        {
+            "key": "civics",
+            "source_book": "G9 Citizenship",
+            "status": "all_8_units_professional"
+        }
+    ]
+}

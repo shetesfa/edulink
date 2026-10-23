@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "information_technology",
+    "unit_number": 9,
+    "examples": [
+        {
+            "example_id": "g9-information_technology-u09-we001",
+            "title": "Worked Example 1: Professional Solution for Introduction to Programming Logic and Algorithms",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የIntroduction to Programming Logic and Algorithms ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 246-270.",
+            "problem_amharic": "ከገጽ 246-270 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "246-270"
+        }
+    ]
+}

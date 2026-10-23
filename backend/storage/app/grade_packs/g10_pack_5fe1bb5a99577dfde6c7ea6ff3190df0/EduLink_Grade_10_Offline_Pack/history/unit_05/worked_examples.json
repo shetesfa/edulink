@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "history",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g10-history-u05-we001",
+            "title": "Worked Example 1: Peoples and States of Africa to 1500",
+            "problem_statement": "Analyze the application of the topic explained on page 119.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 119.",
+            "source_page": "119"
+        },
+        {
+            "id": "g10-history-u05-we002",
+            "title": "Worked Example 2: Peoples and States of Africa to 1500",
+            "problem_statement": "Analyze the application of the topic explained on page 120.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 120.",
+            "source_page": "120"
+        }
+    ]
+}

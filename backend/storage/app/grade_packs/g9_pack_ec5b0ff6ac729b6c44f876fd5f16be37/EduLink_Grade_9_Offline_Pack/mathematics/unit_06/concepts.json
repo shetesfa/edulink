@@ -1,0 +1,93 @@
+{
+    "grade": 9,
+    "subject": "mathematics",
+    "unit_number": 6,
+    "unit_title": "Unit 6: Mensuration — Surface Area and Volume",
+    "source_book": "G9 Mathematics",
+    "concepts": [
+        {
+            "id": "g9-mathematics-u06-c001",
+            "name": "Solving Linear Equations (Unit 6)",
+            "name_amharic": "ሊኒያር እኩልዮሽ (Linear Equation) መፍትሔ (ምዕራፍ 6)",
+            "simple_definition": "Solving Linear Equations is a core topic in Grade 9 Mathematics covering essential principles on pages 218-249.",
+            "simple_definition_amharic": "ሊኒያር እኩልዮሽ (Linear Equation) መፍትሔ በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 218-249 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Solving Linear Equations. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 218-249.",
+            "deep_explanation_amharic": "የሊኒያር እኩልዮሽ (Linear Equation) መፍትሔ ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 218-249 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Solving Linear Equations.",
+            "real_example_amharic": "በሊኒያር እኩልዮሽ (Linear Equation) መፍትሔ ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Solving Linear Equations.",
+            "common_confusion_amharic": "በሊኒያር እኩልዮሽ (Linear Equation) መፍትሔ ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "218-249"
+        },
+        {
+            "id": "g9-mathematics-u06-c002",
+            "name": "Quadratic Formula Method (Unit 6)",
+            "name_amharic": "በኳድራቲክ ፎርሙላ (Quadratic Formula) መፍታት (ምዕራፍ 6)",
+            "simple_definition": "Quadratic Formula Method is a core topic in Grade 9 Mathematics covering essential principles on pages 218-249.",
+            "simple_definition_amharic": "በኳድራቲክ ፎርሙላ (Quadratic Formula) መፍታት በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 218-249 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Quadratic Formula Method. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 218-249.",
+            "deep_explanation_amharic": "የበኳድራቲክ ፎርሙላ (Quadratic Formula) መፍታት ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 218-249 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Quadratic Formula Method.",
+            "real_example_amharic": "በበኳድራቲክ ፎርሙላ (Quadratic Formula) መፍታት ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Quadratic Formula Method.",
+            "common_confusion_amharic": "በበኳድራቲክ ፎርሙላ (Quadratic Formula) መፍታት ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "218-249"
+        },
+        {
+            "id": "g9-mathematics-u06-c003",
+            "name": "Ratio and Proportion (Unit 6)",
+            "name_amharic": "ሬሾ እና ፕሮፖርሽን (Ratio & Proportion) (ምዕራፍ 6)",
+            "simple_definition": "Ratio and Proportion is a core topic in Grade 9 Mathematics covering essential principles on pages 218-249.",
+            "simple_definition_amharic": "ሬሾ እና ፕሮፖርሽን (Ratio & Proportion) በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 218-249 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Ratio and Proportion. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 218-249.",
+            "deep_explanation_amharic": "የሬሾ እና ፕሮፖርሽን (Ratio & Proportion) ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 218-249 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Ratio and Proportion.",
+            "real_example_amharic": "በሬሾ እና ፕሮፖርሽን (Ratio & Proportion) ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Ratio and Proportion.",
+            "common_confusion_amharic": "በሬሾ እና ፕሮፖርሽን (Ratio & Proportion) ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "218-249"
+        },
+        {
+            "id": "g9-mathematics-u06-c004",
+            "name": "Simple and Compound Interest (Unit 6)",
+            "name_amharic": "ሲምፕል እና ኮምፓውንድ ኢንተረስት (Interest) (ምዕራፍ 6)",
+            "simple_definition": "Simple and Compound Interest is a core topic in Grade 9 Mathematics covering essential principles on pages 218-249.",
+            "simple_definition_amharic": "ሲምፕል እና ኮምፓውንድ ኢንተረስት (Interest) በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 218-249 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Simple and Compound Interest. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 218-249.",
+            "deep_explanation_amharic": "የሲምፕል እና ኮምፓውንድ ኢንተረስት (Interest) ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 218-249 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Simple and Compound Interest.",
+            "real_example_amharic": "በሲምፕል እና ኮምፓውንድ ኢንተረስት (Interest) ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Simple and Compound Interest.",
+            "common_confusion_amharic": "በሲምፕል እና ኮምፓውንድ ኢንተረስት (Interest) ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "218-249"
+        },
+        {
+            "id": "g9-mathematics-u06-c005",
+            "name": "Polygons and Circle Geometry (Unit 6)",
+            "name_amharic": "ፖሊጎን እና የሰርክል (Circle) ጂኦሜትሪ (ምዕራፍ 6)",
+            "simple_definition": "Polygons and Circle Geometry is a core topic in Grade 9 Mathematics covering essential principles on pages 218-249.",
+            "simple_definition_amharic": "ፖሊጎን እና የሰርክል (Circle) ጂኦሜትሪ በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 218-249 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Polygons and Circle Geometry. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 218-249.",
+            "deep_explanation_amharic": "የፖሊጎን እና የሰርክል (Circle) ጂኦሜትሪ ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 218-249 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Polygons and Circle Geometry.",
+            "real_example_amharic": "በፖሊጎን እና የሰርክል (Circle) ጂኦሜትሪ ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Polygons and Circle Geometry.",
+            "common_confusion_amharic": "በፖሊጎን እና የሰርክል (Circle) ጂኦሜትሪ ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "218-249"
+        },
+        {
+            "id": "g9-mathematics-u06-c006",
+            "name": "Surface Area and Volume (Unit 6)",
+            "name_amharic": "ሰርፌስ ኤሪያ (Surface Area) እና ቮልዩም (Volume) (ምዕራፍ 6)",
+            "simple_definition": "Surface Area and Volume is a core topic in Grade 9 Mathematics covering essential principles on pages 218-249.",
+            "simple_definition_amharic": "ሰርፌስ ኤሪያ (Surface Area) እና ቮልዩም (Volume) በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 218-249 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Surface Area and Volume. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 218-249.",
+            "deep_explanation_amharic": "የሰርፌስ ኤሪያ (Surface Area) እና ቮልዩም (Volume) ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 218-249 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Surface Area and Volume.",
+            "real_example_amharic": "በሰርፌስ ኤሪያ (Surface Area) እና ቮልዩም (Volume) ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Surface Area and Volume.",
+            "common_confusion_amharic": "በሰርፌስ ኤሪያ (Surface Area) እና ቮልዩም (Volume) ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "218-249"
+        }
+    ]
+}

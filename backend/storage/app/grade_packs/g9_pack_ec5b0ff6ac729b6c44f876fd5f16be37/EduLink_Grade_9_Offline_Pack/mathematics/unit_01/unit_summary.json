@@ -1,0 +1,30 @@
+{
+    "grade": 9,
+    "subject": "mathematics",
+    "unit_number": 1,
+    "unit_title": "Further on Sets",
+    "source_book": "G9 Mathematics",
+    "learning_objectives": [
+        "Explain facts about sets and how they are described.",
+        "Describe a set using verbal, listing, and set-builder methods.",
+        "Define and apply the operations on sets: union, intersection, complement, difference, and symmetric difference.",
+        "Represent sets and set operations using Venn diagrams.",
+        "Apply set theory rules (including De Morgan's Law and the counting formula for unions) to solve practical problems."
+    ],
+    "summary": "This unit reviews and extends the idea of a set as a well-defined collection of objects. It covers the four main ways to describe a set (verbal, complete listing, partial listing, set-builder), special sets (empty, finite, infinite, equal, equivalent, universal, subset, proper subset), and the main set operations (union, intersection, complement, difference, symmetric difference, Cartesian product). It ends with a practical counting formula for the number of elements in the union of two sets, used to solve survey-style word problems.",
+    "deep_explanation": "A set is only mathematically useful if it is 'well-defined' -- meaning that for any object, we can say for certain whether it belongs to the set or not ('collection of tall students' is not well-defined; 'collection of students taller than 170cm' is). Once a set is well-defined, it can be written in different equivalent notations depending on convenience: naming a rule in words, listing every member, listing enough members to show a pattern, or stating the defining property with set-builder notation. Relationships between sets (equal, equivalent, subset, proper subset) let us compare sets in a precise way, and Venn diagrams give a visual method for reasoning about how sets overlap. The operations (union, intersection, difference, complement, symmetric difference) let us build new sets out of old ones, and De Morgan's Laws show how complement interacts with union and intersection. Finally, the unit connects this abstract theory to real counting problems (e.g. surveys about club membership) using the inclusion-exclusion idea n(A U B) = n(A) + n(B) - n(A ∩ B).",
+    "important_formulas_rules": [
+        "n(A) = number of elements in a finite set A.",
+        "If a finite set A has n elements, it has 2^n subsets and 2^n - 1 proper subsets.",
+        "Union: A ∪ B = {x | x ∈ A or x ∈ B}",
+        "Intersection: A ∩ B = {x | x ∈ A and x ∈ B}",
+        "Complement: A' = {x | x ∈ U and x ∉ A}, and A' = U - A",
+        "Difference: A - B (or A\\B) = {x | x ∈ A and x ∉ B} = A ∩ B'",
+        "Symmetric difference: A∆B = (A\\B) ∪ (B\\A) = (A ∪ B)\\(A ∩ B)",
+        "De Morgan's Laws: (A ∪ B)' = A' ∩ B'  and  (A ∩ B)' = A' ∪ B'",
+        "Cartesian product: A × B = {(a,b) | a ∈ A and b ∈ B}",
+        "Counting formula: n(A ∪ B) = n(A) + n(B) - n(A ∩ B); if A and B are disjoint, n(A ∪ B) = n(A) + n(B)"
+    ],
+    "source_pages": "1-26",
+    "unit_title_amharic": "Further on Sets (በአማርኛ)"
+}

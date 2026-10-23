@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "agriculture",
+    "unit_number": 1,
+    "worked_examples": [
+        {
+            "id": "g11-agriculture-u01-we001",
+            "title": "Worked Example 1: Introduction to Agricultural Science",
+            "problem_statement": "Analyze the application of the topic explained on page 5.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 5.",
+            "source_page": "5"
+        },
+        {
+            "id": "g11-agriculture-u01-we002",
+            "title": "Worked Example 2: Introduction to Agricultural Science",
+            "problem_statement": "Analyze the application of the topic explained on page 5.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 5.",
+            "source_page": "5"
+        }
+    ]
+}

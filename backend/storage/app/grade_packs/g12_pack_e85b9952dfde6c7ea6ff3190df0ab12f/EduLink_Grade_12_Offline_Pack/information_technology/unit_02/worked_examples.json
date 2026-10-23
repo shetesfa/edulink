@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "information_technology",
+    "unit_number": 2,
+    "worked_examples": [
+        {
+            "id": "g12-information_technology-u02-we001",
+            "title": "Worked Example 1: Advanced Programming Concepts & OOP",
+            "problem_statement": "Analyze the application of the topic explained on page 47.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 47.",
+            "source_page": "47"
+        },
+        {
+            "id": "g12-information_technology-u02-we002",
+            "title": "Worked Example 2: Advanced Programming Concepts & OOP",
+            "problem_statement": "Analyze the application of the topic explained on page 48.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 48.",
+            "source_page": "48"
+        }
+    ]
+}

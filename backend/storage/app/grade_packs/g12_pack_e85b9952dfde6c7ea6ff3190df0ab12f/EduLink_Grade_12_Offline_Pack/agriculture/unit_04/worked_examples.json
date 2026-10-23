@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "agriculture",
+    "unit_number": 4,
+    "worked_examples": [
+        {
+            "id": "g12-agriculture-u04-we001",
+            "title": "Worked Example 1: Soil Water Conservation and Irrigation",
+            "problem_statement": "Analyze the application of the topic explained on page 164.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 164.",
+            "source_page": "164"
+        },
+        {
+            "id": "g12-agriculture-u04-we002",
+            "title": "Worked Example 2: Soil Water Conservation and Irrigation",
+            "problem_statement": "Analyze the application of the topic explained on page 165.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 165.",
+            "source_page": "165"
+        }
+    ]
+}

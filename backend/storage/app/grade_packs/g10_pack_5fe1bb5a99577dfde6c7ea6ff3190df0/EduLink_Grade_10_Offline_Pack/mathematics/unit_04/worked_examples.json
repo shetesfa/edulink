@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 4,
+    "worked_examples": [
+        {
+            "id": "g10-mathematics-u04-we001",
+            "title": "Worked Example 1: Trigonometric Functions",
+            "problem_statement": "Analyze the application of the topic explained on page 208.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 208.",
+            "source_page": "208"
+        },
+        {
+            "id": "g10-mathematics-u04-we002",
+            "title": "Worked Example 2: Trigonometric Functions",
+            "problem_statement": "Analyze the application of the topic explained on page 209.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 209.",
+            "source_page": "209"
+        }
+    ]
+}

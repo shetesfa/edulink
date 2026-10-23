@@ -1,0 +1,93 @@
+{
+    "grade": 11,
+    "subject": "physics",
+    "unit_number": 3,
+    "unit_title": "Rotational Motion, Waves, and Thermodynamics",
+    "source_book": "G11 Physics",
+    "concepts": [
+        {
+            "id": "g11-physics-u03-c001",
+            "name": "169 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 169 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 SUMMARY OF UNI",
+            "simple_definition": "169 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 169 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 SUMMARY OF UNIT 4: Newton’s laws of motion can be applied in numerous situations to solve problems related to motion",
+            "deep_explanation": "Newton’s ﬁrst law also known as the law of inertia tells us that in the absence of unbalanced force a body at rest remains at rest and a body in motion keeps on moving with the same velocity",
+            "real_example": "Practical example of 169 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 169 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 SUMMARY OF UNI from page 175.",
+            "common_confusion": "Students sometimes confuse 169 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 169 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 SUMMARY OF UNI with adjacent topics in Chapter 3.",
+            "source_pages": "175",
+            "name_amharic": "169 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 169 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 SUMMARY OF UNI (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 169 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 169 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 SUMMARY OF UNIT 4: Newton’s laws of motion can be applied in numerous situations to solve problems related to motion (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Newton’s ﬁrst law also known as the law of inertia tells us that in the absence of unbalanced force a body at rest remains at rest and a body in motion keeps on moving with the same velocity — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 175 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-physics-u03-c002",
+            "name": "170 Physics \u001f\u001eStudent Text Book 170 Phys",
+            "simple_definition": "170 Physics \u001f\u001eStudent Text Book 170 Physics \u001f Student Text Book the system and is its velocity",
+            "deep_explanation": "Te SI unit for momentum is kgm\/s",
+            "real_example": "Practical example of 170 Physics \u001f\u001eStudent Text Book 170 Phys from page 176.",
+            "common_confusion": "Students sometimes confuse 170 Physics \u001f\u001eStudent Text Book 170 Phys with adjacent topics in Chapter 3.",
+            "source_pages": "176",
+            "name_amharic": "170 Physics \u001f\u001eStudent Text Book 170 Phys (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 170 Physics \u001f\u001eStudent Text Book 170 Physics \u001f Student Text Book the system and is its velocity (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Te SI unit for momentum is kgm\/s — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 176 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-physics-u03-c003",
+            "name": "171 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 171 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 END OF UNIT 4 ",
+            "simple_definition": "171 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 171 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 END OF UNIT 4 QUESTIONS: 1",
+            "deep_explanation": "A ball of mass m is suspended by a string from the ceiling, the Earth pulls down the ball with a force of magnitude equal to the weight of the ball",
+            "real_example": "Practical example of 171 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 171 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 END OF UNIT 4  from page 177.",
+            "common_confusion": "Students sometimes confuse 171 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 171 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 END OF UNIT 4  with adjacent topics in Chapter 3.",
+            "source_pages": "177",
+            "name_amharic": "171 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 171 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 END OF UNIT 4  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 171 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 171 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 END OF UNIT 4 QUESTIONS: 1 (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] A ball of mass m is suspended by a string from the ceiling, the Earth pulls down the ball with a force of magnitude equal to the weight of the ball — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 177 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-physics-u03-c004",
+            "name": "172 Physics \u001f\u001eStudent Text Book 172 Phys",
+            "simple_definition": "172 Physics \u001f\u001eStudent Text Book 172 Physics \u001f Student Text Book 7",
+            "deep_explanation": "Any two equal and opposite forces constitute ac- tion and reaction pairs",
+            "real_example": "Practical example of 172 Physics \u001f\u001eStudent Text Book 172 Phys from page 178.",
+            "common_confusion": "Students sometimes confuse 172 Physics \u001f\u001eStudent Text Book 172 Phys with adjacent topics in Chapter 3.",
+            "source_pages": "178",
+            "name_amharic": "172 Physics \u001f\u001eStudent Text Book 172 Phys (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 172 Physics \u001f\u001eStudent Text Book 172 Physics \u001f Student Text Book 7 (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Any two equal and opposite forces constitute ac- tion and reaction pairs — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 178 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-physics-u03-c005",
+            "name": "173 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 173 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 14.If A Block ",
+            "simple_definition": "173 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 173 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 14.If a block is at rest on an incline without slipping, then friction must equal the component of the weight of the object parallel to the incline",
+            "deep_explanation": "Tis requires great- er and greater friction for steeper slopes \u001f\u001f\u001f a",
+            "real_example": "Practical example of 173 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 173 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 14.If a block  from page 179.",
+            "common_confusion": "Students sometimes confuse 173 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 173 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 14.If a block  with adjacent topics in Chapter 3.",
+            "source_pages": "179",
+            "name_amharic": "173 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 173 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 14.If a block  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 173 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 173 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0019 14.If a block is at rest on an incline without slipping, then friction must equal the component of the weight of the object parallel to the incline (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Tis requires great- er and greater friction for steeper slopes \u001f\u001f\u001f a — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 179 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-physics-u03-c006",
+            "name": "174 Physics \u001f\u001eStudent Text Book 174 Phys",
+            "simple_definition": "174 Physics \u001f\u001eStudent Text Book 174 Physics \u001f Student Text Book 22.What is the momentum of a 200 kg mass if it has kinetic energy of 1600 J? 23.By what factor must the speed of a moving body change in order to double its kinetic energy? 24.Suppose that you push on the 30 kg box as shown in the ﬁgure with a constant force of 120 N through a distance of 0.80 m, and that the average opposing friction force is 5 N",
+            "deep_explanation": "Calculate the net work done on the box",
+            "real_example": "Practical example of 174 Physics \u001f\u001eStudent Text Book 174 Phys from page 180.",
+            "common_confusion": "Students sometimes confuse 174 Physics \u001f\u001eStudent Text Book 174 Phys with adjacent topics in Chapter 3.",
+            "source_pages": "180",
+            "name_amharic": "174 Physics \u001f\u001eStudent Text Book 174 Phys (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 174 Physics \u001f\u001eStudent Text Book 174 Physics \u001f Student Text Book 22.What is the momentum of a 200 kg mass if it has kinetic energy of 1600 J? 23.By what factor must the speed of a moving body change in order to double its kinetic energy? 24.Suppose that you push on the 30 kg box as shown in the ﬁgure with a constant force of 120 N through a distance of 0.80 m, and that the average opposing friction force is 5 N (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Calculate the net work done on the box — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 180 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

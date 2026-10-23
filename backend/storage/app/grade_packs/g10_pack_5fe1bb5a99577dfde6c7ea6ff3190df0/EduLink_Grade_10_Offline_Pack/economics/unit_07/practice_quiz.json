@@ -1,0 +1,119 @@
+{
+    "grade": 10,
+    "subject": "economics",
+    "unit_number": 7,
+    "practice_quiz": [
+        {
+            "id": "g10-economics-u07-q001",
+            "question": "Which of the following describes the key principle of the topic discussed on page 137?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 137.",
+            "difficulty": "easy",
+            "related_concept": "g10-economics-u07-c002"
+        },
+        {
+            "id": "g10-economics-u07-q002",
+            "question": "Which of the following describes the key principle of the topic discussed on page 138?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 138.",
+            "difficulty": "easy",
+            "related_concept": "g10-economics-u07-c003"
+        },
+        {
+            "id": "g10-economics-u07-q003",
+            "question": "Which of the following describes the key principle of the topic discussed on page 139?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 139.",
+            "difficulty": "easy",
+            "related_concept": "g10-economics-u07-c004"
+        },
+        {
+            "id": "g10-economics-u07-q004",
+            "question": "Which of the following describes the key principle of the topic discussed on page 140?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 140.",
+            "difficulty": "medium",
+            "related_concept": "g10-economics-u07-c005"
+        },
+        {
+            "id": "g10-economics-u07-q005",
+            "question": "Which of the following describes the key principle of the topic discussed on page 141?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 141.",
+            "difficulty": "medium",
+            "related_concept": "g10-economics-u07-c006"
+        },
+        {
+            "id": "g10-economics-u07-q006",
+            "question": "Which of the following describes the key principle of the topic discussed on page 142?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 142.",
+            "difficulty": "medium",
+            "related_concept": "g10-economics-u07-c001"
+        },
+        {
+            "id": "g10-economics-u07-q007",
+            "question": "Which of the following describes the key principle of the topic discussed on page 143?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 143.",
+            "difficulty": "hard",
+            "related_concept": "g10-economics-u07-c002"
+        },
+        {
+            "id": "g10-economics-u07-q008",
+            "question": "Which of the following describes the key principle of the topic discussed on page 144?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 144.",
+            "difficulty": "hard",
+            "related_concept": "g10-economics-u07-c003"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "biology",
+    "unit_number": 1,
+    "worked_examples": [
+        {
+            "id": "g11-biology-u01-we001",
+            "title": "Worked Example 1: The Science of Biology and Scientific Investigation",
+            "problem_statement": "Analyze the application of the topic explained on page 13.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 13.",
+            "source_page": "13"
+        },
+        {
+            "id": "g11-biology-u01-we002",
+            "title": "Worked Example 2: The Science of Biology and Scientific Investigation",
+            "problem_statement": "Analyze the application of the topic explained on page 14.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 14.",
+            "source_page": "14"
+        }
+    ]
+}

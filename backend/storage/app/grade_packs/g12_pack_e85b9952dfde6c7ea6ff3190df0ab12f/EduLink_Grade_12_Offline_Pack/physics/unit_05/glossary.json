@@ -1,0 +1,37 @@
+{
+    "grade": 12,
+    "subject": "physics",
+    "unit_number": 5,
+    "glossary": [
+        {
+            "term": "Unit 5 Basics Of Electronics Introductio",
+            "definition": "Unit 5 Basics of electronics Introduction Electronic devices inﬂuence our daily lives in such a way that it is almost impossible to spend even a few hours without them",
+            "source_page": "148"
+        },
+        {
+            "term": "5.1 Semiconductors 143 5.1 Semiconductor",
+            "definition": "5.1 Semiconductors 143 5.1 Semiconductors At the end of this section, you will be able to: • Describe the difference between conductor, insulator and semiconductor",
+            "source_page": "149"
+        },
+        {
+            "term": "144 Unit 5 Basics Of Electronics Of A Co",
+            "definition": "144 Unit 5 Basics of electronics of a covalent bond",
+            "source_page": "150"
+        },
+        {
+            "term": "5.1 Semiconductors 145 The Main Aim Of D",
+            "definition": "5.1 Semiconductors 145 The main aim of doping is to make sure that there are either too many electrons (surplus) or too few electrons (deﬁciency)",
+            "source_page": "151"
+        },
+        {
+            "term": "146 Unit 5 Basics Of Electronics Conduct",
+            "definition": "146 Unit 5 Basics of electronics Conduction is due to the majority charge carriers which are holes",
+            "source_page": "152"
+        },
+        {
+            "term": "5.2 Diodes And Their Functions 147 5.2 D",
+            "definition": "5.2 Diodes and their Functions 147 5.2 Diodes and their Functions At the end of this section, you will be able to: • Describe what a junction diode is and how it is made",
+            "source_page": "153"
+        }
+    ]
+}

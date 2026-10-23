@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "physics",
+    "unit_number": 1,
+    "unit_title": "Vector Quantities",
+    "source_book": "G10 Physics",
+    "concepts": [
+        {
+            "id": "g10-physics-u01-c001",
+            "name": "Vector Quantity",
+            "simple_definition": "A vector quantity is a physical quantity that has both magnitude and direction.",
+            "deep_explanation": "Unlike scalars, vectors obey vector addition laws (triangle or parallelogram laws). Examples include force, velocity, and displacement.",
+            "real_example": "Driving 50 km\/h North is a vector (velocity); driving 50 km\/h is a scalar (speed).",
+            "common_confusion": "Thinking distance is a vector. Distance is a scalar, while displacement is a vector.",
+            "source_pages": "7-12",
+            "name_amharic": "ቬክተር መጠን (Vector Quantity)",
+            "simple_definition_amharic": "ቬክተር መጠን ማለት መጠን (magnitude) እና አቅጣጫ (direction) ያለው አካላዊ መጠን ነው።",
+            "deep_explanation_amharic": "ከስኬላር በተለየ፣ ቬክተሮች የቬክተር ድምር ሕጎችን ይከተላሉ። ለምሳሌ ኃይል፣ ፍጥነት እና መፈናቀል የቬክተር መጠኖች ናቸው።",
+            "real_example_amharic": "50 ኪ.ሜ\/ሰ በሰሜን አቅጣጫ መንዳት ቬክተር ሲሆን፣ 50 ኪ.ሜ\/ሰ ብቻ መንዳት ግን ስኬላር ነው።",
+            "common_confusion_amharic": "ርቀትን ቬክተር ነው ብሎ ማሰብ። ርቀት ስኬላር ሲሆን መፈናቀል ግን ቬክተር ነው።"
+        },
+        {
+            "id": "g10-physics-u01-c002",
+            "name": "2 Unit 1 Vector Quantities 1.1 Scalars A",
+            "simple_definition": "2 Unit 1 Vector Quantities 1.1 Scalars and Vectors Exercise 1.1 \u001f From what you learnt in grade 9, what do you think are the differences between vectors and scalars? By the end of this section, you should be able to: • deﬁne scalar and vector quantities; • describe the difference between vector and scalar quantities; • list some scalar and vector quantities",
+            "deep_explanation": "Key concepts \u001f Scalars are quantities that have only mag- nitude whereas Vectors are quan- tities that have both direction and magnitude",
+            "real_example": "Practical example of 2 Unit 1 Vector Quantities 1.1 Scalars a from page 8.",
+            "common_confusion": "Students sometimes confuse 2 Unit 1 Vector Quantities 1.1 Scalars a with adjacent topics in Chapter 1.",
+            "source_pages": "8",
+            "name_amharic": "2 Unit 1 Vector Quantities 1.1 Scalars a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 2 Unit 1 Vector Quantities 1.1 Scalars and Vectors Exercise 1.1 \u001f From what you learnt in grade 9, what do you think are the differences between vectors and scalars? By the end of this section, you should be able to: • deﬁne scalar and vector quantities; • describe the difference between vector and scalar quantities; • list some scalar and vector quantities (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Key concepts \u001f Scalars are quantities that have only mag- nitude whereas Vectors are quan- tities that have both direction and magnitude — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 8 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u01-c003",
+            "name": "1.2 Vector Representations 3 Section Sum",
+            "simple_definition": "1.2 Vector representations 3 Section summary • In physics, you deal generally with two kinds of quantities: scalars and vectors",
+            "deep_explanation": "• Scalar are quantities that are speciﬁed only by their magni- tude while vectors are quantities that are speciﬁed by their magnitude and direction",
+            "real_example": "Practical example of 1.2 Vector representations 3 Section sum from page 9.",
+            "common_confusion": "Students sometimes confuse 1.2 Vector representations 3 Section sum with adjacent topics in Chapter 1.",
+            "source_pages": "9",
+            "name_amharic": "1.2 Vector representations 3 Section sum (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 1.2 Vector representations 3 Section summary • In physics, you deal generally with two kinds of quantities: scalars and vectors (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] • Scalar are quantities that are speciﬁed only by their magni- tude while vectors are quantities that are speciﬁed by their magnitude and direction — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 9 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u01-c004",
+            "name": "4 Unit 1 Vector Quantities The Symbol Th",
+            "simple_definition": "4 Unit 1 Vector Quantities the symbol that denotes the vector; so, you can write equivalently that S ≡|S|",
+            "deep_explanation": "On the other hand, vectors are represented geometrically by an arrow, or an arrow-tipped line segment",
+            "real_example": "Practical example of 4 Unit 1 Vector Quantities the symbol th from page 10.",
+            "common_confusion": "Students sometimes confuse 4 Unit 1 Vector Quantities the symbol th with adjacent topics in Chapter 1.",
+            "source_pages": "10",
+            "name_amharic": "4 Unit 1 Vector Quantities the symbol th (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 4 Unit 1 Vector Quantities the symbol that denotes the vector; so, you can write equivalently that S ≡|S| (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] On the other hand, vectors are represented geometrically by an arrow, or an arrow-tipped line segment — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 10 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u01-c005",
+            "name": "1.2 Vector Representations 5 3",
+            "simple_definition": "1.2 Vector representations 5 3",
+            "deep_explanation": "Draw the vector as an arrow",
+            "real_example": "Practical example of 1.2 Vector representations 5 3 from page 11.",
+            "common_confusion": "Students sometimes confuse 1.2 Vector representations 5 3 with adjacent topics in Chapter 1.",
+            "source_pages": "11",
+            "name_amharic": "1.2 Vector representations 5 3 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 1.2 Vector representations 5 3 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Draw the vector as an arrow — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 11 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u01-c006",
+            "name": "6 Unit 1 Vector Quantities Review Questi",
+            "simple_definition": "6 Unit 1 Vector Quantities Review questions 1",
+            "deep_explanation": "Give an example of a vector stating its magnitude, units and direction",
+            "real_example": "Practical example of 6 Unit 1 Vector Quantities Review questi from page 12.",
+            "common_confusion": "Students sometimes confuse 6 Unit 1 Vector Quantities Review questi with adjacent topics in Chapter 1.",
+            "source_pages": "12",
+            "name_amharic": "6 Unit 1 Vector Quantities Review questi (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 6 Unit 1 Vector Quantities Review questions 1 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Give an example of a vector stating its magnitude, units and direction — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 12 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

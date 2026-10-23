@@ -1,0 +1,93 @@
+{
+    "grade": 12,
+    "subject": "information_technology",
+    "unit_number": 2,
+    "unit_title": "Advanced Programming Concepts & OOP",
+    "source_book": "G12 Information Technology",
+    "concepts": [
+        {
+            "id": "g12-information_technology-u02-c001",
+            "name": "Information Technology Grade 12 ~ Studen",
+            "simple_definition": "Information Technology Grade 12 ~ Student Textbook 40 UNIT-2 Emerging Technologies from your service provider",
+            "deep_explanation": "LINK - See Unit 4 of Grade 9 and Grade 10, IT textbooks about computer networks and IP addresses for more details",
+            "real_example": "Practical example of Information Technology Grade 12 ~ Studen from page 47.",
+            "common_confusion": "Students sometimes confuse Information Technology Grade 12 ~ Studen with adjacent topics in Chapter 2.",
+            "source_pages": "47",
+            "name_amharic": "Information Technology Grade 12 ~ Studen (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Information Technology Grade 12 ~ Student Textbook 40 UNIT-2 Emerging Technologies from your service provider (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] LINK - See Unit 4 of Grade 9 and Grade 10, IT textbooks about computer networks and IP addresses for more details — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 47 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-information_technology-u02-c002",
+            "name": "Information Technology Grade 12 ~ Studen",
+            "simple_definition": "Information Technology Grade 12 ~ Student Textbook 41 UNIT-2 Emerging Technologies Activity 2.2 1",
+            "deep_explanation": "Mention at least 2 cloud services you have used before for your academic and social activities",
+            "real_example": "Practical example of Information Technology Grade 12 ~ Studen from page 48.",
+            "common_confusion": "Students sometimes confuse Information Technology Grade 12 ~ Studen with adjacent topics in Chapter 2.",
+            "source_pages": "48",
+            "name_amharic": "Information Technology Grade 12 ~ Studen (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Information Technology Grade 12 ~ Student Textbook 41 UNIT-2 Emerging Technologies Activity 2.2 1 (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Mention at least 2 cloud services you have used before for your academic and social activities — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 48 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-information_technology-u02-c003",
+            "name": "Information Technology Grade 12 ~ Studen",
+            "simple_definition": "Information Technology Grade 12 ~ Student Textbook 42 UNIT-2 Emerging Technologies in a specific application program",
+            "deep_explanation": "Because the cloud provider has complete control over your cloud service infrastructure, they have ultimate authority over how your data is handled",
+            "real_example": "Practical example of Information Technology Grade 12 ~ Studen from page 49.",
+            "common_confusion": "Students sometimes confuse Information Technology Grade 12 ~ Studen with adjacent topics in Chapter 2.",
+            "source_pages": "49",
+            "name_amharic": "Information Technology Grade 12 ~ Studen (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Information Technology Grade 12 ~ Student Textbook 42 UNIT-2 Emerging Technologies in a specific application program (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Because the cloud provider has complete control over your cloud service infrastructure, they have ultimate authority over how your data is handled — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 49 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-information_technology-u02-c004",
+            "name": "Information Technology Grade 12 ~ Studen",
+            "simple_definition": "Information Technology Grade 12 ~ Student Textbook 43 UNIT-2 Emerging Technologies Figure 2.19",
+            "deep_explanation": "Public cloud Private cloud – As the name indicates, the private cloud has all resources dedicated to your application",
+            "real_example": "Practical example of Information Technology Grade 12 ~ Studen from page 50.",
+            "common_confusion": "Students sometimes confuse Information Technology Grade 12 ~ Studen with adjacent topics in Chapter 2.",
+            "source_pages": "50",
+            "name_amharic": "Information Technology Grade 12 ~ Studen (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Information Technology Grade 12 ~ Student Textbook 43 UNIT-2 Emerging Technologies Figure 2.19 (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Public cloud Private cloud – As the name indicates, the private cloud has all resources dedicated to your application — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 50 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-information_technology-u02-c005",
+            "name": "Information Technology Grade 12 ~ Studen",
+            "simple_definition": "Information Technology Grade 12 ~ Student Textbook 44 UNIT-2 Emerging Technologies 2.2.5 Cloud Computing Services There are several cloud computing services",
+            "deep_explanation": "The three major cloud computing services are: - Software as a Service (SaaS) - Platform as a Service (PaaS) - Infrastructure as a Service (IaaS) Figure 2.23",
+            "real_example": "Practical example of Information Technology Grade 12 ~ Studen from page 51.",
+            "common_confusion": "Students sometimes confuse Information Technology Grade 12 ~ Studen with adjacent topics in Chapter 2.",
+            "source_pages": "51",
+            "name_amharic": "Information Technology Grade 12 ~ Studen (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Information Technology Grade 12 ~ Student Textbook 44 UNIT-2 Emerging Technologies 2.2.5 Cloud Computing Services There are several cloud computing services (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The three major cloud computing services are: - Software as a Service (SaaS) - Platform as a Service (PaaS) - Infrastructure as a Service (IaaS) Figure 2.23 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 51 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-information_technology-u02-c006",
+            "name": "Information Technology Grade 12 ~ Studen",
+            "simple_definition": "Information Technology Grade 12 ~ Student Textbook 45 UNIT-2 Emerging Technologies SaaS is compatible with all Internet-enabled devices",
+            "deep_explanation": "Many important tasks like accounting, sales, invoicing, and planning can be performed using SaaS (Figure 2.24)",
+            "real_example": "Practical example of Information Technology Grade 12 ~ Studen from page 52.",
+            "common_confusion": "Students sometimes confuse Information Technology Grade 12 ~ Studen with adjacent topics in Chapter 2.",
+            "source_pages": "52",
+            "name_amharic": "Information Technology Grade 12 ~ Studen (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Information Technology Grade 12 ~ Student Textbook 45 UNIT-2 Emerging Technologies SaaS is compatible with all Internet-enabled devices (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Many important tasks like accounting, sales, invoicing, and planning can be performed using SaaS (Figure 2.24) — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 52 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

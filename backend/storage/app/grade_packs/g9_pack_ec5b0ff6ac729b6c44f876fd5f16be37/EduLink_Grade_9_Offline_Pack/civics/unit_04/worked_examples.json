@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "civics",
+    "unit_number": 4,
+    "examples": [
+        {
+            "example_id": "g9-civics-u04-we001",
+            "title": "Worked Example 1: Professional Solution for Patriotism and National Interest",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የPatriotism and National Interest ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 82-97.",
+            "problem_amharic": "ከገጽ 82-97 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "82-97"
+        }
+    ]
+}

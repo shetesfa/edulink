@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "chemistry",
+    "unit_number": 2,
+    "unit_title": "Important Inorganic Compounds",
+    "source_book": "G10 Chemistry",
+    "concepts": [
+        {
+            "id": "g10-chemistry-u02-c001",
+            "name": "Oxides",
+            "simple_definition": "Oxides are binary compounds formed by the reaction of oxygen with another element.",
+            "deep_explanation": "Oxides are classified as acidic (non-metal oxides like CO2), basic (metal oxides like CaO), amphoteric (Al2O3), or neutral (CO).",
+            "real_example": "Calcium oxide (CaO) reacts with water to form a basic solution of calcium hydroxide.",
+            "common_confusion": "Thinking amphoteric oxides only behave as acids. They react with both acids and bases.",
+            "source_pages": "247-252",
+            "name_amharic": "ኦክሳይዶች",
+            "simple_definition_amharic": "ኦክሳይዶች ማለት ኦክስጅን ከሌላ ንጥረ ነገር ጋር በመዋሃድ የሚፈጥረው ባለሁለትዮሽ ውህድ ነው።",
+            "deep_explanation_amharic": "ኦክሳይዶች በአሲዳማ (የአโลሃ ኦክሳይድ)፣ ቤዛዊ (የሎሃ ኦክሳይድ)፣ አምፎቴሪክ ወይም ገለልተኛ ተብለው ይከፈላሉ።",
+            "real_example_amharic": "ካልሲየም ኦክሳይድ (CaO) ከውሃ ጋር ሲዋሃድ ካልሲየም ሃይድሮክሳይድ የተባለ ቤዛዊ ውህድ ይሰጣል።",
+            "common_confusion_amharic": "አምፎቴሪክ ኦክሳይዶች አሲድ ብቻ ይመስላሉ። እነሱ ከአሲድም ከቤዝም ጋር ግብረመልስ ያደርጋሉ።"
+        },
+        {
+            "id": "g10-chemistry-u02-c002",
+            "name": "Alkanes Structures I And II In Activity ",
+            "simple_definition": "Alkanes Structures I and II in Activity 6.3 represent methane and ethane, respectively, the typical alkanes",
+            "deep_explanation": "Alkanes are often described as saturated hydrocarbons: hydrocarbons because they contain only carbon and hydrogen; saturated because they contain the maximum possible number of hydrogens per carbon",
+            "real_example": "Practical example of Alkanes Structures I and II in Activity  from page 248.",
+            "common_confusion": "Students sometimes confuse Alkanes Structures I and II in Activity  with adjacent topics in Chapter 2.",
+            "source_pages": "248",
+            "name_amharic": "Alkanes Structures I and II in Activity  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Alkanes Structures I and II in Activity 6.3 represent methane and ethane, respectively, the typical alkanes (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Alkanes are often described as saturated hydrocarbons: hydrocarbons because they contain only carbon and hydrogen; saturated because they contain the maximum possible number of hydrogens per carbon — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 248 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-chemistry-u02-c003",
+            "name": "243 Hydrocarbons And Their Natural Sourc",
+            "simple_definition": "243 Hydrocarbons and their Natural Sources 6.2.1 Alkane Homologous Series If you examine the alkanes in Table 6.2, you can notice that each alkane differs from the preceding alkane by one −CH2− group",
+            "deep_explanation": "Butane, for example, is CH3(CH2)2CH3 and pentane is CH3(CH2)3CH3",
+            "real_example": "Practical example of 243 Hydrocarbons and their Natural Sourc from page 249.",
+            "common_confusion": "Students sometimes confuse 243 Hydrocarbons and their Natural Sourc with adjacent topics in Chapter 2.",
+            "source_pages": "249",
+            "name_amharic": "243 Hydrocarbons and their Natural Sourc (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 243 Hydrocarbons and their Natural Sources 6.2.1 Alkane Homologous Series If you examine the alkanes in Table 6.2, you can notice that each alkane differs from the preceding alkane by one −CH2− group (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Butane, for example, is CH3(CH2)2CH3 and pentane is CH3(CH2)3CH3 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 249 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-chemistry-u02-c004",
+            "name": "You Also Learnt That Polarity Is The Res",
+            "simple_definition": "You also learnt that polarity is the result of difference in electronegativity of bonded atoms",
+            "deep_explanation": "Given the fact that carbon and hydrogen atoms have similar electronegativity, answer the following questions: a",
+            "real_example": "Practical example of You also learnt that polarity is the res from page 250.",
+            "common_confusion": "Students sometimes confuse You also learnt that polarity is the res with adjacent topics in Chapter 2.",
+            "source_pages": "250",
+            "name_amharic": "You also learnt that polarity is the res (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] You also learnt that polarity is the result of difference in electronegativity of bonded atoms (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Given the fact that carbon and hydrogen atoms have similar electronegativity, answer the following questions: a — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 250 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-chemistry-u02-c005",
+            "name": "245 Hydrocarbons And Their Natural Sourc",
+            "simple_definition": "245 Hydrocarbons and their Natural Sources Explain each of the following facts about alkanes",
+            "deep_explanation": "Alkanes show regular increase in boiling point as their molecular weight increases",
+            "real_example": "Practical example of 245 Hydrocarbons and their Natural Sourc from page 251.",
+            "common_confusion": "Students sometimes confuse 245 Hydrocarbons and their Natural Sourc with adjacent topics in Chapter 2.",
+            "source_pages": "251",
+            "name_amharic": "245 Hydrocarbons and their Natural Sourc (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 245 Hydrocarbons and their Natural Sources Explain each of the following facts about alkanes (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Alkanes show regular increase in boiling point as their molecular weight increases — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 251 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-chemistry-u02-c006",
+            "name": "Example 6.1 CH3CH2CH2CH2CH3 CH3CH2CH2CH2",
+            "simple_definition": "Example 6.1 CH3CH2CH2CH2CH3 CH3CH2CH2CH2CH2CH3 n-pentane n-hexane Iso- is used when all of the carbon atoms form a continuous chain, except for the one next to the last carbon",
+            "deep_explanation": "CH3 CH CH3 CH3 CH3 CH2 CH CH3 CH3 Example 6.2: isobutane isopentane Neo-is used when the central carbon is bonded to four other carbon atoms",
+            "real_example": "Practical example of Example 6.1 CH3CH2CH2CH2CH3 CH3CH2CH2CH2 from page 252.",
+            "common_confusion": "Students sometimes confuse Example 6.1 CH3CH2CH2CH2CH3 CH3CH2CH2CH2 with adjacent topics in Chapter 2.",
+            "source_pages": "252",
+            "name_amharic": "Example 6.1 CH3CH2CH2CH2CH3 CH3CH2CH2CH2 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Example 6.1 CH3CH2CH2CH2CH3 CH3CH2CH2CH2CH2CH3 n-pentane n-hexane Iso- is used when all of the carbon atoms form a continuous chain, except for the one next to the last carbon (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] CH3 CH CH3 CH3 CH3 CH2 CH CH3 CH3 Example 6.2: isobutane isopentane Neo-is used when the central carbon is bonded to four other carbon atoms — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 252 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "grade": 10,
+    "subject": "information_technology",
+    "unit_number": 1,
+    "glossary": [
+        {
+            "term": "ORGANIZATION OF FILES 1.1 Unit Overview ",
+            "definition": "Table of Contents UNIT 1 : ORGANIZATION OF FILES 1.1 Unit Overview 1 1.2 File Management 1 1.3 Storage Drives 4 1.4 File Name Extension 6 1.5 File Directory Structure 9 1.6 File Conversion 14 1.7 File Importing and Exporting 16 1.8 Saving and Opening Files 18 1.9 File Backup and Recovery 20 1.10 File Compression 23 1.11 Deleting a File 25 1.12 Restoring Deleted File 27 1.13 Unit Summary 29 1.14 Unit Review Exercise 30 UNIT 2 : COMPUTER NETWORK 2.1 Unit Overview 36 2.2 Network Media (Transmission Media) 37 2.3 Telecommunications Network 53 2.4 Mobile Communications 58 2.5 Cellular Networks 62 2.6 Satellite Networks 66 2.7 Internet Protocol 72 2.8 Unit Summary 76 2.9 Unit Review Exercise 77 iv",
+            "source_page": "5"
+        },
+        {
+            "term": "APPLICATION SOFTWARE 3.1 Unit Overview 8",
+            "definition": "UNIT 3 : APPLICATION SOFTWARE 3.1 Unit Overview 81 3.2 Word Processing 82 3.3 Spreadsheet 102 3.4 PowerPoint Presentation 125 3.5 Unit Summary 131 3.6 Unit Review Exercise 133 UNIT 4 : IMAGE PROCESSING AND MULTIMEDIA 4.1 Unit Overview 139 4.2 Basics of Multimedia 139 4.3 Multimedia File Formats 148 4.4 Multimedia Production 149 4.5 Multimedia Authoring and Authoring Tools 151 4.6 Multimedia Editing 157 4.7 Unit Summary 177 4.8 Unit Review Exercise 178 UNIT 5 : INFORMATION AND COMPUTER SECURITY 5.1 Unit Overview 182 5.2 Information and Computer Security 183 5.3 Impact of Information and Computer Security on Society 184 5.4 Privacy and Security 185 5.5 Computer Security Threats 187 5.6 Threat Prevention Strategies 188 5.7 Cyber Security 197 5.8 Unit Summary 199 5.9 Unit Review Exercise 200 v",
+            "source_page": "6"
+        },
+        {
+            "term": "FUNDAMENTALS OF PROGRAMMING 6.1 Unit Ove",
+            "definition": "UNIT 6 : FUNDAMENTALS OF PROGRAMMING 6.1 Unit Overview 204 6.2 Basics of Algorithm 204 6.3 Definition of Algorithm 206 6.4 Characteristics of Algorithm 207 6.5 Algorithm Representation 210 6.6 Integrated Development Environment(IDE) 218 6.7 Unit Summary 223 6.8 Unit Review Exercise 224 vi",
+            "source_page": "7"
+        },
+        {
+            "term": "Grade 10 Information Technology Student’",
+            "definition": "Grade 10 Information Technology Student’s Textbook 1 1.1 Unit Overview Dear student, in grade 9, you learned about file management and related concepts such as files, folders, file drivers, methods of file creation, naming and renaming files and folders, and ways of accessing drives",
+            "source_page": "8"
+        },
+        {
+            "term": "Organization Of Files Figure 1.1 Filing ",
+            "definition": "2 Unit 1 : Organization of Files Figure 1.1 Filing cabinet Nowadays, to recognize file management, you need to understand how your computer stores information",
+            "source_page": "9"
+        },
+        {
+            "term": "Grade 10 Information Technology Student’",
+            "definition": "Grade 10 Information Technology Student’s Textbook 3 Figure 1.2 Disk drives A folder holds one or more files, and it can be empty until it is filled",
+            "source_page": "10"
+        }
+    ]
+}

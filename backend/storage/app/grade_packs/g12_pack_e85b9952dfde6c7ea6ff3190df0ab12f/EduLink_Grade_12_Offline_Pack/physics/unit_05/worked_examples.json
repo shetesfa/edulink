@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "physics",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g12-physics-u05-we001",
+            "title": "Worked Example 1: Cosmology and Stellar Evolution",
+            "problem_statement": "Analyze the application of the topic explained on page 148.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 148.",
+            "source_page": "148"
+        },
+        {
+            "id": "g12-physics-u05-we002",
+            "title": "Worked Example 2: Cosmology and Stellar Evolution",
+            "problem_statement": "Analyze the application of the topic explained on page 149.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 149.",
+            "source_page": "149"
+        }
+    ]
+}

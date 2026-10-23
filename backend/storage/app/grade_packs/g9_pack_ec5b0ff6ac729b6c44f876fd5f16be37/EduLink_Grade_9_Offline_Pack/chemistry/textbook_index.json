@@ -1,0 +1,33 @@
+{
+    "grade": 9,
+    "subject": "chemistry",
+    "source_book": "G9 Chemistry",
+    "total_pages_in_source": 250,
+    "units": [
+        {
+            "unit_number": 1,
+            "unit_title": "Unit 1: Chemistry and Its Importance",
+            "status": "completed"
+        },
+        {
+            "unit_number": 2,
+            "unit_title": "Unit 2: Structure of the Atom",
+            "status": "completed"
+        },
+        {
+            "unit_number": 3,
+            "unit_title": "Unit 3: Periodic Classification of Elements",
+            "status": "completed"
+        },
+        {
+            "unit_number": 4,
+            "unit_title": "Unit 4: Chemical Bonding",
+            "status": "completed"
+        },
+        {
+            "unit_number": 5,
+            "unit_title": "Unit 5: Chemical Reactions and Stoichiometry",
+            "status": "completed"
+        }
+    ]
+}

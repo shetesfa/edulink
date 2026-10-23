@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "information_technology",
+    "unit_number": 2,
+    "worked_examples": [
+        {
+            "id": "g10-information_technology-u02-we001",
+            "title": "Worked Example 1: Operating Systems and Utility Software",
+            "problem_statement": "Analyze the application of the topic explained on page 43.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 43.",
+            "source_page": "43"
+        },
+        {
+            "id": "g10-information_technology-u02-we002",
+            "title": "Worked Example 2: Operating Systems and Utility Software",
+            "problem_statement": "Analyze the application of the topic explained on page 44.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 44.",
+            "source_page": "44"
+        }
+    ]
+}

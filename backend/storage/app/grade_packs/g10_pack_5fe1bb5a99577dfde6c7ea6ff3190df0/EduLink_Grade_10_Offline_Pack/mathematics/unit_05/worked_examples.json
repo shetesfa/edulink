@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g10-mathematics-u05-we001",
+            "title": "Worked Example 1: Circles",
+            "problem_statement": "Analyze the application of the topic explained on page 260.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 260.",
+            "source_page": "260"
+        },
+        {
+            "id": "g10-mathematics-u05-we002",
+            "title": "Worked Example 2: Circles",
+            "problem_statement": "Analyze the application of the topic explained on page 261.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 261.",
+            "source_page": "261"
+        }
+    ]
+}

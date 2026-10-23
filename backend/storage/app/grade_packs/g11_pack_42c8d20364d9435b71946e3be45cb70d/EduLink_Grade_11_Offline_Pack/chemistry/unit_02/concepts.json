@@ -1,0 +1,93 @@
+{
+    "grade": 11,
+    "subject": "chemistry",
+    "unit_number": 2,
+    "unit_title": "Chemical Bonding and Structure",
+    "source_book": "G11 Chemistry",
+    "concepts": [
+        {
+            "id": "g11-chemistry-u02-c001",
+            "name": "Covalent Bond",
+            "simple_definition": "A covalent bond is a chemical bond formed by the sharing of one or more electron pairs between atoms.",
+            "deep_explanation": "Covalent bonding typically occurs between non-metals. Depending on electronegativity differences, they can be polar or non-polar.",
+            "real_example": "In water (H2O), oxygen shares its valence electrons with two hydrogen atoms.",
+            "common_confusion": "Thinking covalent bonds involve transfer of electrons. Transfer of electrons occurs in ionic bonding.",
+            "source_pages": "80-85",
+            "name_amharic": "ኮቫለንት ትስስር (Covalent Bond)",
+            "simple_definition_amharic": "ኮቫለንት ትስስር ማለት በአቶሞች መካከል ጥንድ ኤሌክትሮኖችን በመጋራት የሚፈጠር ኬሚካላዊ ትስስር ነው።",
+            "deep_explanation_amharic": "ኮቫለንት ትስስር ብዙውን ጊዜ በአሎሃዎች መካከል ይፈጠራል። በኤሌክትሮኔጋቲቪቲ ልዩነት መሠረት ፖላር ወይም ፖላር ያልሆነ ሊሆኑ ይችላሉ።",
+            "real_example_amharic": "በውሃ (H2O) ውህድ ውስጥ፣ ኦክስጅን ከሁለት ሃይድሮጅን አቶሞች ጋር ኤሌክትሮኖችን ይጋራል።",
+            "common_confusion_amharic": "ኮቫለንት ትስስር የኤሌክትሮን ዝውውርን ያካትታል ብሎ ማሰብ። ኤሌክትሮን የሚተላለፈው በአዮኒክ ትስስር ውስጥ ነው።"
+        },
+        {
+            "id": "g11-chemistry-u02-c002",
+            "name": "Introduction 67 UNIT 2 Start-up Activity",
+            "simple_definition": "Introduction 67 UNIT 2 Start-up Activity Discuss the following issues in a group and present your ideas to the class",
+            "deep_explanation": "Why do the substances around us behave differently? For instance, table salt is a hard, brittle, high-melting solid that conducts electricity only when molten or dissolved in water",
+            "real_example": "Practical example of Introduction 67 UNIT 2 Start-up Activity from page 77.",
+            "common_confusion": "Students sometimes confuse Introduction 67 UNIT 2 Start-up Activity with adjacent topics in Chapter 2.",
+            "source_pages": "77",
+            "name_amharic": "Introduction 67 UNIT 2 Start-up Activity (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Introduction 67 UNIT 2 Start-up Activity Discuss the following issues in a group and present your ideas to the class (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Why do the substances around us behave differently? For instance, table salt is a hard, brittle, high-melting solid that conducts electricity only when molten or dissolved in water — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 77 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-chemistry-u02-c003",
+            "name": "CHEMISTRY GRADE 11 68 UNIT 2 \u001f\u001e\u001d\u001e\u001d \u001c\u001b\u001a\u0019\u0018",
+            "simple_definition": "CHEMISTRY GRADE 11 68 UNIT 2 \u001f\u001e\u001d\u001e\u001d \u001c\u001b\u001a\u0019\u0018\u0017\u0016\u001a\u0016\u0019\u0015\u0014\u0013\u001a\u0019 Activity 2.2 From your knowledge of Grade 9 chemistry discuss the following questions in a group of four, then present your responses to the whole class",
+            "deep_explanation": "Why do some atoms combine while others do not? Give some examples in your answer",
+            "real_example": "Practical example of CHEMISTRY GRADE 11 68 UNIT 2 \u001f\u001e\u001d\u001e\u001d \u001c\u001b\u001a\u0019\u0018 from page 78.",
+            "common_confusion": "Students sometimes confuse CHEMISTRY GRADE 11 68 UNIT 2 \u001f\u001e\u001d\u001e\u001d \u001c\u001b\u001a\u0019\u0018 with adjacent topics in Chapter 2.",
+            "source_pages": "78",
+            "name_amharic": "CHEMISTRY GRADE 11 68 UNIT 2 \u001f\u001e\u001d\u001e\u001d \u001c\u001b\u001a\u0019\u0018 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] CHEMISTRY GRADE 11 68 UNIT 2 \u001f\u001e\u001d\u001e\u001d \u001c\u001b\u001a\u0019\u0018\u0017\u0016\u001a\u0016\u0019\u0015\u0014\u0013\u001a\u0019 Activity 2.2 From your knowledge of Grade 9 chemistry discuss the following questions in a group of four, then present your responses to the whole class (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Why do some atoms combine while others do not? Give some examples in your answer — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 78 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-chemistry-u02-c004",
+            "name": "Ionic Bonds 69 UNIT 2 2.2 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u001e\u001d\u0018\u0017 At",
+            "simple_definition": "Ionic Bonds 69 UNIT 2 2.2 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u001e\u001d\u0018\u0017 At the end of this section, you will be able to: ) define ionic bonding ) use Lewis electron dot symbols for main group elements ) describe ionic bonding using Lewis electron dot symbols ) list the favourable conditions for the formation of ionic bonds ) explain the formation of ionic bonding ) give examples of ionic compounds ) define lattice energy ) calculate lattice energy of ionic crystals from given data using the Born- Haber cycle ) discuss the exceptions to the octet rule ) describe the properties of ionic bonding ) carry out an activity to demonstrate the effect of electricity on ionic compounds (PbI2 and NaCl) ) carry out an investigation into the melting point and solubility of some ionic compounds (NaCl and CuCl2)",
+            "deep_explanation": "Activity 2.4 Form a group of four and discuss the following questions, then present your responses to the whole class",
+            "real_example": "Practical example of Ionic Bonds 69 UNIT 2 2.2 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u001e\u001d\u0018\u0017 At from page 79.",
+            "common_confusion": "Students sometimes confuse Ionic Bonds 69 UNIT 2 2.2 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u001e\u001d\u0018\u0017 At with adjacent topics in Chapter 2.",
+            "source_pages": "79",
+            "name_amharic": "Ionic Bonds 69 UNIT 2 2.2 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u001e\u001d\u0018\u0017 At (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Ionic Bonds 69 UNIT 2 2.2 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u001e\u001d\u0018\u0017 At the end of this section, you will be able to: ) define ionic bonding ) use Lewis electron dot symbols for main group elements ) describe ionic bonding using Lewis electron dot symbols ) list the favourable conditions for the formation of ionic bonds ) explain the formation of ionic bonding ) give examples of ionic compounds ) define lattice energy ) calculate lattice energy of ionic crystals from given data using the Born- Haber cycle ) discuss the exceptions to the octet rule ) describe the properties of ionic bonding ) carry out an activity to demonstrate the effect of electricity on ionic compounds (PbI2 and NaCl) ) carry out an investigation into the melting point and solubility of some ionic compounds (NaCl and CuCl2) (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Activity 2.4 Form a group of four and discuss the following questions, then present your responses to the whole class — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 79 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-chemistry-u02-c005",
+            "name": "CHEMISTRY GRADE 11 70 UNIT 2 When Large ",
+            "simple_definition": "CHEMISTRY GRADE 11 70 UNIT 2 When large numbers of ions gather together, they form an ionic solid",
+            "deep_explanation": "The solid normally has a regular, crystalline structure that allows for the maximum attraction of ions, given their particular sizes",
+            "real_example": "Practical example of CHEMISTRY GRADE 11 70 UNIT 2 When large  from page 80.",
+            "common_confusion": "Students sometimes confuse CHEMISTRY GRADE 11 70 UNIT 2 When large  with adjacent topics in Chapter 2.",
+            "source_pages": "80",
+            "name_amharic": "CHEMISTRY GRADE 11 70 UNIT 2 When large  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] CHEMISTRY GRADE 11 70 UNIT 2 When large numbers of ions gather together, they form an ionic solid (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The solid normally has a regular, crystalline structure that allows for the maximum attraction of ions, given their particular sizes — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 80 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-chemistry-u02-c006",
+            "name": "Ionic Bonds 71 UNIT 2 \u001f\u001e\u001f\u001e\u001d \u001c\u001b\u001a\u0019\u0018\u0017\u0016\u0015\u001b\u0014\u0013\u0012",
+            "simple_definition": "Ionic Bonds 71 UNIT 2 \u001f\u001e\u001f\u001e\u001d \u001c\u001b\u001a\u0019\u0018\u0017\u0016\u0015\u001b\u0014\u0013\u0012\u0011\u0010\u000f\u000e\u0011\u0013\u0017 \u0011\u0015\u0018\u0017 The American Chemist Gilbert N",
+            "deep_explanation": "Lewis (1875–1946) developed a special set of symbols for his theory",
+            "real_example": "Practical example of Ionic Bonds 71 UNIT 2 \u001f\u001e\u001f\u001e\u001d \u001c\u001b\u001a\u0019\u0018\u0017\u0016\u0015\u001b\u0014\u0013\u0012 from page 81.",
+            "common_confusion": "Students sometimes confuse Ionic Bonds 71 UNIT 2 \u001f\u001e\u001f\u001e\u001d \u001c\u001b\u001a\u0019\u0018\u0017\u0016\u0015\u001b\u0014\u0013\u0012 with adjacent topics in Chapter 2.",
+            "source_pages": "81",
+            "name_amharic": "Ionic Bonds 71 UNIT 2 \u001f\u001e\u001f\u001e\u001d \u001c\u001b\u001a\u0019\u0018\u0017\u0016\u0015\u001b\u0014\u0013\u0012 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Ionic Bonds 71 UNIT 2 \u001f\u001e\u001f\u001e\u001d \u001c\u001b\u001a\u0019\u0018\u0017\u0016\u0015\u001b\u0014\u0013\u0012\u0011\u0010\u000f\u000e\u0011\u0013\u0017 \u0011\u0015\u0018\u0017 The American Chemist Gilbert N (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Lewis (1875–1946) developed a special set of symbols for his theory — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 81 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

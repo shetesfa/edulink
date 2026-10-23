@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "physics",
+    "unit_number": 6,
+    "unit_title": "Heat and Temperature",
+    "source_book": "G10 Physics",
+    "concepts": [
+        {
+            "id": "g10-physics-u06-c001",
+            "name": "Specific Heat Capacity",
+            "simple_definition": "Specific heat capacity is the amount of heat energy required to raise the temperature of 1 kg of a substance by 1°C.",
+            "deep_explanation": "The heat formula is Q = mcΔT. Water has a high specific heat capacity (4184 J\/kg°C), which means it heats up and cools down slowly.",
+            "real_example": "Sand on a beach gets hot quickly during the day because it has a lower specific heat capacity than water.",
+            "common_confusion": "Confusing heat capacity with specific heat capacity. Specific heat capacity depends on mass.",
+            "source_pages": "183-188",
+            "name_amharic": "ስፔስፊክ ሂት ካፓሲቲ",
+            "simple_definition_amharic": "ስፔስፊክ ሂት ካፓሲቲ ማለት የ 1 ኪ.ግ ቁስን የሙቀት መጠን በ 1 ዲግሪ ሴልሺየስ ለማሳደግ የሚጠየቀው የሙቀት ኃይል መጠን ነው።",
+            "deep_explanation_amharic": "የሙቀት ቀመሩ Q = mcΔT ነው። ውሃ ከፍተኛ ስፔስፊክ ሂት ካፓሲቲ (4184 J\/kg°C) አለው፣ ይህም በዝግታ እንዲሞቅ እና እንዲቀዘቅዝ ያደርገዋል።",
+            "real_example_amharic": "የባህር ዳርቻ አሸዋ በቀን በፍጥነት ይሞቃል፤ ምክንያቱም ከውሃ ያነሰ ስፔስፊክ ሂት ካፓሲቲ ስላለው።",
+            "common_confusion_amharic": "የሙቀት መጠንን (heat capacity) ከስፔስፊክ ሂት ካፓሲቲ ጋር ማደናገር።"
+        },
+        {
+            "id": "g10-physics-u06-c002",
+            "name": "178 Unit 6 Electromagnetic Waves And Geo",
+            "simple_definition": "178 Unit 6 Electromagnetic Waves and Geometrical Optics 6.1 Electromagnetic (EM) waves By the end of this section, you should be able to: • describe the propagation of EM waves; • state sources of EM waves",
+            "deep_explanation": "Exercise 6.1 What are the dif- ferent types of waves? Key Concept \u001f EM is a wave that consists of oscillating electric and magnetic ﬁelds, which radi- ate outward from the source at the speed of light",
+            "real_example": "Practical example of 178 Unit 6 Electromagnetic Waves and Geo from page 184.",
+            "common_confusion": "Students sometimes confuse 178 Unit 6 Electromagnetic Waves and Geo with adjacent topics in Chapter 6.",
+            "source_pages": "184",
+            "name_amharic": "178 Unit 6 Electromagnetic Waves and Geo (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 178 Unit 6 Electromagnetic Waves and Geometrical Optics 6.1 Electromagnetic (EM) waves By the end of this section, you should be able to: • describe the propagation of EM waves; • state sources of EM waves (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Exercise 6.1 What are the dif- ferent types of waves? Key Concept \u001f EM is a wave that consists of oscillating electric and magnetic ﬁelds, which radi- ate outward from the source at the speed of light — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 184 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u06-c003",
+            "name": "6.1 Electromagnetic (EM) Waves 179 Figur",
+            "simple_definition": "6.1 Electromagnetic (EM) waves 179 Figure 6.1 Electric ﬁeld and magnetic ﬁeld in an EM wave",
+            "deep_explanation": "Radiant Energy from the Sun The Sun emits EM waves that travel through space and reach Earth",
+            "real_example": "Practical example of 6.1 Electromagnetic (EM) waves 179 Figur from page 185.",
+            "common_confusion": "Students sometimes confuse 6.1 Electromagnetic (EM) waves 179 Figur with adjacent topics in Chapter 6.",
+            "source_pages": "185",
+            "name_amharic": "6.1 Electromagnetic (EM) waves 179 Figur (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 6.1 Electromagnetic (EM) waves 179 Figure 6.1 Electric ﬁeld and magnetic ﬁeld in an EM wave (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Radiant Energy from the Sun The Sun emits EM waves that travel through space and reach Earth — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 185 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u06-c004",
+            "name": "180 Unit 6 Electromagnetic Waves And Geo",
+            "simple_definition": "180 Unit 6 Electromagnetic Waves and Geometrical Optics 6.2 EM Spectrum Exercise 6.3 What do you know about the EM spectrum? By the end of this section, you should be able to: • describe what an EM spectrum is; • describe and explain the differences and similarities of the spec- trum’s of EM waves; • describe the uses and dangers of the spectrum’s of EM waves",
+            "deep_explanation": "As shown in Figure 6.2, an EM spectrum is the complete range of EM wave frequencies and wavelengths",
+            "real_example": "Practical example of 180 Unit 6 Electromagnetic Waves and Geo from page 186.",
+            "common_confusion": "Students sometimes confuse 180 Unit 6 Electromagnetic Waves and Geo with adjacent topics in Chapter 6.",
+            "source_pages": "186",
+            "name_amharic": "180 Unit 6 Electromagnetic Waves and Geo (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 180 Unit 6 Electromagnetic Waves and Geometrical Optics 6.2 EM Spectrum Exercise 6.3 What do you know about the EM spectrum? By the end of this section, you should be able to: • describe what an EM spectrum is; • describe and explain the differences and similarities of the spec- trum’s of EM waves; • describe the uses and dangers of the spectrum’s of EM waves (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] As shown in Figure 6.2, an EM spectrum is the complete range of EM wave frequencies and wavelengths — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 186 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u06-c005",
+            "name": "6.2 EM Spectrum 181 Radio Waves Key Conc",
+            "simple_definition": "6.2 EM Spectrum 181 Radio waves Key Concept \u001f The EM spec- trum consists of the following types of radia- tion: radio waves, microwaves, in- frared, visible, ultraviolet, X-rays, gamma-rays",
+            "deep_explanation": "Gamma-rays have the highest energy and are the most penetrating, while radio waves have the lowest energy and are the least penetrating",
+            "real_example": "Practical example of 6.2 EM Spectrum 181 Radio waves Key Conc from page 187.",
+            "common_confusion": "Students sometimes confuse 6.2 EM Spectrum 181 Radio waves Key Conc with adjacent topics in Chapter 6.",
+            "source_pages": "187",
+            "name_amharic": "6.2 EM Spectrum 181 Radio waves Key Conc (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 6.2 EM Spectrum 181 Radio waves Key Concept \u001f The EM spec- trum consists of the following types of radia- tion: radio waves, microwaves, in- frared, visible, ultraviolet, X-rays, gamma-rays (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Gamma-rays have the highest energy and are the most penetrating, while radio waves have the lowest energy and are the least penetrating — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 187 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u06-c006",
+            "name": "182 Unit 6 Electromagnetic Waves And Geo",
+            "simple_definition": "182 Unit 6 Electromagnetic Waves and Geometrical Optics Infrared waves Infrared waves are just below visible red light in the EM spectrum",
+            "deep_explanation": "You probably think of Infrared waves as heat because they are given off by hot objects and you can feel them as warmth on your skin",
+            "real_example": "Practical example of 182 Unit 6 Electromagnetic Waves and Geo from page 188.",
+            "common_confusion": "Students sometimes confuse 182 Unit 6 Electromagnetic Waves and Geo with adjacent topics in Chapter 6.",
+            "source_pages": "188",
+            "name_amharic": "182 Unit 6 Electromagnetic Waves and Geo (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 182 Unit 6 Electromagnetic Waves and Geometrical Optics Infrared waves Infrared waves are just below visible red light in the EM spectrum (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] You probably think of Infrared waves as heat because they are given off by hot objects and you can feel them as warmth on your skin — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 188 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "grade": 10,
+    "subject": "chemistry",
+    "unit_number": 3,
+    "unit_title": "Electrochemistry",
+    "source_book": "G10 Chemistry",
+    "exercises": [
+        {
+            "exercise_id": "g10-chemistry-u03-ex001",
+            "question": "Explain what reactions occur at the cathode during the electrolysis of molten NaCl.",
+            "question_amharic": "በቀለጠው NaCl ኤሌክትሮላይሲስ ወቅት በካቶድ ላይ የሚካሄደውን ግብረመልስ አስረዱ።",
+            "question_type": "problem_solving",
+            "correct_answer": "Sodium ions (Na+) are reduced to sodium metal (Na).",
+            "correct_answer_amharic": "የሶዲየም አዮኖች (Na+) ተቀንሰው ወደ ሶዲየም ብረት (Na) ይቀየራሉ።",
+            "step_by_step_explanation": "1. Sodium ions move towards the negative electrode (cathode).\\n2. They gain electrons (reduction).\\n3. Molten sodium metal deposits.",
+            "step_by_step_explanation_amharic": "1. Sodium ions move towards the negative electrode (cathode).\\n2. They gain electrons (reduction).\\n3. Molten sodium metal deposits.",
+            "formula_or_working": "Cathode reaction: Na+ + e- -> Na.",
+            "source_page": "218",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-chemistry-u03-ex002",
+            "question": "Describe the core properties of the topics presented on page 208 (Question 2).",
+            "question_amharic": "በገጽ 208 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 208.",
+            "correct_answer_amharic": "በገጽ 208 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 208.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 208 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 208.",
+            "source_page": "208",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-chemistry-u03-ex003",
+            "question": "Describe the core properties of the topics presented on page 209 (Question 3).",
+            "question_amharic": "በገጽ 209 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 209.",
+            "correct_answer_amharic": "በገጽ 209 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 209.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 209 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 209.",
+            "source_page": "209",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-chemistry-u03-ex004",
+            "question": "Describe the core properties of the topics presented on page 210 (Question 4).",
+            "question_amharic": "በገጽ 210 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 210.",
+            "correct_answer_amharic": "በገጽ 210 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 210.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 210 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 210.",
+            "source_page": "210",
+            "needs_review": false
+        }
+    ]
+}

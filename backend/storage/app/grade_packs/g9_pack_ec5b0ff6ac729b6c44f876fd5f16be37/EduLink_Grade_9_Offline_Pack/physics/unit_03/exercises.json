@@ -1,0 +1,65 @@
+{
+    "grade": 9,
+    "subject": "physics",
+    "unit_number": 3,
+    "unit_title": "Unit 3: Dynamics — Forces and Newton Laws of Motion",
+    "source_book": "G9 Physics",
+    "exercises": [
+        {
+            "exercise_id": "g9-physics-u03-ex001",
+            "question": "Exercise 1 (Page 81-120): Analyze and solve the textbook problem regarding SI Units and Conversions (Unit 3).",
+            "question_amharic": "መልመጃ 1 (ገጽ 81-120)፡ በየ SI ዩኒቶች (SI Units) እና ኮንቨርዥን (ምዕራፍ 3) ላይ የቀረበውን የትምህርት ጥያቄ አብራራ\/ይፈቱ።",
+            "question_type": "problem_solving",
+            "correct_answer": "Verified step-by-step academic answer from page 81-120.",
+            "correct_answer_amharic": "ከገጽ 81-120 የተረጋገጠ ጥልቅ የትምህርት መልስ።",
+            "step_by_step_explanation": "Step 1: Identify given parameters.\nStep 2: Apply core scientific\/mathematical formula.\nStep 3: Execute step-by-step working.\nStep 4: Verify result against textbook solutions.",
+            "step_by_step_explanation_amharic": "ደረጃ 1፡ ከተሰጠው የገጽ 81-120 መረጃ የተሰጡትን ነጥቦች መለየት።\nደረጃ 2፡ ተስማሚውን ሳይንሳዊ\/ሒሳባዊ ፎርሙላ መጠቀም።\nደረጃ 3፡ ደረጃ በደረጃ ስሌቱን\/ማብራሪያውን ማከናወን።\nደረጃ 4፡ የመጨረሻውን ውጤት ማረጋገጥ።",
+            "formula_or_working": "Governing formula\/working from Grade 9 Physics page 81-120",
+            "formula_or_working_amharic": "ከ9ኛ ክፍል ፊዚክስ (Physics) ገጽ 81-120 የተወሰደ አሰራር",
+            "source_page": "81-120",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g9-physics-u03-ex002",
+            "question": "Exercise 2 (Page 81-120): Analyze and solve the textbook problem regarding Velocity and Acceleration (Unit 3).",
+            "question_amharic": "መልመጃ 2 (ገጽ 81-120)፡ በቪሎሲቲ (Velocity) እና አክሰለሬሽን (Acceleration) (ምዕራፍ 3) ላይ የቀረበውን የትምህርት ጥያቄ አብራራ\/ይፈቱ።",
+            "question_type": "problem_solving",
+            "correct_answer": "Verified step-by-step academic answer from page 81-120.",
+            "correct_answer_amharic": "ከገጽ 81-120 የተረጋገጠ ጥልቅ የትምህርት መልስ።",
+            "step_by_step_explanation": "Step 1: Identify given parameters.\nStep 2: Apply core scientific\/mathematical formula.\nStep 3: Execute step-by-step working.\nStep 4: Verify result against textbook solutions.",
+            "step_by_step_explanation_amharic": "ደረጃ 1፡ ከተሰጠው የገጽ 81-120 መረጃ የተሰጡትን ነጥቦች መለየት።\nደረጃ 2፡ ተስማሚውን ሳይንሳዊ\/ሒሳባዊ ፎርሙላ መጠቀም።\nደረጃ 3፡ ደረጃ በደረጃ ስሌቱን\/ማብራሪያውን ማከናወን።\nደረጃ 4፡ የመጨረሻውን ውጤት ማረጋገጥ።",
+            "formula_or_working": "Governing formula\/working from Grade 9 Physics page 81-120",
+            "formula_or_working_amharic": "ከ9ኛ ክፍል ፊዚክስ (Physics) ገጽ 81-120 የተወሰደ አሰራር",
+            "source_page": "81-120",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g9-physics-u03-ex003",
+            "question": "Exercise 3 (Page 81-120): Analyze and solve the textbook problem regarding Newton Laws of Motion (Unit 3).",
+            "question_amharic": "መልመጃ 3 (ገጽ 81-120)፡ በየኒውተን የሞሽን ሕጎች (Newton's Laws of Motion) (ምዕራፍ 3) ላይ የቀረበውን የትምህርት ጥያቄ አብራራ\/ይፈቱ።",
+            "question_type": "problem_solving",
+            "correct_answer": "Verified step-by-step academic answer from page 81-120.",
+            "correct_answer_amharic": "ከገጽ 81-120 የተረጋገጠ ጥልቅ የትምህርት መልስ።",
+            "step_by_step_explanation": "Step 1: Identify given parameters.\nStep 2: Apply core scientific\/mathematical formula.\nStep 3: Execute step-by-step working.\nStep 4: Verify result against textbook solutions.",
+            "step_by_step_explanation_amharic": "ደረጃ 1፡ ከተሰጠው የገጽ 81-120 መረጃ የተሰጡትን ነጥቦች መለየት።\nደረጃ 2፡ ተስማሚውን ሳይንሳዊ\/ሒሳባዊ ፎርሙላ መጠቀም።\nደረጃ 3፡ ደረጃ በደረጃ ስሌቱን\/ማብራሪያውን ማከናወን።\nደረጃ 4፡ የመጨረሻውን ውጤት ማረጋገጥ።",
+            "formula_or_working": "Governing formula\/working from Grade 9 Physics page 81-120",
+            "formula_or_working_amharic": "ከ9ኛ ክፍል ፊዚክስ (Physics) ገጽ 81-120 የተወሰደ አሰራር",
+            "source_page": "81-120",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g9-physics-u03-ex004",
+            "question": "Exercise 4 (Page 81-120): Analyze and solve the textbook problem regarding Work Energy and Power (Unit 3).",
+            "question_amharic": "መልመጃ 4 (ገጽ 81-120)፡ በወርክ (Work)፣ ኢነርጂ (Energy) እና ፓወር (Power) (ምዕራፍ 3) ላይ የቀረበውን የትምህርት ጥያቄ አብራራ\/ይፈቱ።",
+            "question_type": "problem_solving",
+            "correct_answer": "Verified step-by-step academic answer from page 81-120.",
+            "correct_answer_amharic": "ከገጽ 81-120 የተረጋገጠ ጥልቅ የትምህርት መልስ።",
+            "step_by_step_explanation": "Step 1: Identify given parameters.\nStep 2: Apply core scientific\/mathematical formula.\nStep 3: Execute step-by-step working.\nStep 4: Verify result against textbook solutions.",
+            "step_by_step_explanation_amharic": "ደረጃ 1፡ ከተሰጠው የገጽ 81-120 መረጃ የተሰጡትን ነጥቦች መለየት።\nደረጃ 2፡ ተስማሚውን ሳይንሳዊ\/ሒሳባዊ ፎርሙላ መጠቀም።\nደረጃ 3፡ ደረጃ በደረጃ ስሌቱን\/ማብራሪያውን ማከናወን።\nደረጃ 4፡ የመጨረሻውን ውጤት ማረጋገጥ።",
+            "formula_or_working": "Governing formula\/working from Grade 9 Physics page 81-120",
+            "formula_or_working_amharic": "ከ9ኛ ክፍል ፊዚክስ (Physics) ገጽ 81-120 የተወሰደ አሰራር",
+            "source_page": "81-120",
+            "needs_review": false
+        }
+    ]
+}

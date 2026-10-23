@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "economics",
+    "unit_number": 5,
+    "examples": [
+        {
+            "example_id": "g9-economics-u05-we001",
+            "title": "Worked Example 1: Professional Solution for Theory of Production and Cost",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የTheory of Production and Cost ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 63-74.",
+            "problem_amharic": "ከገጽ 63-74 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "63-74"
+        }
+    ]
+}

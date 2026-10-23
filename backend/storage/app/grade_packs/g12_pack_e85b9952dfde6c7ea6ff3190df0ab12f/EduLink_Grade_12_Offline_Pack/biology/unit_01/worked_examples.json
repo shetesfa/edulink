@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "biology",
+    "unit_number": 1,
+    "worked_examples": [
+        {
+            "id": "g12-biology-u01-we001",
+            "title": "Worked Example 1: Microorganisms and Human Health",
+            "problem_statement": "Analyze the application of the topic explained on page 1.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 1.",
+            "source_page": "1"
+        },
+        {
+            "id": "g12-biology-u01-we002",
+            "title": "Worked Example 2: Microorganisms and Human Health",
+            "problem_statement": "Analyze the application of the topic explained on page 3.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 3.",
+            "source_page": "3"
+        }
+    ]
+}

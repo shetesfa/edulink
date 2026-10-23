@@ -1,0 +1,58 @@
+{
+    "pack_name": "EduLink Grade 12 Offline Study Pack",
+    "grade": 12,
+    "version": "1.0.0-professional",
+    "language": "Bilingual (Professional English & Standard Academic Amharic)",
+    "subjects": [
+        {
+            "key": "agriculture",
+            "source_book": "G12 Agriculture",
+            "status": "5_units_complete"
+        },
+        {
+            "key": "biology",
+            "source_book": "G12 Biology",
+            "status": "3_units_complete"
+        },
+        {
+            "key": "chemistry",
+            "source_book": "G12 Chemistry",
+            "status": "5_units_complete"
+        },
+        {
+            "key": "economics",
+            "source_book": "G12 Economics",
+            "status": "8_units_complete"
+        },
+        {
+            "key": "english",
+            "source_book": "G12 English",
+            "status": "10_units_complete"
+        },
+        {
+            "key": "geography",
+            "source_book": "G12 Geography",
+            "status": "6_units_complete"
+        },
+        {
+            "key": "history",
+            "source_book": "G12 History",
+            "status": "7_units_complete"
+        },
+        {
+            "key": "information_technology",
+            "source_book": "G12 Information Technology",
+            "status": "4_units_complete"
+        },
+        {
+            "key": "mathematics",
+            "source_book": "G12 Mathematics",
+            "status": "7_units_complete"
+        },
+        {
+            "key": "physics",
+            "source_book": "G12 Physics",
+            "status": "5_units_complete"
+        }
+    ]
+}

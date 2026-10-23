@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "economics",
+    "unit_number": 5,
+    "unit_title": "Theory of Production and Cost",
+    "source_book": "G10 Economics",
+    "concepts": [
+        {
+            "id": "g10-economics-u05-c001",
+            "name": "Banking And Finance 89 Introduction One ",
+            "simple_definition": "Unit 5: Banking and Finance 89 Introduction One of the basic factors of production in economics is capital",
+            "deep_explanation": "Capital is the amount of money the producer pays for the other factors of production (labor, land and entrepreneur) used in the production process",
+            "real_example": "Practical example of Banking and Finance 89 Introduction One  from page 97.",
+            "common_confusion": "Students sometimes confuse Banking and Finance 89 Introduction One  with adjacent topics in Chapter 5.",
+            "source_pages": "97",
+            "name_amharic": "Banking and Finance 89 Introduction One  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 5: Banking and Finance 89 Introduction One of the basic factors of production in economics is capital (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Capital is the amount of money the producer pays for the other factors of production (labor, land and entrepreneur) used in the production process — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 97 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-economics-u05-c002",
+            "name": "Banking And Finance 90 5.1 Introduction ",
+            "simple_definition": "Unit 5: Banking and Finance 90 5.1 Introduction to Financial Intermediaries By the end of this section, students will be able to: 6 Define financial intermediation, 6 Mention financial intermediaries",
+            "deep_explanation": "6 List the benefits of financial intermediaries",
+            "real_example": "Practical example of Banking and Finance 90 5.1 Introduction  from page 98.",
+            "common_confusion": "Students sometimes confuse Banking and Finance 90 5.1 Introduction  with adjacent topics in Chapter 5.",
+            "source_pages": "98",
+            "name_amharic": "Banking and Finance 90 5.1 Introduction  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 5: Banking and Finance 90 5.1 Introduction to Financial Intermediaries By the end of this section, students will be able to: 6 Define financial intermediation, 6 Mention financial intermediaries (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 6 List the benefits of financial intermediaries — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 98 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-economics-u05-c003",
+            "name": "Banking And Finance 91 Economy Or Countr",
+            "simple_definition": "Unit 5: Banking and Finance 91 economy or country cannot function well without money (finance), just as the body cannot function without blood circulating in it",
+            "deep_explanation": "We use it to buy our day-to-day needs (demand = willingness + Ability; where ability is the money or finance, we have)",
+            "real_example": "Practical example of Banking and Finance 91 economy or countr from page 99.",
+            "common_confusion": "Students sometimes confuse Banking and Finance 91 economy or countr with adjacent topics in Chapter 5.",
+            "source_pages": "99",
+            "name_amharic": "Banking and Finance 91 economy or countr (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 5: Banking and Finance 91 economy or country cannot function well without money (finance), just as the body cannot function without blood circulating in it (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] We use it to buy our day-to-day needs (demand = willingness + Ability; where ability is the money or finance, we have) — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 99 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-economics-u05-c004",
+            "name": "Banking And Finance 92 5.2 Introduction ",
+            "simple_definition": "Unit 5: Banking and Finance 92 5.2 Introduction to Financial Markets By the end of this section, students will be able to; 6 Describe financial markets, 6 Identify components of financial markets",
+            "deep_explanation": "Key Concepts Financial Markets; Money Markets; Capital Markets; Investment Start Up Activity What comes to your mind when you think of financial markets? Financial markets are markets that provide channels for allocation of savings to investment",
+            "real_example": "Practical example of Banking and Finance 92 5.2 Introduction  from page 100.",
+            "common_confusion": "Students sometimes confuse Banking and Finance 92 5.2 Introduction  with adjacent topics in Chapter 5.",
+            "source_pages": "100",
+            "name_amharic": "Banking and Finance 92 5.2 Introduction  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 5: Banking and Finance 92 5.2 Introduction to Financial Markets By the end of this section, students will be able to; 6 Describe financial markets, 6 Identify components of financial markets (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Key Concepts Financial Markets; Money Markets; Capital Markets; Investment Start Up Activity What comes to your mind when you think of financial markets? Financial markets are markets that provide channels for allocation of savings to investment — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 100 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-economics-u05-c005",
+            "name": "Banking And Finance 93 Maturity That Ran",
+            "simple_definition": "Unit 5: Banking and Finance 93 maturity that ranges from one (1) day to two hundred seventy (270) days",
+            "deep_explanation": "Commercial paper may be either interest bearing or sold on a discounted basis",
+            "real_example": "Practical example of Banking and Finance 93 maturity that ran from page 101.",
+            "common_confusion": "Students sometimes confuse Banking and Finance 93 maturity that ran with adjacent topics in Chapter 5.",
+            "source_pages": "101",
+            "name_amharic": "Banking and Finance 93 maturity that ran (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 5: Banking and Finance 93 maturity that ranges from one (1) day to two hundred seventy (270) days (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Commercial paper may be either interest bearing or sold on a discounted basis — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 101 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-economics-u05-c006",
+            "name": "Banking And Finance 94 5.3 Introduction ",
+            "simple_definition": "Unit 5: Banking and Finance 94 5.3 Introduction to Financial Institutions By the end of this section, students will be able to; 6 Describe the financial institutions 6 Explain the banking system 6 Elaborate the treasury bills 6 Analyze the roles of banks and treasury bills Key Concepts Institutions; Financial institutions; Indigenous financial institutions; Microfinance institutions; Formal institutions; Informal institutions Start Up Activity What comes to your mind when you think of financial institutions? What are institutions? Institution are norms that organize social, political and economic relations",
+            "deep_explanation": "They are ‘the underlying rules of the game’ in any society or organization",
+            "real_example": "Practical example of Banking and Finance 94 5.3 Introduction  from page 102.",
+            "common_confusion": "Students sometimes confuse Banking and Finance 94 5.3 Introduction  with adjacent topics in Chapter 5.",
+            "source_pages": "102",
+            "name_amharic": "Banking and Finance 94 5.3 Introduction  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 5: Banking and Finance 94 5.3 Introduction to Financial Institutions By the end of this section, students will be able to; 6 Describe the financial institutions 6 Explain the banking system 6 Elaborate the treasury bills 6 Analyze the roles of banks and treasury bills Key Concepts Institutions; Financial institutions; Indigenous financial institutions; Microfinance institutions; Formal institutions; Informal institutions Start Up Activity What comes to your mind when you think of financial institutions? What are institutions? Institution are norms that organize social, political and economic relations (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] They are ‘the underlying rules of the game’ in any society or organization — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 102 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

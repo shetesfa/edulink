@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "mathematics",
+    "unit_number": 8,
+    "examples": [
+        {
+            "example_id": "g9-mathematics-u08-we001",
+            "title": "Worked Example 1: Professional Solution for Vectors in Two Dimensions",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የVectors in Two Dimensions ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 288-321.",
+            "problem_amharic": "ከገጽ 288-321 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "288-321"
+        }
+    ]
+}

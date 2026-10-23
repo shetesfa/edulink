@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "history",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g11-history-u05-we001",
+            "title": "Worked Example 1: The Modern World and Colonization",
+            "problem_statement": "Analyze the application of the topic explained on page 191.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 191.",
+            "source_page": "191"
+        },
+        {
+            "id": "g11-history-u05-we002",
+            "title": "Worked Example 2: The Modern World and Colonization",
+            "problem_statement": "Analyze the application of the topic explained on page 192.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 192.",
+            "source_page": "192"
+        }
+    ]
+}

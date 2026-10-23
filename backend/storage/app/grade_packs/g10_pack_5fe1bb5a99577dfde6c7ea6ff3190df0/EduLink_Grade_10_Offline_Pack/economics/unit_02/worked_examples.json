@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "economics",
+    "unit_number": 2,
+    "worked_examples": [
+        {
+            "id": "g10-economics-u02-we001",
+            "title": "Worked Example 1: Basic Economic Problems & Economic Systems",
+            "problem_statement": "Analyze the application of the topic explained on page 25.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 25.",
+            "source_page": "25"
+        },
+        {
+            "id": "g10-economics-u02-we002",
+            "title": "Worked Example 2: Basic Economic Problems & Economic Systems",
+            "problem_statement": "Analyze the application of the topic explained on page 26.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 26.",
+            "source_page": "26"
+        }
+    ]
+}

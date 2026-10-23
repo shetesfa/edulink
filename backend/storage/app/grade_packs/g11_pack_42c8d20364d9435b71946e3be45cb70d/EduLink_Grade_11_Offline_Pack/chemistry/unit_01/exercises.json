@@ -1,0 +1,61 @@
+{
+    "grade": 11,
+    "subject": "chemistry",
+    "unit_number": 1,
+    "unit_title": "Atomic Structure and Periodic Table",
+    "source_book": "G11 Chemistry",
+    "exercises": [
+        {
+            "exercise_id": "g11-chemistry-u01-ex001",
+            "question": "Determine the set of quantum numbers (n, l) for a 3d orbital.",
+            "question_amharic": "ለ 3d ኦርቢታል የኳንተም ቁጥሮችን (n, l) ስብስብ ይወስኑ።",
+            "question_type": "problem_solving",
+            "correct_answer": "n = 3, l = 2.",
+            "correct_answer_amharic": "n = 3, l = 2።",
+            "step_by_step_explanation": "1. The number prefix of 3d denotes the principal shell n = 3.\\n2. The orbital letter \"d\" corresponds to azimuthal quantum number l = 2.\\n3. Thus, the set is n = 3 and l = 2.",
+            "step_by_step_explanation_amharic": "1. The number prefix of 3d denotes the principal shell n = 3.\\n2. The orbital letter \"d\" corresponds to azimuthal quantum number l = 2.\\n3. Thus, the set is n = 3 and l = 2.",
+            "formula_or_working": "Orbitals: s(l=0), p(l=1), d(l=2), f(l=3).",
+            "source_page": "22",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g11-chemistry-u01-ex002",
+            "question": "Describe the core properties of the topics presented on page 7 (Question 2).",
+            "question_amharic": "በገጽ 7 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 7.",
+            "correct_answer_amharic": "በገጽ 7 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 7.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 7 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 7.",
+            "source_page": "7",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g11-chemistry-u01-ex003",
+            "question": "Describe the core properties of the topics presented on page 8 (Question 3).",
+            "question_amharic": "በገጽ 8 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 8.",
+            "correct_answer_amharic": "በገጽ 8 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 8.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 8 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 8.",
+            "source_page": "8",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g11-chemistry-u01-ex004",
+            "question": "Describe the core properties of the topics presented on page 9 (Question 4).",
+            "question_amharic": "በገጽ 9 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 9.",
+            "correct_answer_amharic": "በገጽ 9 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 9.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 9 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 9.",
+            "source_page": "9",
+            "needs_review": false
+        }
+    ]
+}

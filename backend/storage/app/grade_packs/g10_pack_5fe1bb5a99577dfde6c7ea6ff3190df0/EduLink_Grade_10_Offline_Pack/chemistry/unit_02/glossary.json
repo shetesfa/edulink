@@ -1,0 +1,37 @@
+{
+    "grade": 10,
+    "subject": "chemistry",
+    "unit_number": 2,
+    "glossary": [
+        {
+            "term": "Oxides",
+            "definition": "Oxides are binary compounds formed by the reaction of oxygen with another element.",
+            "source_page": "247-252"
+        },
+        {
+            "term": "Alkanes Structures I And II In Activity ",
+            "definition": "Alkanes Structures I and II in Activity 6.3 represent methane and ethane, respectively, the typical alkanes",
+            "source_page": "248"
+        },
+        {
+            "term": "243 Hydrocarbons And Their Natural Sourc",
+            "definition": "243 Hydrocarbons and their Natural Sources 6.2.1 Alkane Homologous Series If you examine the alkanes in Table 6.2, you can notice that each alkane differs from the preceding alkane by one −CH2− group",
+            "source_page": "249"
+        },
+        {
+            "term": "You Also Learnt That Polarity Is The Res",
+            "definition": "You also learnt that polarity is the result of difference in electronegativity of bonded atoms",
+            "source_page": "250"
+        },
+        {
+            "term": "245 Hydrocarbons And Their Natural Sourc",
+            "definition": "245 Hydrocarbons and their Natural Sources Explain each of the following facts about alkanes",
+            "source_page": "251"
+        },
+        {
+            "term": "Example 6.1 CH3CH2CH2CH2CH3 CH3CH2CH2CH2",
+            "definition": "Example 6.1 CH3CH2CH2CH2CH3 CH3CH2CH2CH2CH2CH3 n-pentane n-hexane Iso- is used when all of the carbon atoms form a continuous chain, except for the one next to the last carbon",
+            "source_page": "252"
+        }
+    ]
+}

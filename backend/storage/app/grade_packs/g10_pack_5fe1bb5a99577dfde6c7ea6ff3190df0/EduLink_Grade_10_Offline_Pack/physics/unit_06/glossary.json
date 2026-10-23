@@ -1,0 +1,37 @@
+{
+    "grade": 10,
+    "subject": "physics",
+    "unit_number": 6,
+    "glossary": [
+        {
+            "term": "Specific Heat Capacity",
+            "definition": "Specific heat capacity is the amount of heat energy required to raise the temperature of 1 kg of a substance by 1°C.",
+            "source_page": "183-188"
+        },
+        {
+            "term": "178 Unit 6 Electromagnetic Waves And Geo",
+            "definition": "178 Unit 6 Electromagnetic Waves and Geometrical Optics 6.1 Electromagnetic (EM) waves By the end of this section, you should be able to: • describe the propagation of EM waves; • state sources of EM waves",
+            "source_page": "184"
+        },
+        {
+            "term": "6.1 Electromagnetic (EM) Waves 179 Figur",
+            "definition": "6.1 Electromagnetic (EM) waves 179 Figure 6.1 Electric ﬁeld and magnetic ﬁeld in an EM wave",
+            "source_page": "185"
+        },
+        {
+            "term": "180 Unit 6 Electromagnetic Waves And Geo",
+            "definition": "180 Unit 6 Electromagnetic Waves and Geometrical Optics 6.2 EM Spectrum Exercise 6.3 What do you know about the EM spectrum? By the end of this section, you should be able to: • describe what an EM spectrum is; • describe and explain the differences and similarities of the spec- trum’s of EM waves; • describe the uses and dangers of the spectrum’s of EM waves",
+            "source_page": "186"
+        },
+        {
+            "term": "6.2 EM Spectrum 181 Radio Waves Key Conc",
+            "definition": "6.2 EM Spectrum 181 Radio waves Key Concept \u001f The EM spec- trum consists of the following types of radia- tion: radio waves, microwaves, in- frared, visible, ultraviolet, X-rays, gamma-rays",
+            "source_page": "187"
+        },
+        {
+            "term": "182 Unit 6 Electromagnetic Waves And Geo",
+            "definition": "182 Unit 6 Electromagnetic Waves and Geometrical Optics Infrared waves Infrared waves are just below visible red light in the EM spectrum",
+            "source_page": "188"
+        }
+    ]
+}

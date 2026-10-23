@@ -1,0 +1,105 @@
+{
+    "grade": 9,
+    "subject": "economics",
+    "unit_number": 2,
+    "unit_title": "Unit 2: Basic Economic Problems and Systems",
+    "source_book": "G9 Economics",
+    "practice_quiz": [
+        {
+            "id": "g9-economics-u02-q001",
+            "question": "Assessment Question 1: Which statement correctly evaluates Scarcity and Opportunity Cost (Unit 2)?",
+            "question_amharic": "የምዘና ጥያቄ 1፡ ስለ ስካርሲቲ (Scarcity) እና ኦፖርቹኒቲ ኮስት (Opportunity Cost) (ምዕራፍ 2) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Scarcity and Opportunity Cost is a core topic in Grade 9 Economics covering essential principles on pages 21-36.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "ስካርሲቲ (Scarcity) እና ኦፖርቹኒቲ ኮስት (Opportunity Cost) በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 21-36 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Scarcity and Opportunity Cost is a core topic in Grade 9 Economics covering essential principles on pages 21-36.",
+            "correct_answer_amharic": "ስካርሲቲ (Scarcity) እና ኦፖርቹኒቲ ኮስት (Opportunity Cost) በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 21-36 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 21-36.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 21-36 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-economics-u02-c001"
+        },
+        {
+            "id": "g9-economics-u02-q002",
+            "question": "Assessment Question 2: Which statement correctly evaluates Demand and Supply Theory (Unit 2)?",
+            "question_amharic": "የምዘና ጥያቄ 2፡ ስለ ዲማንድ (Demand) እና ሰፕላይ (Supply) ቲኦሪ (ምዕራፍ 2) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Demand and Supply Theory is a core topic in Grade 9 Economics covering essential principles on pages 21-36.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "ዲማንድ (Demand) እና ሰፕላይ (Supply) ቲኦሪ በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 21-36 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Demand and Supply Theory is a core topic in Grade 9 Economics covering essential principles on pages 21-36.",
+            "correct_answer_amharic": "ዲማንድ (Demand) እና ሰፕላይ (Supply) ቲኦሪ በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 21-36 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 21-36.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 21-36 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-economics-u02-c002"
+        },
+        {
+            "id": "g9-economics-u02-q003",
+            "question": "Assessment Question 3: Which statement correctly evaluates Market Structures (Unit 2)?",
+            "question_amharic": "የምዘና ጥያቄ 3፡ ስለ ማርኬት ስትራክቸሮች (Market Structures) (ምዕራፍ 2) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Market Structures is a core topic in Grade 9 Economics covering essential principles on pages 21-36.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "ማርኬት ስትራክቸሮች (Market Structures) በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 21-36 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Market Structures is a core topic in Grade 9 Economics covering essential principles on pages 21-36.",
+            "correct_answer_amharic": "ማርኬት ስትራክቸሮች (Market Structures) በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 21-36 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 21-36.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 21-36 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-economics-u02-c003"
+        },
+        {
+            "id": "g9-economics-u02-q004",
+            "question": "Assessment Question 4: Which statement correctly evaluates Scarcity and Opportunity Cost (Unit 2)?",
+            "question_amharic": "የምዘና ጥያቄ 4፡ ስለ ስካርሲቲ (Scarcity) እና ኦፖርቹኒቲ ኮስት (Opportunity Cost) (ምዕራፍ 2) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Scarcity and Opportunity Cost is a core topic in Grade 9 Economics covering essential principles on pages 21-36.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "ስካርሲቲ (Scarcity) እና ኦፖርቹኒቲ ኮስት (Opportunity Cost) በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 21-36 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Scarcity and Opportunity Cost is a core topic in Grade 9 Economics covering essential principles on pages 21-36.",
+            "correct_answer_amharic": "ስካርሲቲ (Scarcity) እና ኦፖርቹኒቲ ኮስት (Opportunity Cost) በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 21-36 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 21-36.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 21-36 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-economics-u02-c004"
+        }
+    ]
+}

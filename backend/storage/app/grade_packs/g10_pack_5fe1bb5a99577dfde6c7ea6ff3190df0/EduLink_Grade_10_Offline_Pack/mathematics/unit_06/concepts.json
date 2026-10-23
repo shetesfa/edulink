@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 6,
+    "unit_title": "Solid Figures",
+    "source_book": "G10 Mathematics",
+    "concepts": [
+        {
+            "id": "g10-mathematics-u06-c001",
+            "name": "Cylinder And Cone Volume",
+            "simple_definition": "The volume of a cylinder is πr²h, and a cone of same base and height is 1\/3 of that volume.",
+            "deep_explanation": "This relationship shows that three cones of the same base area and height can fully fill one cylinder of matching dimensions.",
+            "real_example": "A cylinder cup of radius 3 and height 10 has volume 90π. A matching cone has volume 30π.",
+            "common_confusion": "Forgetting the 1\/3 factor in the volume of a cone.",
+            "source_pages": "296-302",
+            "name_amharic": "የሲሊንደር እና የኮን ይዘት (Volume)",
+            "simple_definition_amharic": "የሲሊንደር ይዘት (Volume) πr²h ሲሆን፣ ተመሳሳይ መሠረትና ቁመት ያለው ኮን ደግሞ የሲሊንደሩን አንድ ሦስተኛ (1\/3) ይይዛል።",
+            "deep_explanation_amharic": "ይህ የሚያሳየው ተመሳሳይ የመሠረት ስፋትና ቁመት ያላቸው ሦስት ኮኖች አንድን ሲሊንደር ሙሉ በሙሉ መሙላት እንደሚችሉ ነው።",
+            "real_example_amharic": "ራዲየሱ 3 እና ቁመቱ 10 የሆነ የሲሊንደር ኩባያ ይዘት 90π ሲሆን፣ ተመሳሳይ ኮን ደግሞ 30π ይዘት አለው።",
+            "common_confusion_amharic": "የኮን ይዘትን ሲያሰሉ 1\/3 የሚለውን ማባዣ መርሳት።"
+        },
+        {
+            "id": "g10-mathematics-u06-c002",
+            "name": "Solid Figures 288 ✓ Lateral Surface ✓ Sl",
+            "simple_definition": "Unit 6: Solid Figures 288 ✓ Lateral surface ✓ Slant height ✓ Prism ✓ Sphere ✓ Pyramid ✓ Total surface Area ✓ Frustum ✓ Regular pyramid ✓ Volume ✓ Cone ✓ Cross-section ✓ Cylinder INTRODUCTION Recall that solid figures are three-dimensional objects, meaning they have length, width and height",
+            "deep_explanation": "Because they have three dimensions, they have depth and take up space in our universe",
+            "real_example": "Practical example of Solid Figures 288 ✓ Lateral surface ✓ Sl from page 297.",
+            "common_confusion": "Students sometimes confuse Solid Figures 288 ✓ Lateral surface ✓ Sl with adjacent topics in Chapter 6.",
+            "source_pages": "297",
+            "name_amharic": "Solid Figures 288 ✓ Lateral surface ✓ Sl (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 6: Solid Figures 288 ✓ Lateral surface ✓ Slant height ✓ Prism ✓ Sphere ✓ Pyramid ✓ Total surface Area ✓ Frustum ✓ Regular pyramid ✓ Volume ✓ Cone ✓ Cross-section ✓ Cylinder INTRODUCTION Recall that solid figures are three-dimensional objects, meaning they have length, width and height (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Because they have three dimensions, they have depth and take up space in our universe — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 297 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u06-c003",
+            "name": "Solid Figures 289 Find The Total Surface",
+            "simple_definition": "Unit 6: Solid Figures 289 Find the total surface area and the volume of the right triangular prism shown in figure 6.2",
+            "deep_explanation": "Solution: LSA = 𝑝ℎ= (4 + 3 + 5) × 6 = 72 cm2",
+            "real_example": "Practical example of Solid Figures 289 Find the total surface from page 298.",
+            "common_confusion": "Students sometimes confuse Solid Figures 289 Find the total surface with adjacent topics in Chapter 6.",
+            "source_pages": "298",
+            "name_amharic": "Solid Figures 289 Find the total surface (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 6: Solid Figures 289 Find the total surface area and the volume of the right triangular prism shown in figure 6.2 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Solution: LSA = 𝑝ℎ= (4 + 3 + 5) × 6 = 72 cm2 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 298 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u06-c004",
+            "name": "Solid Figures 290 Therefore, BA = 1 2 𝑎𝑏",
+            "simple_definition": "Unit 6: Solid Figures 290 Therefore, BA = 1 2 𝑎𝑏= 1 2 × 3 × 4 = 6 cm2, TSA = LSA + 2BA = 84 cm2",
+            "deep_explanation": "Volume V = BA ∙ℎ= 6 × 6 = 36 cm3",
+            "real_example": "Practical example of Solid Figures 290 Therefore, BA = 1 2 𝑎𝑏 from page 299.",
+            "common_confusion": "Students sometimes confuse Solid Figures 290 Therefore, BA = 1 2 𝑎𝑏 with adjacent topics in Chapter 6.",
+            "source_pages": "299",
+            "name_amharic": "Solid Figures 290 Therefore, BA = 1 2 𝑎𝑏 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 6: Solid Figures 290 Therefore, BA = 1 2 𝑎𝑏= 1 2 × 3 × 4 = 6 cm2, TSA = LSA + 2BA = 84 cm2 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Volume V = BA ∙ℎ= 6 × 6 = 36 cm3 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 299 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u06-c005",
+            "name": "Solid Figures 291 Since BD തതതതis The Hy",
+            "simple_definition": "Unit 6: Solid Figures 291 Since BD തതതതis the hypotenuse of the right- angle triangle ∆BCD, the length of BD തതതത= √62+82 = 10, LSA = 𝑝ℎ= (7 + 14 + 1 + 10 + 6) × 6 = 228, TSA = LSA + 2BA = 376",
+            "deep_explanation": "V = BA ∙ℎ= 74 × 6 = 444",
+            "real_example": "Practical example of Solid Figures 291 Since BD തതതതis the hy from page 300.",
+            "common_confusion": "Students sometimes confuse Solid Figures 291 Since BD തതതതis the hy with adjacent topics in Chapter 6.",
+            "source_pages": "300",
+            "name_amharic": "Solid Figures 291 Since BD തതതതis the hy (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 6: Solid Figures 291 Since BD തതതതis the hypotenuse of the right- angle triangle ∆BCD, the length of BD തതതത= √62+82 = 10, LSA = 𝑝ℎ= (7 + 14 + 1 + 10 + 6) × 6 = 228, TSA = LSA + 2BA = 376 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] V = BA ∙ℎ= 74 × 6 = 444 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 300 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u06-c006",
+            "name": "Solid Figures 292 4",
+            "simple_definition": "Unit 6: Solid Figures 292 4",
+            "deep_explanation": "Find the total surface area and volume of a cube of edge 𝑠in length",
+            "real_example": "Practical example of Solid Figures 292 4 from page 301.",
+            "common_confusion": "Students sometimes confuse Solid Figures 292 4 with adjacent topics in Chapter 6.",
+            "source_pages": "301",
+            "name_amharic": "Solid Figures 292 4 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 6: Solid Figures 292 4 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Find the total surface area and volume of a cube of edge 𝑠in length — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 301 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

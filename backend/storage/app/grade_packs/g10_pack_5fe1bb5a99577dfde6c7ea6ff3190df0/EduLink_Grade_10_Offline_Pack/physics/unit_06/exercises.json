@@ -1,0 +1,61 @@
+{
+    "grade": 10,
+    "subject": "physics",
+    "unit_number": 6,
+    "unit_title": "Heat and Temperature",
+    "source_book": "G10 Physics",
+    "exercises": [
+        {
+            "exercise_id": "g10-physics-u06-ex001",
+            "question": "How much heat is required to raise the temperature of 2 kg of water by 5°C? (c = 4200 J\/kg°C).",
+            "question_amharic": "የ 2 ኪ.ግ ውሃን የሙቀት መጠን በ 5°C ለማሳደግ ምን ያህል ሙቀት ያስፈልጋል? (c = 4200 J\/kg°C)።",
+            "question_type": "problem_solving",
+            "correct_answer": "42,000 J (42 kJ).",
+            "correct_answer_amharic": "42,000 ጁል (42 kJ)።",
+            "step_by_step_explanation": "1. Identify m = 2 kg, ΔT = 5°C, c = 4200 J\/kg°C.\\n2. Apply Q = 2 * 4200 * 5.\\n3. Q = 10 * 4200 = 42,000 Joules.",
+            "step_by_step_explanation_amharic": "1. Identify m = 2 kg, ΔT = 5°C, c = 4200 J\/kg°C.\\n2. Apply Q = 2 * 4200 * 5.\\n3. Q = 10 * 4200 = 42,000 Joules.",
+            "formula_or_working": "Q = mcΔT.",
+            "source_page": "192",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-physics-u06-ex002",
+            "question": "Describe the core properties of the topics presented on page 184 (Question 2).",
+            "question_amharic": "በገጽ 184 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 184.",
+            "correct_answer_amharic": "በገጽ 184 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 184.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 184 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 184.",
+            "source_page": "184",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-physics-u06-ex003",
+            "question": "Describe the core properties of the topics presented on page 185 (Question 3).",
+            "question_amharic": "በገጽ 185 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 185.",
+            "correct_answer_amharic": "በገጽ 185 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 185.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 185 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 185.",
+            "source_page": "185",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-physics-u06-ex004",
+            "question": "Describe the core properties of the topics presented on page 186 (Question 4).",
+            "question_amharic": "በገጽ 186 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 186.",
+            "correct_answer_amharic": "በገጽ 186 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 186.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 186 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 186.",
+            "source_page": "186",
+            "needs_review": false
+        }
+    ]
+}

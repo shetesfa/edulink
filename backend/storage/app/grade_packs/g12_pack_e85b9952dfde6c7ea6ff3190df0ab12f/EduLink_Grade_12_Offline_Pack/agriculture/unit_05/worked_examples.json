@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "agriculture",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g12-agriculture-u05-we001",
+            "title": "Worked Example 1: Post-Harvest Management and Processing",
+            "problem_statement": "Analyze the application of the topic explained on page 231.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 231.",
+            "source_page": "231"
+        },
+        {
+            "id": "g12-agriculture-u05-we002",
+            "title": "Worked Example 2: Post-Harvest Management and Processing",
+            "problem_statement": "Analyze the application of the topic explained on page 232.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 232.",
+            "source_page": "232"
+        }
+    ]
+}

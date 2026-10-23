@@ -1,0 +1,105 @@
+{
+    "grade": 9,
+    "subject": "civics",
+    "unit_number": 1,
+    "unit_title": "Unit 1: Democratic System and Constitutionalism",
+    "source_book": "G9 Civics",
+    "practice_quiz": [
+        {
+            "id": "g9-civics-u01-q001",
+            "question": "Assessment Question 1: Which statement correctly evaluates Democracy and Rule of Law (Unit 1)?",
+            "question_amharic": "የምዘና ጥያቄ 1፡ ስለ ዲሞክራሲ (Democracy) እና የሕግ የበላይነት (Rule of Law) (ምዕራፍ 1) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Democracy and Rule of Law is a core topic in Grade 9 Civics covering essential principles on pages 6-41.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "ዲሞክራሲ (Democracy) እና የሕግ የበላይነት (Rule of Law) በ9ኛ ክፍል ሥነ-ዜጋ (Civics) መጽሐፍ ገጽ 6-41 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Democracy and Rule of Law is a core topic in Grade 9 Civics covering essential principles on pages 6-41.",
+            "correct_answer_amharic": "ዲሞክራሲ (Democracy) እና የሕግ የበላይነት (Rule of Law) በ9ኛ ክፍል ሥነ-ዜጋ (Civics) መጽሐፍ ገጽ 6-41 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 6-41.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ሥነ-ዜጋ (Civics) መጽሐፍ ገጽ 6-41 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-civics-u01-c001"
+        },
+        {
+            "id": "g9-civics-u01-q002",
+            "question": "Assessment Question 2: Which statement correctly evaluates FDRE Constitution Rights (Unit 1)?",
+            "question_amharic": "የምዘና ጥያቄ 2፡ ስለ የኢፌዴሪ ሕገ-መንግሥት (FDRE Constitution) እና መብቶች (ምዕራፍ 1) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "FDRE Constitution Rights is a core topic in Grade 9 Civics covering essential principles on pages 6-41.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "የኢፌዴሪ ሕገ-መንግሥት (FDRE Constitution) እና መብቶች በ9ኛ ክፍል ሥነ-ዜጋ (Civics) መጽሐፍ ገጽ 6-41 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "FDRE Constitution Rights is a core topic in Grade 9 Civics covering essential principles on pages 6-41.",
+            "correct_answer_amharic": "የኢፌዴሪ ሕገ-መንግሥት (FDRE Constitution) እና መብቶች በ9ኛ ክፍል ሥነ-ዜጋ (Civics) መጽሐፍ ገጽ 6-41 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 6-41.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ሥነ-ዜጋ (Civics) መጽሐፍ ገጽ 6-41 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-civics-u01-c002"
+        },
+        {
+            "id": "g9-civics-u01-q003",
+            "question": "Assessment Question 3: Which statement correctly evaluates Democracy and Rule of Law (Unit 1)?",
+            "question_amharic": "የምዘና ጥያቄ 3፡ ስለ ዲሞክራሲ (Democracy) እና የሕግ የበላይነት (Rule of Law) (ምዕራፍ 1) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Democracy and Rule of Law is a core topic in Grade 9 Civics covering essential principles on pages 6-41.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "ዲሞክራሲ (Democracy) እና የሕግ የበላይነት (Rule of Law) በ9ኛ ክፍል ሥነ-ዜጋ (Civics) መጽሐፍ ገጽ 6-41 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Democracy and Rule of Law is a core topic in Grade 9 Civics covering essential principles on pages 6-41.",
+            "correct_answer_amharic": "ዲሞክራሲ (Democracy) እና የሕግ የበላይነት (Rule of Law) በ9ኛ ክፍል ሥነ-ዜጋ (Civics) መጽሐፍ ገጽ 6-41 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 6-41.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ሥነ-ዜጋ (Civics) መጽሐፍ ገጽ 6-41 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-civics-u01-c003"
+        },
+        {
+            "id": "g9-civics-u01-q004",
+            "question": "Assessment Question 4: Which statement correctly evaluates FDRE Constitution Rights (Unit 1)?",
+            "question_amharic": "የምዘና ጥያቄ 4፡ ስለ የኢፌዴሪ ሕገ-መንግሥት (FDRE Constitution) እና መብቶች (ምዕራፍ 1) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "FDRE Constitution Rights is a core topic in Grade 9 Civics covering essential principles on pages 6-41.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "የኢፌዴሪ ሕገ-መንግሥት (FDRE Constitution) እና መብቶች በ9ኛ ክፍል ሥነ-ዜጋ (Civics) መጽሐፍ ገጽ 6-41 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "FDRE Constitution Rights is a core topic in Grade 9 Civics covering essential principles on pages 6-41.",
+            "correct_answer_amharic": "የኢፌዴሪ ሕገ-መንግሥት (FDRE Constitution) እና መብቶች በ9ኛ ክፍል ሥነ-ዜጋ (Civics) መጽሐፍ ገጽ 6-41 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 6-41.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ሥነ-ዜጋ (Civics) መጽሐፍ ገጽ 6-41 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-civics-u01-c004"
+        }
+    ]
+}

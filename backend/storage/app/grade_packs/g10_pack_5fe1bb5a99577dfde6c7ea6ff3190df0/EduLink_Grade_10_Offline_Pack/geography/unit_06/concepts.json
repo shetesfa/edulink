@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "geography",
+    "unit_number": 6,
+    "unit_title": "Economic Geography and Development",
+    "source_book": "G10 Geography",
+    "concepts": [
+        {
+            "id": "g10-geography-u06-c001",
+            "name": "GEOSPATIAL INFORMATION AND DATA PROCESSI",
+            "simple_definition": "GEOSPATIAL INFORMATION AND DATA PROCESSING UNIT EIGHT 179 operate on scales of hundreds or thousands of years and for most applications (except geophysics) we can safely omit time from the representation of elevation",
+            "deep_explanation": "On the other hand, temperature changes daily and dramatic changes sometimes occur in minutes with the passage of a cold front or thunderstorm, so time is very important",
+            "real_example": "Practical example of GEOSPATIAL INFORMATION AND DATA PROCESSI from page 185.",
+            "common_confusion": "Students sometimes confuse GEOSPATIAL INFORMATION AND DATA PROCESSI with adjacent topics in Chapter 6.",
+            "source_pages": "185",
+            "name_amharic": "GEOSPATIAL INFORMATION AND DATA PROCESSI (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] GEOSPATIAL INFORMATION AND DATA PROCESSING UNIT EIGHT 179 operate on scales of hundreds or thousands of years and for most applications (except geophysics) we can safely omit time from the representation of elevation (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] On the other hand, temperature changes daily and dramatic changes sometimes occur in minutes with the passage of a cold front or thunderstorm, so time is very important — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 185 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-geography-u06-c002",
+            "name": "Grade 10 | Geography 180 An Example Of C",
+            "simple_definition": "Grade 10 | Geography 180 An example of continuous data is elevation",
+            "deep_explanation": "The starting point being sea level, the elevation of an area varies across the surface",
+            "real_example": "Practical example of Grade 10 | Geography 180 An example of c from page 186.",
+            "common_confusion": "Students sometimes confuse Grade 10 | Geography 180 An example of c with adjacent topics in Chapter 6.",
+            "source_pages": "186",
+            "name_amharic": "Grade 10 | Geography 180 An example of c (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Grade 10 | Geography 180 An example of continuous data is elevation (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The starting point being sea level, the elevation of an area varies across the surface — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 186 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-geography-u06-c003",
+            "name": "GEOSPATIAL INFORMATION AND DATA PROCESSI",
+            "simple_definition": "GEOSPATIAL INFORMATION AND DATA PROCESSING UNIT EIGHT 181 A",
+            "deep_explanation": "Directly collected data are generated at the source of the phenomena being measured",
+            "real_example": "Practical example of GEOSPATIAL INFORMATION AND DATA PROCESSI from page 187.",
+            "common_confusion": "Students sometimes confuse GEOSPATIAL INFORMATION AND DATA PROCESSI with adjacent topics in Chapter 6.",
+            "source_pages": "187",
+            "name_amharic": "GEOSPATIAL INFORMATION AND DATA PROCESSI (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] GEOSPATIAL INFORMATION AND DATA PROCESSING UNIT EIGHT 181 A (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Directly collected data are generated at the source of the phenomena being measured — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 187 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-geography-u06-c004",
+            "name": "Grade 10 | Geography 182 Other Category ",
+            "simple_definition": "Grade 10 | Geography 182 other category of data is called “secondary sources” and refers to data of general interest gathered for many reasons which can further be used by end users, based on their interest",
+            "deep_explanation": "Hard copy maps (analogue maps) can be used as a secondary source",
+            "real_example": "Practical example of Grade 10 | Geography 182 other category  from page 188.",
+            "common_confusion": "Students sometimes confuse Grade 10 | Geography 182 other category  with adjacent topics in Chapter 6.",
+            "source_pages": "188",
+            "name_amharic": "Grade 10 | Geography 182 other category  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Grade 10 | Geography 182 other category of data is called “secondary sources” and refers to data of general interest gathered for many reasons which can further be used by end users, based on their interest (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Hard copy maps (analogue maps) can be used as a secondary source — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 188 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-geography-u06-c005",
+            "name": "GEOSPATIAL INFORMATION AND DATA PROCESSI",
+            "simple_definition": "GEOSPATIAL INFORMATION AND DATA PROCESSING UNIT EIGHT 183 GPS receivers are widely used in cars and smartphones to provide directions to specific locations",
+            "deep_explanation": "The GPS receiver is very valuable for documenting information about a place",
+            "real_example": "Practical example of GEOSPATIAL INFORMATION AND DATA PROCESSI from page 189.",
+            "common_confusion": "Students sometimes confuse GEOSPATIAL INFORMATION AND DATA PROCESSI with adjacent topics in Chapter 6.",
+            "source_pages": "189",
+            "name_amharic": "GEOSPATIAL INFORMATION AND DATA PROCESSI (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] GEOSPATIAL INFORMATION AND DATA PROCESSING UNIT EIGHT 183 GPS receivers are widely used in cars and smartphones to provide directions to specific locations (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The GPS receiver is very valuable for documenting information about a place — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 189 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-geography-u06-c006",
+            "name": "Grade 10 | Geography 184 8.3 GEOGRAPHIC ",
+            "simple_definition": "Grade 10 | Geography 184 8.3 GEOGRAPHIC DATA REPRESENTATIONS At the end of this section, you will be able to: describe and explain how to present geographic information",
+            "deep_explanation": "KEY TERMS Analogue format Data representation Digital format Geographic data structure Grid-cell data Node  Geographic data representation involves graphical visualization of the data or producing map of an area",
+            "real_example": "Practical example of Grade 10 | Geography 184 8.3 GEOGRAPHIC  from page 190.",
+            "common_confusion": "Students sometimes confuse Grade 10 | Geography 184 8.3 GEOGRAPHIC  with adjacent topics in Chapter 6.",
+            "source_pages": "190",
+            "name_amharic": "Grade 10 | Geography 184 8.3 GEOGRAPHIC  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Grade 10 | Geography 184 8.3 GEOGRAPHIC DATA REPRESENTATIONS At the end of this section, you will be able to: describe and explain how to present geographic information (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] KEY TERMS Analogue format Data representation Digital format Geographic data structure Grid-cell data Node  Geographic data representation involves graphical visualization of the data or producing map of an area — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 190 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

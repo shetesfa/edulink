@@ -1,0 +1,37 @@
+{
+    "grade": 11,
+    "subject": "information_technology",
+    "unit_number": 4,
+    "glossary": [
+        {
+            "term": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 140 UNIT-6 Fundamentals of Programming The example that follows shows how a variable named “y” is created and assigned to the result of an expression",
+            "source_page": "146"
+        },
+        {
+            "term": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 141 UNIT-6 Fundamentals of Programming and del from not while as elif global or with assert else if pass yield break except import print class exec in raise continue finally is return def for lambda try Figure 6.6 Keywords in Python Notes  Keywords are reserved words that have predefined meanings in a programming language",
+            "source_page": "147"
+        },
+        {
+            "term": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 142 UNIT-6 Fundamentals of Programming Although meeting the above requirements suffices to define a valid identifier, it is always recommended to use identifiers that are self-descriptive",
+            "source_page": "148"
+        },
+        {
+            "term": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 143 UNIT-6 Fundamentals of Programming Notes  As you can see in the above example, string values should be placed in quotation marks",
+            "source_page": "149"
+        },
+        {
+            "term": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 144 UNIT-6 Fundamentals of Programming Table 6.1 Data types Data Type Meanings and sample values Associated operators Sample expressions Int Integer numbers Example: 34 4 56 10 Arithmetic operators • Addition (+) • Subtraction (-) • Division (\/) • Floor Division (\/\/) • Multiplication (*) • Modulus (%) • Exponentiation (**) float Floating-point numbers",
+            "source_page": "150"
+        },
+        {
+            "term": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 145 UNIT-6 Fundamentals of Programming Notes Note the following points on some of the operators listed in Table 6.1:  The + operator behaves differently depending on the type of the operand",
+            "source_page": "151"
+        }
+    ]
+}

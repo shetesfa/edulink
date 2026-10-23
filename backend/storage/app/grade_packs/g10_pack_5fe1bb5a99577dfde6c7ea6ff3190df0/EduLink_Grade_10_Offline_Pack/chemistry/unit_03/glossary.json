@@ -1,0 +1,37 @@
+{
+    "grade": 10,
+    "subject": "chemistry",
+    "unit_number": 3,
+    "glossary": [
+        {
+            "term": "Electrolysis",
+            "definition": "Electrolysis is the process of using electrical energy to drive a non-spontaneous chemical reaction.",
+            "source_page": "207-212"
+        },
+        {
+            "term": "Natural Occurrence And Extraction Of Met",
+            "definition": "Natural occurrence and extraction of metals Noble metals Ag, Au, Bi, Cu, Pd, Pt exist in nature as uncombined or free state",
+            "source_page": "208"
+        },
+        {
+            "term": "203 Metals And Nonmetals Project Read Fr",
+            "definition": "203 Metals and Nonmetals Project Read from a reliable source about the uses of some common metals (sodium, potasium, magnsium, calcium and tantalum) and their common compounds",
+            "source_page": "209"
+        },
+        {
+            "term": "Nowadays 22 Carat Gold Is Used To Make J",
+            "definition": "Nowadays 22 carat gold is used to make jewelry",
+            "source_page": "210"
+        },
+        {
+            "term": "205 Metals And Nonmetals SiO2 (s) + 2NaO",
+            "definition": "205 Metals and Nonmetals SiO2 (s) + 2NaOH (aq) → Na2SiO3 (aq) + H2O (l) Insoluble soluble At the same time aluminum oxide is converted to soluble sodium aluminate",
+            "source_page": "211"
+        },
+        {
+            "term": "Note That Under The Prevailing Condition",
+            "definition": "Note that under the prevailing conditions in the electrolytic cell, the anode (graphite electrode) will gradually oxidize to carbon dioxide and must be replaced regularly",
+            "source_page": "212"
+        }
+    ]
+}

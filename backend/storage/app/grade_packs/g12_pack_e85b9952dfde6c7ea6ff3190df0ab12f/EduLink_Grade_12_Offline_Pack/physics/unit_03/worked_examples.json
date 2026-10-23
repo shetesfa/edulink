@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "physics",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g12-physics-u03-we001",
+            "title": "Worked Example 1: Alternating Current Circuits",
+            "problem_statement": "Analyze the application of the topic explained on page 75.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 75.",
+            "source_page": "75"
+        },
+        {
+            "id": "g12-physics-u03-we002",
+            "title": "Worked Example 2: Alternating Current Circuits",
+            "problem_statement": "Analyze the application of the topic explained on page 76.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 76.",
+            "source_page": "76"
+        }
+    ]
+}

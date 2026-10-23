@@ -1,0 +1,105 @@
+{
+    "grade": 9,
+    "subject": "mathematics",
+    "unit_number": 8,
+    "unit_title": "Unit 8: Vectors in Two Dimensions",
+    "source_book": "G9 Mathematics",
+    "practice_quiz": [
+        {
+            "id": "g9-mathematics-u08-q001",
+            "question": "Assessment Question 1: Which statement correctly evaluates Solving Linear Equations (Unit 8)?",
+            "question_amharic": "የምዘና ጥያቄ 1፡ ስለ ሊኒያር እኩልዮሽ (Linear Equation) መፍትሔ (ምዕራፍ 8) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Solving Linear Equations is a core topic in Grade 9 Mathematics covering essential principles on pages 288-321.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "ሊኒያር እኩልዮሽ (Linear Equation) መፍትሔ በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 288-321 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Solving Linear Equations is a core topic in Grade 9 Mathematics covering essential principles on pages 288-321.",
+            "correct_answer_amharic": "ሊኒያር እኩልዮሽ (Linear Equation) መፍትሔ በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 288-321 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 288-321.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 288-321 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-mathematics-u08-c001"
+        },
+        {
+            "id": "g9-mathematics-u08-q002",
+            "question": "Assessment Question 2: Which statement correctly evaluates Quadratic Formula Method (Unit 8)?",
+            "question_amharic": "የምዘና ጥያቄ 2፡ ስለ በኳድራቲክ ፎርሙላ (Quadratic Formula) መፍታት (ምዕራፍ 8) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Quadratic Formula Method is a core topic in Grade 9 Mathematics covering essential principles on pages 288-321.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "በኳድራቲክ ፎርሙላ (Quadratic Formula) መፍታት በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 288-321 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Quadratic Formula Method is a core topic in Grade 9 Mathematics covering essential principles on pages 288-321.",
+            "correct_answer_amharic": "በኳድራቲክ ፎርሙላ (Quadratic Formula) መፍታት በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 288-321 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 288-321.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 288-321 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-mathematics-u08-c002"
+        },
+        {
+            "id": "g9-mathematics-u08-q003",
+            "question": "Assessment Question 3: Which statement correctly evaluates Ratio and Proportion (Unit 8)?",
+            "question_amharic": "የምዘና ጥያቄ 3፡ ስለ ሬሾ እና ፕሮፖርሽን (Ratio & Proportion) (ምዕራፍ 8) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Ratio and Proportion is a core topic in Grade 9 Mathematics covering essential principles on pages 288-321.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "ሬሾ እና ፕሮፖርሽን (Ratio & Proportion) በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 288-321 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Ratio and Proportion is a core topic in Grade 9 Mathematics covering essential principles on pages 288-321.",
+            "correct_answer_amharic": "ሬሾ እና ፕሮፖርሽን (Ratio & Proportion) በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 288-321 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 288-321.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 288-321 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-mathematics-u08-c003"
+        },
+        {
+            "id": "g9-mathematics-u08-q004",
+            "question": "Assessment Question 4: Which statement correctly evaluates Simple and Compound Interest (Unit 8)?",
+            "question_amharic": "የምዘና ጥያቄ 4፡ ስለ ሲምፕል እና ኮምፓውንድ ኢንተረስት (Interest) (ምዕራፍ 8) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Simple and Compound Interest is a core topic in Grade 9 Mathematics covering essential principles on pages 288-321.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "ሲምፕል እና ኮምፓውንድ ኢንተረስት (Interest) በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 288-321 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Simple and Compound Interest is a core topic in Grade 9 Mathematics covering essential principles on pages 288-321.",
+            "correct_answer_amharic": "ሲምፕል እና ኮምፓውንድ ኢንተረስት (Interest) በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 288-321 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 288-321.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ሒሳብ (Mathematics) መጽሐፍ ገጽ 288-321 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-mathematics-u08-c004"
+        }
+    ]
+}

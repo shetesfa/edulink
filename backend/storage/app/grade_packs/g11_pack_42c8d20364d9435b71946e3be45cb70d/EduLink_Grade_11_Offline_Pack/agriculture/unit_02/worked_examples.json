@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "agriculture",
+    "unit_number": 2,
+    "worked_examples": [
+        {
+            "id": "g11-agriculture-u02-we001",
+            "title": "Worked Example 1: Crop Production and Management",
+            "problem_statement": "Analyze the application of the topic explained on page 6.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 6.",
+            "source_page": "6"
+        },
+        {
+            "id": "g11-agriculture-u02-we002",
+            "title": "Worked Example 2: Crop Production and Management",
+            "problem_statement": "Analyze the application of the topic explained on page 7.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 7.",
+            "source_page": "7"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "citizenship",
+    "unit_number": 6,
+    "worked_examples": [
+        {
+            "id": "g10-citizenship-u06-we001",
+            "title": "Worked Example 1: Self-Reliance and Entrepreneurship",
+            "problem_statement": "Analyze the application of the topic explained on page 134.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 134.",
+            "source_page": "134"
+        },
+        {
+            "id": "g10-citizenship-u06-we002",
+            "title": "Worked Example 2: Self-Reliance and Entrepreneurship",
+            "problem_statement": "Analyze the application of the topic explained on page 135.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 135.",
+            "source_page": "135"
+        }
+    ]
+}

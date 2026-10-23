@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "information_technology",
+    "unit_number": 3,
+    "examples": [
+        {
+            "example_id": "g9-information_technology-u03-we001",
+            "title": "Worked Example 1: Professional Solution for Word Processing and Document Design",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የWord Processing and Document Design ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 79-120.",
+            "problem_amharic": "ከገጽ 79-120 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "79-120"
+        }
+    ]
+}

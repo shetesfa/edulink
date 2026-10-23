@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "mathematics",
+    "unit_number": 1,
+    "worked_examples": [
+        {
+            "id": "g12-mathematics-u01-we001",
+            "title": "Worked Example 1: Sequences and Series",
+            "problem_statement": "Analyze the application of the topic explained on page 10.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 10.",
+            "source_page": "10"
+        },
+        {
+            "id": "g12-mathematics-u01-we002",
+            "title": "Worked Example 2: Sequences and Series",
+            "problem_statement": "Analyze the application of the topic explained on page 10.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 10.",
+            "source_page": "10"
+        }
+    ]
+}

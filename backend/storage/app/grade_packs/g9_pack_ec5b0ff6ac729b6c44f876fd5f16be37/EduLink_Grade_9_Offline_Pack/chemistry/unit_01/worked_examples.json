@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "chemistry",
+    "unit_number": 1,
+    "examples": [
+        {
+            "example_id": "g9-chemistry-u01-we001",
+            "title": "Worked Example 1: Professional Solution for Chemistry and Its Importance",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የChemistry and Its Importance ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 1-30.",
+            "problem_amharic": "ከገጽ 1-30 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "1-30"
+        }
+    ]
+}

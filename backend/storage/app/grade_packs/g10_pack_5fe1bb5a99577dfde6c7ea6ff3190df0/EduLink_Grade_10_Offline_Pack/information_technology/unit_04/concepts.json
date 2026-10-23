@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "information_technology",
+    "unit_number": 4,
+    "unit_title": "Spreadsheets & Excel Functions",
+    "source_book": "G10 Information Technology",
+    "concepts": [
+        {
+            "id": "g10-information_technology-u04-c001",
+            "name": "Image Processing And Multimedia Multimed",
+            "simple_definition": "140 Unit 4 : Image Processing and Multimedia Multimedia is a representation of information attractively and interactively with the use of a combination of text, audio, video, graphics and animation",
+            "deep_explanation": "In other words, multimedia is a computerized method of presenting information combining textual data, audio, visuals (video), graphics and animations",
+            "real_example": "Practical example of Image Processing and Multimedia Multimed from page 147.",
+            "common_confusion": "Students sometimes confuse Image Processing and Multimedia Multimed with adjacent topics in Chapter 4.",
+            "source_pages": "147",
+            "name_amharic": "Image Processing and Multimedia Multimed (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 140 Unit 4 : Image Processing and Multimedia Multimedia is a representation of information attractively and interactively with the use of a combination of text, audio, video, graphics and animation (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] In other words, multimedia is a computerized method of presenting information combining textual data, audio, visuals (video), graphics and animations — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 147 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u04-c002",
+            "name": "Grade 10 Information Technology Student’",
+            "simple_definition": "Grade 10 Information Technology Student’s Textbook 141 and construct knowledge",
+            "deep_explanation": "The advantages of integrating multimedia in the classroom are many",
+            "real_example": "Practical example of Grade 10 Information Technology Student’ from page 148.",
+            "common_confusion": "Students sometimes confuse Grade 10 Information Technology Student’ with adjacent topics in Chapter 4.",
+            "source_pages": "148",
+            "name_amharic": "Grade 10 Information Technology Student’ (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Grade 10 Information Technology Student’s Textbook 141 and construct knowledge (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The advantages of integrating multimedia in the classroom are many — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 148 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u04-c003",
+            "name": "Image Processing And Multimedia 3",
+            "simple_definition": "142 Unit 4 : Image Processing and Multimedia 3",
+            "deep_explanation": "Public Places: Multimedia is available at stand-alone terminals or kiosks used in hotels, railway stations, shopping malls, museums and libraries",
+            "real_example": "Practical example of Image Processing and Multimedia 3 from page 149.",
+            "common_confusion": "Students sometimes confuse Image Processing and Multimedia 3 with adjacent topics in Chapter 4.",
+            "source_pages": "149",
+            "name_amharic": "Image Processing and Multimedia 3 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 142 Unit 4 : Image Processing and Multimedia 3 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Public Places: Multimedia is available at stand-alone terminals or kiosks used in hotels, railway stations, shopping malls, museums and libraries — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 149 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u04-c004",
+            "name": "Grade 10 Information Technology Student’",
+            "simple_definition": "Grade 10 Information Technology Student’s Textbook 143 Figure 4.5 Virtual surgery Virtual surgery is a virtual reality technology that simulates surgical procedures without the need of a patient or cadaver; instead it allows surgeons to practice surgery on 3D models",
+            "deep_explanation": "It helps the surgeons to have a clear understanding of the outcome",
+            "real_example": "Practical example of Grade 10 Information Technology Student’ from page 150.",
+            "common_confusion": "Students sometimes confuse Grade 10 Information Technology Student’ with adjacent topics in Chapter 4.",
+            "source_pages": "150",
+            "name_amharic": "Grade 10 Information Technology Student’ (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Grade 10 Information Technology Student’s Textbook 143 Figure 4.5 Virtual surgery Virtual surgery is a virtual reality technology that simulates surgical procedures without the need of a patient or cadaver; instead it allows surgeons to practice surgery on 3D models (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] It helps the surgeons to have a clear understanding of the outcome — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 150 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u04-c005",
+            "name": "Image Processing And Multimedia 4",
+            "simple_definition": "144 Unit 4 : Image Processing and Multimedia 4",
+            "deep_explanation": "Explain the business implications of multimedia",
+            "real_example": "Practical example of Image Processing and Multimedia 4 from page 151.",
+            "common_confusion": "Students sometimes confuse Image Processing and Multimedia 4 with adjacent topics in Chapter 4.",
+            "source_pages": "151",
+            "name_amharic": "Image Processing and Multimedia 4 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 144 Unit 4 : Image Processing and Multimedia 4 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Explain the business implications of multimedia — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 151 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-information_technology-u04-c006",
+            "name": "Grade 10 Information Technology Student’",
+            "simple_definition": "Grade 10 Information Technology Student’s Textbook 145 Graphics that fit most needs are quite easy to find",
+            "deep_explanation": "Commercially prepared drawings, called clipart, come packaged with many application programs",
+            "real_example": "Practical example of Grade 10 Information Technology Student’ from page 152.",
+            "common_confusion": "Students sometimes confuse Grade 10 Information Technology Student’ with adjacent topics in Chapter 4.",
+            "source_pages": "152",
+            "name_amharic": "Grade 10 Information Technology Student’ (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Grade 10 Information Technology Student’s Textbook 145 Graphics that fit most needs are quite easy to find (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Commercially prepared drawings, called clipart, come packaged with many application programs — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 152 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

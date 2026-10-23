@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "physics",
+    "unit_number": 4,
+    "unit_title": "Work, Energy, and Power",
+    "source_book": "G10 Physics",
+    "concepts": [
+        {
+            "id": "g10-physics-u04-c001",
+            "name": "Kinetic Energy",
+            "simple_definition": "Kinetic energy is the energy possessed by an object due to its motion.",
+            "deep_explanation": "The formula is KE = 1\/2 m v². It depends on the mass and the square of its speed. It is a scalar measured in Joules (J).",
+            "real_example": "A running athlete has kinetic energy; when they stop, the kinetic energy becomes zero.",
+            "common_confusion": "Forgetting to square the velocity when computing kinetic energy.",
+            "source_pages": "97-102",
+            "name_amharic": "ኪነቲክ ኢነርጂ",
+            "simple_definition_amharic": "ኪነቲክ ኢነርጂ ማለት አንድ ቁስ በመንቀሳቀሱ ምክንያት የሚኖረው የစွမ်းይ አይነት ነው።",
+            "deep_explanation_amharic": "ቀመሩ KE = 1\/2 m v² ነው። በክብደት እና በፍጥነቱ ስኩዌር ላይ የተመሠረተ ነው። አሃዱ ጁል (J) ነው።",
+            "real_example_amharic": "የሚሮጥ ስፖርተኛ ኪነቲክ ኢነርጂ አለው፤ ሲቆም ግን ኪነቲክ ኢነርጂው ዜሮ ይሆናል።",
+            "common_confusion_amharic": "ኪነቲክ ኢነርጂን ሲያሰሉ የፍጥነቱን ስኩዌር ማድረግ መርሳት።"
+        },
+        {
+            "id": "g10-physics-u04-c002",
+            "name": "92 Unit 4 Static And Current Electricity",
+            "simple_definition": "92 Unit 4 Static and Current Electricity 4.1 Charges in Nature By the end of this section, you should be able to: • distinguish between the two types of electric charges; • show that the total electric charge in an isolated system is conserved; • use conservation of charge to calculate quantities of charge trans- ferred between objects",
+            "deep_explanation": "Objects surrounding us (including people) contain large amounts of elec- tric charge",
+            "real_example": "Practical example of 92 Unit 4 Static and Current Electricity from page 98.",
+            "common_confusion": "Students sometimes confuse 92 Unit 4 Static and Current Electricity with adjacent topics in Chapter 4.",
+            "source_pages": "98",
+            "name_amharic": "92 Unit 4 Static and Current Electricity (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 92 Unit 4 Static and Current Electricity 4.1 Charges in Nature By the end of this section, you should be able to: • distinguish between the two types of electric charges; • show that the total electric charge in an isolated system is conserved; • use conservation of charge to calculate quantities of charge trans- ferred between objects (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Objects surrounding us (including people) contain large amounts of elec- tric charge — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 98 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u04-c003",
+            "name": "4.1 Charges In Nature 93 Charge In An Is",
+            "simple_definition": "4.1 Charges in Nature 93 charge in an isolated system never changes",
+            "deep_explanation": "By isolated, you mean that no particles are allowed to cross the boundary of the system",
+            "real_example": "Practical example of 4.1 Charges in Nature 93 charge in an is from page 99.",
+            "common_confusion": "Students sometimes confuse 4.1 Charges in Nature 93 charge in an is with adjacent topics in Chapter 4.",
+            "source_pages": "99",
+            "name_amharic": "4.1 Charges in Nature 93 charge in an is (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 4.1 Charges in Nature 93 charge in an isolated system never changes (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] By isolated, you mean that no particles are allowed to cross the boundary of the system — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 99 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u04-c004",
+            "name": "94 Unit 4 Static And Current Electricity",
+            "simple_definition": "94 Unit 4 Static and Current Electricity 4.2 Methods of Charging a Body By the end of this section, you should be able to: • demonstrate different charging processes; • explain the results of different charging processes",
+            "deep_explanation": "In the previous section, you discussed that charges are transferred from one body to another by a process known as charging",
+            "real_example": "Practical example of 94 Unit 4 Static and Current Electricity from page 100.",
+            "common_confusion": "Students sometimes confuse 94 Unit 4 Static and Current Electricity with adjacent topics in Chapter 4.",
+            "source_pages": "100",
+            "name_amharic": "94 Unit 4 Static and Current Electricity (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 94 Unit 4 Static and Current Electricity 4.2 Methods of Charging a Body By the end of this section, you should be able to: • demonstrate different charging processes; • explain the results of different charging processes (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] In the previous section, you discussed that charges are transferred from one body to another by a process known as charging — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 100 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u04-c005",
+            "name": "4.2 Methods Of Charging A Body 95 Activi",
+            "simple_definition": "4.2 Methods of Charging a Body 95 Activity 4.2 Tear a piece of paper into several small pieces",
+            "deep_explanation": "Charge a plastic pen and two other objects by rubbing them on your hair or on some fabric",
+            "real_example": "Practical example of 4.2 Methods of Charging a Body 95 Activi from page 101.",
+            "common_confusion": "Students sometimes confuse 4.2 Methods of Charging a Body 95 Activi with adjacent topics in Chapter 4.",
+            "source_pages": "101",
+            "name_amharic": "4.2 Methods of Charging a Body 95 Activi (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 4.2 Methods of Charging a Body 95 Activity 4.2 Tear a piece of paper into several small pieces (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Charge a plastic pen and two other objects by rubbing them on your hair or on some fabric — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 101 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u04-c006",
+            "name": "96 Unit 4 Static And Current Electricity",
+            "simple_definition": "96 Unit 4 Static and Current Electricity and an overall positive charge as shown in Figure 4.2 (c)",
+            "deep_explanation": "The aluminum plate is still charged positively; only it now has less excess positive charge than it had before the charging process began",
+            "real_example": "Practical example of 96 Unit 4 Static and Current Electricity from page 102.",
+            "common_confusion": "Students sometimes confuse 96 Unit 4 Static and Current Electricity with adjacent topics in Chapter 4.",
+            "source_pages": "102",
+            "name_amharic": "96 Unit 4 Static and Current Electricity (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 96 Unit 4 Static and Current Electricity and an overall positive charge as shown in Figure 4.2 (c) (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The aluminum plate is still charged positively; only it now has less excess positive charge than it had before the charging process began — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 102 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "economics",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g11-economics-u05-we001",
+            "title": "Worked Example 1: Inflation and Unemployment",
+            "problem_statement": "Analyze the application of the topic explained on page 124.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 124.",
+            "source_page": "124"
+        },
+        {
+            "id": "g11-economics-u05-we002",
+            "title": "Worked Example 2: Inflation and Unemployment",
+            "problem_statement": "Analyze the application of the topic explained on page 125.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 125.",
+            "source_page": "125"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "grade": 12,
+    "subject": "physics",
+    "unit_number": 2,
+    "unit_title": "Electromagnetism and Induction",
+    "source_book": "G12 Physics",
+    "concepts": [
+        {
+            "id": "g12-physics-u02-c001",
+            "name": "Unit 2 Two-dimensional Motion Introducti",
+            "simple_definition": "Unit 2 Two-dimensional motion Introduction Kinematics is the study of motion without considering its causes",
+            "deep_explanation": "For example, studying the motion of a football without considering what forces cause or change its motion",
+            "real_example": "Practical example of Unit 2 Two-dimensional motion Introducti from page 30.",
+            "common_confusion": "Students sometimes confuse Unit 2 Two-dimensional motion Introducti with adjacent topics in Chapter 2.",
+            "source_pages": "30",
+            "name_amharic": "Unit 2 Two-dimensional motion Introducti (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 2 Two-dimensional motion Introduction Kinematics is the study of motion without considering its causes (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] For example, studying the motion of a football without considering what forces cause or change its motion — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 30 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u02-c002",
+            "name": "2.1 Projectile Motion 25 2.1 Projectile ",
+            "simple_definition": "2.1 Projectile motion 25 2.1 Projectile motion Discussion question 2.1 Which motion is different from the others? Explain Why? a) A ball thrown horizontally into the air",
+            "deep_explanation": "b) A bullet ﬁred from a gun",
+            "real_example": "Practical example of 2.1 Projectile motion 25 2.1 Projectile  from page 31.",
+            "common_confusion": "Students sometimes confuse 2.1 Projectile motion 25 2.1 Projectile  with adjacent topics in Chapter 2.",
+            "source_pages": "31",
+            "name_amharic": "2.1 Projectile motion 25 2.1 Projectile  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 2.1 Projectile motion 25 2.1 Projectile motion Discussion question 2.1 Which motion is different from the others? Explain Why? a) A ball thrown horizontally into the air (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] b) A bullet ﬁred from a gun — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 31 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u02-c003",
+            "name": "26 Unit 2 Two-dimensional Motion Common ",
+            "simple_definition": "26 Unit 2 Two-dimensional motion common variable for both components",
+            "deep_explanation": "Horizontal Projection In this type of motion the projectile is projected horizontally from a certain height as shown in Figure 2.2",
+            "real_example": "Practical example of 26 Unit 2 Two-dimensional motion common  from page 32.",
+            "common_confusion": "Students sometimes confuse 26 Unit 2 Two-dimensional motion common  with adjacent topics in Chapter 2.",
+            "source_pages": "32",
+            "name_amharic": "26 Unit 2 Two-dimensional motion common  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 26 Unit 2 Two-dimensional motion common variable for both components (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Horizontal Projection In this type of motion the projectile is projected horizontally from a certain height as shown in Figure 2.2 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 32 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u02-c004",
+            "name": "2.1 Projectile Motion 27 ∆y = 1 2gt2 Rem",
+            "simple_definition": "2.1 Projectile motion 27 ∆y = 1 2gt2 Remember: When you use equations to answer questions on vertical motion, upwards motion is positive (+) and downwards motion is negative (-)",
+            "deep_explanation": "Time of ﬂight The time of ﬂight is the time taken by the projectile to hit the ground",
+            "real_example": "Practical example of 2.1 Projectile motion 27 ∆y = 1 2gt2 Rem from page 33.",
+            "common_confusion": "Students sometimes confuse 2.1 Projectile motion 27 ∆y = 1 2gt2 Rem with adjacent topics in Chapter 2.",
+            "source_pages": "33",
+            "name_amharic": "2.1 Projectile motion 27 ∆y = 1 2gt2 Rem (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 2.1 Projectile motion 27 ∆y = 1 2gt2 Remember: When you use equations to answer questions on vertical motion, upwards motion is positive (+) and downwards motion is negative (-) (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Time of ﬂight The time of ﬂight is the time taken by the projectile to hit the ground — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 33 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u02-c005",
+            "name": "28 Unit 2 Two-dimensional Motion ∆y = 1 ",
+            "simple_definition": "28 Unit 2 Two-dimensional motion ∆y = 1 2gt2 -0.02 m = 1 2(-10)t2 The vertical displacement is in the negative direction, which gives: t=0.06 s Since this is the time of impact with the target, the time of ﬂight of the bullet is also the same",
+            "deep_explanation": "(b) The equation for x−motion is: ∆x =voxt vox=∆x t = 30m 0.06s The initial velocity of the bullet is 500 m\/s",
+            "real_example": "Practical example of 28 Unit 2 Two-dimensional motion ∆y = 1  from page 34.",
+            "common_confusion": "Students sometimes confuse 28 Unit 2 Two-dimensional motion ∆y = 1  with adjacent topics in Chapter 2.",
+            "source_pages": "34",
+            "name_amharic": "28 Unit 2 Two-dimensional motion ∆y = 1  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 28 Unit 2 Two-dimensional motion ∆y = 1 2gt2 -0.02 m = 1 2(-10)t2 The vertical displacement is in the negative direction, which gives: t=0.06 s Since this is the time of impact with the target, the time of ﬂight of the bullet is also the same (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] (b) The equation for x−motion is: ∆x =voxt vox=∆x t = 30m 0.06s The initial velocity of the bullet is 500 m\/s — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 34 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-physics-u02-c006",
+            "name": "2.1 Projectile Motion 29 ∆x =v0xt ∆x =10",
+            "simple_definition": "2.1 Projectile motion 29 ∆x =v0xt ∆x =100 m\/s x 7.74 s ∆x =774 m Activity 2.2 Use this activity to investigate horizontal projection",
+            "deep_explanation": "Materials • Ruler • A cannon ball made from scrunched up aluminum foil",
+            "real_example": "Practical example of 2.1 Projectile motion 29 ∆x =v0xt ∆x =10 from page 35.",
+            "common_confusion": "Students sometimes confuse 2.1 Projectile motion 29 ∆x =v0xt ∆x =10 with adjacent topics in Chapter 2.",
+            "source_pages": "35",
+            "name_amharic": "2.1 Projectile motion 29 ∆x =v0xt ∆x =10 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 2.1 Projectile motion 29 ∆x =v0xt ∆x =100 m\/s x 7.74 s ∆x =774 m Activity 2.2 Use this activity to investigate horizontal projection (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Materials • Ruler • A cannon ball made from scrunched up aluminum foil — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 35 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

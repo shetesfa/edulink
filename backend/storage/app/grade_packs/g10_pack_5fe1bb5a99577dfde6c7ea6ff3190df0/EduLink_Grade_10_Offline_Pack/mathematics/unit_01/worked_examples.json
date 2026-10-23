@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 1,
+    "worked_examples": [
+        {
+            "id": "g10-mathematics-u01-we001",
+            "title": "Worked Example 1: Relations and Functions",
+            "problem_statement": "Analyze the application of the topic explained on page 10.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 10.",
+            "source_page": "10"
+        },
+        {
+            "id": "g10-mathematics-u01-we002",
+            "title": "Worked Example 2: Relations and Functions",
+            "problem_statement": "Analyze the application of the topic explained on page 11.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 11.",
+            "source_page": "11"
+        }
+    ]
+}

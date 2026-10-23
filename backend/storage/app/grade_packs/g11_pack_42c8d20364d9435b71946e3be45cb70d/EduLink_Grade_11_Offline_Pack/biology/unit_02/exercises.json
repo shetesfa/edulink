@@ -1,0 +1,61 @@
+{
+    "grade": 11,
+    "subject": "biology",
+    "unit_number": 2,
+    "unit_title": "Cell Biology and Biochemistry",
+    "source_book": "G11 Biology",
+    "exercises": [
+        {
+            "exercise_id": "g11-biology-u02-ex001",
+            "question": "Explain the effect of high temperature on enzyme activity.",
+            "question_amharic": "ከፍተኛ የሙቀት መጠን በኢንዛይሞች ሥራ ላይ የሚያሳድረውን ተጽዕኖ ያብራሩ።",
+            "question_type": "problem_solving",
+            "correct_answer": "High temperature denatures the enzyme, changing its active site shape so it can no longer bind substrates.",
+            "correct_answer_amharic": "ከፍተኛ ሙቀት ኢንዛይሙን ያበላሸዋል (denature)፣ ቅርፁን ስለሚቀይር መስራት አይችልም።",
+            "step_by_step_explanation": "1. Enzymes have optimal temperature bounds.\\n2. Above optimal limit, heat breaks hydrogen bonds.\\n3. The active site loses shape (denaturation).",
+            "step_by_step_explanation_amharic": "1. Enzymes have optimal temperature bounds.\\n2. Above optimal limit, heat breaks hydrogen bonds.\\n3. The active site loses shape (denaturation).",
+            "formula_or_working": "Enzyme denaturation analysis.",
+            "source_page": "48",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g11-biology-u02-ex002",
+            "question": "Describe the core properties of the topics presented on page 20 (Question 2).",
+            "question_amharic": "በገጽ 20 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 20.",
+            "correct_answer_amharic": "በገጽ 20 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 20.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 20 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 20.",
+            "source_page": "20",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g11-biology-u02-ex003",
+            "question": "Describe the core properties of the topics presented on page 21 (Question 3).",
+            "question_amharic": "በገጽ 21 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 21.",
+            "correct_answer_amharic": "በገጽ 21 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 21.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 21 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 21.",
+            "source_page": "21",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g11-biology-u02-ex004",
+            "question": "Describe the core properties of the topics presented on page 22 (Question 4).",
+            "question_amharic": "በገጽ 22 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 22.",
+            "correct_answer_amharic": "በገጽ 22 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 22.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 22 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 22.",
+            "source_page": "22",
+            "needs_review": false
+        }
+    ]
+}

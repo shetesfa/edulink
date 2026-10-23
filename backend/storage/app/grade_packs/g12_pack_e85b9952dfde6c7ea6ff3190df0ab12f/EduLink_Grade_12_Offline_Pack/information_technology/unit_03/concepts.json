@@ -1,0 +1,93 @@
+{
+    "grade": 12,
+    "subject": "information_technology",
+    "unit_number": 3,
+    "unit_title": "Dynamic Web Applications & PHP\/MySQL",
+    "source_book": "G12 Information Technology",
+    "concepts": [
+        {
+            "id": "g12-information_technology-u03-c001",
+            "name": "Information Technology Grade 12 ~ Studen",
+            "simple_definition": "Information Technology Grade 12 ~ Student Textbook 94 UNIT-3 Database Management System Example 2: The output in Table 3.5 can be further filtered by adding the criterion “Semester= ‘I’ ” as follows: SELECT COURSE.Course_id, COURSE.Course_name, COURSE.Grade, CourseOffering.Semester FROM COURSE, CourseOffering WHERE COURSE.Course_id = CourseOffering.Course_code AND Semester=’I’; Therefore, the output of the query includes only Semester I (as shown in Table 3.6) Table 3",
+            "deep_explanation": "6 Example query statement with multiple criteria Course_id Course_name Grade Semester NS104 Biology 11 I NS104 Biology 11 I NS105 English 11 I Unit Summary In this unit, you have learnt about: • concepts of Database Management Systems(DBMSs)",
+            "real_example": "Practical example of Information Technology Grade 12 ~ Studen from page 101.",
+            "common_confusion": "Students sometimes confuse Information Technology Grade 12 ~ Studen with adjacent topics in Chapter 3.",
+            "source_pages": "101",
+            "name_amharic": "Information Technology Grade 12 ~ Studen (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Information Technology Grade 12 ~ Student Textbook 94 UNIT-3 Database Management System Example 2: The output in Table 3.5 can be further filtered by adding the criterion “Semester= ‘I’ ” as follows: SELECT COURSE.Course_id, COURSE.Course_name, COURSE.Grade, CourseOffering.Semester FROM COURSE, CourseOffering WHERE COURSE.Course_id = CourseOffering.Course_code AND Semester=’I’; Therefore, the output of the query includes only Semester I (as shown in Table 3.6) Table 3 (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 6 Example query statement with multiple criteria Course_id Course_name Grade Semester NS104 Biology 11 I NS104 Biology 11 I NS105 English 11 I Unit Summary In this unit, you have learnt about: • concepts of Database Management Systems(DBMSs) — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 101 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-information_technology-u03-c002",
+            "name": "Information Technology Grade 12 ~ Studen",
+            "simple_definition": "Information Technology Grade 12 ~ Student Textbook 95 UNIT-3 Database Management System Key Terms There are many advantages of having databases, some of the major ones are sharing, security, less data redundancy, and data integrity",
+            "deep_explanation": "DBMS is a computerized system that enables users to create and maintain a database",
+            "real_example": "Practical example of Information Technology Grade 12 ~ Studen from page 102.",
+            "common_confusion": "Students sometimes confuse Information Technology Grade 12 ~ Studen with adjacent topics in Chapter 3.",
+            "source_pages": "102",
+            "name_amharic": "Information Technology Grade 12 ~ Studen (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Information Technology Grade 12 ~ Student Textbook 95 UNIT-3 Database Management System Key Terms There are many advantages of having databases, some of the major ones are sharing, security, less data redundancy, and data integrity (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] DBMS is a computerized system that enables users to create and maintain a database — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 102 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-information_technology-u03-c003",
+            "name": "Information Technology Grade 12 ~ Studen",
+            "simple_definition": "Information Technology Grade 12 ~ Student Textbook 96 UNIT-3 Database Management System Review Questions Part I: Choose the correct answer from the given alternatives",
+            "deep_explanation": "Which one of the following is generally used for performing tasks like creating the structure of the relations? A",
+            "real_example": "Practical example of Information Technology Grade 12 ~ Studen from page 103.",
+            "common_confusion": "Students sometimes confuse Information Technology Grade 12 ~ Studen with adjacent topics in Chapter 3.",
+            "source_pages": "103",
+            "name_amharic": "Information Technology Grade 12 ~ Studen (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Information Technology Grade 12 ~ Student Textbook 96 UNIT-3 Database Management System Review Questions Part I: Choose the correct answer from the given alternatives (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Which one of the following is generally used for performing tasks like creating the structure of the relations? A — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 103 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-information_technology-u03-c004",
+            "name": "Information Technology Grade 12 ~ Studen",
+            "simple_definition": "Information Technology Grade 12 ~ Student Textbook 97 UNIT-3 Database Management System 7",
+            "deep_explanation": "Which language is used by most DBMS for helping its users access data? A",
+            "real_example": "Practical example of Information Technology Grade 12 ~ Studen from page 104.",
+            "common_confusion": "Students sometimes confuse Information Technology Grade 12 ~ Studen with adjacent topics in Chapter 3.",
+            "source_pages": "104",
+            "name_amharic": "Information Technology Grade 12 ~ Studen (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Information Technology Grade 12 ~ Student Textbook 97 UNIT-3 Database Management System 7 (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Which language is used by most DBMS for helping its users access data? A — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 104 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-information_technology-u03-c005",
+            "name": "Information Technology Grade 12 ~ Studen",
+            "simple_definition": "Information Technology Grade 12 ~ Student Textbook 98 UNIT-3 Database Management System 11",
+            "deep_explanation": "Which of the following is used to define a header for HTML tables? A",
+            "real_example": "Practical example of Information Technology Grade 12 ~ Studen from page 105.",
+            "common_confusion": "Students sometimes confuse Information Technology Grade 12 ~ Studen with adjacent topics in Chapter 3.",
+            "source_pages": "105",
+            "name_amharic": "Information Technology Grade 12 ~ Studen (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Information Technology Grade 12 ~ Student Textbook 98 UNIT-3 Database Management System 11 (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Which of the following is used to define a header for HTML tables? A — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 105 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-information_technology-u03-c006",
+            "name": "Information Technology Grade 12 ~ Studen",
+            "simple_definition": "Information Technology Grade 12 ~ Student Textbook 99 UNIT-3 Database Management System Part II: Code Writing Identify a data management problem which can be addressed by designing a database solution",
+            "deep_explanation": "Hints: You may work on a patient record management system, a farmer record management system, a school’s record management system, a business customer management system, a library management system, a hotel management system or any other problem in your surrounding that can be addressed through the design and implementation of database system",
+            "real_example": "Practical example of Information Technology Grade 12 ~ Studen from page 106.",
+            "common_confusion": "Students sometimes confuse Information Technology Grade 12 ~ Studen with adjacent topics in Chapter 3.",
+            "source_pages": "106",
+            "name_amharic": "Information Technology Grade 12 ~ Studen (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Information Technology Grade 12 ~ Student Textbook 99 UNIT-3 Database Management System Part II: Code Writing Identify a data management problem which can be addressed by designing a database solution (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Hints: You may work on a patient record management system, a farmer record management system, a school’s record management system, a business customer management system, a library management system, a hotel management system or any other problem in your surrounding that can be addressed through the design and implementation of database system — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 106 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

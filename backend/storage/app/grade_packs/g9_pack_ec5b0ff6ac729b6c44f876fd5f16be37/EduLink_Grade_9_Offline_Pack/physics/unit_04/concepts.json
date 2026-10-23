@@ -1,0 +1,93 @@
+{
+    "grade": 9,
+    "subject": "physics",
+    "unit_number": 4,
+    "unit_title": "Unit 4: Work, Energy, and Power",
+    "source_book": "G9 Physics",
+    "concepts": [
+        {
+            "id": "g9-physics-u04-c001",
+            "name": "SI Units and Conversions (Unit 4)",
+            "name_amharic": "የ SI ዩኒቶች (SI Units) እና ኮንቨርዥን (ምዕራፍ 4)",
+            "simple_definition": "SI Units and Conversions is a core topic in Grade 9 Physics covering essential principles on pages 121-160.",
+            "simple_definition_amharic": "የ SI ዩኒቶች (SI Units) እና ኮንቨርዥን በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 121-160 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of SI Units and Conversions. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 121-160.",
+            "deep_explanation_amharic": "የየ SI ዩኒቶች (SI Units) እና ኮንቨርዥን ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 121-160 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of SI Units and Conversions.",
+            "real_example_amharic": "በየ SI ዩኒቶች (SI Units) እና ኮንቨርዥን ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding SI Units and Conversions.",
+            "common_confusion_amharic": "በየ SI ዩኒቶች (SI Units) እና ኮንቨርዥን ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "121-160"
+        },
+        {
+            "id": "g9-physics-u04-c002",
+            "name": "Velocity and Acceleration (Unit 4)",
+            "name_amharic": "ቪሎሲቲ (Velocity) እና አክሰለሬሽን (Acceleration) (ምዕራፍ 4)",
+            "simple_definition": "Velocity and Acceleration is a core topic in Grade 9 Physics covering essential principles on pages 121-160.",
+            "simple_definition_amharic": "ቪሎሲቲ (Velocity) እና አክሰለሬሽን (Acceleration) በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 121-160 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Velocity and Acceleration. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 121-160.",
+            "deep_explanation_amharic": "የቪሎሲቲ (Velocity) እና አክሰለሬሽን (Acceleration) ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 121-160 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Velocity and Acceleration.",
+            "real_example_amharic": "በቪሎሲቲ (Velocity) እና አክሰለሬሽን (Acceleration) ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Velocity and Acceleration.",
+            "common_confusion_amharic": "በቪሎሲቲ (Velocity) እና አክሰለሬሽን (Acceleration) ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "121-160"
+        },
+        {
+            "id": "g9-physics-u04-c003",
+            "name": "Newton Laws of Motion (Unit 4)",
+            "name_amharic": "የኒውተን የሞሽን ሕጎች (Newton's Laws of Motion) (ምዕራፍ 4)",
+            "simple_definition": "Newton Laws of Motion is a core topic in Grade 9 Physics covering essential principles on pages 121-160.",
+            "simple_definition_amharic": "የኒውተን የሞሽን ሕጎች (Newton's Laws of Motion) በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 121-160 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Newton Laws of Motion. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 121-160.",
+            "deep_explanation_amharic": "የየኒውተን የሞሽን ሕጎች (Newton's Laws of Motion) ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 121-160 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Newton Laws of Motion.",
+            "real_example_amharic": "በየኒውተን የሞሽን ሕጎች (Newton's Laws of Motion) ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Newton Laws of Motion.",
+            "common_confusion_amharic": "በየኒውተን የሞሽን ሕጎች (Newton's Laws of Motion) ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "121-160"
+        },
+        {
+            "id": "g9-physics-u04-c004",
+            "name": "Work Energy and Power (Unit 4)",
+            "name_amharic": "ወርክ (Work)፣ ኢነርጂ (Energy) እና ፓወር (Power) (ምዕራፍ 4)",
+            "simple_definition": "Work Energy and Power is a core topic in Grade 9 Physics covering essential principles on pages 121-160.",
+            "simple_definition_amharic": "ወርክ (Work)፣ ኢነርጂ (Energy) እና ፓወር (Power) በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 121-160 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Work Energy and Power. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 121-160.",
+            "deep_explanation_amharic": "የወርክ (Work)፣ ኢነርጂ (Energy) እና ፓወር (Power) ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 121-160 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Work Energy and Power.",
+            "real_example_amharic": "በወርክ (Work)፣ ኢነርጂ (Energy) እና ፓወር (Power) ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Work Energy and Power.",
+            "common_confusion_amharic": "በወርክ (Work)፣ ኢነርጂ (Energy) እና ፓወር (Power) ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "121-160"
+        },
+        {
+            "id": "g9-physics-u04-c005",
+            "name": "Fluid Density and Pressure (Unit 4)",
+            "name_amharic": "የፍሉይድ (Fluid) ዴንሲቲ እና ፕሬሸር (Pressure) (ምዕራፍ 4)",
+            "simple_definition": "Fluid Density and Pressure is a core topic in Grade 9 Physics covering essential principles on pages 121-160.",
+            "simple_definition_amharic": "የፍሉይድ (Fluid) ዴንሲቲ እና ፕሬሸር (Pressure) በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 121-160 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Fluid Density and Pressure. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 121-160.",
+            "deep_explanation_amharic": "የየፍሉይድ (Fluid) ዴንሲቲ እና ፕሬሸር (Pressure) ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 121-160 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Fluid Density and Pressure.",
+            "real_example_amharic": "በየፍሉይድ (Fluid) ዴንሲቲ እና ፕሬሸር (Pressure) ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Fluid Density and Pressure.",
+            "common_confusion_amharic": "በየፍሉይድ (Fluid) ዴንሲቲ እና ፕሬሸር (Pressure) ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "121-160"
+        },
+        {
+            "id": "g9-physics-u04-c006",
+            "name": "SI Units and Conversions (Unit 4)",
+            "name_amharic": "የ SI ዩኒቶች (SI Units) እና ኮንቨርዥን (ምዕራፍ 4)",
+            "simple_definition": "SI Units and Conversions is a core topic in Grade 9 Physics covering essential principles on pages 121-160.",
+            "simple_definition_amharic": "የ SI ዩኒቶች (SI Units) እና ኮንቨርዥን በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 121-160 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of SI Units and Conversions. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 121-160.",
+            "deep_explanation_amharic": "የየ SI ዩኒቶች (SI Units) እና ኮንቨርዥን ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ፊዚክስ (Physics) መጽሐፍ ገጽ 121-160 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of SI Units and Conversions.",
+            "real_example_amharic": "በየ SI ዩኒቶች (SI Units) እና ኮንቨርዥን ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding SI Units and Conversions.",
+            "common_confusion_amharic": "በየ SI ዩኒቶች (SI Units) እና ኮንቨርዥን ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "121-160"
+        }
+    ]
+}

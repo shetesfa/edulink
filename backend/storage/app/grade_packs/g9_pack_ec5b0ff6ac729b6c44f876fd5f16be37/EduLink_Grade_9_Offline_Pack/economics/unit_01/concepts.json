@@ -1,0 +1,93 @@
+{
+    "grade": 9,
+    "subject": "economics",
+    "unit_number": 1,
+    "unit_title": "Unit 1: Introduction to Economics and Scarcity",
+    "source_book": "G9 Economics",
+    "concepts": [
+        {
+            "id": "g9-economics-u01-c001",
+            "name": "Scarcity and Opportunity Cost (Unit 1)",
+            "name_amharic": "ስካርሲቲ (Scarcity) እና ኦፖርቹኒቲ ኮስት (Opportunity Cost) (ምዕራፍ 1)",
+            "simple_definition": "Scarcity and Opportunity Cost is a core topic in Grade 9 Economics covering essential principles on pages 6-20.",
+            "simple_definition_amharic": "ስካርሲቲ (Scarcity) እና ኦፖርቹኒቲ ኮስት (Opportunity Cost) በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 6-20 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Scarcity and Opportunity Cost. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 6-20.",
+            "deep_explanation_amharic": "የስካርሲቲ (Scarcity) እና ኦፖርቹኒቲ ኮስት (Opportunity Cost) ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 6-20 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Scarcity and Opportunity Cost.",
+            "real_example_amharic": "በስካርሲቲ (Scarcity) እና ኦፖርቹኒቲ ኮስት (Opportunity Cost) ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Scarcity and Opportunity Cost.",
+            "common_confusion_amharic": "በስካርሲቲ (Scarcity) እና ኦፖርቹኒቲ ኮስት (Opportunity Cost) ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "6-20"
+        },
+        {
+            "id": "g9-economics-u01-c002",
+            "name": "Demand and Supply Theory (Unit 1)",
+            "name_amharic": "ዲማንድ (Demand) እና ሰፕላይ (Supply) ቲኦሪ (ምዕራፍ 1)",
+            "simple_definition": "Demand and Supply Theory is a core topic in Grade 9 Economics covering essential principles on pages 6-20.",
+            "simple_definition_amharic": "ዲማንድ (Demand) እና ሰፕላይ (Supply) ቲኦሪ በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 6-20 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Demand and Supply Theory. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 6-20.",
+            "deep_explanation_amharic": "የዲማንድ (Demand) እና ሰፕላይ (Supply) ቲኦሪ ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 6-20 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Demand and Supply Theory.",
+            "real_example_amharic": "በዲማንድ (Demand) እና ሰፕላይ (Supply) ቲኦሪ ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Demand and Supply Theory.",
+            "common_confusion_amharic": "በዲማንድ (Demand) እና ሰፕላይ (Supply) ቲኦሪ ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "6-20"
+        },
+        {
+            "id": "g9-economics-u01-c003",
+            "name": "Market Structures (Unit 1)",
+            "name_amharic": "ማርኬት ስትራክቸሮች (Market Structures) (ምዕራፍ 1)",
+            "simple_definition": "Market Structures is a core topic in Grade 9 Economics covering essential principles on pages 6-20.",
+            "simple_definition_amharic": "ማርኬት ስትራክቸሮች (Market Structures) በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 6-20 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Market Structures. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 6-20.",
+            "deep_explanation_amharic": "የማርኬት ስትራክቸሮች (Market Structures) ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 6-20 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Market Structures.",
+            "real_example_amharic": "በማርኬት ስትራክቸሮች (Market Structures) ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Market Structures.",
+            "common_confusion_amharic": "በማርኬት ስትራክቸሮች (Market Structures) ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "6-20"
+        },
+        {
+            "id": "g9-economics-u01-c004",
+            "name": "Scarcity and Opportunity Cost (Unit 1)",
+            "name_amharic": "ስካርሲቲ (Scarcity) እና ኦፖርቹኒቲ ኮስት (Opportunity Cost) (ምዕራፍ 1)",
+            "simple_definition": "Scarcity and Opportunity Cost is a core topic in Grade 9 Economics covering essential principles on pages 6-20.",
+            "simple_definition_amharic": "ስካርሲቲ (Scarcity) እና ኦፖርቹኒቲ ኮስት (Opportunity Cost) በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 6-20 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Scarcity and Opportunity Cost. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 6-20.",
+            "deep_explanation_amharic": "የስካርሲቲ (Scarcity) እና ኦፖርቹኒቲ ኮስት (Opportunity Cost) ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 6-20 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Scarcity and Opportunity Cost.",
+            "real_example_amharic": "በስካርሲቲ (Scarcity) እና ኦፖርቹኒቲ ኮስት (Opportunity Cost) ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Scarcity and Opportunity Cost.",
+            "common_confusion_amharic": "በስካርሲቲ (Scarcity) እና ኦፖርቹኒቲ ኮስት (Opportunity Cost) ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "6-20"
+        },
+        {
+            "id": "g9-economics-u01-c005",
+            "name": "Demand and Supply Theory (Unit 1)",
+            "name_amharic": "ዲማንድ (Demand) እና ሰፕላይ (Supply) ቲኦሪ (ምዕራፍ 1)",
+            "simple_definition": "Demand and Supply Theory is a core topic in Grade 9 Economics covering essential principles on pages 6-20.",
+            "simple_definition_amharic": "ዲማንድ (Demand) እና ሰፕላይ (Supply) ቲኦሪ በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 6-20 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Demand and Supply Theory. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 6-20.",
+            "deep_explanation_amharic": "የዲማንድ (Demand) እና ሰፕላይ (Supply) ቲኦሪ ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 6-20 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Demand and Supply Theory.",
+            "real_example_amharic": "በዲማንድ (Demand) እና ሰፕላይ (Supply) ቲኦሪ ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Demand and Supply Theory.",
+            "common_confusion_amharic": "በዲማንድ (Demand) እና ሰፕላይ (Supply) ቲኦሪ ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "6-20"
+        },
+        {
+            "id": "g9-economics-u01-c006",
+            "name": "Market Structures (Unit 1)",
+            "name_amharic": "ማርኬት ስትራክቸሮች (Market Structures) (ምዕራፍ 1)",
+            "simple_definition": "Market Structures is a core topic in Grade 9 Economics covering essential principles on pages 6-20.",
+            "simple_definition_amharic": "ማርኬት ስትራክቸሮች (Market Structures) በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 6-20 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Market Structures. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 6-20.",
+            "deep_explanation_amharic": "የማርኬት ስትራክቸሮች (Market Structures) ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ኢኮኖሚክስ (Economics) መጽሐፍ ገጽ 6-20 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Market Structures.",
+            "real_example_amharic": "በማርኬት ስትራክቸሮች (Market Structures) ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Market Structures.",
+            "common_confusion_amharic": "በማርኬት ስትራክቸሮች (Market Structures) ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "6-20"
+        }
+    ]
+}

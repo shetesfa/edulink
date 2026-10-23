@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "history",
+    "unit_number": 8,
+    "examples": [
+        {
+            "example_id": "g9-history-u08-we001",
+            "title": "Worked Example 1: Professional Solution for State Formation and Modernization in Ethiopia",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የState Formation and Modernization in Ethiopia ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 162-197.",
+            "problem_amharic": "ከገጽ 162-197 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "162-197"
+        }
+    ]
+}

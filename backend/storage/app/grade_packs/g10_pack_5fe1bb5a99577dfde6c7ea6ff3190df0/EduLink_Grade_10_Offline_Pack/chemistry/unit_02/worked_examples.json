@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "chemistry",
+    "unit_number": 2,
+    "worked_examples": [
+        {
+            "id": "g10-chemistry-u02-we001",
+            "title": "Worked Example 1: Important Inorganic Compounds",
+            "problem_statement": "Analyze the application of the topic explained on page 247.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 247.",
+            "source_page": "247"
+        },
+        {
+            "id": "g10-chemistry-u02-we002",
+            "title": "Worked Example 2: Important Inorganic Compounds",
+            "problem_statement": "Analyze the application of the topic explained on page 248.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 248.",
+            "source_page": "248"
+        }
+    ]
+}

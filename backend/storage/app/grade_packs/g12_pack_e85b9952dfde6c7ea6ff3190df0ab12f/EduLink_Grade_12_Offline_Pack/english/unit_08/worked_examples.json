@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "english",
+    "unit_number": 8,
+    "worked_examples": [
+        {
+            "id": "g12-english-u08-we001",
+            "title": "Worked Example 1: Unit 8: Media Literacy and Information Age",
+            "problem_statement": "Analyze the application of the topic explained on page 186.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 186.",
+            "source_page": "186"
+        },
+        {
+            "id": "g12-english-u08-we002",
+            "title": "Worked Example 2: Unit 8: Media Literacy and Information Age",
+            "problem_statement": "Analyze the application of the topic explained on page 187.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 187.",
+            "source_page": "187"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "biology",
+    "unit_number": 6,
+    "examples": [
+        {
+            "example_id": "g9-biology-u06-we001",
+            "title": "Worked Example 1: Professional Solution for Ecology and Environmental Conservation in Ethiopia",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የEcology and Environmental Conservation in Ethiopia ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 211-250.",
+            "problem_amharic": "ከገጽ 211-250 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "211-250"
+        }
+    ]
+}

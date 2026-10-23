@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "information_technology",
+    "unit_number": 1,
+    "worked_examples": [
+        {
+            "id": "g11-information_technology-u01-we001",
+            "title": "Worked Example 1: Information Systems and Databases",
+            "problem_statement": "Analyze the application of the topic explained on page 15.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 15.",
+            "source_page": "15"
+        },
+        {
+            "id": "g11-information_technology-u01-we002",
+            "title": "Worked Example 2: Information Systems and Databases",
+            "problem_statement": "Analyze the application of the topic explained on page 16.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 16.",
+            "source_page": "16"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "grade": 9,
+    "subject": "economics",
+    "source_book": "G9 Economics",
+    "total_pages_in_source": 250,
+    "units": [
+        {
+            "unit_number": 1,
+            "unit_title": "Unit 1: Introduction to Economics and Scarcity",
+            "status": "completed"
+        },
+        {
+            "unit_number": 2,
+            "unit_title": "Unit 2: Basic Economic Problems and Systems",
+            "status": "completed"
+        },
+        {
+            "unit_number": 3,
+            "unit_title": "Unit 3: Theory of Demand and Supply",
+            "status": "completed"
+        },
+        {
+            "unit_number": 4,
+            "unit_title": "Unit 4: Market Equilibrium and Price Elasticity",
+            "status": "completed"
+        },
+        {
+            "unit_number": 5,
+            "unit_title": "Unit 5: Theory of Production and Cost",
+            "status": "completed"
+        },
+        {
+            "unit_number": 6,
+            "unit_title": "Unit 6: Market Structures — Perfect Competition and Monopoly",
+            "status": "completed"
+        },
+        {
+            "unit_number": 7,
+            "unit_title": "Unit 7: Money, Banking, and Financial Institutions in Ethiopia",
+            "status": "completed"
+        },
+        {
+            "unit_number": 8,
+            "unit_title": "Unit 8: Economic Growth and Development in Ethiopia",
+            "status": "completed"
+        }
+    ]
+}

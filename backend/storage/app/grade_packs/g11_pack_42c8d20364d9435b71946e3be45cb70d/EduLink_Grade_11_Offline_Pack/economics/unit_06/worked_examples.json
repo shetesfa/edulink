@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "economics",
+    "unit_number": 6,
+    "worked_examples": [
+        {
+            "id": "g11-economics-u06-we001",
+            "title": "Worked Example 1: International Trade and Balance of Payments",
+            "problem_statement": "Analyze the application of the topic explained on page 155.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 155.",
+            "source_page": "155"
+        },
+        {
+            "id": "g11-economics-u06-we002",
+            "title": "Worked Example 2: International Trade and Balance of Payments",
+            "problem_statement": "Analyze the application of the topic explained on page 156.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 156.",
+            "source_page": "156"
+        }
+    ]
+}

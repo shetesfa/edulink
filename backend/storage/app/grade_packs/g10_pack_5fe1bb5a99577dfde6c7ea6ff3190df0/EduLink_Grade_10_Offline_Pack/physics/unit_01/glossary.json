@@ -1,0 +1,37 @@
+{
+    "grade": 10,
+    "subject": "physics",
+    "unit_number": 1,
+    "glossary": [
+        {
+            "term": "Vector Quantity",
+            "definition": "A vector quantity is a physical quantity that has both magnitude and direction.",
+            "source_page": "7-12"
+        },
+        {
+            "term": "2 Unit 1 Vector Quantities 1.1 Scalars A",
+            "definition": "2 Unit 1 Vector Quantities 1.1 Scalars and Vectors Exercise 1.1 \u001f From what you learnt in grade 9, what do you think are the differences between vectors and scalars? By the end of this section, you should be able to: • deﬁne scalar and vector quantities; • describe the difference between vector and scalar quantities; • list some scalar and vector quantities",
+            "source_page": "8"
+        },
+        {
+            "term": "1.2 Vector Representations 3 Section Sum",
+            "definition": "1.2 Vector representations 3 Section summary • In physics, you deal generally with two kinds of quantities: scalars and vectors",
+            "source_page": "9"
+        },
+        {
+            "term": "4 Unit 1 Vector Quantities The Symbol Th",
+            "definition": "4 Unit 1 Vector Quantities the symbol that denotes the vector; so, you can write equivalently that S ≡|S|",
+            "source_page": "10"
+        },
+        {
+            "term": "1.2 Vector Representations 5 3",
+            "definition": "1.2 Vector representations 5 3",
+            "source_page": "11"
+        },
+        {
+            "term": "6 Unit 1 Vector Quantities Review Questi",
+            "definition": "6 Unit 1 Vector Quantities Review questions 1",
+            "source_page": "12"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "chemistry",
+    "unit_number": 4,
+    "worked_examples": [
+        {
+            "id": "g11-chemistry-u04-we001",
+            "title": "Worked Example 1: Chemical Kinetics",
+            "problem_statement": "Analyze the application of the topic explained on page 203.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 203.",
+            "source_page": "203"
+        },
+        {
+            "id": "g11-chemistry-u04-we002",
+            "title": "Worked Example 2: Chemical Kinetics",
+            "problem_statement": "Analyze the application of the topic explained on page 204.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 204.",
+            "source_page": "204"
+        }
+    ]
+}

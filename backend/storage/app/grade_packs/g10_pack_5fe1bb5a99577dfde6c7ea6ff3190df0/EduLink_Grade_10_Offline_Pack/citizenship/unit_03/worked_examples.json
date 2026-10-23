@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "citizenship",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g10-citizenship-u03-we001",
+            "title": "Worked Example 1: Human Rights and Liberties",
+            "problem_statement": "Analyze the application of the topic explained on page 66.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 66.",
+            "source_page": "66"
+        },
+        {
+            "id": "g10-citizenship-u03-we002",
+            "title": "Worked Example 2: Human Rights and Liberties",
+            "problem_statement": "Analyze the application of the topic explained on page 67.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 67.",
+            "source_page": "67"
+        }
+    ]
+}

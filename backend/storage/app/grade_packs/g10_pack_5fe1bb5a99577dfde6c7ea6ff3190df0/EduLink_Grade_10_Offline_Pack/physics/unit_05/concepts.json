@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "physics",
+    "unit_number": 5,
+    "unit_title": "Simple Machines",
+    "source_book": "G10 Physics",
+    "concepts": [
+        {
+            "id": "g10-physics-u05-c001",
+            "name": "Mechanical Advantage",
+            "simple_definition": "Mechanical advantage is the factor by which a machine multiplies the input force.",
+            "deep_explanation": "MA = Load \/ Effort. An ideal machine has IMA based on geometry, while actual MA accounts for friction.",
+            "real_example": "Using a crowbar to lift a heavy rock requires less effort because the crowbar multiplies your input force.",
+            "common_confusion": "Thinking efficiency can exceed 100% due to mechanical advantage. Friction always makes efficiency less than 100%.",
+            "source_pages": "157-162",
+            "name_amharic": "ሜካኒካል አድቫንቴጅ",
+            "simple_definition_amharic": "ሜካኒካል አድቫንቴጅ ማለት አንድ ቀላል ማሽን ጉልበትን የሚያባዛበት መጠን ነው።",
+            "deep_explanation_amharic": "MA = Load \/ Effort ነው። ተስማሚ ማሽን (ideal machine) ላይ ከጂኦሜትሪው የሚሰላ ሲሆን፣ ትክክለኛው MA ግን ፍጥጫን ያካትታል።",
+            "real_example_amharic": "በብረት ማንሻ ከባድ ድንጋይን ማንሳት አነስተኛ ጉልበት ይጠይቃል፤ ምክንያቱም ማንሻው የሰጡትን ጉልበት ያባዛዋል።",
+            "common_confusion_amharic": "ሜካኒካል አድቫንቴጅ ስላለው ብቻ የማሽን ብቃት ከ 100% በላይ ሊሆን ይችላል ብሎ ማሰብ። ፍጥጫ ሁልጊዜ ብቃቱን ይቀንሰዋል።"
+        },
+        {
+            "id": "g10-physics-u05-c002",
+            "name": "152 Unit 5 Magnetism 5.1 Magnet Exercise",
+            "simple_definition": "152 Unit 5 Magnetism 5.1 Magnet Exercise 5.1 Most probably, you have been familiar with a magnet",
+            "deep_explanation": "How could you deﬁne it? When was a magnet ﬁrst discovered? By the end of this section, you should be able to: • identify various types of magnets based on their physical shapes; • describe the properties of magnets",
+            "real_example": "Practical example of 152 Unit 5 Magnetism 5.1 Magnet Exercise from page 158.",
+            "common_confusion": "Students sometimes confuse 152 Unit 5 Magnetism 5.1 Magnet Exercise with adjacent topics in Chapter 5.",
+            "source_pages": "158",
+            "name_amharic": "152 Unit 5 Magnetism 5.1 Magnet Exercise (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 152 Unit 5 Magnetism 5.1 Magnet Exercise 5.1 Most probably, you have been familiar with a magnet (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] How could you deﬁne it? When was a magnet ﬁrst discovered? By the end of this section, you should be able to: • identify various types of magnets based on their physical shapes; • describe the properties of magnets — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 158 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u05-c003",
+            "name": "5.1 Magnet 153 Depends On The Nature Of ",
+            "simple_definition": "5.1 Magnet 153 depends on the nature of the material used in its creation",
+            "deep_explanation": "Perma- nent magnets are used in speakers, mobile phones, cars, generators, televisions, sensors, etc",
+            "real_example": "Practical example of 5.1 Magnet 153 depends on the nature of  from page 159.",
+            "common_confusion": "Students sometimes confuse 5.1 Magnet 153 depends on the nature of  with adjacent topics in Chapter 5.",
+            "source_pages": "159",
+            "name_amharic": "5.1 Magnet 153 depends on the nature of  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 5.1 Magnet 153 depends on the nature of the material used in its creation (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Perma- nent magnets are used in speakers, mobile phones, cars, generators, televisions, sensors, etc — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 159 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u05-c004",
+            "name": "154 Unit 5 Magnetism Figure 5.2 Properti",
+            "simple_definition": "154 Unit 5 Magnetism Figure 5.2 Properties of magnetic poles",
+            "deep_explanation": "• Whenever a magnet is suspended freely in mid-air, it always points in a North-South direction",
+            "real_example": "Practical example of 154 Unit 5 Magnetism Figure 5.2 Properti from page 160.",
+            "common_confusion": "Students sometimes confuse 154 Unit 5 Magnetism Figure 5.2 Properti with adjacent topics in Chapter 5.",
+            "source_pages": "160",
+            "name_amharic": "154 Unit 5 Magnetism Figure 5.2 Properti (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 154 Unit 5 Magnetism Figure 5.2 Properties of magnetic poles (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] • Whenever a magnet is suspended freely in mid-air, it always points in a North-South direction — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 160 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u05-c005",
+            "name": "5.2 Magnetic Field 155 Review Questions ",
+            "simple_definition": "5.2 Magnetic Field 155 Review questions 1",
+            "deep_explanation": "What is a magnet? List its properties",
+            "real_example": "Practical example of 5.2 Magnetic Field 155 Review questions  from page 161.",
+            "common_confusion": "Students sometimes confuse 5.2 Magnetic Field 155 Review questions  with adjacent topics in Chapter 5.",
+            "source_pages": "161",
+            "name_amharic": "5.2 Magnetic Field 155 Review questions  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 5.2 Magnetic Field 155 Review questions 1 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] What is a magnet? List its properties — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 161 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-physics-u05-c006",
+            "name": "156 Unit 5 Magnetism Direction In Which ",
+            "simple_definition": "156 Unit 5 Magnetism direction in which the compass needle points and mark the direction",
+            "deep_explanation": "Move the compass needle to different positions and mark the directions",
+            "real_example": "Practical example of 156 Unit 5 Magnetism direction in which  from page 162.",
+            "common_confusion": "Students sometimes confuse 156 Unit 5 Magnetism direction in which  with adjacent topics in Chapter 5.",
+            "source_pages": "162",
+            "name_amharic": "156 Unit 5 Magnetism direction in which  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 156 Unit 5 Magnetism direction in which the compass needle points and mark the direction (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Move the compass needle to different positions and mark the directions — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 162 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

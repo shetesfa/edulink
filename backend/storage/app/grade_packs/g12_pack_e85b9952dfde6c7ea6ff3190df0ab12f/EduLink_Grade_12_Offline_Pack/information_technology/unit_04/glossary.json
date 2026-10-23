@@ -1,0 +1,37 @@
+{
+    "grade": 12,
+    "subject": "information_technology",
+    "unit_number": 4,
+    "glossary": [
+        {
+            "term": "Information Technology Grade 12 ~ Studen",
+            "definition": "Information Technology Grade 12 ~ Student Textbook 177 UNIT-6 Fundamentals of Programming Notes   Any statement that is preceded by the hash symbol (#) is a comment and ignored by the Python interpreter",
+            "source_page": "184"
+        },
+        {
+            "term": "Information Technology Grade 12 ~ Studen",
+            "definition": "Information Technology Grade 12 ~ Student Textbook 178 UNIT-6 Fundamentals of Programming Activity 6.8 • What is the output of the program in Figure 6.10? 6.1.2 Loops or Iteration Program Flow Controls Brainstorming 6.3   How do you represent 1 to 10 by repeating some pattern? Most of real-world problems include some action that is repeated several number of times",
+            "source_page": "185"
+        },
+        {
+            "term": "Information Technology Grade 12 ~ Studen",
+            "definition": "Information Technology Grade 12 ~ Student Textbook 179 UNIT-6 Fundamentals of Programming Syntax: for variable_name in sequence :     statement_1     statement_2     [....] Figure 6",
+            "source_page": "186"
+        },
+        {
+            "term": "Information Technology Grade 12 ~ Studen",
+            "definition": "Information Technology Grade 12 ~ Student Textbook 180 UNIT-6 Fundamentals of Programming Python script Output on IDLE Shell Figure 6",
+            "source_page": "187"
+        },
+        {
+            "term": "Information Technology Grade 12 ~ Studen",
+            "definition": "Information Technology Grade 12 ~ Student Textbook 181 UNIT-6 Fundamentals of Programming range(x, y, z): This generates a sequence of numbers from x to y excluding y, incrementing by z",
+            "source_page": "188"
+        },
+        {
+            "term": "Information Technology Grade 12 ~ Studen",
+            "definition": "Information Technology Grade 12 ~ Student Textbook 182 UNIT-6 Fundamentals of Programming The for loop program in Figure 6.16 is condition controlled",
+            "source_page": "189"
+        }
+    ]
+}

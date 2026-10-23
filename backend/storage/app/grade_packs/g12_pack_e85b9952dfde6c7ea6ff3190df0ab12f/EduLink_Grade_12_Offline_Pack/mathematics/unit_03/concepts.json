@@ -1,0 +1,93 @@
+{
+    "grade": 12,
+    "subject": "mathematics",
+    "unit_number": 3,
+    "unit_title": "Introduction to Differential Calculus",
+    "source_book": "G12 Mathematics",
+    "concepts": [
+        {
+            "id": "g12-mathematics-u03-c001",
+            "name": "Derivative",
+            "simple_definition": "The derivative measures the instantaneous rate of change of a function, representing the slope of the tangent line.",
+            "deep_explanation": "Mathematically, f'(x) = lim (h->0) [f(x+h) - f(x)] \/ h. Rules like Power Rule, Product Rule, and Chain Rule are used for fast computation.",
+            "real_example": "The derivative of f(x) = x² is f'(x) = 2x, representing the slope at any point x.",
+            "common_confusion": "Thinking a function is differentiable everywhere. Functions are not differentiable at sharp corners, vertical tangents, or discontinuities.",
+            "source_pages": "154-160",
+            "name_amharic": "ዲሪቬቲቭ (Derivative)",
+            "simple_definition_amharic": "ዲሪቬቲቭ ማለት የአንድ ፈንክሽን ቅጽበታዊ የለውጥ መጠን ሲሆን፣ የታንጀንት መስመሩን ስሎፕ ይወክላል።",
+            "deep_explanation_amharic": "የዲሪቬቲቭ ቀመር f'(x) = lim (h->0) [f(x+h) - f(x)] \/ h ነው። እንደ ፖወር ሩል ያሉ ደንቦችን በመጠቀም በቀላሉ ይሰላል።",
+            "real_example_amharic": "የ f(x) = x² ዲሪቬቲቭ f'(x) = 2x ነው፣ ይህም በማንኛውም የ x እሴት ላይ ያለውን ስሎፕ ያሳያል።",
+            "common_confusion_amharic": "ፈንክሽን በሁሉም ነጥብ ላይ ዲሪቬቲቭ አለው ብሎ ማሰብ። በሹል ማዕዘኖች ላይ ዲሪቬቲቭ የለውም።"
+        },
+        {
+            "id": "g12-mathematics-u03-c002",
+            "name": "Important Core Curriculum Concepts And A",
+            "simple_definition": "Important core curriculum concepts and academic objectives for Introduction to Differential Calculus in Grade 12.",
+            "deep_explanation": "Detailed academic explanation of Introduction to Differential Calculus.",
+            "real_example": "Practical example of Important core curriculum concepts and a from page 131.",
+            "common_confusion": "Students sometimes confuse Important core curriculum concepts and a with adjacent topics in Chapter 3.",
+            "source_pages": "131",
+            "name_amharic": "Important core curriculum concepts and a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Important core curriculum concepts and academic objectives for Introduction to Differential Calculus in Grade 12. (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Detailed academic explanation of Introduction to Differential Calculus. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 131 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-mathematics-u03-c003",
+            "name": "Important Core Curriculum Concepts And A",
+            "simple_definition": "Important core curriculum concepts and academic objectives for Introduction to Differential Calculus in Grade 12.",
+            "deep_explanation": "Detailed academic explanation of Introduction to Differential Calculus.",
+            "real_example": "Practical example of Important core curriculum concepts and a from page 131.",
+            "common_confusion": "Students sometimes confuse Important core curriculum concepts and a with adjacent topics in Chapter 3.",
+            "source_pages": "131",
+            "name_amharic": "Important core curriculum concepts and a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Important core curriculum concepts and academic objectives for Introduction to Differential Calculus in Grade 12. (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Detailed academic explanation of Introduction to Differential Calculus. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 131 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-mathematics-u03-c004",
+            "name": "Important Core Curriculum Concepts And A",
+            "simple_definition": "Important core curriculum concepts and academic objectives for Introduction to Differential Calculus in Grade 12.",
+            "deep_explanation": "Detailed academic explanation of Introduction to Differential Calculus.",
+            "real_example": "Practical example of Important core curriculum concepts and a from page 131.",
+            "common_confusion": "Students sometimes confuse Important core curriculum concepts and a with adjacent topics in Chapter 3.",
+            "source_pages": "131",
+            "name_amharic": "Important core curriculum concepts and a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Important core curriculum concepts and academic objectives for Introduction to Differential Calculus in Grade 12. (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Detailed academic explanation of Introduction to Differential Calculus. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 131 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-mathematics-u03-c005",
+            "name": "Important Core Curriculum Concepts And A",
+            "simple_definition": "Important core curriculum concepts and academic objectives for Introduction to Differential Calculus in Grade 12.",
+            "deep_explanation": "Detailed academic explanation of Introduction to Differential Calculus.",
+            "real_example": "Practical example of Important core curriculum concepts and a from page 131.",
+            "common_confusion": "Students sometimes confuse Important core curriculum concepts and a with adjacent topics in Chapter 3.",
+            "source_pages": "131",
+            "name_amharic": "Important core curriculum concepts and a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Important core curriculum concepts and academic objectives for Introduction to Differential Calculus in Grade 12. (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Detailed academic explanation of Introduction to Differential Calculus. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 131 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g12-mathematics-u03-c006",
+            "name": "Important Core Curriculum Concepts And A",
+            "simple_definition": "Important core curriculum concepts and academic objectives for Introduction to Differential Calculus in Grade 12.",
+            "deep_explanation": "Detailed academic explanation of Introduction to Differential Calculus.",
+            "real_example": "Practical example of Important core curriculum concepts and a from page 131.",
+            "common_confusion": "Students sometimes confuse Important core curriculum concepts and a with adjacent topics in Chapter 3.",
+            "source_pages": "131",
+            "name_amharic": "Important core curriculum concepts and a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Important core curriculum concepts and academic objectives for Introduction to Differential Calculus in Grade 12. (ይህ ትርጓሜ በኢትዮጵያ የ12ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Detailed academic explanation of Introduction to Differential Calculus. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 131 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

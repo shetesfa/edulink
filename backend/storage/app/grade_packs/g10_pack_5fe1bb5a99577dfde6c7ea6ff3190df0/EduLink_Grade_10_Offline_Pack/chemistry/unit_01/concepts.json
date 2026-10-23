@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "chemistry",
+    "unit_number": 1,
+    "unit_title": "Introduction to Organic Chemistry",
+    "source_book": "G10 Chemistry",
+    "concepts": [
+        {
+            "id": "g10-chemistry-u01-c001",
+            "name": "Organic Chemistry",
+            "simple_definition": "Organic chemistry is the scientific study of carbon-based compounds, their structures, and reactions.",
+            "deep_explanation": "Carbon can form four covalent bonds, allowing it to create complex chains and rings (catenation). Most organic compounds contain carbon and hydrogen.",
+            "real_example": "Methane (CH4) and ethanol (C2H5OH) are basic organic chemical compounds.",
+            "common_confusion": "Thinking all carbon compounds are organic. CO2 and carbonates are classified as inorganic.",
+            "source_pages": "174-178",
+            "name_amharic": "ኦርጋኒክ ኬሚስትሪ",
+            "simple_definition_amharic": "ኦርጋኒክ ኬሚስትሪ ማለት በካርቦን ላይ የተመሰረቱ ውህዶችን፣ አወቃቀራቸውን እና ግብረመልሳቸውን የሚያጠና የሳይንስ ዘርፍ ነው።",
+            "deep_explanation_amharic": "ካርቦን አራት የጋራ ኤሌክትሮን ትስስር (covalent bonds) መሥራት የሚችል ሲሆን ረጅም ሰንሰለቶችን መፍጠር ይችላል።",
+            "real_example_amharic": "ሜቴን (CH4) እና ኢታኖል (C2H5OH) መሠረታዊ ኦርጋኒክ ውህዶች ናቸው።",
+            "common_confusion_amharic": "ሁሉም የካርቦን ውህዶች ኦርጋኒክ ናቸው ብሎ ማሰብ። CO2 እና ካርቦኔቶች ኢንኦርጋኒክ ናቸው።"
+        },
+        {
+            "id": "g10-chemistry-u01-c002",
+            "name": "169 Energy Changes And Electrochemistry ",
+            "simple_definition": "169 Energy Changes and Electrochemistry Note that the total energy of the universe remains constant",
+            "deep_explanation": "When the system loses a certain amount of energy, the surrounding gains the same amount of energy",
+            "real_example": "Practical example of 169 Energy Changes and Electrochemistry  from page 175.",
+            "common_confusion": "Students sometimes confuse 169 Energy Changes and Electrochemistry  with adjacent topics in Chapter 1.",
+            "source_pages": "175",
+            "name_amharic": "169 Energy Changes and Electrochemistry  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 169 Energy Changes and Electrochemistry Note that the total energy of the universe remains constant (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] When the system loses a certain amount of energy, the surrounding gains the same amount of energy — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 175 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-chemistry-u01-c003",
+            "name": "From Your Discussion On Activity 4.2, Yo",
+            "simple_definition": "From your discussion on Activity 4.2, you can conclude that reactions that cause the surrounding to heat up are called heat releasing reactions and the process is exothermic",
+            "deep_explanation": "Reactions that take up energy from the surrounding such as the reaction flask are called heat absorbing and the process is endothermic",
+            "real_example": "Practical example of From your discussion on Activity 4.2, yo from page 176.",
+            "common_confusion": "Students sometimes confuse From your discussion on Activity 4.2, yo with adjacent topics in Chapter 1.",
+            "source_pages": "176",
+            "name_amharic": "From your discussion on Activity 4.2, yo (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] From your discussion on Activity 4.2, you can conclude that reactions that cause the surrounding to heat up are called heat releasing reactions and the process is exothermic (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Reactions that take up energy from the surrounding such as the reaction flask are called heat absorbing and the process is endothermic — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 176 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-chemistry-u01-c004",
+            "name": "171 Energy Changes And Electrochemistry ",
+            "simple_definition": "171 Energy Changes and Electrochemistry Reactions like this are described as being endothermic (from the Greek endo meaning within)",
+            "deep_explanation": "To study whether the energy being released or absorbed during a chemical reaction, we need to set the temperature and pressure constant",
+            "real_example": "Practical example of 171 Energy Changes and Electrochemistry  from page 177.",
+            "common_confusion": "Students sometimes confuse 171 Energy Changes and Electrochemistry  with adjacent topics in Chapter 1.",
+            "source_pages": "177",
+            "name_amharic": "171 Energy Changes and Electrochemistry  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 171 Energy Changes and Electrochemistry Reactions like this are described as being endothermic (from the Greek endo meaning within) (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] To study whether the energy being released or absorbed during a chemical reaction, we need to set the temperature and pressure constant — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 177 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-chemistry-u01-c005",
+            "name": "Example, A Substance With A Low Heat Cap",
+            "simple_definition": "example, a substance with a low heat capacity, such as iron, will heat and cool quickly, while a substance with a high heat capacity, such as water, heats and cools slowly",
+            "deep_explanation": "A related property is specific heat capacity (c)",
+            "real_example": "Practical example of example, a substance with a low heat cap from page 178.",
+            "common_confusion": "Students sometimes confuse example, a substance with a low heat cap with adjacent topics in Chapter 1.",
+            "source_pages": "178",
+            "name_amharic": "example, a substance with a low heat cap (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] example, a substance with a low heat capacity, such as iron, will heat and cool quickly, while a substance with a high heat capacity, such as water, heats and cools slowly (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] A related property is specific heat capacity (c) — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 178 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-chemistry-u01-c006",
+            "name": "173 Energy Changes And Electrochemistry ",
+            "simple_definition": "173 Energy Changes and Electrochemistry 4.1.2 Importance of Chemical Changes At the end of this section, students will be able to discuss the importance of chemical changes in the production of new substances and energy",
+            "deep_explanation": "Discuss the importance of chemical changes in your life process",
+            "real_example": "Practical example of 173 Energy Changes and Electrochemistry  from page 179.",
+            "common_confusion": "Students sometimes confuse 173 Energy Changes and Electrochemistry  with adjacent topics in Chapter 1.",
+            "source_pages": "179",
+            "name_amharic": "173 Energy Changes and Electrochemistry  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] 173 Energy Changes and Electrochemistry 4.1.2 Importance of Chemical Changes At the end of this section, students will be able to discuss the importance of chemical changes in the production of new substances and energy (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Discuss the importance of chemical changes in your life process — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 179 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

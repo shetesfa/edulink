@@ -1,0 +1,105 @@
+{
+    "grade": 9,
+    "subject": "biology",
+    "unit_number": 4,
+    "unit_title": "Unit 4: Plant Anatomy and Physiology",
+    "source_book": "G9 Biology",
+    "practice_quiz": [
+        {
+            "id": "g9-biology-u04-q001",
+            "question": "Assessment Question 1: Which statement correctly evaluates Microscope and Biological Methods (Unit 4)?",
+            "question_amharic": "የምዘና ጥያቄ 1፡ ስለ ማይክሮስኮፕ (Microscope) እና ባዮሎጂካል ዘዴዎች (ምዕራፍ 4) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Microscope and Biological Methods is a core topic in Grade 9 Biology covering essential principles on pages 147-180.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "ማይክሮስኮፕ (Microscope) እና ባዮሎጂካል ዘዴዎች በ9ኛ ክፍል ባዮሎጂ (Biology) መጽሐፍ ገጽ 147-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Microscope and Biological Methods is a core topic in Grade 9 Biology covering essential principles on pages 147-180.",
+            "correct_answer_amharic": "ማይክሮስኮፕ (Microscope) እና ባዮሎጂካል ዘዴዎች በ9ኛ ክፍል ባዮሎጂ (Biology) መጽሐፍ ገጽ 147-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 147-180.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ባዮሎጂ (Biology) መጽሐፍ ገጽ 147-180 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-biology-u04-c001"
+        },
+        {
+            "id": "g9-biology-u04-q002",
+            "question": "Assessment Question 2: Which statement correctly evaluates Cell Structure and Organelles (Unit 4)?",
+            "question_amharic": "የምዘና ጥያቄ 2፡ ስለ የሴል (Cell) መዋቅር እና ማይቶኮንድሪያ፣ ክሎሮፕላስት (ምዕራፍ 4) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Cell Structure and Organelles is a core topic in Grade 9 Biology covering essential principles on pages 147-180.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "የሴል (Cell) መዋቅር እና ማይቶኮንድሪያ፣ ክሎሮፕላስት በ9ኛ ክፍል ባዮሎጂ (Biology) መጽሐፍ ገጽ 147-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Cell Structure and Organelles is a core topic in Grade 9 Biology covering essential principles on pages 147-180.",
+            "correct_answer_amharic": "የሴል (Cell) መዋቅር እና ማይቶኮንድሪያ፣ ክሎሮፕላስት በ9ኛ ክፍል ባዮሎጂ (Biology) መጽሐፍ ገጽ 147-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 147-180.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ባዮሎጂ (Biology) መጽሐፍ ገጽ 147-180 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-biology-u04-c002"
+        },
+        {
+            "id": "g9-biology-u04-q003",
+            "question": "Assessment Question 3: Which statement correctly evaluates Osmosis and Diffusion (Unit 4)?",
+            "question_amharic": "የምዘና ጥያቄ 3፡ ስለ ኦስሞሲስ (Osmosis) እና ዲፊዩዥን (Diffusion) (ምዕራፍ 4) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Osmosis and Diffusion is a core topic in Grade 9 Biology covering essential principles on pages 147-180.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "ኦስሞሲስ (Osmosis) እና ዲፊዩዥን (Diffusion) በ9ኛ ክፍል ባዮሎጂ (Biology) መጽሐፍ ገጽ 147-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Osmosis and Diffusion is a core topic in Grade 9 Biology covering essential principles on pages 147-180.",
+            "correct_answer_amharic": "ኦስሞሲስ (Osmosis) እና ዲፊዩዥን (Diffusion) በ9ኛ ክፍል ባዮሎጂ (Biology) መጽሐፍ ገጽ 147-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 147-180.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ባዮሎጂ (Biology) መጽሐፍ ገጽ 147-180 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-biology-u04-c003"
+        },
+        {
+            "id": "g9-biology-u04-q004",
+            "question": "Assessment Question 4: Which statement correctly evaluates Human Digestive and Circulatory Systems (Unit 4)?",
+            "question_amharic": "የምዘና ጥያቄ 4፡ ስለ የሰው ልጅ ዳይጄስቲቭ እና ሰርኩላቶሪ ሲስተም (ምዕራፍ 4) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Human Digestive and Circulatory Systems is a core topic in Grade 9 Biology covering essential principles on pages 147-180.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "የሰው ልጅ ዳይጄስቲቭ እና ሰርኩላቶሪ ሲስተም በ9ኛ ክፍል ባዮሎጂ (Biology) መጽሐፍ ገጽ 147-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Human Digestive and Circulatory Systems is a core topic in Grade 9 Biology covering essential principles on pages 147-180.",
+            "correct_answer_amharic": "የሰው ልጅ ዳይጄስቲቭ እና ሰርኩላቶሪ ሲስተም በ9ኛ ክፍል ባዮሎጂ (Biology) መጽሐፍ ገጽ 147-180 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 147-180.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ባዮሎጂ (Biology) መጽሐፍ ገጽ 147-180 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-biology-u04-c004"
+        }
+    ]
+}

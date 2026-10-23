@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "biology",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g11-biology-u03-we001",
+            "title": "Worked Example 1: Genetics, Ecology, and Evolution",
+            "problem_statement": "Analyze the application of the topic explained on page 85.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 85.",
+            "source_page": "85"
+        },
+        {
+            "id": "g11-biology-u03-we002",
+            "title": "Worked Example 2: Genetics, Ecology, and Evolution",
+            "problem_statement": "Analyze the application of the topic explained on page 86.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 86.",
+            "source_page": "86"
+        }
+    ]
+}

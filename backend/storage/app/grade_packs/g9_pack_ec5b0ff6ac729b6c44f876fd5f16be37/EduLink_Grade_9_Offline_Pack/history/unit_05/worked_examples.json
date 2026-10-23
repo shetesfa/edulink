@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "history",
+    "unit_number": 5,
+    "examples": [
+        {
+            "example_id": "g9-history-u05-we001",
+            "title": "Worked Example 1: Professional Solution for Peoples and States of Africa to 1500",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የPeoples and States of Africa to 1500 ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 92-111.",
+            "problem_amharic": "ከገጽ 92-111 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "92-111"
+        }
+    ]
+}

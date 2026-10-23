@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "english",
+    "unit_number": 9,
+    "worked_examples": [
+        {
+            "id": "g12-english-u09-we001",
+            "title": "Worked Example 1: Unit 9: Sustainable Tourism",
+            "problem_statement": "Analyze the application of the topic explained on page 221.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 221.",
+            "source_page": "221"
+        },
+        {
+            "id": "g12-english-u09-we002",
+            "title": "Worked Example 2: Unit 9: Sustainable Tourism",
+            "problem_statement": "Analyze the application of the topic explained on page 222.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 222.",
+            "source_page": "222"
+        }
+    ]
+}

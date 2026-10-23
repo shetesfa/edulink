@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "chemistry",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g10-chemistry-u03-we001",
+            "title": "Worked Example 1: Electrochemistry",
+            "problem_statement": "Analyze the application of the topic explained on page 207.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 207.",
+            "source_page": "207"
+        },
+        {
+            "id": "g10-chemistry-u03-we002",
+            "title": "Worked Example 2: Electrochemistry",
+            "problem_statement": "Analyze the application of the topic explained on page 208.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 208.",
+            "source_page": "208"
+        }
+    ]
+}

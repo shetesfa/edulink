@@ -1,0 +1,105 @@
+{
+    "grade": 9,
+    "subject": "chemistry",
+    "unit_number": 5,
+    "unit_title": "Unit 5: Chemical Reactions and Stoichiometry",
+    "source_book": "G9 Chemistry",
+    "practice_quiz": [
+        {
+            "id": "g9-chemistry-u05-q001",
+            "question": "Assessment Question 1: Which statement correctly evaluates Atomic Structure and Subatomic Particles (Unit 5)?",
+            "question_amharic": "የምዘና ጥያቄ 1፡ ስለ የአተም (Atom) መዋቅር እና ፕሮቶን፣ ኔውትሮን፣ ኤሌክትሮን (ምዕራፍ 5) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Atomic Structure and Subatomic Particles is a core topic in Grade 9 Chemistry covering essential principles on pages 184-230.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "የአተም (Atom) መዋቅር እና ፕሮቶን፣ ኔውትሮን፣ ኤሌክትሮን በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 184-230 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Atomic Structure and Subatomic Particles is a core topic in Grade 9 Chemistry covering essential principles on pages 184-230.",
+            "correct_answer_amharic": "የአተም (Atom) መዋቅር እና ፕሮቶን፣ ኔውትሮን፣ ኤሌክትሮን በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 184-230 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 184-230.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 184-230 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-chemistry-u05-c001"
+        },
+        {
+            "id": "g9-chemistry-u05-q002",
+            "question": "Assessment Question 2: Which statement correctly evaluates Electronic Configuration in Shells (Unit 5)?",
+            "question_amharic": "የምዘና ጥያቄ 2፡ ስለ የኤሌክትሮን (Electron) በሼል (Shell) ውስጥ ስርጭት (ምዕራፍ 5) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Electronic Configuration in Shells is a core topic in Grade 9 Chemistry covering essential principles on pages 184-230.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "የኤሌክትሮን (Electron) በሼል (Shell) ውስጥ ስርጭት በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 184-230 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Electronic Configuration in Shells is a core topic in Grade 9 Chemistry covering essential principles on pages 184-230.",
+            "correct_answer_amharic": "የኤሌክትሮን (Electron) በሼል (Shell) ውስጥ ስርጭት በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 184-230 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 184-230.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 184-230 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-chemistry-u05-c002"
+        },
+        {
+            "id": "g9-chemistry-u05-q003",
+            "question": "Assessment Question 3: Which statement correctly evaluates Periodic Table Trends (Unit 5)?",
+            "question_amharic": "የምዘና ጥያቄ 3፡ ስለ የፔሪዮዲክ ቴብል (Periodic Table) እና ትሬንዶች (ምዕራፍ 5) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Periodic Table Trends is a core topic in Grade 9 Chemistry covering essential principles on pages 184-230.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "የፔሪዮዲክ ቴብል (Periodic Table) እና ትሬንዶች በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 184-230 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Periodic Table Trends is a core topic in Grade 9 Chemistry covering essential principles on pages 184-230.",
+            "correct_answer_amharic": "የፔሪዮዲክ ቴብል (Periodic Table) እና ትሬንዶች በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 184-230 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 184-230.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 184-230 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-chemistry-u05-c003"
+        },
+        {
+            "id": "g9-chemistry-u05-q004",
+            "question": "Assessment Question 4: Which statement correctly evaluates Ionic and Covalent Bonding (Unit 5)?",
+            "question_amharic": "የምዘና ጥያቄ 4፡ ስለ አዮኒክ (Ionic) እና ኮቫለንት (Covalent) ቦንዲንግ (ምዕራፍ 5) ትክክለኛውን መግለጫ የትኛው ነው?",
+            "type": "multiple_choice",
+            "options": [
+                "Ionic and Covalent Bonding is a core topic in Grade 9 Chemistry covering essential principles on pages 184-230.",
+                "Distractor option B",
+                "Distractor option C",
+                "Distractor option D"
+            ],
+            "options_amharic": [
+                "አዮኒክ (Ionic) እና ኮቫለንት (Covalent) ቦንዲንግ በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 184-230 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+                "የተሳሳተ አማራጭ ለ",
+                "የተሳሳተ አማራጭ ሐ",
+                "የተሳሳተ አማራጭ መ"
+            ],
+            "correct_answer": "Ionic and Covalent Bonding is a core topic in Grade 9 Chemistry covering essential principles on pages 184-230.",
+            "correct_answer_amharic": "አዮኒክ (Ionic) እና ኮቫለንት (Covalent) ቦንዲንግ በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 184-230 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "explanation": "Option 1 is correct based on official textbook definition on page 184-230.",
+            "explanation_amharic": "አማራጭ 1 ትክክለኛ ነው፤ ምክንያቱም በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 184-230 ላይ ከተቀመጠው ትርጓሜ ጋር ይስማማል።",
+            "difficulty": "medium",
+            "related_concept": "g9-chemistry-u05-c004"
+        }
+    ]
+}

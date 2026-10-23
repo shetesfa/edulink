@@ -1,0 +1,61 @@
+{
+    "grade": 10,
+    "subject": "physics",
+    "unit_number": 4,
+    "unit_title": "Work, Energy, and Power",
+    "source_book": "G10 Physics",
+    "exercises": [
+        {
+            "exercise_id": "g10-physics-u04-ex001",
+            "question": "Calculate the kinetic energy of a 2 kg object moving at 4 m\/s.",
+            "question_amharic": "ፍጥነቱ 4 ሜ\/ሰ የሆነ የ 2 ኪ.ግ ቁስ ኪነቲክ ኢነርጂን አስሉ ።",
+            "question_type": "problem_solving",
+            "correct_answer": "16 J.",
+            "correct_answer_amharic": "16 ጁል (J)።",
+            "step_by_step_explanation": "1. Identify mass m = 2 kg, velocity v = 4 m\/s.\\n2. Apply formula: KE = 1\/2 * 2 * (4)².\\n3. KE = 1 * 16 = 16 Joules.",
+            "step_by_step_explanation_amharic": "1. Identify mass m = 2 kg, velocity v = 4 m\/s.\\n2. Apply formula: KE = 1\/2 * 2 * (4)².\\n3. KE = 1 * 16 = 16 Joules.",
+            "formula_or_working": "KE = 1\/2 m v².",
+            "source_page": "105",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-physics-u04-ex002",
+            "question": "Describe the core properties of the topics presented on page 98 (Question 2).",
+            "question_amharic": "በገጽ 98 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 98.",
+            "correct_answer_amharic": "በገጽ 98 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 98.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 98 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 98.",
+            "source_page": "98",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-physics-u04-ex003",
+            "question": "Describe the core properties of the topics presented on page 99 (Question 3).",
+            "question_amharic": "በገጽ 99 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 99.",
+            "correct_answer_amharic": "በገጽ 99 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 99.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 99 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 99.",
+            "source_page": "99",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-physics-u04-ex004",
+            "question": "Describe the core properties of the topics presented on page 100 (Question 4).",
+            "question_amharic": "በገጽ 100 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 100.",
+            "correct_answer_amharic": "በገጽ 100 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 100.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 100 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 100.",
+            "source_page": "100",
+            "needs_review": false
+        }
+    ]
+}

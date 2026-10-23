@@ -1,0 +1,37 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 5,
+    "glossary": [
+        {
+            "term": "Tangent To A Circle",
+            "definition": "A tangent is a straight line that touches the circle at exactly one point.",
+            "source_page": "260-264"
+        },
+        {
+            "term": "Circle 252 ✓ Circumference ✓ Sector ✓ Sy",
+            "definition": "Unit 5: Circle 252 ✓ circumference ✓ sector ✓ symmetry ✓ segment ✓ perimeter ✓ quadrilateral ✓ circle ✓ ratio ✓ triangle ✓ arc ✓ area ✓ angle Introduction You have learnt several concepts and principles in your lower grades",
+            "source_page": "261"
+        },
+        {
+            "term": "Circle 253 Or The Size Of The Correspond",
+            "definition": "Unit 5: Circle 253 or the size of the corresponding angle in the other half of the figure",
+            "source_page": "262"
+        },
+        {
+            "term": "Circle 254 Proof: Given: A Circle With C",
+            "definition": "Unit 5: Circle 254 Proof: Given: A circle with center 𝑂and a chord 𝑃𝑄̅ whose midpoint is 𝑀(see figure 5.4)",
+            "source_page": "263"
+        },
+        {
+            "term": "Circle 255 Characteristics Of Chord (1) ",
+            "definition": "Unit 5: Circle 255 Characteristics of Chord (1) Proof: Given: A circle with center 𝑂and 𝑂𝑁̅ is drawn from center 𝑂perpendicular to the chord 𝐴𝐵as shown in figure 5.6",
+            "source_page": "264"
+        },
+        {
+            "term": "Circle 256 Steps Statement Reason 1 𝐴𝑃= ",
+            "definition": "Unit 5: Circle 256 Steps Statement Reason 1 𝐴𝑃= 𝐴𝐵 2 , 𝐶𝑄= 𝐶𝐷 2 The perpendicular from the center bisects the chord 2 𝑚(∠𝐶𝑄𝑂) = m(∠𝐴𝑃𝑂) = 900 𝑂𝑃̅ ⊥𝐴𝐵̅ and 𝑂𝑄̅ ⊥𝐶𝐷̅ 3 𝑂𝐴̅ ≡𝑂𝐶̅ Radii of the same circle 4 𝐴𝐵̅ ≡𝐶𝐷̅ Given 5 𝛥OPA ≡𝛥OQC RHS postulate of congruency 6 OP̅ ≡OQ̅ From statement 5 In figure 5.8, a chord of a circle of radius 5 cm is 8 cm long",
+            "source_page": "265"
+        }
+    ]
+}

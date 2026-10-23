@@ -1,0 +1,38 @@
+{
+    "grade": 9,
+    "subject": "physics",
+    "source_book": "G9 Physics",
+    "total_pages_in_source": 250,
+    "units": [
+        {
+            "unit_number": 1,
+            "unit_title": "Unit 1: Physics and Human Society",
+            "status": "completed"
+        },
+        {
+            "unit_number": 2,
+            "unit_title": "Unit 2: Kinematics — Motion in a Straight Line",
+            "status": "completed"
+        },
+        {
+            "unit_number": 3,
+            "unit_title": "Unit 3: Dynamics — Forces and Newton Laws of Motion",
+            "status": "completed"
+        },
+        {
+            "unit_number": 4,
+            "unit_title": "Unit 4: Work, Energy, and Power",
+            "status": "completed"
+        },
+        {
+            "unit_number": 5,
+            "unit_title": "Unit 5: Simple Machines",
+            "status": "completed"
+        },
+        {
+            "unit_number": 6,
+            "unit_title": "Unit 6: Fluid Mechanics and Density",
+            "status": "completed"
+        }
+    ]
+}

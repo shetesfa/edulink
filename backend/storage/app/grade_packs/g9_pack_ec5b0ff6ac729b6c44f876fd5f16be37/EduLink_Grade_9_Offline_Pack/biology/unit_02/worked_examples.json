@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "biology",
+    "unit_number": 2,
+    "examples": [
+        {
+            "example_id": "g9-biology-u02-we001",
+            "title": "Worked Example 1: Professional Solution for Cell Biology and Transport Mechanisms",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የCell Biology and Transport Mechanisms ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 46-112.",
+            "problem_amharic": "ከገጽ 46-112 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "46-112"
+        }
+    ]
+}

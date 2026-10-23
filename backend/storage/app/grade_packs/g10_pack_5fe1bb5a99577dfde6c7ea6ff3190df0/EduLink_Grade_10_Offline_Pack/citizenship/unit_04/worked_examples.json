@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "citizenship",
+    "unit_number": 4,
+    "worked_examples": [
+        {
+            "id": "g10-citizenship-u04-we001",
+            "title": "Worked Example 1: Patriotism and National Interest",
+            "problem_statement": "Analyze the application of the topic explained on page 89.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 89.",
+            "source_page": "89"
+        },
+        {
+            "id": "g10-citizenship-u04-we002",
+            "title": "Worked Example 2: Patriotism and National Interest",
+            "problem_statement": "Analyze the application of the topic explained on page 90.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 90.",
+            "source_page": "90"
+        }
+    ]
+}

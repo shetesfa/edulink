@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "physics",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g10-physics-u03-we001",
+            "title": "Worked Example 1: Newton's Laws of Motion",
+            "problem_statement": "Analyze the application of the topic explained on page 65.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 65.",
+            "source_page": "65"
+        },
+        {
+            "id": "g10-physics-u03-we002",
+            "title": "Worked Example 2: Newton's Laws of Motion",
+            "problem_statement": "Analyze the application of the topic explained on page 66.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 66.",
+            "source_page": "66"
+        }
+    ]
+}

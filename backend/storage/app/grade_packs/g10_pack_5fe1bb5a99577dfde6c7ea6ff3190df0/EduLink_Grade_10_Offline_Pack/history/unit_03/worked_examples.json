@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "history",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g10-history-u03-we001",
+            "title": "Worked Example 1: Peoples and States of Ethiopia & Horn",
+            "problem_statement": "Analyze the application of the topic explained on page 53.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 53.",
+            "source_page": "53"
+        },
+        {
+            "id": "g10-history-u03-we002",
+            "title": "Worked Example 2: Peoples and States of Ethiopia & Horn",
+            "problem_statement": "Analyze the application of the topic explained on page 54.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 54.",
+            "source_page": "54"
+        }
+    ]
+}

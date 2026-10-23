@@ -1,0 +1,37 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 2,
+    "glossary": [
+        {
+            "term": "Polynomial Function",
+            "definition": "A polynomial function is a function of the form f(x) = a_n x^n + ... + a_1 x + a_0, where n is a non-negative integer.",
+            "source_page": "76-80"
+        },
+        {
+            "term": "Polynomial Functions 68 ✓ Linear Functio",
+            "definition": "Unit 2: Polynomial Functions 68 ✓ Linear function ✓ Domain ✓ Location Theorem ✓ Turning point ✓ x-intercept ✓ Zero(s) of polynomial ✓ Remainder theorem ✓ Polynomial Division Theorem ✓ y-intercept ✓ Factor theorem ✓ Polynomial Function ✓ Multiplicity ✓ Leading Coefficient ✓ Rational root test ✓ Degree ✓Constant function ✓ Constant term Introduction In unit one of this textbook, you saw functions of the form 𝑦= 𝑏, 𝑦= 𝑎𝑥+ 𝑏 and 𝑎𝑥2 + 𝑏𝑥+ 𝑐",
+            "source_page": "77"
+        },
+        {
+            "term": "Polynomial Functions 69 A Function 𝑓is A",
+            "definition": "Unit 2: Polynomial Functions 69 A function 𝑓is a constant function if it can be written in the form 𝑓(𝑥) = 𝑏, where 𝑏is a real number",
+            "source_page": "78"
+        },
+        {
+            "term": "Polynomial Functions 70 In The Above Def",
+            "definition": "Unit 2: Polynomial Functions 70 In the above definition of polynomial function i",
+            "source_page": "79"
+        },
+        {
+            "term": "Polynomial Functions 71 B",
+            "definition": "Unit 2: Polynomial Functions 71 b",
+            "source_page": "80"
+        },
+        {
+            "term": "Polynomial Functions 72 Determine If The",
+            "definition": "Unit 2: Polynomial Functions 72 Determine if the following are polynomial function or not",
+            "source_page": "81"
+        }
+    ]
+}

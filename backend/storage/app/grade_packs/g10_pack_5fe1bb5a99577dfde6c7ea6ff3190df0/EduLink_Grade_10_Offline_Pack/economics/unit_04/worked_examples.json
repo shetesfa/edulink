@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "economics",
+    "unit_number": 4,
+    "worked_examples": [
+        {
+            "id": "g10-economics-u04-we001",
+            "title": "Worked Example 1: Market Equilibrium & Elasticity",
+            "problem_statement": "Analyze the application of the topic explained on page 77.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 77.",
+            "source_page": "77"
+        },
+        {
+            "id": "g10-economics-u04-we002",
+            "title": "Worked Example 2: Market Equilibrium & Elasticity",
+            "problem_statement": "Analyze the application of the topic explained on page 78.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 78.",
+            "source_page": "78"
+        }
+    ]
+}

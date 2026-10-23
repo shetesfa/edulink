@@ -1,0 +1,62 @@
+{
+    "pack_id": "g10_pack_5fe1bb5a99577dfde6c7ea6ff3190df0",
+    "pack_name": "EduLink Grade 10 Offline Study Pack",
+    "grade": 10,
+    "version": "1.0.0-professional",
+    "imported_at": "2026-07-31 14:35:40",
+    "source_file": "EduLink_Grade_10_Offline_Pack_Generated.zip",
+    "extract_dir": "E:\/EduLink-Complete\/backend\/storage\/app\/grade_packs\/g10_pack_5fe1bb5a99577dfde6c7ea6ff3190df0\/EduLink_Grade_10_Offline_Pack",
+    "manifest": {
+        "pack_name": "EduLink Grade 10 Offline Study Pack",
+        "grade": 10,
+        "version": "1.0.0-professional",
+        "language": "Bilingual (Professional English & Standard Academic Amharic)",
+        "subjects": [
+            {
+                "key": "mathematics",
+                "source_book": "G10 Mathematics",
+                "status": "7_units_complete"
+            },
+            {
+                "key": "chemistry",
+                "source_book": "G10 Chemistry",
+                "status": "3_units_complete"
+            },
+            {
+                "key": "physics",
+                "source_book": "G10 Physics",
+                "status": "6_units_complete"
+            },
+            {
+                "key": "history",
+                "source_book": "G10 History",
+                "status": "9_units_complete"
+            },
+            {
+                "key": "economics",
+                "source_book": "G10 Economics",
+                "status": "8_units_complete"
+            },
+            {
+                "key": "citizenship",
+                "source_book": "G10 Citizenship",
+                "status": "8_units_complete"
+            },
+            {
+                "key": "information_technology",
+                "source_book": "G10 Information Technology",
+                "status": "6_units_complete"
+            },
+            {
+                "key": "geography",
+                "source_book": "G10 Geography",
+                "status": "6_units_complete"
+            },
+            {
+                "key": "physical_education",
+                "source_book": "G10 Physical Education",
+                "status": "5_units_complete"
+            }
+        ]
+    }
+}

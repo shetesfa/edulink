@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "biology",
+    "unit_number": 1,
+    "examples": [
+        {
+            "example_id": "g9-biology-u01-we001",
+            "title": "Worked Example 1: Professional Solution for Introduction to Biology and Microscope",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የIntroduction to Biology and Microscope ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 1-45.",
+            "problem_amharic": "ከገጽ 1-45 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "1-45"
+        }
+    ]
+}

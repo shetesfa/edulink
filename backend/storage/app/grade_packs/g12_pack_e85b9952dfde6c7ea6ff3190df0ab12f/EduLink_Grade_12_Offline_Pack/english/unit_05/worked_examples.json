@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "english",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g12-english-u05-we001",
+            "title": "Worked Example 1: Unit 5: Cultural Globalization and Identity",
+            "problem_statement": "Analyze the application of the topic explained on page 109.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 109.",
+            "source_page": "109"
+        },
+        {
+            "id": "g12-english-u05-we002",
+            "title": "Worked Example 2: Unit 5: Cultural Globalization and Identity",
+            "problem_statement": "Analyze the application of the topic explained on page 110.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 110.",
+            "source_page": "110"
+        }
+    ]
+}

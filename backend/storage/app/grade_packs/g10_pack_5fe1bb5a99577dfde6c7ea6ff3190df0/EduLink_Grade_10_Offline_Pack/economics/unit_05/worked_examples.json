@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "economics",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g10-economics-u05-we001",
+            "title": "Worked Example 1: Theory of Production and Cost",
+            "problem_statement": "Analyze the application of the topic explained on page 97.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 97.",
+            "source_page": "97"
+        },
+        {
+            "id": "g10-economics-u05-we002",
+            "title": "Worked Example 2: Theory of Production and Cost",
+            "problem_statement": "Analyze the application of the topic explained on page 98.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 98.",
+            "source_page": "98"
+        }
+    ]
+}

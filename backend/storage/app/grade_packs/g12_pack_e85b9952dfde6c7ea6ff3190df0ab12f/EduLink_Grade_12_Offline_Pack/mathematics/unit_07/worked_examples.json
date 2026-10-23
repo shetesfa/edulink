@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "mathematics",
+    "unit_number": 7,
+    "worked_examples": [
+        {
+            "id": "g12-mathematics-u07-we001",
+            "title": "Worked Example 1: Mathematical Proofs and Induction",
+            "problem_statement": "Analyze the application of the topic explained on page 396.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 396.",
+            "source_page": "396"
+        },
+        {
+            "id": "g12-mathematics-u07-we002",
+            "title": "Worked Example 2: Mathematical Proofs and Induction",
+            "problem_statement": "Analyze the application of the topic explained on page 396.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 396.",
+            "source_page": "396"
+        }
+    ]
+}

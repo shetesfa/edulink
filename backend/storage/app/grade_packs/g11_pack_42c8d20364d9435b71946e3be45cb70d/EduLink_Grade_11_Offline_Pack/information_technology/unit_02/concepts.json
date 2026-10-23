@@ -1,0 +1,93 @@
+{
+    "grade": 11,
+    "subject": "information_technology",
+    "unit_number": 2,
+    "unit_title": "Computer Programming Fundamentals",
+    "source_book": "G11 Information Technology",
+    "concepts": [
+        {
+            "id": "g11-information_technology-u02-c001",
+            "name": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "simple_definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 36 UNIT-2 Emerging Technologies Figure 2.11 Chatbot vii",
+            "deep_explanation": "Healthcare Healthcare is one of the areas with immense potential for the application of AI",
+            "real_example": "Practical example of INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN from page 42.",
+            "common_confusion": "Students sometimes confuse INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN with adjacent topics in Chapter 2.",
+            "source_pages": "42",
+            "name_amharic": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 36 UNIT-2 Emerging Technologies Figure 2.11 Chatbot vii (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Healthcare Healthcare is one of the areas with immense potential for the application of AI — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 42 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-information_technology-u02-c002",
+            "name": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "simple_definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 37 UNIT-2 Emerging Technologies Figure 2.13 Robonaut and an astronaut ix",
+            "deep_explanation": "Smart Homes AI systems are abundant in what is known as smart homes",
+            "real_example": "Practical example of INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN from page 43.",
+            "common_confusion": "Students sometimes confuse INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN with adjacent topics in Chapter 2.",
+            "source_pages": "43",
+            "name_amharic": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 37 UNIT-2 Emerging Technologies Figure 2.13 Robonaut and an astronaut ix (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Smart Homes AI systems are abundant in what is known as smart homes — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 43 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-information_technology-u02-c003",
+            "name": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "simple_definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 38 UNIT-2 Emerging Technologies xi",
+            "deep_explanation": "Search Engine Search engines use AI systems such as NLP to better understand user search queries",
+            "real_example": "Practical example of INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN from page 44.",
+            "common_confusion": "Students sometimes confuse INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN with adjacent topics in Chapter 2.",
+            "source_pages": "44",
+            "name_amharic": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 38 UNIT-2 Emerging Technologies xi (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Search Engine Search engines use AI systems such as NLP to better understand user search queries — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 44 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-information_technology-u02-c004",
+            "name": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "simple_definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 39 UNIT-2 Emerging Technologies The hardware of AR includes a processor, sensors, input devices, and a display",
+            "deep_explanation": "Mobile devices do have all four components to run AR applications",
+            "real_example": "Practical example of INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN from page 45.",
+            "common_confusion": "Students sometimes confuse INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN with adjacent topics in Chapter 2.",
+            "source_pages": "45",
+            "name_amharic": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 39 UNIT-2 Emerging Technologies The hardware of AR includes a processor, sensors, input devices, and a display (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Mobile devices do have all four components to run AR applications — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 45 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-information_technology-u02-c005",
+            "name": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "simple_definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 40 UNIT-2 Emerging Technologies making our minds believe that it is (almost) a reality",
+            "deep_explanation": "Unlike AR, VR creates a completely immersive experience for the user",
+            "real_example": "Practical example of INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN from page 46.",
+            "common_confusion": "Students sometimes confuse INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN with adjacent topics in Chapter 2.",
+            "source_pages": "46",
+            "name_amharic": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 40 UNIT-2 Emerging Technologies making our minds believe that it is (almost) a reality (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Unlike AR, VR creates a completely immersive experience for the user — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 46 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-information_technology-u02-c006",
+            "name": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN",
+            "simple_definition": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 41 UNIT-2 Emerging Technologies Table 2.1 The difference between Virtual Reality and Augmented Reality Augmented Reality Virtual Reality AR works in a real-world setting",
+            "deep_explanation": "It is partially im- mersive",
+            "real_example": "Practical example of INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN from page 47.",
+            "common_confusion": "Students sometimes confuse INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN with adjacent topics in Chapter 2.",
+            "source_pages": "47",
+            "name_amharic": "INFORMATION TECHNOLOGY GRADE 11 ~ STUDEN (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] INFORMATION TECHNOLOGY GRADE 11 ~ STUDENT TEXTBOOK 41 UNIT-2 Emerging Technologies Table 2.1 The difference between Virtual Reality and Augmented Reality Augmented Reality Virtual Reality AR works in a real-world setting (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] It is partially im- mersive — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 47 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

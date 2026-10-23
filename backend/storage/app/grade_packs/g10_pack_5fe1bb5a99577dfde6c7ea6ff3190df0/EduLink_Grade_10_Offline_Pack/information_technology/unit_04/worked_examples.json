@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "information_technology",
+    "unit_number": 4,
+    "worked_examples": [
+        {
+            "id": "g10-information_technology-u04-we001",
+            "title": "Worked Example 1: Spreadsheets & Excel Functions",
+            "problem_statement": "Analyze the application of the topic explained on page 147.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 147.",
+            "source_page": "147"
+        },
+        {
+            "id": "g10-information_technology-u04-we002",
+            "title": "Worked Example 2: Spreadsheets & Excel Functions",
+            "problem_statement": "Analyze the application of the topic explained on page 148.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 148.",
+            "source_page": "148"
+        }
+    ]
+}

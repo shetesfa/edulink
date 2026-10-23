@@ -1,0 +1,93 @@
+{
+    "grade": 9,
+    "subject": "chemistry",
+    "unit_number": 2,
+    "unit_title": "Unit 2: Structure of the Atom",
+    "source_book": "G9 Chemistry",
+    "concepts": [
+        {
+            "id": "g9-chemistry-u02-c001",
+            "name": "Atomic Structure and Subatomic Particles (Unit 2)",
+            "name_amharic": "የአተም (Atom) መዋቅር እና ፕሮቶን፣ ኔውትሮን፣ ኤሌክትሮን (ምዕራፍ 2)",
+            "simple_definition": "Atomic Structure and Subatomic Particles is a core topic in Grade 9 Chemistry covering essential principles on pages 31-74.",
+            "simple_definition_amharic": "የአተም (Atom) መዋቅር እና ፕሮቶን፣ ኔውትሮን፣ ኤሌክትሮን በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 31-74 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Atomic Structure and Subatomic Particles. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 31-74.",
+            "deep_explanation_amharic": "የየአተም (Atom) መዋቅር እና ፕሮቶን፣ ኔውትሮን፣ ኤሌክትሮን ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 31-74 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Atomic Structure and Subatomic Particles.",
+            "real_example_amharic": "በየአተም (Atom) መዋቅር እና ፕሮቶን፣ ኔውትሮን፣ ኤሌክትሮን ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Atomic Structure and Subatomic Particles.",
+            "common_confusion_amharic": "በየአተም (Atom) መዋቅር እና ፕሮቶን፣ ኔውትሮን፣ ኤሌክትሮን ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "31-74"
+        },
+        {
+            "id": "g9-chemistry-u02-c002",
+            "name": "Electronic Configuration in Shells (Unit 2)",
+            "name_amharic": "የኤሌክትሮን (Electron) በሼል (Shell) ውስጥ ስርጭት (ምዕራፍ 2)",
+            "simple_definition": "Electronic Configuration in Shells is a core topic in Grade 9 Chemistry covering essential principles on pages 31-74.",
+            "simple_definition_amharic": "የኤሌክትሮን (Electron) በሼል (Shell) ውስጥ ስርጭት በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 31-74 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Electronic Configuration in Shells. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 31-74.",
+            "deep_explanation_amharic": "የየኤሌክትሮን (Electron) በሼል (Shell) ውስጥ ስርጭት ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 31-74 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Electronic Configuration in Shells.",
+            "real_example_amharic": "በየኤሌክትሮን (Electron) በሼል (Shell) ውስጥ ስርጭት ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Electronic Configuration in Shells.",
+            "common_confusion_amharic": "በየኤሌክትሮን (Electron) በሼል (Shell) ውስጥ ስርጭት ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "31-74"
+        },
+        {
+            "id": "g9-chemistry-u02-c003",
+            "name": "Periodic Table Trends (Unit 2)",
+            "name_amharic": "የፔሪዮዲክ ቴብል (Periodic Table) እና ትሬንዶች (ምዕራፍ 2)",
+            "simple_definition": "Periodic Table Trends is a core topic in Grade 9 Chemistry covering essential principles on pages 31-74.",
+            "simple_definition_amharic": "የፔሪዮዲክ ቴብል (Periodic Table) እና ትሬንዶች በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 31-74 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Periodic Table Trends. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 31-74.",
+            "deep_explanation_amharic": "የየፔሪዮዲክ ቴብል (Periodic Table) እና ትሬንዶች ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 31-74 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Periodic Table Trends.",
+            "real_example_amharic": "በየፔሪዮዲክ ቴብል (Periodic Table) እና ትሬንዶች ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Periodic Table Trends.",
+            "common_confusion_amharic": "በየፔሪዮዲክ ቴብል (Periodic Table) እና ትሬንዶች ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "31-74"
+        },
+        {
+            "id": "g9-chemistry-u02-c004",
+            "name": "Ionic and Covalent Bonding (Unit 2)",
+            "name_amharic": "አዮኒክ (Ionic) እና ኮቫለንት (Covalent) ቦንዲንግ (ምዕራፍ 2)",
+            "simple_definition": "Ionic and Covalent Bonding is a core topic in Grade 9 Chemistry covering essential principles on pages 31-74.",
+            "simple_definition_amharic": "አዮኒክ (Ionic) እና ኮቫለንት (Covalent) ቦንዲንግ በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 31-74 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Ionic and Covalent Bonding. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 31-74.",
+            "deep_explanation_amharic": "የአዮኒክ (Ionic) እና ኮቫለንት (Covalent) ቦንዲንግ ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 31-74 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Ionic and Covalent Bonding.",
+            "real_example_amharic": "በአዮኒክ (Ionic) እና ኮቫለንት (Covalent) ቦንዲንግ ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Ionic and Covalent Bonding.",
+            "common_confusion_amharic": "በአዮኒክ (Ionic) እና ኮቫለንት (Covalent) ቦንዲንግ ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "31-74"
+        },
+        {
+            "id": "g9-chemistry-u02-c005",
+            "name": "Chemical Reactions (Unit 2)",
+            "name_amharic": "ኬሚካል ሪአክሽኖች (Chemical Reactions) (ምዕራፍ 2)",
+            "simple_definition": "Chemical Reactions is a core topic in Grade 9 Chemistry covering essential principles on pages 31-74.",
+            "simple_definition_amharic": "ኬሚካል ሪአክሽኖች (Chemical Reactions) በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 31-74 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Chemical Reactions. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 31-74.",
+            "deep_explanation_amharic": "የኬሚካል ሪአክሽኖች (Chemical Reactions) ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 31-74 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Chemical Reactions.",
+            "real_example_amharic": "በኬሚካል ሪአክሽኖች (Chemical Reactions) ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Chemical Reactions.",
+            "common_confusion_amharic": "በኬሚካል ሪአክሽኖች (Chemical Reactions) ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "31-74"
+        },
+        {
+            "id": "g9-chemistry-u02-c006",
+            "name": "Atomic Structure and Subatomic Particles (Unit 2)",
+            "name_amharic": "የአተም (Atom) መዋቅር እና ፕሮቶን፣ ኔውትሮን፣ ኤሌክትሮን (ምዕራፍ 2)",
+            "simple_definition": "Atomic Structure and Subatomic Particles is a core topic in Grade 9 Chemistry covering essential principles on pages 31-74.",
+            "simple_definition_amharic": "የአተም (Atom) መዋቅር እና ፕሮቶን፣ ኔውትሮን፣ ኤሌክትሮን በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 31-74 ላይ የተሸፈነ መሠረታዊ የትምህርት ርዕስ ነው።",
+            "deep_explanation": "Comprehensive academic analysis of Atomic Structure and Subatomic Particles. Students study how this principle operates within the Ethiopian Grade 9 curriculum on page 31-74.",
+            "deep_explanation_amharic": "የየአተም (Atom) መዋቅር እና ፕሮቶን፣ ኔውትሮን፣ ኤሌክትሮን ጥልቅ ሳይንሳዊ ማብራሪያ፡ ተማሪዎች የዚህን ትምህርት መሠረታዊ ሕግጋትና አሰራር በ9ኛ ክፍል ኬሚስትሪ (Chemistry) መጽሐፍ ገጽ 31-74 ላይ በዝርዝር ይማራሉ።",
+            "real_example": "Practical academic or real-world application of Atomic Structure and Subatomic Particles.",
+            "real_example_amharic": "በየአተም (Atom) መዋቅር እና ፕሮቶን፣ ኔውትሮን፣ ኤሌክትሮን ትምህርት ውስጥ የሚታይ ተግባራዊና ሳይንሳዊ ምሳሌ።",
+            "common_confusion": "Common academic confusion to avoid regarding Atomic Structure and Subatomic Particles.",
+            "common_confusion_amharic": "በየአተም (Atom) መዋቅር እና ፕሮቶን፣ ኔውትሮን፣ ኤሌክትሮን ትምህርት ላይ ተማሪዎች ሊያጋጥማቸው የሚችለውን የተሳሳተ ግንዛቤ ማስወገድ።",
+            "source_pages": "31-74"
+        }
+    ]
+}

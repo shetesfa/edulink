@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "english",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g12-english-u03-we001",
+            "title": "Worked Example 1: Unit 3: Health and Preventive Medicine",
+            "problem_statement": "Analyze the application of the topic explained on page 60.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 60.",
+            "source_page": "60"
+        },
+        {
+            "id": "g12-english-u03-we002",
+            "title": "Worked Example 2: Unit 3: Health and Preventive Medicine",
+            "problem_statement": "Analyze the application of the topic explained on page 61.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 61.",
+            "source_page": "61"
+        }
+    ]
+}

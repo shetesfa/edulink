@@ -1,0 +1,172 @@
+{
+    "grade": 9,
+    "subject": "mathematics",
+    "unit_number": 2,
+    "unit_title": "The Number System",
+    "source_book": "G9 Mathematics",
+    "glossary": [
+        {
+            "word": "Dividend, divisor, quotient, remainder",
+            "meaning": "In a = b×q + r: a is the dividend, b is the divisor, q is the quotient, r is the remainder.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "30"
+        },
+        {
+            "word": "Prime number",
+            "meaning": "A natural number with exactly two distinct factors: 1 and itself.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "33"
+        },
+        {
+            "word": "Composite number",
+            "meaning": "A natural number with more than two factors.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "33"
+        },
+        {
+            "word": "Prime factorization",
+            "meaning": "Expressing a composite number as a product of prime numbers.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "36"
+        },
+        {
+            "word": "Divisibility test",
+            "meaning": "A quick rule to check if a number is divisible by 2,3,4,5,6,8,9 or 10 without performing division.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "35"
+        },
+        {
+            "word": "Greatest Common Factor (GCF\/HCF)",
+            "meaning": "The largest number that divides two or more given numbers exactly.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "39"
+        },
+        {
+            "word": "Least Common Multiple (LCM)",
+            "meaning": "The smallest number that is a multiple of two or more given numbers.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "42"
+        },
+        {
+            "word": "Rational number (ℚ)",
+            "meaning": "Any number that can be written as a\/b, where a and b are integers and b ≠ 0.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "45"
+        },
+        {
+            "word": "Proper \/ improper \/ mixed fraction",
+            "meaning": "Proper: numerator < denominator. Improper: numerator ≥ denominator. Mixed: a whole number plus a proper fraction.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "45"
+        },
+        {
+            "word": "Terminating decimal",
+            "meaning": "A decimal number whose digits end (the division reaches remainder 0).",
+            "subject_unit": "mathematics-u02",
+            "source_page": "46"
+        },
+        {
+            "word": "Repeating decimal",
+            "meaning": "A decimal number in which a digit or block of digits repeats forever; shown using a bar over the repeating part.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "46"
+        },
+        {
+            "word": "Irrational number",
+            "meaning": "A decimal number that is neither terminating nor repeating; cannot be written as a simple fraction.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "53"
+        },
+        {
+            "word": "Perfect square",
+            "meaning": "A number that is the product of two equal integers (e.g. 9 = 3×3).",
+            "subject_unit": "mathematics-u02",
+            "source_page": "51"
+        },
+        {
+            "word": "Radical sign \/ radicand \/ index",
+            "meaning": "The √ symbol (radical sign); the number inside it (radicand); the small number showing which root (index), e.g. in ³√8, 3 is the index and 8 is the radicand.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "71"
+        },
+        {
+            "word": "Real number (ℝ)",
+            "meaning": "Any number that is either rational or irrational.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "62"
+        },
+        {
+            "word": "Interval",
+            "meaning": "A set containing all real numbers between two given numbers, written with [ ] or ( ) notation.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "64"
+        },
+        {
+            "word": "Absolute value |x|",
+            "meaning": "The distance of a real number x from zero on the number line; always non-negative.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "67"
+        },
+        {
+            "word": "Exponent (power)",
+            "meaning": "The small number n in aⁿ, showing how many times the base a is multiplied by itself.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "69"
+        },
+        {
+            "word": "Principal nth root",
+            "meaning": "The single defined value of ⁿ√b for a given real number b and positive integer n > 1.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "71"
+        },
+        {
+            "word": "Like radicals",
+            "meaning": "Radical expressions that share the same index and the same radicand, so they can be combined by addition\/subtraction.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "75"
+        },
+        {
+            "word": "Decimal place (d.p.)",
+            "meaning": "The number of digits written after the decimal point in an approximated number.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "82"
+        },
+        {
+            "word": "Significant figures (s.f.)",
+            "meaning": "The number of meaningful digits in a number, counted from the first non-zero digit.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "84"
+        },
+        {
+            "word": "Upper bound \/ lower bound",
+            "meaning": "The maximum \/ minimum value a rounded or approximated number could have been before rounding.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "86"
+        },
+        {
+            "word": "Scientific notation (standard notation)",
+            "meaning": "Writing a number as a × 10ⁿ, where 1 ≤ a < 10 and n is an integer.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "91"
+        },
+        {
+            "word": "Rationalizing the denominator",
+            "meaning": "The process of rewriting a fraction so its denominator no longer contains a radical (irrational number).",
+            "subject_unit": "mathematics-u02",
+            "source_page": "93"
+        },
+        {
+            "word": "Rationalizing factor",
+            "meaning": "The specific expression (equivalent to 1) used to multiply a fraction in order to rationalize its denominator.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "93"
+        },
+        {
+            "word": "Conjugate (of √a ± √b)",
+            "meaning": "The expression with the opposite sign in the middle (√a ∓ √b), used as the rationalizing factor for two-term radical denominators.",
+            "subject_unit": "mathematics-u02",
+            "source_page": "94"
+        }
+    ],
+    "unit_title_amharic": "The Number System (በአማርኛ)"
+}

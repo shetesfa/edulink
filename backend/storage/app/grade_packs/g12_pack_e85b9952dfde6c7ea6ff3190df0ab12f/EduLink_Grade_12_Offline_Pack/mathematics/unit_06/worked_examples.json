@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "mathematics",
+    "unit_number": 6,
+    "worked_examples": [
+        {
+            "id": "g12-mathematics-u06-we001",
+            "title": "Worked Example 1: Three Dimensional Geometry",
+            "problem_statement": "Analyze the application of the topic explained on page 351.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 351.",
+            "source_page": "351"
+        },
+        {
+            "id": "g12-mathematics-u06-we002",
+            "title": "Worked Example 2: Three Dimensional Geometry",
+            "problem_statement": "Analyze the application of the topic explained on page 351.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 351.",
+            "source_page": "351"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "history",
+    "unit_number": 8,
+    "worked_examples": [
+        {
+            "id": "g10-history-u08-we001",
+            "title": "Worked Example 1: State Formation and Modernization in Ethiopia",
+            "problem_statement": "Analyze the application of the topic explained on page 203.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 203.",
+            "source_page": "203"
+        },
+        {
+            "id": "g10-history-u08-we002",
+            "title": "Worked Example 2: State Formation and Modernization in Ethiopia",
+            "problem_statement": "Analyze the application of the topic explained on page 204.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 204.",
+            "source_page": "204"
+        }
+    ]
+}

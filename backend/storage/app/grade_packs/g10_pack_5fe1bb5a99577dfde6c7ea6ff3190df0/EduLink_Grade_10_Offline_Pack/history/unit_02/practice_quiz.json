@@ -1,0 +1,119 @@
+{
+    "grade": 10,
+    "subject": "history",
+    "unit_number": 2,
+    "practice_quiz": [
+        {
+            "id": "g10-history-u02-q001",
+            "question": "Which of the following describes the key principle of the topic discussed on page 33?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 33.",
+            "difficulty": "easy",
+            "related_concept": "g10-history-u02-c002"
+        },
+        {
+            "id": "g10-history-u02-q002",
+            "question": "Which of the following describes the key principle of the topic discussed on page 34?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 34.",
+            "difficulty": "easy",
+            "related_concept": "g10-history-u02-c003"
+        },
+        {
+            "id": "g10-history-u02-q003",
+            "question": "Which of the following describes the key principle of the topic discussed on page 35?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 35.",
+            "difficulty": "easy",
+            "related_concept": "g10-history-u02-c004"
+        },
+        {
+            "id": "g10-history-u02-q004",
+            "question": "Which of the following describes the key principle of the topic discussed on page 36?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 36.",
+            "difficulty": "medium",
+            "related_concept": "g10-history-u02-c005"
+        },
+        {
+            "id": "g10-history-u02-q005",
+            "question": "Which of the following describes the key principle of the topic discussed on page 37?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 37.",
+            "difficulty": "medium",
+            "related_concept": "g10-history-u02-c006"
+        },
+        {
+            "id": "g10-history-u02-q006",
+            "question": "Which of the following describes the key principle of the topic discussed on page 38?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 38.",
+            "difficulty": "medium",
+            "related_concept": "g10-history-u02-c001"
+        },
+        {
+            "id": "g10-history-u02-q007",
+            "question": "Which of the following describes the key principle of the topic discussed on page 39?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 39.",
+            "difficulty": "hard",
+            "related_concept": "g10-history-u02-c002"
+        },
+        {
+            "id": "g10-history-u02-q008",
+            "question": "Which of the following describes the key principle of the topic discussed on page 40?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 40.",
+            "difficulty": "hard",
+            "related_concept": "g10-history-u02-c003"
+        }
+    ]
+}

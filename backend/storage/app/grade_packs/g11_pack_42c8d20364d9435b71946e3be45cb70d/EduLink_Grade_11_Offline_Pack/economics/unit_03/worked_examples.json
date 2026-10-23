@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "economics",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g11-economics-u03-we001",
+            "title": "Worked Example 1: Market Structures and Equilibrium",
+            "problem_statement": "Analyze the application of the topic explained on page 79.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 79.",
+            "source_page": "79"
+        },
+        {
+            "id": "g11-economics-u03-we002",
+            "title": "Worked Example 2: Market Structures and Equilibrium",
+            "problem_statement": "Analyze the application of the topic explained on page 80.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 80.",
+            "source_page": "80"
+        }
+    ]
+}

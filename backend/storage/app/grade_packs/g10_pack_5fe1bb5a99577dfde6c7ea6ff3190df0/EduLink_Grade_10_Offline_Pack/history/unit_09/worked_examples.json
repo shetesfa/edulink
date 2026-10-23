@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "history",
+    "unit_number": 9,
+    "worked_examples": [
+        {
+            "id": "g10-history-u09-we001",
+            "title": "Worked Example 1: Contemporary World and Global Relations",
+            "problem_statement": "Analyze the application of the topic explained on page 219.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 219.",
+            "source_page": "219"
+        },
+        {
+            "id": "g10-history-u09-we002",
+            "title": "Worked Example 2: Contemporary World and Global Relations",
+            "problem_statement": "Analyze the application of the topic explained on page 220.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 220.",
+            "source_page": "220"
+        }
+    ]
+}

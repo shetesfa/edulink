@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "history",
+    "unit_number": 4,
+    "worked_examples": [
+        {
+            "id": "g12-history-u04-we001",
+            "title": "Worked Example 1: Unit 4: The Cold War and Decolonization of Africa",
+            "problem_statement": "Analyze the application of the topic explained on page 136.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 136.",
+            "source_page": "136"
+        },
+        {
+            "id": "g12-history-u04-we002",
+            "title": "Worked Example 2: Unit 4: The Cold War and Decolonization of Africa",
+            "problem_statement": "Analyze the application of the topic explained on page 137.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 137.",
+            "source_page": "137"
+        }
+    ]
+}

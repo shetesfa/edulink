@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "economics",
+    "unit_number": 6,
+    "worked_examples": [
+        {
+            "id": "g12-economics-u06-we001",
+            "title": "Worked Example 1: Inflation, Unemployment, and Economic Cycles",
+            "problem_statement": "Analyze the application of the topic explained on page 131.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 131.",
+            "source_page": "131"
+        },
+        {
+            "id": "g12-economics-u06-we002",
+            "title": "Worked Example 2: Inflation, Unemployment, and Economic Cycles",
+            "problem_statement": "Analyze the application of the topic explained on page 132.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 132.",
+            "source_page": "132"
+        }
+    ]
+}

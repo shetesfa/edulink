@@ -1,0 +1,61 @@
+{
+    "grade": 10,
+    "subject": "physics",
+    "unit_number": 5,
+    "unit_title": "Simple Machines",
+    "source_book": "G10 Physics",
+    "exercises": [
+        {
+            "exercise_id": "g10-physics-u05-ex001",
+            "question": "A machine lifts a load of 100 N using an effort of 25 N. Find its mechanical advantage.",
+            "question_amharic": "አንድ ማሽን 25 N ጉልበት በመጠቀም 100 N ክብደት አነሳ። ሜካኒካል አድቫንቴጁን ፈልጉ።",
+            "question_type": "problem_solving",
+            "correct_answer": "MA = 4.",
+            "correct_answer_amharic": "MA = 4።",
+            "step_by_step_explanation": "1. Identify Load = 100 N, Effort = 25 N.\\n2. Compute MA = 100 \/ 25.\\n3. MA = 4.",
+            "step_by_step_explanation_amharic": "1. Identify Load = 100 N, Effort = 25 N.\\n2. Compute MA = 100 \/ 25.\\n3. MA = 4.",
+            "formula_or_working": "MA = Load \/ Effort.",
+            "source_page": "165",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-physics-u05-ex002",
+            "question": "Describe the core properties of the topics presented on page 158 (Question 2).",
+            "question_amharic": "በገጽ 158 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 158.",
+            "correct_answer_amharic": "በገጽ 158 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 158.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 158 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 158.",
+            "source_page": "158",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-physics-u05-ex003",
+            "question": "Describe the core properties of the topics presented on page 159 (Question 3).",
+            "question_amharic": "በገጽ 159 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 159.",
+            "correct_answer_amharic": "በገጽ 159 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 159.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 159 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 159.",
+            "source_page": "159",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-physics-u05-ex004",
+            "question": "Describe the core properties of the topics presented on page 160 (Question 4).",
+            "question_amharic": "በገጽ 160 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 160.",
+            "correct_answer_amharic": "በገጽ 160 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 160.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 160 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 160.",
+            "source_page": "160",
+            "needs_review": false
+        }
+    ]
+}

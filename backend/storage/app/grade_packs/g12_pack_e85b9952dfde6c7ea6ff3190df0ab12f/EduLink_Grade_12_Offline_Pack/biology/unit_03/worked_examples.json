@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "biology",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g12-biology-u03-we001",
+            "title": "Worked Example 1: Human Biology, Genetics and Evolution",
+            "problem_statement": "Analyze the application of the topic explained on page 257.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 257.",
+            "source_page": "257"
+        },
+        {
+            "id": "g12-biology-u03-we002",
+            "title": "Worked Example 2: Human Biology, Genetics and Evolution",
+            "problem_statement": "Analyze the application of the topic explained on page 258.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 258.",
+            "source_page": "258"
+        }
+    ]
+}

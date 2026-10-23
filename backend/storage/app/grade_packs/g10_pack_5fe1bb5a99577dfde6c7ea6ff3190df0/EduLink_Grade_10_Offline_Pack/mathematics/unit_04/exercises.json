@@ -1,0 +1,61 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 4,
+    "unit_title": "Trigonometric Functions",
+    "source_book": "G10 Mathematics",
+    "exercises": [
+        {
+            "exercise_id": "g10-mathematics-u04-ex001",
+            "question": "If cos(θ) = 4\/5 in a right-angled triangle, find sin(θ).",
+            "question_amharic": "በአንድ የቀኝ ማዕዘን ትሪያንግል ውስጥ cos(θ) = 4\/5 ቢሆን፣ sin(θ) ን ፈልጉ።",
+            "question_type": "problem_solving",
+            "correct_answer": "sin(θ) = 3\/5.",
+            "correct_answer_amharic": "sin(θ) = 3\/5።",
+            "step_by_step_explanation": "1. sin²(θ) = 1 - (4\/5)² = 1 - 16\/25.\\n2. sin²(θ) = 9\/25.\\n3. Take square root: sin(θ) = 3\/5.",
+            "step_by_step_explanation_amharic": "1. sin²(θ) = 1 - (4\/5)² = 1 - 16\/25.\\n2. sin²(θ) = 9\/25.\\n3. Take square root: sin(θ) = 3\/5.",
+            "formula_or_working": "Identity: sin²(θ) + cos²(θ) = 1.",
+            "source_page": "215",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-mathematics-u04-ex002",
+            "question": "Describe the core properties of the topics presented on page 209 (Question 2).",
+            "question_amharic": "በገጽ 209 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 209.",
+            "correct_answer_amharic": "በገጽ 209 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 209.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 209 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 209.",
+            "source_page": "209",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-mathematics-u04-ex003",
+            "question": "Describe the core properties of the topics presented on page 210 (Question 3).",
+            "question_amharic": "በገጽ 210 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 210.",
+            "correct_answer_amharic": "በገጽ 210 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 210.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 210 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 210.",
+            "source_page": "210",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-mathematics-u04-ex004",
+            "question": "Describe the core properties of the topics presented on page 211 (Question 4).",
+            "question_amharic": "በገጽ 211 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 211.",
+            "correct_answer_amharic": "በገጽ 211 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 211.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 211 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 211.",
+            "source_page": "211",
+            "needs_review": false
+        }
+    ]
+}

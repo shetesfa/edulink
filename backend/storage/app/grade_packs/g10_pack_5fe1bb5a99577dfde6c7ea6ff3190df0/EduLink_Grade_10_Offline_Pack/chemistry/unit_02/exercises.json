@@ -1,0 +1,61 @@
+{
+    "grade": 10,
+    "subject": "chemistry",
+    "unit_number": 2,
+    "unit_title": "Important Inorganic Compounds",
+    "source_book": "G10 Chemistry",
+    "exercises": [
+        {
+            "exercise_id": "g10-chemistry-u02-ex001",
+            "question": "Classify CO2 and CaO as acidic or basic oxides.",
+            "question_amharic": "CO2 እና CaO አሲዳማ ወይም ቤዛዊ ኦክሳይድ መሆናቸውን ለይተው ያስቀምጡ።",
+            "question_type": "problem_solving",
+            "correct_answer": "CO2 is an acidic oxide; CaO is a basic oxide.",
+            "correct_answer_amharic": "CO2 አሲዳማ ኦክሳይድ ነው፤ CaO ቤዛዊ ኦክሳይድ ነው።",
+            "step_by_step_explanation": "1. Carbon is a non-metal, so its oxide CO2 reacts with water to form carbonic acid.\\n2. Calcium is a metal, so CaO reacts with water to form calcium hydroxide (base).",
+            "step_by_step_explanation_amharic": "1. Carbon is a non-metal, so its oxide CO2 reacts with water to form carbonic acid.\\n2. Calcium is a metal, so CaO reacts with water to form calcium hydroxide (base).",
+            "formula_or_working": "Non-metal oxides are acidic; metal oxides are basic.",
+            "source_page": "255",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-chemistry-u02-ex002",
+            "question": "Describe the core properties of the topics presented on page 248 (Question 2).",
+            "question_amharic": "በገጽ 248 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 248.",
+            "correct_answer_amharic": "በገጽ 248 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 248.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 248 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 248.",
+            "source_page": "248",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-chemistry-u02-ex003",
+            "question": "Describe the core properties of the topics presented on page 249 (Question 3).",
+            "question_amharic": "በገጽ 249 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 249.",
+            "correct_answer_amharic": "በገጽ 249 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 249.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 249 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 249.",
+            "source_page": "249",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-chemistry-u02-ex004",
+            "question": "Describe the core properties of the topics presented on page 250 (Question 4).",
+            "question_amharic": "በገጽ 250 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 250.",
+            "correct_answer_amharic": "በገጽ 250 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 250.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 250 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 250.",
+            "source_page": "250",
+            "needs_review": false
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 3,
+    "glossary": [
+        {
+            "term": "Exponential Function",
+            "definition": "An exponential function has the form f(x) = a^x where base a > 0 and a ≠ 1.",
+            "source_page": "130-135"
+        },
+        {
+            "term": "Exponential And Logarithmic Functions 12",
+            "definition": "Unit 3: Exponential and Logarithmic Functions 122 ✓ exponential equation ✓ mantissa ✓ logarithm of a number ✓ logarithmic equation ✓ base ✓ logarithm ✓ natural logarithm ✓ characteristics ✓ exponential function ✓ power ✓ common logarithm ✓ logarithmic equation ✓ Asymptote ✓ exponent ✓ logarithmic function ✓ antilogarithm 3.1 Exponents and Logarithms Introduction Two of the most important functions that occur in mathematics and its applications are the exponential function 𝑓(𝑥) = 𝑎𝑥and its inverse function, the logarithmic function 𝑔(𝑥) = log𝑎𝑥",
+            "source_page": "131"
+        },
+        {
+            "term": "Exponential And Logarithmic Functions 12",
+            "definition": "Unit 3: Exponential and Logarithmic Functions 123 Special names are used when the exponent is 2 or 3",
+            "source_page": "132"
+        },
+        {
+            "term": "Exponential And Logarithmic Functions 12",
+            "definition": "Unit 3: Exponential and Logarithmic Functions 124 Solution: a",
+            "source_page": "133"
+        },
+        {
+            "term": "Exponential And Logarithmic Functions 12",
+            "definition": "Unit 3: Exponential and Logarithmic Functions 125 𝑎𝑛 𝑎𝑚= 𝑎× 𝑎× 𝑎× 𝑎× … × 𝑎 ⏟ 𝑛factors 𝑎× 𝑎× 𝑎× … × 𝑎 ⏟ 𝑚factors = 𝑎× 𝑎× 𝑎× … × 𝑎 ⏟ 𝑚factors × 𝑎× 𝑎× … × 𝑎 ⏟ 𝑛−𝑚factors 𝑎× 𝑎× 𝑎× … × 𝑎 ⏟ 𝑚factors = 𝑎× 𝑎× 𝑎× … × 𝑎 ⏟ 𝑚factors 𝑎× 𝑎× 𝑎× … × 𝑎 ⏟ 𝑚factors × 𝑎× 𝑎× … × 𝑎 ⏟ 𝑛−𝑚factors = 𝑎× 𝑎× … × 𝑎 ⏟ 𝑛−𝑚factors = 𝑎𝑛−𝑚",
+            "source_page": "134"
+        },
+        {
+            "term": "Exponential And Logarithmic Functions 12",
+            "definition": "Unit 3: Exponential and Logarithmic Functions 126 Law 4",
+            "source_page": "135"
+        }
+    ]
+}

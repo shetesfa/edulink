@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "information_technology",
+    "unit_number": 4,
+    "worked_examples": [
+        {
+            "id": "g11-information_technology-u04-we001",
+            "title": "Worked Example 1: Network Security and Cyber Ethics",
+            "problem_statement": "Analyze the application of the topic explained on page 146.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 146.",
+            "source_page": "146"
+        },
+        {
+            "id": "g11-information_technology-u04-we002",
+            "title": "Worked Example 2: Network Security and Cyber Ethics",
+            "problem_statement": "Analyze the application of the topic explained on page 147.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 147.",
+            "source_page": "147"
+        }
+    ]
+}

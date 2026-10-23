@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 4,
+    "unit_title": "Trigonometric Functions",
+    "source_book": "G10 Mathematics",
+    "concepts": [
+        {
+            "id": "g10-mathematics-u04-c001",
+            "name": "Trigonometric Ratios",
+            "simple_definition": "Trigonometric ratios relate the angles of a right-angled triangle to the lengths of its sides.",
+            "deep_explanation": "The three primary ratios are sine (sin θ = opp\/hyp), cosine (cos θ = adj\/hyp), and tangent (tan θ = opp\/adj).",
+            "real_example": "In a 3-4-5 right triangle, sin(θ) for the angle opposite side 3 is 3\/5.",
+            "common_confusion": "Mixing up which side is adjacent versus opposite to the reference angle.",
+            "source_pages": "208-212",
+            "name_amharic": "ትሪጎኖሜትሪክ ሬሾች",
+            "simple_definition_amharic": "ትሪጎኖሜትሪክ ሬሾች በአንድ የቀኝ ማዕዘን ትሪያንግል ማዕዘኖች እና የጎኖቹ ርዝመት መካከል ያለውን ዝምድና ይገልጻሉ።",
+            "deep_explanation_amharic": "ሦስቱ ዋና ዋና ሬሾች ሳይን (sin θ = opp\/hyp)፣ ኮሳይን (cos θ = adj\/hyp) እና ታንጀንት (tan θ = opp\/adj) ናቸው።",
+            "real_example_amharic": "ጎኖቹ 3-4-5 በሆነ የቀኝ ማዕዘን ትሪያንግል ውስጥ፣ ከጎን 3 ትይዩ ላለው ማዕዘን sin(θ) = 3\/5 ነው።",
+            "common_confusion_amharic": "ከተወሰደው ማዕዘን አንጻር የትኛው አጠገብ ወይም ትይዩ ጎን እንደሆነ ማደናገር።"
+        },
+        {
+            "id": "g10-mathematics-u04-c002",
+            "name": "Trigonometric Function 200 ✓ Angle Of El",
+            "simple_definition": "Unit 4: Trigonometric Function 200 ✓ Angle of elevation ✓ Period ✓ Co-terminal angle ✓ Radian ✓ Complementary angles ✓ Reference angle ✓ Supplementary angles ✓ Negative angle ✓ Trigonometry ✓ Trigonometric function ✓ Pythagorean identity ✓ Unit circle ✓ Angle of depression ✓ Periodic function ✓ Degree ✓ Angle in standard position ✓ Quadrantal angle Introduction The word ‘trigonometry’ is derived from the Greek word ‘trigon’ and ‘metron’ and it means ‘measuring the sides of a triangle’",
+            "deep_explanation": "The subject was originally developed to solve geometric problems involving triangles",
+            "real_example": "Practical example of Trigonometric Function 200 ✓ Angle of el from page 209.",
+            "common_confusion": "Students sometimes confuse Trigonometric Function 200 ✓ Angle of el with adjacent topics in Chapter 4.",
+            "source_pages": "209",
+            "name_amharic": "Trigonometric Function 200 ✓ Angle of el (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 4: Trigonometric Function 200 ✓ Angle of elevation ✓ Period ✓ Co-terminal angle ✓ Radian ✓ Complementary angles ✓ Reference angle ✓ Supplementary angles ✓ Negative angle ✓ Trigonometry ✓ Trigonometric function ✓ Pythagorean identity ✓ Unit circle ✓ Angle of depression ✓ Periodic function ✓ Degree ✓ Angle in standard position ✓ Quadrantal angle Introduction The word ‘trigonometry’ is derived from the Greek word ‘trigon’ and ‘metron’ and it means ‘measuring the sides of a triangle’ (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The subject was originally developed to solve geometric problems involving triangles — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 209 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u04-c003",
+            "name": "Trigonometric Function 201 Angle Is A Me",
+            "simple_definition": "Unit 4: Trigonometric Function 201 Angle is a measure of rotation of a given ray about its initial point",
+            "deep_explanation": "The original ray is called the initial side and the final position of the ray after rotation is called the terminal side of the angle",
+            "real_example": "Practical example of Trigonometric Function 201 Angle is a me from page 210.",
+            "common_confusion": "Students sometimes confuse Trigonometric Function 201 Angle is a me with adjacent topics in Chapter 4.",
+            "source_pages": "210",
+            "name_amharic": "Trigonometric Function 201 Angle is a me (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 4: Trigonometric Function 201 Angle is a measure of rotation of a given ray about its initial point (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The original ray is called the initial side and the final position of the ray after rotation is called the terminal side of the angle — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 210 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u04-c004",
+            "name": "Trigonometric Function 202 Figure 4.3 Th",
+            "simple_definition": "Unit 4: Trigonometric Function 202 Figure 4.3 The following are measures of different angles",
+            "deep_explanation": "Put the angles in standard position",
+            "real_example": "Practical example of Trigonometric Function 202 Figure 4.3 Th from page 211.",
+            "common_confusion": "Students sometimes confuse Trigonometric Function 202 Figure 4.3 Th with adjacent topics in Chapter 4.",
+            "source_pages": "211",
+            "name_amharic": "Trigonometric Function 202 Figure 4.3 Th (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 4: Trigonometric Function 202 Figure 4.3 The following are measures of different angles (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Put the angles in standard position — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 211 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u04-c005",
+            "name": "Trigonometric Function 203 Figure 4.4 1",
+            "simple_definition": "Unit 4: Trigonometric Function 203 Figure 4.4 1",
+            "deep_explanation": "The following are measures of different angles",
+            "real_example": "Practical example of Trigonometric Function 203 Figure 4.4 1 from page 212.",
+            "common_confusion": "Students sometimes confuse Trigonometric Function 203 Figure 4.4 1 with adjacent topics in Chapter 4.",
+            "source_pages": "212",
+            "name_amharic": "Trigonometric Function 203 Figure 4.4 1 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 4: Trigonometric Function 203 Figure 4.4 1 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The following are measures of different angles — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 212 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u04-c006",
+            "name": "Trigonometric Function 204 Revolution Of",
+            "simple_definition": "Unit 4: Trigonometric Function 204 revolution of the initial side subtends an angle of 2𝜋𝑟radian",
+            "deep_explanation": "It is well-known that equal arcs of a circle subtend equal angle at the center",
+            "real_example": "Practical example of Trigonometric Function 204 revolution of from page 213.",
+            "common_confusion": "Students sometimes confuse Trigonometric Function 204 revolution of with adjacent topics in Chapter 4.",
+            "source_pages": "213",
+            "name_amharic": "Trigonometric Function 204 revolution of (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 4: Trigonometric Function 204 revolution of the initial side subtends an angle of 2𝜋𝑟radian (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] It is well-known that equal arcs of a circle subtend equal angle at the center — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 213 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

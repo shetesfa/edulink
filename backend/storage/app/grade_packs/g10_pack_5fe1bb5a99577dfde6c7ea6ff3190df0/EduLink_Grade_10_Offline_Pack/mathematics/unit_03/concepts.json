@@ -1,0 +1,93 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 3,
+    "unit_title": "Exponential and Logarithmic Functions",
+    "source_book": "G10 Mathematics",
+    "concepts": [
+        {
+            "id": "g10-mathematics-u03-c001",
+            "name": "Exponential Function",
+            "simple_definition": "An exponential function has the form f(x) = a^x where base a > 0 and a ≠ 1.",
+            "deep_explanation": "The domain is all real numbers R, and the range is all positive real numbers (0, ∞). It has a horizontal asymptote at y = 0.",
+            "real_example": "f(x) = 2^x represents exponential growth, doubling for each integer increase in x.",
+            "common_confusion": "Thinking f(x) = x² is an exponential function. In x², the variable is in the base, not the exponent.",
+            "source_pages": "130-135",
+            "name_amharic": "ኤክስፖኔንሻል ፈንክሽን",
+            "simple_definition_amharic": "ኤክስፖኔንሻል ፈንክሽን ማለት የf(x) = a^x ቅርጽ ያለው ፈንክሽን ሲሆን፣ መሠረቱ a > 0 እና a ≠ 1 ነው።",
+            "deep_explanation_amharic": "ዶሜኑ ሁሉም እውነተኛ ቁጥሮች (R) ሲሆኑ፣ ሬንጁ ደግሞ አወንታዊ እውነተኛ ቁጥሮች (0, ∞) ናቸው።",
+            "real_example_amharic": "f(x) = 2^x የኤክስፖኔንሻል ዕድገት ፈንክሽን ሲሆን በየጊዜው እጥፍ የሚሆን እሴትን ያሳያል።",
+            "common_confusion_amharic": "f(x) = x² ኤክስፖኔንሻል ፈንክሽን ነው ብሎ ማሰብ። በx² ውስጥ ተለዋዋጩ መሠረቱ ላይ እንጂ ገላጩ ላይ አይደለም።"
+        },
+        {
+            "id": "g10-mathematics-u03-c002",
+            "name": "Exponential And Logarithmic Functions 12",
+            "simple_definition": "Unit 3: Exponential and Logarithmic Functions 122 ✓ exponential equation ✓ mantissa ✓ logarithm of a number ✓ logarithmic equation ✓ base ✓ logarithm ✓ natural logarithm ✓ characteristics ✓ exponential function ✓ power ✓ common logarithm ✓ logarithmic equation ✓ Asymptote ✓ exponent ✓ logarithmic function ✓ antilogarithm 3.1 Exponents and Logarithms Introduction Two of the most important functions that occur in mathematics and its applications are the exponential function 𝑓(𝑥) = 𝑎𝑥and its inverse function, the logarithmic function 𝑔(𝑥) = log𝑎𝑥",
+            "deep_explanation": "Such functions arise in many applications and are powerful mathematical tools for solving real life problems such as analyzing population growth, decay of radioactive substances, calculating compound interest in accounting, etc",
+            "real_example": "Practical example of Exponential and Logarithmic Functions 12 from page 131.",
+            "common_confusion": "Students sometimes confuse Exponential and Logarithmic Functions 12 with adjacent topics in Chapter 3.",
+            "source_pages": "131",
+            "name_amharic": "Exponential and Logarithmic Functions 12 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 3: Exponential and Logarithmic Functions 122 ✓ exponential equation ✓ mantissa ✓ logarithm of a number ✓ logarithmic equation ✓ base ✓ logarithm ✓ natural logarithm ✓ characteristics ✓ exponential function ✓ power ✓ common logarithm ✓ logarithmic equation ✓ Asymptote ✓ exponent ✓ logarithmic function ✓ antilogarithm 3.1 Exponents and Logarithms Introduction Two of the most important functions that occur in mathematics and its applications are the exponential function 𝑓(𝑥) = 𝑎𝑥and its inverse function, the logarithmic function 𝑔(𝑥) = log𝑎𝑥 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Such functions arise in many applications and are powerful mathematical tools for solving real life problems such as analyzing population growth, decay of radioactive substances, calculating compound interest in accounting, etc — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 131 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u03-c003",
+            "name": "Exponential And Logarithmic Functions 12",
+            "simple_definition": "Unit 3: Exponential and Logarithmic Functions 123 Special names are used when the exponent is 2 or 3",
+            "deep_explanation": "The expression 𝑏2 is usually read as ‘𝑏squared’, and the expression 𝑏3 as ‘𝑏cubed’",
+            "real_example": "Practical example of Exponential and Logarithmic Functions 12 from page 132.",
+            "common_confusion": "Students sometimes confuse Exponential and Logarithmic Functions 12 with adjacent topics in Chapter 3.",
+            "source_pages": "132",
+            "name_amharic": "Exponential and Logarithmic Functions 12 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 3: Exponential and Logarithmic Functions 123 Special names are used when the exponent is 2 or 3 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The expression 𝑏2 is usually read as ‘𝑏squared’, and the expression 𝑏3 as ‘𝑏cubed’ — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 132 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u03-c004",
+            "name": "Exponential And Logarithmic Functions 12",
+            "simple_definition": "Unit 3: Exponential and Logarithmic Functions 124 Solution: a",
+            "deep_explanation": "23 = 2 × 2 × 2 = 8 b",
+            "real_example": "Practical example of Exponential and Logarithmic Functions 12 from page 133.",
+            "common_confusion": "Students sometimes confuse Exponential and Logarithmic Functions 12 with adjacent topics in Chapter 3.",
+            "source_pages": "133",
+            "name_amharic": "Exponential and Logarithmic Functions 12 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 3: Exponential and Logarithmic Functions 124 Solution: a (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 23 = 2 × 2 × 2 = 8 b — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 133 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u03-c005",
+            "name": "Exponential And Logarithmic Functions 12",
+            "simple_definition": "Unit 3: Exponential and Logarithmic Functions 125 𝑎𝑛 𝑎𝑚= 𝑎× 𝑎× 𝑎× 𝑎× … × 𝑎 ⏟ 𝑛factors 𝑎× 𝑎× 𝑎× … × 𝑎 ⏟ 𝑚factors = 𝑎× 𝑎× 𝑎× … × 𝑎 ⏟ 𝑚factors × 𝑎× 𝑎× … × 𝑎 ⏟ 𝑛−𝑚factors 𝑎× 𝑎× 𝑎× … × 𝑎 ⏟ 𝑚factors = 𝑎× 𝑎× 𝑎× … × 𝑎 ⏟ 𝑚factors 𝑎× 𝑎× 𝑎× … × 𝑎 ⏟ 𝑚factors × 𝑎× 𝑎× … × 𝑎 ⏟ 𝑛−𝑚factors = 𝑎× 𝑎× … × 𝑎 ⏟ 𝑛−𝑚factors = 𝑎𝑛−𝑚",
+            "deep_explanation": "𝒂𝒏 𝒂𝒎= 𝑎𝑛−𝑚, where 𝑎is a real number different from zero and 𝑚and 𝑛are natural numbers",
+            "real_example": "Practical example of Exponential and Logarithmic Functions 12 from page 134.",
+            "common_confusion": "Students sometimes confuse Exponential and Logarithmic Functions 12 with adjacent topics in Chapter 3.",
+            "source_pages": "134",
+            "name_amharic": "Exponential and Logarithmic Functions 12 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 3: Exponential and Logarithmic Functions 125 𝑎𝑛 𝑎𝑚= 𝑎× 𝑎× 𝑎× 𝑎× … × 𝑎 ⏟ 𝑛factors 𝑎× 𝑎× 𝑎× … × 𝑎 ⏟ 𝑚factors = 𝑎× 𝑎× 𝑎× … × 𝑎 ⏟ 𝑚factors × 𝑎× 𝑎× … × 𝑎 ⏟ 𝑛−𝑚factors 𝑎× 𝑎× 𝑎× … × 𝑎 ⏟ 𝑚factors = 𝑎× 𝑎× 𝑎× … × 𝑎 ⏟ 𝑚factors 𝑎× 𝑎× 𝑎× … × 𝑎 ⏟ 𝑚factors × 𝑎× 𝑎× … × 𝑎 ⏟ 𝑛−𝑚factors = 𝑎× 𝑎× … × 𝑎 ⏟ 𝑛−𝑚factors = 𝑎𝑛−𝑚 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] 𝒂𝒏 𝒂𝒎= 𝑎𝑛−𝑚, where 𝑎is a real number different from zero and 𝑚and 𝑛are natural numbers — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 134 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g10-mathematics-u03-c006",
+            "name": "Exponential And Logarithmic Functions 12",
+            "simple_definition": "Unit 3: Exponential and Logarithmic Functions 126 Law 4",
+            "deep_explanation": "(𝑎𝑏)𝑛= 𝑎𝑛𝑏𝑛, where 𝑎and 𝑏are real numbers and 𝑛is a natural number",
+            "real_example": "Practical example of Exponential and Logarithmic Functions 12 from page 135.",
+            "common_confusion": "Students sometimes confuse Exponential and Logarithmic Functions 12 with adjacent topics in Chapter 3.",
+            "source_pages": "135",
+            "name_amharic": "Exponential and Logarithmic Functions 12 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Unit 3: Exponential and Logarithmic Functions 126 Law 4 (ይህ ትርጓሜ በኢትዮጵያ የ10ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] (𝑎𝑏)𝑛= 𝑎𝑛𝑏𝑛, where 𝑎and 𝑏are real numbers and 𝑛is a natural number — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 135 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

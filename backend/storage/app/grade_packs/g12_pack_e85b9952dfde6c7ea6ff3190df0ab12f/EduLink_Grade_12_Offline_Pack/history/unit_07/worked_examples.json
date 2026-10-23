@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "history",
+    "unit_number": 7,
+    "worked_examples": [
+        {
+            "id": "g12-history-u07-we001",
+            "title": "Worked Example 1: Unit 7: Contemporary Ethiopian History & Federalism",
+            "problem_statement": "Analyze the application of the topic explained on page 266.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 266.",
+            "source_page": "266"
+        },
+        {
+            "id": "g12-history-u07-we002",
+            "title": "Worked Example 2: Unit 7: Contemporary Ethiopian History & Federalism",
+            "problem_statement": "Analyze the application of the topic explained on page 267.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 267.",
+            "source_page": "267"
+        }
+    ]
+}

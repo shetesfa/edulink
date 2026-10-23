@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "information_technology",
+    "unit_number": 4,
+    "worked_examples": [
+        {
+            "id": "g12-information_technology-u04-we001",
+            "title": "Worked Example 1: Emerging Technologies & Cyber Law",
+            "problem_statement": "Analyze the application of the topic explained on page 184.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 184.",
+            "source_page": "184"
+        },
+        {
+            "id": "g12-information_technology-u04-we002",
+            "title": "Worked Example 2: Emerging Technologies & Cyber Law",
+            "problem_statement": "Analyze the application of the topic explained on page 185.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 185.",
+            "source_page": "185"
+        }
+    ]
+}

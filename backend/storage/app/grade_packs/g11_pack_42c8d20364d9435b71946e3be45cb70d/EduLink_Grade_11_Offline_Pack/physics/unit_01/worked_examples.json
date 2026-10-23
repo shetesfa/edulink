@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "physics",
+    "unit_number": 1,
+    "worked_examples": [
+        {
+            "id": "g11-physics-u01-we001",
+            "title": "Worked Example 1: Measurement, Vectors, and Error Analysis",
+            "problem_statement": "Analyze the application of the topic explained on page 2.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 2.",
+            "source_page": "2"
+        },
+        {
+            "id": "g11-physics-u01-we002",
+            "title": "Worked Example 2: Measurement, Vectors, and Error Analysis",
+            "problem_statement": "Analyze the application of the topic explained on page 3.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 3.",
+            "source_page": "3"
+        }
+    ]
+}

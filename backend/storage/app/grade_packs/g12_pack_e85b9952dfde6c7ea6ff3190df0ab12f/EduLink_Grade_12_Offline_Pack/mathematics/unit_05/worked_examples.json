@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "mathematics",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g12-mathematics-u05-we001",
+            "title": "Worked Example 1: Introduction to Integral Calculus",
+            "problem_statement": "Analyze the application of the topic explained on page 302.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 302.",
+            "source_page": "302"
+        },
+        {
+            "id": "g12-mathematics-u05-we002",
+            "title": "Worked Example 2: Introduction to Integral Calculus",
+            "problem_statement": "Analyze the application of the topic explained on page 304.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 304.",
+            "source_page": "304"
+        }
+    ]
+}

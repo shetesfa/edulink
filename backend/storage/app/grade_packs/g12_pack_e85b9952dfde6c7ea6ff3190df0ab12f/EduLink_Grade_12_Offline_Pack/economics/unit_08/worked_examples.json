@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "economics",
+    "unit_number": 8,
+    "worked_examples": [
+        {
+            "id": "g12-economics-u08-we001",
+            "title": "Worked Example 1: Economic Growth and Development in East Africa",
+            "problem_statement": "Analyze the application of the topic explained on page 191.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 191.",
+            "source_page": "191"
+        },
+        {
+            "id": "g12-economics-u08-we002",
+            "title": "Worked Example 2: Economic Growth and Development in East Africa",
+            "problem_statement": "Analyze the application of the topic explained on page 192.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 192.",
+            "source_page": "192"
+        }
+    ]
+}

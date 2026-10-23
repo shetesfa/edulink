@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "civics",
+    "unit_number": 5,
+    "examples": [
+        {
+            "example_id": "g9-civics-u05-we001",
+            "title": "Worked Example 1: Professional Solution for Work Culture and Economic Development",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የWork Culture and Economic Development ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 98-116.",
+            "problem_amharic": "ከገጽ 98-116 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "98-116"
+        }
+    ]
+}

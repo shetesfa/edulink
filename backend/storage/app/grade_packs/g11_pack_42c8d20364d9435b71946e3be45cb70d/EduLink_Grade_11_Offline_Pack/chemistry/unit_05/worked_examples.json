@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "chemistry",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g11-chemistry-u05-we001",
+            "title": "Worked Example 1: Chemical Equilibrium",
+            "problem_statement": "Analyze the application of the topic explained on page 232.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 232.",
+            "source_page": "232"
+        },
+        {
+            "id": "g11-chemistry-u05-we002",
+            "title": "Worked Example 2: Chemical Equilibrium",
+            "problem_statement": "Analyze the application of the topic explained on page 233.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 233.",
+            "source_page": "233"
+        }
+    ]
+}

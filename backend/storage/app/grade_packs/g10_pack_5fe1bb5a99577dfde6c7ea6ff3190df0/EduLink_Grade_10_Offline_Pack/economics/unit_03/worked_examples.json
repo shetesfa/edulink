@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "economics",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g10-economics-u03-we001",
+            "title": "Worked Example 1: Theory of Demand and Supply",
+            "problem_statement": "Analyze the application of the topic explained on page 56.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 56.",
+            "source_page": "56"
+        },
+        {
+            "id": "g10-economics-u03-we002",
+            "title": "Worked Example 2: Theory of Demand and Supply",
+            "problem_statement": "Analyze the application of the topic explained on page 57.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 57.",
+            "source_page": "57"
+        }
+    ]
+}

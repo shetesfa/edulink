@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "geography",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g10-geography-u03-we001",
+            "title": "Worked Example 1: Climate of Ethiopia & Horn",
+            "problem_statement": "Analyze the application of the topic explained on page 83.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 83.",
+            "source_page": "83"
+        },
+        {
+            "id": "g10-geography-u03-we002",
+            "title": "Worked Example 2: Climate of Ethiopia & Horn",
+            "problem_statement": "Analyze the application of the topic explained on page 84.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 84.",
+            "source_page": "84"
+        }
+    ]
+}

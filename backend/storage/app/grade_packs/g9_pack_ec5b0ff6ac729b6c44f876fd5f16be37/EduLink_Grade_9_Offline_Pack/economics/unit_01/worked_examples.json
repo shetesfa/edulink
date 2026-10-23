@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "economics",
+    "unit_number": 1,
+    "examples": [
+        {
+            "example_id": "g9-economics-u01-we001",
+            "title": "Worked Example 1: Professional Solution for Introduction to Economics and Scarcity",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የIntroduction to Economics and Scarcity ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 6-20.",
+            "problem_amharic": "ከገጽ 6-20 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "6-20"
+        }
+    ]
+}

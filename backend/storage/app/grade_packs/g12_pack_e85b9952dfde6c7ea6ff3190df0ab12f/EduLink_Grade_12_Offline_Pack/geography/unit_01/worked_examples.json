@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "geography",
+    "unit_number": 1,
+    "worked_examples": [
+        {
+            "id": "g12-geography-u01-we001",
+            "title": "Worked Example 1: Geospatial Information Technology and GIS",
+            "problem_statement": "Analyze the application of the topic explained on page 15.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 15.",
+            "source_page": "15"
+        },
+        {
+            "id": "g12-geography-u01-we002",
+            "title": "Worked Example 2: Geospatial Information Technology and GIS",
+            "problem_statement": "Analyze the application of the topic explained on page 16.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 16.",
+            "source_page": "16"
+        }
+    ]
+}

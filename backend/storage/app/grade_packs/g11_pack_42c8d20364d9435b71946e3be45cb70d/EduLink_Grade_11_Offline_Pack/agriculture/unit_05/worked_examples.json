@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "agriculture",
+    "unit_number": 5,
+    "worked_examples": [
+        {
+            "id": "g11-agriculture-u05-we001",
+            "title": "Worked Example 1: Agricultural Tools and Machinery",
+            "problem_statement": "Analyze the application of the topic explained on page 151.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 151.",
+            "source_page": "151"
+        },
+        {
+            "id": "g11-agriculture-u05-we002",
+            "title": "Worked Example 2: Agricultural Tools and Machinery",
+            "problem_statement": "Analyze the application of the topic explained on page 152.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 152.",
+            "source_page": "152"
+        }
+    ]
+}

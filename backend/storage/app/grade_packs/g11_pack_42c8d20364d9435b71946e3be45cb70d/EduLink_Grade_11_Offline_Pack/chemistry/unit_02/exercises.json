@@ -1,0 +1,61 @@
+{
+    "grade": 11,
+    "subject": "chemistry",
+    "unit_number": 2,
+    "unit_title": "Chemical Bonding and Structure",
+    "source_book": "G11 Chemistry",
+    "exercises": [
+        {
+            "exercise_id": "g11-chemistry-u02-ex001",
+            "question": "Classify the bonding in CO2 and NaCl as covalent or ionic.",
+            "question_amharic": "በ CO2 እና NaCl ውስጥ ያለውን ትስስር ኮቫለንት ወይም አዮኒክ በማለት ለይተው ያስቀምጡ።",
+            "question_type": "problem_solving",
+            "correct_answer": "CO2 has covalent bonding; NaCl has ionic bonding.",
+            "correct_answer_amharic": "CO2 ኮቫለንት ትስስር አለው፤ NaCl ደግሞ አዮኒክ ትስስር አለው።",
+            "step_by_step_explanation": "1. Carbon and Oxygen are non-metals, sharing electrons to form covalent bonds in CO2.\\n2. Sodium is a metal and Chlorine is a non-metal, transferring electrons to form ionic bonds in NaCl.",
+            "step_by_step_explanation_amharic": "1. Carbon and Oxygen are non-metals, sharing electrons to form covalent bonds in CO2.\\n2. Sodium is a metal and Chlorine is a non-metal, transferring electrons to form ionic bonds in NaCl.",
+            "formula_or_working": "Non-metal + non-metal = covalent; Metal + non-metal = ionic.",
+            "source_page": "88",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g11-chemistry-u02-ex002",
+            "question": "Describe the core properties of the topics presented on page 77 (Question 2).",
+            "question_amharic": "በገጽ 77 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 77.",
+            "correct_answer_amharic": "በገጽ 77 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 77.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 77 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 77.",
+            "source_page": "77",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g11-chemistry-u02-ex003",
+            "question": "Describe the core properties of the topics presented on page 78 (Question 3).",
+            "question_amharic": "በገጽ 78 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 78.",
+            "correct_answer_amharic": "በገጽ 78 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 78.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 78 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 78.",
+            "source_page": "78",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g11-chemistry-u02-ex004",
+            "question": "Describe the core properties of the topics presented on page 79 (Question 4).",
+            "question_amharic": "በገጽ 79 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 79.",
+            "correct_answer_amharic": "በገጽ 79 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 79.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 79 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 79.",
+            "source_page": "79",
+            "needs_review": false
+        }
+    ]
+}

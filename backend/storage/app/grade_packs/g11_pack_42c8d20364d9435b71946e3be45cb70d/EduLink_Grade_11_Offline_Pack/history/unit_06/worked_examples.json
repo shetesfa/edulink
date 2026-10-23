@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "history",
+    "unit_number": 6,
+    "worked_examples": [
+        {
+            "id": "g11-history-u06-we001",
+            "title": "Worked Example 1: Modern Ethiopian History (16th-19th C.)",
+            "problem_statement": "Analyze the application of the topic explained on page 231.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 231.",
+            "source_page": "231"
+        },
+        {
+            "id": "g11-history-u06-we002",
+            "title": "Worked Example 2: Modern Ethiopian History (16th-19th C.)",
+            "problem_statement": "Analyze the application of the topic explained on page 232.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 232.",
+            "source_page": "232"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "grade": 11,
+    "subject": "chemistry",
+    "unit_number": 3,
+    "unit_title": "Physical States of Matter",
+    "source_book": "G11 Chemistry",
+    "concepts": [
+        {
+            "id": "g11-chemistry-u03-c001",
+            "name": "Ideal Gas Law",
+            "simple_definition": "The Ideal Gas Law is the equation of state of a hypothetical ideal gas, given by PV = nRT.",
+            "deep_explanation": "P is pressure, V is volume, n is number of moles, R is the universal gas constant, and T is temperature in Kelvin.",
+            "real_example": "Heating a sealed gas cylinder increases T, which in turn increases pressure P since volume V is constant.",
+            "common_confusion": "Forgetting to convert temperature to Kelvin (K) when using gas law calculations.",
+            "source_pages": "160-165",
+            "name_amharic": "አይዲያል ጋዝ ሕግ (Ideal Gas Law)",
+            "simple_definition_amharic": "የአይዲያል ጋዝ ሕግ የአንድን ጋዝ ባህሪ የሚገልጽ ቀመር ሲሆን PV = nRT ተብሎ ይገለጻል።",
+            "deep_explanation_amharic": "P ግፊት፣ V ይዘት፣ n የሞል መጠን፣ R የጋዝ ኮንስታንት፣ እና T የሙቀት መጠን (በኬልቪን) ናቸው።",
+            "real_example_amharic": "የታሸገ ጋዝ ሲሊንደርን ማሞቅ T ን ይጨምራል፣ ይህም በምላሹ ግፊት P እንዲጨምር ያደርጋል።",
+            "common_confusion_amharic": "የጋዝ ቀመሮችን ሲያሰሉ የሙቀት መጠንን ወደ ኬልቪን (K) መለወጥ መርሳት።"
+        },
+        {
+            "id": "g11-chemistry-u03-c002",
+            "name": "Introduction 145 UNIT 3 Start-up Activit",
+            "simple_definition": "Introduction 145 UNIT 3 Start-up Activity Form groups and discuss the following questions",
+            "deep_explanation": "Share your ideas with the rest of the class",
+            "real_example": "Practical example of Introduction 145 UNIT 3 Start-up Activit from page 155.",
+            "common_confusion": "Students sometimes confuse Introduction 145 UNIT 3 Start-up Activit with adjacent topics in Chapter 3.",
+            "source_pages": "155",
+            "name_amharic": "Introduction 145 UNIT 3 Start-up Activit (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Introduction 145 UNIT 3 Start-up Activity Form groups and discuss the following questions (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Share your ideas with the rest of the class — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 155 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-chemistry-u03-c003",
+            "name": "CHEMISTRY GRADE 11 146 UNIT 3 In Our Eve",
+            "simple_definition": "CHEMISTRY GRADE 11 146 UNIT 3 In our everyday life, we experience changes in the state of matter",
+            "deep_explanation": "That is, ice melts and water freezes; water boils and steam condenses",
+            "real_example": "Practical example of CHEMISTRY GRADE 11 146 UNIT 3 In our eve from page 156.",
+            "common_confusion": "Students sometimes confuse CHEMISTRY GRADE 11 146 UNIT 3 In our eve with adjacent topics in Chapter 3.",
+            "source_pages": "156",
+            "name_amharic": "CHEMISTRY GRADE 11 146 UNIT 3 In our eve (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] CHEMISTRY GRADE 11 146 UNIT 3 In our everyday life, we experience changes in the state of matter (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] That is, ice melts and water freezes; water boils and steam condenses — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 156 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-chemistry-u03-c004",
+            "name": "Kinetic Theory And Properties Of Matter ",
+            "simple_definition": "Kinetic Theory and Properties of Matter 147 UNIT 3 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0018\u0017\u0016\u0015\u0019\u0014\u0019\u0013\u0012\u001b\u0011\u001e\u0010\u000f\u001a\u0019\u000e\u001e\u0012\u001d\u001b\u0012 \u0019 \u0019\u0012\u0019 \u000f\u001e\u000e \u0019\u000f\u001e\b\u001c\u001e\u000e \u0019\u001d\u0012 \u0019\u0012\u0007\u000e\u0019\u0013\u000f\u0012 \u0012\u0019 Exercise 3.1 1",
+            "deep_explanation": "Can nitrogen and oxygen exist as liquids and solids? 2",
+            "real_example": "Practical example of Kinetic Theory and Properties of Matter  from page 157.",
+            "common_confusion": "Students sometimes confuse Kinetic Theory and Properties of Matter  with adjacent topics in Chapter 3.",
+            "source_pages": "157",
+            "name_amharic": "Kinetic Theory and Properties of Matter  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Kinetic Theory and Properties of Matter 147 UNIT 3 \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u0018\u0017\u0016\u0015\u0019\u0014\u0019\u0013\u0012\u001b\u0011\u001e\u0010\u000f\u001a\u0019\u000e\u001e\u0012\u001d\u001b\u0012 \u0019 \u0019\u0012\u0019 \u000f\u001e\u000e \u0019\u000f\u001e\b\u001c\u001e\u000e \u0019\u001d\u0012 \u0019\u0012\u0007\u000e\u0019\u0013\u000f\u0012 \u0012\u0019 Exercise 3.1 1 (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Can nitrogen and oxygen exist as liquids and solids? 2 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 157 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-chemistry-u03-c005",
+            "name": "CHEMISTRY GRADE 11 148 UNIT 3 \u001f\u001e\u001d\u001e\u001c \u001b\u001a\u0019\u0018",
+            "simple_definition": "CHEMISTRY GRADE 11 148 UNIT 3 \u001f\u001e\u001d\u001e\u001c \u001b\u001a\u0019\u0018\u0017\u0016\u0015\u0019\u0014\u0016\u0013\u0018\u001b\u001a\u0019\u0012\u0011\u0010\u0018\u0012\u000f\u0018\u000e \u0014\u0014\u0019\u0011 The three states of matter in which substances are chemically the same but physically different are explained by the kinetic theory of matter",
+            "deep_explanation": "The kinetic theory of matter gives an explanation on the nature of the motion and the heat energy",
+            "real_example": "Practical example of CHEMISTRY GRADE 11 148 UNIT 3 \u001f\u001e\u001d\u001e\u001c \u001b\u001a\u0019\u0018 from page 158.",
+            "common_confusion": "Students sometimes confuse CHEMISTRY GRADE 11 148 UNIT 3 \u001f\u001e\u001d\u001e\u001c \u001b\u001a\u0019\u0018 with adjacent topics in Chapter 3.",
+            "source_pages": "158",
+            "name_amharic": "CHEMISTRY GRADE 11 148 UNIT 3 \u001f\u001e\u001d\u001e\u001c \u001b\u001a\u0019\u0018 (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] CHEMISTRY GRADE 11 148 UNIT 3 \u001f\u001e\u001d\u001e\u001c \u001b\u001a\u0019\u0018\u0017\u0016\u0015\u0019\u0014\u0016\u0013\u0018\u001b\u001a\u0019\u0012\u0011\u0010\u0018\u0012\u000f\u0018\u000e \u0014\u0014\u0019\u0011 The three states of matter in which substances are chemically the same but physically different are explained by the kinetic theory of matter (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The kinetic theory of matter gives an explanation on the nature of the motion and the heat energy — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 158 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-chemistry-u03-c006",
+            "name": "Kinetic Theory And Properties Of Matter ",
+            "simple_definition": "Kinetic Theory and Properties of Matter 149 UNIT 3 As it has been earlier discussed, matter can exist as a solid, liquid, and gas",
+            "deep_explanation": "The properties of these three states of matter are explained in terms of the kinetic theory as follows: Properties of Gases From the kinetic molecular theory of gases, the following general properties of gases can be summarized",
+            "real_example": "Practical example of Kinetic Theory and Properties of Matter  from page 159.",
+            "common_confusion": "Students sometimes confuse Kinetic Theory and Properties of Matter  with adjacent topics in Chapter 3.",
+            "source_pages": "159",
+            "name_amharic": "Kinetic Theory and Properties of Matter  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Kinetic Theory and Properties of Matter 149 UNIT 3 As it has been earlier discussed, matter can exist as a solid, liquid, and gas (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The properties of these three states of matter are explained in terms of the kinetic theory as follows: Properties of Gases From the kinetic molecular theory of gases, the following general properties of gases can be summarized — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 159 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "information_technology",
+    "unit_number": 7,
+    "examples": [
+        {
+            "example_id": "g9-information_technology-u07-we001",
+            "title": "Worked Example 1: Professional Solution for Web Design and Basic HTML",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የWeb Design and Basic HTML ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 211-230.",
+            "problem_amharic": "ከገጽ 211-230 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "211-230"
+        }
+    ]
+}

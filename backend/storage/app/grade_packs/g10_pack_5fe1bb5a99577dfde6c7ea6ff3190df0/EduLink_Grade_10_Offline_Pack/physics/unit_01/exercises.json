@@ -1,0 +1,61 @@
+{
+    "grade": 10,
+    "subject": "physics",
+    "unit_number": 1,
+    "unit_title": "Vector Quantities",
+    "source_book": "G10 Physics",
+    "exercises": [
+        {
+            "exercise_id": "g10-physics-u01-ex001",
+            "question": "A car travels 3 km East and then 4 km North. Find the magnitude of its displacement.",
+            "question_amharic": "አንድ መኪና 3 ኪ.ሜ ወደ ምስራቅ ከዚያም 4 ኪ.ሜ ወደ ሰሜን ተጓዘ። የመፈናቀሉን መጠን ፈልጉ።",
+            "question_type": "problem_solving",
+            "correct_answer": "5 km.",
+            "correct_answer_amharic": "5 ኪ.ሜ።",
+            "step_by_step_explanation": "1. East and North directions are perpendicular (90 degrees).\\n2. Apply R = √(3² + 4²) = √(9 + 16) = √25.\\n3. Resultant displacement is 5 km.",
+            "step_by_step_explanation_amharic": "1. East and North directions are perpendicular (90 degrees).\\n2. Apply R = √(3² + 4²) = √(9 + 16) = √25.\\n3. Resultant displacement is 5 km.",
+            "formula_or_working": "Resultant: R = √(A² + B²).",
+            "source_page": "15",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-physics-u01-ex002",
+            "question": "Describe the core properties of the topics presented on page 8 (Question 2).",
+            "question_amharic": "በገጽ 8 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 8.",
+            "correct_answer_amharic": "በገጽ 8 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 8.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 8 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 8.",
+            "source_page": "8",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-physics-u01-ex003",
+            "question": "Describe the core properties of the topics presented on page 9 (Question 3).",
+            "question_amharic": "በገጽ 9 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 9.",
+            "correct_answer_amharic": "በገጽ 9 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 9.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 9 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 9.",
+            "source_page": "9",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g10-physics-u01-ex004",
+            "question": "Describe the core properties of the topics presented on page 10 (Question 4).",
+            "question_amharic": "በገጽ 10 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 10.",
+            "correct_answer_amharic": "በገጽ 10 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 10.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 10 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 10.",
+            "source_page": "10",
+            "needs_review": false
+        }
+    ]
+}

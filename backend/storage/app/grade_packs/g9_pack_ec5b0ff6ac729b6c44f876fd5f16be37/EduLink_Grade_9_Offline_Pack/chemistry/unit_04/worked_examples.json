@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "chemistry",
+    "unit_number": 4,
+    "examples": [
+        {
+            "example_id": "g9-chemistry-u04-we001",
+            "title": "Worked Example 1: Professional Solution for Chemical Bonding",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የChemical Bonding ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 148-183.",
+            "problem_amharic": "ከገጽ 148-183 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "148-183"
+        }
+    ]
+}

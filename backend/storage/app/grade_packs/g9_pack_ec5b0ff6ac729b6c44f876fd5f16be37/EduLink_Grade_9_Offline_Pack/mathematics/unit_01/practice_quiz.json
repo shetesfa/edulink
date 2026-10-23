@@ -1,0 +1,178 @@
+{
+    "grade": 9,
+    "subject": "mathematics",
+    "unit_number": 1,
+    "unit_title": "Further on Sets",
+    "source_book": "G9 Mathematics",
+    "practice_quiz": [
+        {
+            "id": "g9-mathematics-u01-q001",
+            "question": "True or False: 'The collection of the most talented footballers in Ethiopia' is a well-defined set.",
+            "type": "true_false",
+            "correct_answer": "False",
+            "explanation": "Whether someone is 'most talented' is a matter of opinion, so it is impossible to say with certainty who belongs — the collection is not well-defined.",
+            "difficulty": "easy",
+            "related_concept": "g9-mathematics-u01-c001",
+            "question_amharic": "[የመልስ ጥያቄ በአማርኛ] እውነት or ሐሰት: 'The collection of the most talented footballers in Ethiopia' is a well-defined set.",
+            "correct_answer_amharic": "[ትክክለኛ መልስ በአማርኛ] ሐሰት",
+            "explanation_amharic": "[አማርኛ ማብራሪያ] Whether someone is 'most talented' is a matter of opinion, so it is impossible to say with certainty who belongs — the collection is not well-defined. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።"
+        },
+        {
+            "id": "g9-mathematics-u01-q002",
+            "question": "Which method of describing a set is being used when we write {x | x ∈ ℕ and x < 20}?",
+            "type": "multiple_choice",
+            "options": [
+                "Verbal method",
+                "Complete listing method",
+                "Set-builder method",
+                "Partial listing method"
+            ],
+            "correct_answer": "Set-builder method",
+            "explanation": "This notation states a condition (x is a natural number less than 20) that x must satisfy, which is the defining feature of set-builder notation.",
+            "difficulty": "easy",
+            "related_concept": "g9-mathematics-u01-c002",
+            "question_amharic": "[የመልስ ጥያቄ በአማርኛ] Which method of describing a set is being used when we write {x | x ∈ ℕ and x < 20}?",
+            "correct_answer_amharic": "[ትክክለኛ መልስ በአማርኛ] ስብስብ-builder method",
+            "explanation_amharic": "[አማርኛ ማብራሪያ] This notation states a condition (x is a natural number less than 20) that x must satisfy, which is the defining feature of set-builder notation. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "options_amharic": [
+                "[አማርኛ] Verbal method",
+                "[አማርኛ] Complete listing method",
+                "[አማርኛ] ስብስብ-builder method",
+                "[አማርኛ] Partial listing method"
+            ]
+        },
+        {
+            "id": "g9-mathematics-u01-q003",
+            "question": "Is {0} an empty set?",
+            "type": "true_false",
+            "correct_answer": "False",
+            "explanation": "{0} contains one element, the number zero, so it is not empty. The empty set has zero elements and is written { } or ∅.",
+            "difficulty": "easy",
+            "related_concept": "g9-mathematics-u01-c003",
+            "question_amharic": "[የመልስ ጥያቄ በአማርኛ] Is {0} an empty set?",
+            "correct_answer_amharic": "[ትክክለኛ መልስ በአማርኛ] ሐሰት",
+            "explanation_amharic": "[አማርኛ ማብራሪያ] {0} contains one element, the number zero, so it is not empty. The empty set has zero elements and is written { } or ∅. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።"
+        },
+        {
+            "id": "g9-mathematics-u01-q004",
+            "question": "If set P = {2, 4, 6} and set Q = {6, 4, 2}, what is the relationship between P and Q?",
+            "type": "short_answer",
+            "correct_answer": "P and Q are equal sets (P = Q), because they contain exactly the same elements, regardless of the order they are written in.",
+            "explanation": "Order does not matter when comparing sets for equality — only the elements matter.",
+            "difficulty": "easy",
+            "related_concept": "g9-mathematics-u01-c004",
+            "question_amharic": "[የመልስ ጥያቄ በአማርኛ] If set P = {2, 4, 6} and set Q = {6, 4, 2}, what is the relationship between P and Q?",
+            "correct_answer_amharic": "[ትክክለኛ መልስ በአማርኛ] P and Q are equal sets (P = Q), because they contain exactly the same elements, regardless of the order they are written in.",
+            "explanation_amharic": "[አማርኛ ማብራሪያ] Order does not matter when comparing sets for equality — only the elements matter. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።"
+        },
+        {
+            "id": "g9-mathematics-u01-q005",
+            "question": "How many subsets does the set K = {x, y, z} have?",
+            "type": "calculation",
+            "correct_answer": "8 subsets",
+            "explanation": "K has 3 elements, so the number of subsets is 2^3 = 8. These are: { }, {x}, {y}, {z}, {x,y}, {x,z}, {y,z}, {x,y,z}.",
+            "difficulty": "medium",
+            "related_concept": "g9-mathematics-u01-c005",
+            "question_amharic": "[የመልስ ጥያቄ በአማርኛ] How many subsets does the set K = {x, y, z} have?",
+            "correct_answer_amharic": "[ትክክለኛ መልስ በአማርኛ] 8 subsets",
+            "explanation_amharic": "[አማርኛ ማብራሪያ] K has 3 elements, so the number of subsets is 2^3 = 8. These are: { }, {x}, {y}, {z}, {x,y}, {x,z}, {y,z}, {x,y,z}. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።"
+        },
+        {
+            "id": "g9-mathematics-u01-q006",
+            "question": "Let A = {2, 3, 5} and B = {3, 5, 8, 9}. Find A ∩ B.",
+            "type": "calculation",
+            "correct_answer": "A ∩ B = {3, 5}",
+            "explanation": "The intersection keeps only the elements that appear in BOTH sets. Only 3 and 5 appear in both A and B.",
+            "difficulty": "easy",
+            "related_concept": "g9-mathematics-u01-c006",
+            "question_amharic": "[የመልስ ጥያቄ በአማርኛ] Let A = {2, 3, 5} and B = {3, 5, 8, 9}. Find A ∩ B.",
+            "correct_answer_amharic": "[ትክክለኛ መልስ በአማርኛ] A ∩ B = {3, 5}",
+            "explanation_amharic": "[አማርኛ ማብራሪያ] The intersection keeps only the elements that appear in BOTH sets. Only 3 and 5 appear in both A and B. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።"
+        },
+        {
+            "id": "g9-mathematics-u01-q007",
+            "question": "If U = {1,2,3,4,5,6,7,8} and A = {1,3,5,7}, what is A'?",
+            "type": "calculation",
+            "correct_answer": "A' = {2, 4, 6, 8}",
+            "explanation": "A' contains every element of U that is not in A. Removing 1,3,5,7 from U leaves the even numbers 2,4,6,8.",
+            "difficulty": "medium",
+            "related_concept": "g9-mathematics-u01-c007",
+            "question_amharic": "[የመልስ ጥያቄ በአማርኛ] If U = {1,2,3,4,5,6,7,8} and A = {1,3,5,7}, what is A'?",
+            "correct_answer_amharic": "[ትክክለኛ መልስ በአማርኛ] A' = {2, 4, 6, 8}",
+            "explanation_amharic": "[አማርኛ ማብራሪያ] A' contains every element of U that is not in A. Removing 1,3,5,7 from U leaves the even numbers 2,4,6,8. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።"
+        },
+        {
+            "id": "g9-mathematics-u01-q008",
+            "question": "According to De Morgan's Law, (A ∩ B)' is equal to which of the following? A) A' ∩ B'  B) A' ∪ B'  C) A ∪ B  D) A ∩ B",
+            "type": "multiple_choice",
+            "options": [
+                "A' ∩ B'",
+                "A' ∪ B'",
+                "A ∪ B",
+                "A ∩ B"
+            ],
+            "correct_answer": "A' ∪ B'",
+            "explanation": "De Morgan's second law states (A ∩ B)' = A' ∪ B' — complementing an intersection turns it into a union of the complements.",
+            "difficulty": "medium",
+            "related_concept": "g9-mathematics-u01-c008",
+            "question_amharic": "[የመልስ ጥያቄ በአማርኛ] According to De Morgan's Law, (A ∩ B)' is equal to which of the following? A) A' ∩ B'  B) A' ∪ B'  C) A ∪ B  D) A ∩ B",
+            "correct_answer_amharic": "[ትክክለኛ መልስ በአማርኛ] A' ∪ B'",
+            "explanation_amharic": "[አማርኛ ማብራሪያ] De Morgan's second law states (A ∩ B)' = A' ∪ B' — complementing an intersection turns it into a union of the complements. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "options_amharic": [
+                "[አማርኛ] A' ∩ B'",
+                "[አማርኛ] A' ∪ B'",
+                "[አማርኛ] A ∪ B",
+                "[አማርኛ] A ∩ B"
+            ]
+        },
+        {
+            "id": "g9-mathematics-u01-q009",
+            "question": "Let A = {a, b, c, d} and B = {b, d, e}. Find A∆B (symmetric difference).",
+            "type": "calculation",
+            "correct_answer": "A∆B = {a, c, e}",
+            "explanation": "A - B = {a, c} (elements only in A). B - A = {e} (elements only in B). A∆B = {a,c} ∪ {e} = {a, c, e}.",
+            "difficulty": "medium",
+            "related_concept": "g9-mathematics-u01-c009",
+            "question_amharic": "[የመልስ ጥያቄ በአማርኛ] Let A = {a, b, c, d} and B = {b, d, e}. Find A∆B (symmetric difference).",
+            "correct_answer_amharic": "[ትክክለኛ መልስ በአማርኛ] A∆B = {a, c, e}",
+            "explanation_amharic": "[አማርኛ ማብራሪያ] A - B = {a, c} (elements only in A). B - A = {e} (elements only in B). A∆B = {a,c} ∪ {e} = {a, c, e}. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።"
+        },
+        {
+            "id": "g9-mathematics-u01-q010",
+            "question": "If A = {1, 2} and B = {x, y, z}, how many ordered pairs are in A × B?",
+            "type": "calculation",
+            "correct_answer": "6 ordered pairs",
+            "explanation": "The number of elements in a Cartesian product equals n(A) × n(B) = 2 × 3 = 6.",
+            "difficulty": "medium",
+            "related_concept": "g9-mathematics-u01-c010",
+            "question_amharic": "[የመልስ ጥያቄ በአማርኛ] If A = {1, 2} and B = {x, y, z}, how many ordered pairs are in A × B?",
+            "correct_answer_amharic": "[ትክክለኛ መልስ በአማርኛ] 6 ordered pairs",
+            "explanation_amharic": "[አማርኛ ማብራሪያ] The number of elements in a Cartesian product equals n(A) × n(B) = 2 × 3 = 6. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።"
+        },
+        {
+            "id": "g9-mathematics-u01-q011",
+            "question": "In a class of 50 students, 30 play football and 20 play basketball, and every student plays at least one of the two sports. How many students play both sports?",
+            "type": "calculation",
+            "correct_answer": "0 students play both.",
+            "explanation": "Using n(A ∪ B) = n(A) + n(B) - n(A ∩ B): 50 = 30 + 20 - n(A ∩ B), so n(A ∩ B) = 50 - 50 = 0. This means the two groups of players do not overlap at all.",
+            "difficulty": "hard",
+            "related_concept": "g9-mathematics-u01-c011",
+            "question_amharic": "[የመልስ ጥያቄ በአማርኛ] In a class of 50 students, 30 play football and 20 play basketball, and every student plays at least one of the two sports. How many students play both sports?",
+            "correct_answer_amharic": "[ትክክለኛ መልስ በአማርኛ] 0 students play both.",
+            "explanation_amharic": "[አማርኛ ማብራሪያ] Using n(A ∪ B) = n(A) + n(B) - n(A ∩ B): 50 = 30 + 20 - n(A ∩ B), so n(A ∩ B) = 50 - 50 = 0. This means the two groups of players do not overlap at all. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።"
+        },
+        {
+            "id": "g9-mathematics-u01-q012",
+            "question": "True or False: For any set A, A is a proper subset of itself.",
+            "type": "true_false",
+            "correct_answer": "False",
+            "explanation": "A proper subset requires A ⊆ B AND A ≠ B. Since a set is always equal to itself, no set is a proper subset of itself.",
+            "difficulty": "medium",
+            "related_concept": "g9-mathematics-u01-c005",
+            "question_amharic": "[የመልስ ጥያቄ በአማርኛ] እውነት or ሐሰት: For any set A, A is a proper subset of itself.",
+            "correct_answer_amharic": "[ትክክለኛ መልስ በአማርኛ] ሐሰት",
+            "explanation_amharic": "[አማርኛ ማብራሪያ] A proper subset requires A ⊆ B AND A ≠ B. Since a set is always equal to itself, no set is a proper subset of itself. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።"
+        }
+    ],
+    "unit_title_amharic": "Further on Sets (በአማርኛ)"
+}

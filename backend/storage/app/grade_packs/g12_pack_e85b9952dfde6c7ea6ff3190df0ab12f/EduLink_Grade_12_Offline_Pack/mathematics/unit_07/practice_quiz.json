@@ -1,0 +1,119 @@
+{
+    "grade": 12,
+    "subject": "mathematics",
+    "unit_number": 7,
+    "practice_quiz": [
+        {
+            "id": "g12-mathematics-u07-q001",
+            "question": "Which of the following describes the key principle of the topic discussed on page 396?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 396.",
+            "difficulty": "easy",
+            "related_concept": "g12-mathematics-u07-c002"
+        },
+        {
+            "id": "g12-mathematics-u07-q002",
+            "question": "Which of the following describes the key principle of the topic discussed on page 396?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 396.",
+            "difficulty": "easy",
+            "related_concept": "g12-mathematics-u07-c003"
+        },
+        {
+            "id": "g12-mathematics-u07-q003",
+            "question": "Which of the following describes the key principle of the topic discussed on page 396?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 396.",
+            "difficulty": "easy",
+            "related_concept": "g12-mathematics-u07-c004"
+        },
+        {
+            "id": "g12-mathematics-u07-q004",
+            "question": "Which of the following describes the key principle of the topic discussed on page 396?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 396.",
+            "difficulty": "medium",
+            "related_concept": "g12-mathematics-u07-c005"
+        },
+        {
+            "id": "g12-mathematics-u07-q005",
+            "question": "Which of the following describes the key principle of the topic discussed on page 396?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 396.",
+            "difficulty": "medium",
+            "related_concept": "g12-mathematics-u07-c006"
+        },
+        {
+            "id": "g12-mathematics-u07-q006",
+            "question": "Which of the following describes the key principle of the topic discussed on page 396?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 396.",
+            "difficulty": "medium",
+            "related_concept": "g12-mathematics-u07-c001"
+        },
+        {
+            "id": "g12-mathematics-u07-q007",
+            "question": "Which of the following describes the key principle of the topic discussed on page 396?",
+            "type": "true_false",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "This is verified by the curriculum description on page 396.",
+            "difficulty": "hard",
+            "related_concept": "g12-mathematics-u07-c002"
+        },
+        {
+            "id": "g12-mathematics-u07-q008",
+            "question": "Which of the following describes the key principle of the topic discussed on page 396?",
+            "type": "multiple_choice",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": "Option B",
+            "explanation": "This is verified by the curriculum description on page 396.",
+            "difficulty": "hard",
+            "related_concept": "g12-mathematics-u07-c003"
+        }
+    ]
+}

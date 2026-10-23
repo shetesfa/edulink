@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "english",
+    "unit_number": 6,
+    "worked_examples": [
+        {
+            "id": "g11-english-u06-we001",
+            "title": "Worked Example 1: Unit 6: Careers and Workplace Communication",
+            "problem_statement": "Analyze the application of the topic explained on page 241.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 241.",
+            "source_page": "241"
+        },
+        {
+            "id": "g11-english-u06-we002",
+            "title": "Worked Example 2: Unit 6: Careers and Workplace Communication",
+            "problem_statement": "Analyze the application of the topic explained on page 241.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 241.",
+            "source_page": "241"
+        }
+    ]
+}

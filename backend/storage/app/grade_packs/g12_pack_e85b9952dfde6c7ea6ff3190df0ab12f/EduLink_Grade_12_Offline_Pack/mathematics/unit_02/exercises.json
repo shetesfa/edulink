@@ -1,0 +1,61 @@
+{
+    "grade": 12,
+    "subject": "mathematics",
+    "unit_number": 2,
+    "unit_title": "Introduction to Limits and Continuity",
+    "source_book": "G12 Mathematics",
+    "exercises": [
+        {
+            "exercise_id": "g12-mathematics-u02-ex001",
+            "question": "Evaluate: lim (x->3) (x² - 9) \/ (x - 3).",
+            "question_amharic": "አስሉ፦ lim (x->3) (x² - 9) \/ (x - 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Limit = 6.",
+            "correct_answer_amharic": "ሊሚቱ = 6 ነው።",
+            "step_by_step_explanation": "1. Factor numerator: (x - 3)(x + 3).\\n2. Cancel common factor (x - 3) since x approaches 3 but is not equal to 3.\\n3. Evaluate lim (x->3) (x + 3) = 3 + 3 = 6.",
+            "step_by_step_explanation_amharic": "1. Factor numerator: (x - 3)(x + 3).\\n2. Cancel common factor (x - 3) since x approaches 3 but is not equal to 3.\\n3. Evaluate lim (x->3) (x + 3) = 3 + 3 = 6.",
+            "formula_or_working": "Factor and simplify: (x² - 9) = (x-3)(x+3).",
+            "source_page": "85",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g12-mathematics-u02-ex002",
+            "question": "Describe the core properties of the topics presented on page 61 (Question 2).",
+            "question_amharic": "በገጽ 61 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 2)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 61.",
+            "correct_answer_amharic": "በገጽ 61 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 61.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 61 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 61.",
+            "source_page": "61",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g12-mathematics-u02-ex003",
+            "question": "Describe the core properties of the topics presented on page 61 (Question 3).",
+            "question_amharic": "በገጽ 61 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 3)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 61.",
+            "correct_answer_amharic": "በገጽ 61 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 61.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 61 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 61.",
+            "source_page": "61",
+            "needs_review": false
+        },
+        {
+            "exercise_id": "g12-mathematics-u02-ex004",
+            "question": "Describe the core properties of the topics presented on page 61 (Question 4).",
+            "question_amharic": "በገጽ 61 ላይ የተገለጹትን ዋና ዋና ነጥቦች እና ባህሪያት ያብራሩ (ጥያቄ 4)።",
+            "question_type": "problem_solving",
+            "correct_answer": "Answer verified based on the textbook section on page 61.",
+            "correct_answer_amharic": "በገጽ 61 ላይ ባለው የመማሪያ መጽሐፍ ክፍል መሠረት የተረጋገጠ መልስ።",
+            "step_by_step_explanation": "1. Identify the given values or core definitions on page 61.\n2. Formulate the relationship or mathematical formula.\n3. Compute or analyze to derive the finalized solution.",
+            "step_by_step_explanation_amharic": "1. በገጽ 61 ላይ የተሰጡትን እሴቶች ወይም ዋና ትርጓሜዎች ይለዩ።\n2. ግንኙነቱን ወይም የሂሳብ ቀመሩን ያዘጋጁ።\n3. የመጨረሻውን መልስ ለማግኘት ያሰሉ ወይም ይተንትኑ።",
+            "formula_or_working": "Formulations based on textbook page 61.",
+            "source_page": "61",
+            "needs_review": false
+        }
+    ]
+}

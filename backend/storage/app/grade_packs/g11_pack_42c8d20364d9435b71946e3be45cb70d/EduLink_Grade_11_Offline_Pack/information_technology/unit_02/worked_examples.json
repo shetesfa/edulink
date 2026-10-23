@@ -1,0 +1,21 @@
+{
+    "grade": 11,
+    "subject": "information_technology",
+    "unit_number": 2,
+    "worked_examples": [
+        {
+            "id": "g11-information_technology-u02-we001",
+            "title": "Worked Example 1: Computer Programming Fundamentals",
+            "problem_statement": "Analyze the application of the topic explained on page 42.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 42.",
+            "source_page": "42"
+        },
+        {
+            "id": "g11-information_technology-u02-we002",
+            "title": "Worked Example 2: Computer Programming Fundamentals",
+            "problem_statement": "Analyze the application of the topic explained on page 43.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 43.",
+            "source_page": "43"
+        }
+    ]
+}

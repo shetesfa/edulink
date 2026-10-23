@@ -1,0 +1,17 @@
+{
+    "grade": 9,
+    "subject": "economics",
+    "unit_number": 6,
+    "examples": [
+        {
+            "example_id": "g9-economics-u06-we001",
+            "title": "Worked Example 1: Professional Solution for Market Structures — Perfect Competition and Monopoly",
+            "title_amharic": "የተሰራ ምሳሌ 1፡ የMarket Structures — Perfect Competition and Monopoly ፕሮፌሽናል አሰራር",
+            "problem": "Academic worked example from page 75-89.",
+            "problem_amharic": "ከገጽ 75-89 የተወሰደ የተሰራ ጥያቄ።",
+            "solution": "Detailed multi-step solution breakdown.",
+            "solution_amharic": "ደረጃ 1፡ መረጃ መተንተን።\nደረጃ 2፡ ፎርሙላ መተግበር።\nደረጃ 3፡ ውጤት ማስቀመጥ።",
+            "source_page": "75-89"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "grade": 12,
+    "subject": "agriculture",
+    "unit_number": 3,
+    "worked_examples": [
+        {
+            "id": "g12-agriculture-u03-we001",
+            "title": "Worked Example 1: Animal Feeding and Nutrition",
+            "problem_statement": "Analyze the application of the topic explained on page 101.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 101.",
+            "source_page": "101"
+        },
+        {
+            "id": "g12-agriculture-u03-we002",
+            "title": "Worked Example 2: Animal Feeding and Nutrition",
+            "problem_statement": "Analyze the application of the topic explained on page 102.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 102.",
+            "source_page": "102"
+        }
+    ]
+}

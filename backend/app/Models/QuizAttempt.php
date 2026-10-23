@@ -1,0 +1,35 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class QuizAttempt extends Model
+{
+    protected $fillable = [
+        'quiz_id', 'student_id', 'answers', 'score', 'max_score', 'percentage',
+        'passed', 'needs_manual_grading', 'time_taken_seconds', 'started_at',
+        'submitted_at',
+    ];
+
+    protected $casts = [
+        'answers' => 'array',
+        'passed' => 'boolean',
+        'needs_manual_grading' => 'boolean',
+        'started_at' => 'datetime',
+        'submitted_at' => 'datetime',
+        'score' => 'decimal:2',
+        'max_score' => 'decimal:2',
+        'percentage' => 'decimal:2',
+    ];
+
+    public function quiz()
+    {
+        return $this->belongsTo(Quiz::class);
+    }
+
+    public function student()
+    {
+        return $this->belongsTo(User::class, 'student_id');
+    }
+}

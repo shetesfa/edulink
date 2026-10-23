@@ -1,0 +1,21 @@
+{
+    "grade": 10,
+    "subject": "history",
+    "unit_number": 2,
+    "worked_examples": [
+        {
+            "id": "g10-history-u02-we001",
+            "title": "Worked Example 1: Ancient World Civilizations",
+            "problem_statement": "Analyze the application of the topic explained on page 33.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 33.",
+            "source_page": "33"
+        },
+        {
+            "id": "g10-history-u02-we002",
+            "title": "Worked Example 2: Ancient World Civilizations",
+            "problem_statement": "Analyze the application of the topic explained on page 34.",
+            "worked_solution": "Detailed calculations and steps demonstrating the principle from page 34.",
+            "source_page": "34"
+        }
+    ]
+}

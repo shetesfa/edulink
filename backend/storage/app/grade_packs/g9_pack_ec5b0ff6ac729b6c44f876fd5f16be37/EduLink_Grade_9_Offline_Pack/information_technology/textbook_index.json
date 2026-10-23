@@ -1,0 +1,53 @@
+{
+    "grade": 9,
+    "subject": "information_technology",
+    "source_book": "G9 Information technology",
+    "total_pages_in_source": 250,
+    "units": [
+        {
+            "unit_number": 1,
+            "unit_title": "Unit 1: Computer Hardware and Software Fundamentals",
+            "status": "completed"
+        },
+        {
+            "unit_number": 2,
+            "unit_title": "Unit 2: Operating Systems and Utility Programs",
+            "status": "completed"
+        },
+        {
+            "unit_number": 3,
+            "unit_title": "Unit 3: Word Processing and Document Design",
+            "status": "completed"
+        },
+        {
+            "unit_number": 4,
+            "unit_title": "Unit 4: Spreadsheet Applications and Data Analysis",
+            "status": "completed"
+        },
+        {
+            "unit_number": 5,
+            "unit_title": "Unit 5: Presentation Software and Multimedia",
+            "status": "completed"
+        },
+        {
+            "unit_number": 6,
+            "unit_title": "Unit 6: Computer Networks and the Internet",
+            "status": "completed"
+        },
+        {
+            "unit_number": 7,
+            "unit_title": "Unit 7: Web Design and Basic HTML",
+            "status": "completed"
+        },
+        {
+            "unit_number": 8,
+            "unit_title": "Unit 8: Computer Security, Ethics, and Cyber Safety",
+            "status": "completed"
+        },
+        {
+            "unit_number": 9,
+            "unit_title": "Unit 9: Introduction to Programming Logic and Algorithms",
+            "status": "completed"
+        }
+    ]
+}

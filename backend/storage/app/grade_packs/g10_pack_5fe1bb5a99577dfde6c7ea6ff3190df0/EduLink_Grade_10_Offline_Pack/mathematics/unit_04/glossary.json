@@ -1,0 +1,37 @@
+{
+    "grade": 10,
+    "subject": "mathematics",
+    "unit_number": 4,
+    "glossary": [
+        {
+            "term": "Trigonometric Ratios",
+            "definition": "Trigonometric ratios relate the angles of a right-angled triangle to the lengths of its sides.",
+            "source_page": "208-212"
+        },
+        {
+            "term": "Trigonometric Function 200 ✓ Angle Of El",
+            "definition": "Unit 4: Trigonometric Function 200 ✓ Angle of elevation ✓ Period ✓ Co-terminal angle ✓ Radian ✓ Complementary angles ✓ Reference angle ✓ Supplementary angles ✓ Negative angle ✓ Trigonometry ✓ Trigonometric function ✓ Pythagorean identity ✓ Unit circle ✓ Angle of depression ✓ Periodic function ✓ Degree ✓ Angle in standard position ✓ Quadrantal angle Introduction The word ‘trigonometry’ is derived from the Greek word ‘trigon’ and ‘metron’ and it means ‘measuring the sides of a triangle’",
+            "source_page": "209"
+        },
+        {
+            "term": "Trigonometric Function 201 Angle Is A Me",
+            "definition": "Unit 4: Trigonometric Function 201 Angle is a measure of rotation of a given ray about its initial point",
+            "source_page": "210"
+        },
+        {
+            "term": "Trigonometric Function 202 Figure 4.3 Th",
+            "definition": "Unit 4: Trigonometric Function 202 Figure 4.3 The following are measures of different angles",
+            "source_page": "211"
+        },
+        {
+            "term": "Trigonometric Function 203 Figure 4.4 1",
+            "definition": "Unit 4: Trigonometric Function 203 Figure 4.4 1",
+            "source_page": "212"
+        },
+        {
+            "term": "Trigonometric Function 204 Revolution Of",
+            "definition": "Unit 4: Trigonometric Function 204 revolution of the initial side subtends an angle of 2𝜋𝑟radian",
+            "source_page": "213"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "grade": 11,
+    "subject": "biology",
+    "unit_number": 2,
+    "unit_title": "Cell Biology and Biochemistry",
+    "source_book": "G11 Biology",
+    "concepts": [
+        {
+            "id": "g11-biology-u02-c001",
+            "name": "Enzymes",
+            "simple_definition": "Enzymes are biological catalysts that speed up chemical reactions in living cells.",
+            "deep_explanation": "They lower the activation energy required. They are proteins with specific active sites that bind to matching substrates.",
+            "real_example": "Amylase in saliva breaks down starch into simple sugars during digestion.",
+            "common_confusion": "Thinking enzymes are consumed in reactions. They are reusable and remain unchanged.",
+            "source_pages": "45-50",
+            "name_amharic": "ኢንዛይሞች (Enzymes)",
+            "simple_definition_amharic": "ኢንዛይሞች በህይወት ባሉ ህዋሳት ውስጥ ኬሚካላዊ ግብረመልሶችን የሚያፋጥኑ ባዮሎጂያዊ አነቃቂዎች ናቸው።",
+            "deep_explanation_amharic": "ግብረመልሱ የሚጠይቀውን አነስተኛ ኃይል (activation energy) ይቀንሳሉ። ኢንዛይሞች ፕሮቲኖች ናቸው።",
+            "real_example_amharic": "በምራቅ ውስጥ የሚገኘው አሚሌዝ የተባለው ኢንዛይም በምግብ መፈጨት ወቅት ስታርች ወደ ስኳር እንዲቀየር ያደርጋል።",
+            "common_confusion_amharic": "ኢንዛይሞች በግብረመልስ ጊዜ ያልቃሉ ብሎ ማሰብ። ኢንዛይሞች ደጋግመው ጥቅም ላይ መዋል ይችላሉ።"
+        },
+        {
+            "id": "g11-biology-u02-c002",
+            "name": "BIOLOGY GRADE 11 STUDENT TEXTBOOK Figure",
+            "simple_definition": "BIOLOGY GRADE 11 STUDENT TEXTBOOK Figure 1.10 Microscope and its parts 5",
+            "deep_explanation": "Computer Information Technology Scanning (CITS) is a device used for investigating information on diseases or cancerous areas of the human body",
+            "real_example": "Practical example of BIOLOGY GRADE 11 STUDENT TEXTBOOK Figure from page 20.",
+            "common_confusion": "Students sometimes confuse BIOLOGY GRADE 11 STUDENT TEXTBOOK Figure with adjacent topics in Chapter 2.",
+            "source_pages": "20",
+            "name_amharic": "BIOLOGY GRADE 11 STUDENT TEXTBOOK Figure (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] BIOLOGY GRADE 11 STUDENT TEXTBOOK Figure 1.10 Microscope and its parts 5 (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Computer Information Technology Scanning (CITS) is a device used for investigating information on diseases or cancerous areas of the human body — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 20 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-biology-u02-c003",
+            "name": "ANIMALS Figure 1.13: GPS Figure 1.14: Ha",
+            "simple_definition": "BIOLOGY GRADE 11 UNIT 2: ANIMALS Figure 1.13: GPS Figure 1.14: Handheld Body fat calculator 1.3 Impacts of biology and technology on society and the natural world After the successful completion of this section, the student will be able to:  Describe the impacts of biology and technology on society and nature  Explain the relationships between biology and technology  Determine the negative and positive impacts of biology and technology on the society and on nature Lab activity 1.3 Uses of technological tools Objectives: To practice the uses of technological tools in learning biology Materials  Thermometer Procedure  Measure the body temperatures of 10 students and record them on a table",
+            "deep_explanation": " Make a graph showing the highest and the lowest temperature",
+            "real_example": "Practical example of ANIMALS Figure 1.13: GPS Figure 1.14: Ha from page 21.",
+            "common_confusion": "Students sometimes confuse ANIMALS Figure 1.13: GPS Figure 1.14: Ha with adjacent topics in Chapter 2.",
+            "source_pages": "21",
+            "name_amharic": "ANIMALS Figure 1.13: GPS Figure 1.14: Ha (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] BIOLOGY GRADE 11 UNIT 2: ANIMALS Figure 1.13: GPS Figure 1.14: Handheld Body fat calculator 1.3 Impacts of biology and technology on society and the natural world After the successful completion of this section, the student will be able to:  Describe the impacts of biology and technology on society and nature  Explain the relationships between biology and technology  Determine the negative and positive impacts of biology and technology on the society and on nature Lab activity 1.3 Uses of technological tools Objectives: To practice the uses of technological tools in learning biology Materials  Thermometer Procedure  Measure the body temperatures of 10 students and record them on a table (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ]  Make a graph showing the highest and the lowest temperature — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 21 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-biology-u02-c004",
+            "name": "BIOLOGY GRADE 11 STUDENT TEXTBOOK The Im",
+            "simple_definition": "BIOLOGY GRADE 11 STUDENT TEXTBOOK The impacts of biology and technology refer to factors that pose positive or negative effects on the society and the natural world",
+            "deep_explanation": "The advancements of biological information and technological devices can highly influence or control the societal and natural world",
+            "real_example": "Practical example of BIOLOGY GRADE 11 STUDENT TEXTBOOK The im from page 22.",
+            "common_confusion": "Students sometimes confuse BIOLOGY GRADE 11 STUDENT TEXTBOOK The im with adjacent topics in Chapter 2.",
+            "source_pages": "22",
+            "name_amharic": "BIOLOGY GRADE 11 STUDENT TEXTBOOK The im (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] BIOLOGY GRADE 11 STUDENT TEXTBOOK The impacts of biology and technology refer to factors that pose positive or negative effects on the society and the natural world (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] The advancements of biological information and technological devices can highly influence or control the societal and natural world — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 22 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-biology-u02-c005",
+            "name": "ANIMALS 1.4 Ethical Issues In Biology Et",
+            "simple_definition": "BIOLOGY GRADE 11 UNIT 2: ANIMALS 1.4 Ethical issues in biology Ethical issues in biology are those issues that arise concerning the rightness or wrongness of using biological discoveries for the health and wellbeing of humans",
+            "deep_explanation": "Ethical issues in biology deal with a variety of concerns related to biotechnology, medicine, and the environment including, the rightness or wrongness of using biotechnological information, products, or devices on human health and lifestyles and livelihood systems",
+            "real_example": "Practical example of ANIMALS 1.4 Ethical issues in biology Et from page 23.",
+            "common_confusion": "Students sometimes confuse ANIMALS 1.4 Ethical issues in biology Et with adjacent topics in Chapter 2.",
+            "source_pages": "23",
+            "name_amharic": "ANIMALS 1.4 Ethical issues in biology Et (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] BIOLOGY GRADE 11 UNIT 2: ANIMALS 1.4 Ethical issues in biology Ethical issues in biology are those issues that arise concerning the rightness or wrongness of using biological discoveries for the health and wellbeing of humans (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Ethical issues in biology deal with a variety of concerns related to biotechnology, medicine, and the environment including, the rightness or wrongness of using biotechnological information, products, or devices on human health and lifestyles and livelihood systems — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 23 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-biology-u02-c006",
+            "name": "BIOLOGY GRADE 11 STUDENT TEXTBOOK 1.4.1 ",
+            "simple_definition": "BIOLOGY GRADE 11 STUDENT TEXTBOOK 1.4.1 Ethical treatment of plants and animals during biological studies Ethical treatment of plants and animals during biological studies is the process of subjecting animals and plants to various experiments and rigorous tests",
+            "deep_explanation": "Ethical treatment of plants Plants are primary producers and feeders for all living organisms",
+            "real_example": "Practical example of BIOLOGY GRADE 11 STUDENT TEXTBOOK 1.4.1  from page 24.",
+            "common_confusion": "Students sometimes confuse BIOLOGY GRADE 11 STUDENT TEXTBOOK 1.4.1  with adjacent topics in Chapter 2.",
+            "source_pages": "24",
+            "name_amharic": "BIOLOGY GRADE 11 STUDENT TEXTBOOK 1.4.1  (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] BIOLOGY GRADE 11 STUDENT TEXTBOOK 1.4.1 Ethical treatment of plants and animals during biological studies Ethical treatment of plants and animals during biological studies is the process of subjecting animals and plants to various experiments and rigorous tests (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Ethical treatment of plants Plants are primary producers and feeders for all living organisms — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 24 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

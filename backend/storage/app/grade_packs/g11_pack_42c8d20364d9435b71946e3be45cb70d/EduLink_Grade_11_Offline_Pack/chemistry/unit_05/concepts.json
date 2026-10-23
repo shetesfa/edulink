@@ -1,0 +1,93 @@
+{
+    "grade": 11,
+    "subject": "chemistry",
+    "unit_number": 5,
+    "unit_title": "Chemical Equilibrium",
+    "source_book": "G11 Chemistry",
+    "concepts": [
+        {
+            "id": "g11-chemistry-u05-c001",
+            "name": "CHEMISTRY GRADE 11 222 UNIT 5 CHEMICAL E",
+            "simple_definition": "CHEMISTRY GRADE 11 222 UNIT 5 CHEMICAL EQUILIBRIUM Unit Outcomes At the end of this unit, you will be able to: ) discuss how equilibrium is established ) explain characteristics of dynamic equilibrium ) state the law of mass action and write an expression for equilibrium constants, KC and KP, from a given chemical reaction ) apply the law of mass action to calculate KC , KP, concentration and pressure of substances in equilibrium ) explain how the reaction quotient is used to indicate position of the equilibrium ) state Le-Chatlier’s principle and use it to predict and explain the effects of changes in temperature, pressure, concentration and presence of a catalyst on a reaction ) perform an activity to demonstrate the effects of changes in concentration on the position of equilibrium and to determine KC or KP values ) explain how equilibrium principles may be applied to optimize the production of industrial chemicals (e.g., production of ammonia and sulphuric acid) ) describe scientific enquiry skills along this unit: observing, predicting, comparing and contrasting, communicating, asking questions and making generalizations",
+            "deep_explanation": "Detailed academic explanation of Chemical Equilibrium.",
+            "real_example": "Practical example of CHEMISTRY GRADE 11 222 UNIT 5 CHEMICAL E from page 232.",
+            "common_confusion": "Students sometimes confuse CHEMISTRY GRADE 11 222 UNIT 5 CHEMICAL E with adjacent topics in Chapter 5.",
+            "source_pages": "232",
+            "name_amharic": "CHEMISTRY GRADE 11 222 UNIT 5 CHEMICAL E (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] CHEMISTRY GRADE 11 222 UNIT 5 CHEMICAL EQUILIBRIUM Unit Outcomes At the end of this unit, you will be able to: ) discuss how equilibrium is established ) explain characteristics of dynamic equilibrium ) state the law of mass action and write an expression for equilibrium constants, KC and KP, from a given chemical reaction ) apply the law of mass action to calculate KC , KP, concentration and pressure of substances in equilibrium ) explain how the reaction quotient is used to indicate position of the equilibrium ) state Le-Chatlier’s principle and use it to predict and explain the effects of changes in temperature, pressure, concentration and presence of a catalyst on a reaction ) perform an activity to demonstrate the effects of changes in concentration on the position of equilibrium and to determine KC or KP values ) explain how equilibrium principles may be applied to optimize the production of industrial chemicals (e.g., production of ammonia and sulphuric acid) ) describe scientific enquiry skills along this unit: observing, predicting, comparing and contrasting, communicating, asking questions and making generalizations (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Detailed academic explanation of Chemical Equilibrium. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 232 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-chemistry-u05-c002",
+            "name": "Introduction 223 UNIT 5 Start-up Activit",
+            "simple_definition": "Introduction 223 UNIT 5 Start-up Activity Form a group and perform the following activity: Mix 10 mL of 0.1 mol L–1 HCl solution with 10 mL of 0.1 mol L–1 NaOH solution",
+            "deep_explanation": "Now, discuss each of the following questions: a",
+            "real_example": "Practical example of Introduction 223 UNIT 5 Start-up Activit from page 233.",
+            "common_confusion": "Students sometimes confuse Introduction 223 UNIT 5 Start-up Activit with adjacent topics in Chapter 5.",
+            "source_pages": "233",
+            "name_amharic": "Introduction 223 UNIT 5 Start-up Activit (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Introduction 223 UNIT 5 Start-up Activity Form a group and perform the following activity: Mix 10 mL of 0.1 mol L–1 HCl solution with 10 mL of 0.1 mol L–1 NaOH solution (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Now, discuss each of the following questions: a — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 233 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-chemistry-u05-c003",
+            "name": "CHEMISTRY GRADE 11 224 UNIT 5 ) Calculat",
+            "simple_definition": "CHEMISTRY GRADE 11 224 UNIT 5 ) calculate values for equilibrium constant involving concentration ) state the relationship of Keq to the relative amounts of products and reactants in a given reaction ) write the equilibrium constant expression for chemical reactions that involve partial pressure ) calculate values for equilibrium constant involving partial pressure ) show the relationship between KC and KP ) distinguish between homogeneous and heterogeneous equilibrium reactions ) define reaction quotient ) use the equilibrium quotient to predict the direction of the reaction and the position of equilibrium ) calculate equilibrium concentrations given initial concentrations ) determine whether the reactants or products are favored in a chemical reaction given the equilibrium constant ) list factors that affect chemical equilibrium ) state Le-Chatliers principle ) use Le-Chatliers principle to explain the effect of changes in temperature, pressure, concentration and presence of catalyst on a reaction ) state the effect of changes in concentration, pressure\/volume and temperature on Keq ) perform an activity to demonstrate the effect of changes in concentration on the position of equilibrium ) perform an activity to demonstrate the effect of changes in temperature on the position of equilibrium ) perform an activity to determine KC for esterification of an organic acid; ) define optimum conditions ) explain how Le-Chatliers principle is applied in the Haber process (production of NH3 ) and in the Contact process (production of H2SO4 ).",
+            "deep_explanation": "Detailed academic explanation of Chemical Equilibrium.",
+            "real_example": "Practical example of CHEMISTRY GRADE 11 224 UNIT 5 ) calculat from page 234.",
+            "common_confusion": "Students sometimes confuse CHEMISTRY GRADE 11 224 UNIT 5 ) calculat with adjacent topics in Chapter 5.",
+            "source_pages": "234",
+            "name_amharic": "CHEMISTRY GRADE 11 224 UNIT 5 ) calculat (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] CHEMISTRY GRADE 11 224 UNIT 5 ) calculate values for equilibrium constant involving concentration ) state the relationship of Keq to the relative amounts of products and reactants in a given reaction ) write the equilibrium constant expression for chemical reactions that involve partial pressure ) calculate values for equilibrium constant involving partial pressure ) show the relationship between KC and KP ) distinguish between homogeneous and heterogeneous equilibrium reactions ) define reaction quotient ) use the equilibrium quotient to predict the direction of the reaction and the position of equilibrium ) calculate equilibrium concentrations given initial concentrations ) determine whether the reactants or products are favored in a chemical reaction given the equilibrium constant ) list factors that affect chemical equilibrium ) state Le-Chatliers principle ) use Le-Chatliers principle to explain the effect of changes in temperature, pressure, concentration and presence of catalyst on a reaction ) state the effect of changes in concentration, pressure\/volume and temperature on Keq ) perform an activity to demonstrate the effect of changes in concentration on the position of equilibrium ) perform an activity to demonstrate the effect of changes in temperature on the position of equilibrium ) perform an activity to determine KC for esterification of an organic acid; ) define optimum conditions ) explain how Le-Chatliers principle is applied in the Haber process (production of NH3 ) and in the Contact process (production of H2SO4 ). (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Detailed academic explanation of Chemical Equilibrium. — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 234 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-chemistry-u05-c004",
+            "name": "Chemical Equilibrium 225 UNIT 5 \u001f\u001e\u001d\u001e\u001c \u001b\u001a",
+            "simple_definition": "Chemical Equilibrium 225 UNIT 5 \u001f\u001e\u001d\u001e\u001c \u001b\u001a\u0019\u001a\u0018\u0017\u0016\u0015\u0014\u001a\u0013\u0012\u0011\u0010\u0013\u000f\u0018\u0018\u001a\u0019\u001a\u0018\u0017\u0016\u0015\u0014\u001a\u0013\u001b\u001a\u0012\u000e \u0016 \u0011\u0017 Activity 5.1 Perform the following activities in pairs and write a report of your findings",
+            "deep_explanation": "Consider the reactions that involve both gaseous reactants and products",
+            "real_example": "Practical example of Chemical Equilibrium 225 UNIT 5 \u001f\u001e\u001d\u001e\u001c \u001b\u001a from page 235.",
+            "common_confusion": "Students sometimes confuse Chemical Equilibrium 225 UNIT 5 \u001f\u001e\u001d\u001e\u001c \u001b\u001a with adjacent topics in Chapter 5.",
+            "source_pages": "235",
+            "name_amharic": "Chemical Equilibrium 225 UNIT 5 \u001f\u001e\u001d\u001e\u001c \u001b\u001a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Chemical Equilibrium 225 UNIT 5 \u001f\u001e\u001d\u001e\u001c \u001b\u001a\u0019\u001a\u0018\u0017\u0016\u0015\u0014\u001a\u0013\u0012\u0011\u0010\u0013\u000f\u0018\u0018\u001a\u0019\u001a\u0018\u0017\u0016\u0015\u0014\u001a\u0013\u001b\u001a\u0012\u000e \u0016 \u0011\u0017 Activity 5.1 Perform the following activities in pairs and write a report of your findings (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Consider the reactions that involve both gaseous reactants and products — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 235 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-chemistry-u05-c005",
+            "name": "H2 (g) + I2 (g) ⇌ 2HI (g) Exercise 5.1 A",
+            "simple_definition": "CHEMISTRY GRADE 11 226 UNIT 5 Another example of a reversible reaction is the formation of hydrogen iodide from hydrogen gas and iodine vapours: H2 (g) + I2 (g) ⇌ 2HI (g) Exercise 5.1 Answer the following questions: 1",
+            "deep_explanation": "How do you distinguish between reversible and irreversible reactions? 2",
+            "real_example": "Practical example of H2 (g) + I2 (g) ⇌ 2HI (g) Exercise 5.1 A from page 236.",
+            "common_confusion": "Students sometimes confuse H2 (g) + I2 (g) ⇌ 2HI (g) Exercise 5.1 A with adjacent topics in Chapter 5.",
+            "source_pages": "236",
+            "name_amharic": "H2 (g) + I2 (g) ⇌ 2HI (g) Exercise 5.1 A (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] CHEMISTRY GRADE 11 226 UNIT 5 Another example of a reversible reaction is the formation of hydrogen iodide from hydrogen gas and iodine vapours: H2 (g) + I2 (g) ⇌ 2HI (g) Exercise 5.1 Answer the following questions: 1 (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] How do you distinguish between reversible and irreversible reactions? 2 — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 236 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        },
+        {
+            "id": "g11-chemistry-u05-c006",
+            "name": "Chemical Equilibrium 227 UNIT 5 \u001f\u001e\u001d\u001e\u001c \u001b\u001a",
+            "simple_definition": "Chemical Equilibrium 227 UNIT 5 \u001f\u001e\u001d\u001e\u001c \u001b\u001a\u0019\u0018\u0017\u0016\u0017\u001a\u0019\u0015\u0014\u0013\u001a\u0012\u0014\u0011\u0016\u0016\u0010\u0017\u0019\u000f\u000e\u0019\u0016\u0014\u001a\u0013\u0014\u001b \u000e\u000f\u0017 \u0010 \u0014 \b\u0017 \u0017\u0007\u0012\u0017\u0010\u0014 Activity 5.3 Sit in a group of three or four and discuss the following reactions",
+            "deep_explanation": "Share your findings with the whole class",
+            "real_example": "Practical example of Chemical Equilibrium 227 UNIT 5 \u001f\u001e\u001d\u001e\u001c \u001b\u001a from page 237.",
+            "common_confusion": "Students sometimes confuse Chemical Equilibrium 227 UNIT 5 \u001f\u001e\u001d\u001e\u001c \u001b\u001a with adjacent topics in Chapter 5.",
+            "source_pages": "237",
+            "name_amharic": "Chemical Equilibrium 227 UNIT 5 \u001f\u001e\u001d\u001e\u001c \u001b\u001a (በአማርኛ)",
+            "simple_definition_amharic": "[አማርኛ] Chemical Equilibrium 227 UNIT 5 \u001f\u001e\u001d\u001e\u001c \u001b\u001a\u0019\u0018\u0017\u0016\u0017\u001a\u0019\u0015\u0014\u0013\u001a\u0012\u0014\u0011\u0016\u0016\u0010\u0017\u0019\u000f\u000e\u0019\u0016\u0014\u001a\u0013\u0014\u001b \u000e\u000f\u0017 \u0010 \u0014 \b\u0017 \u0017\u0007\u0012\u0017\u0010\u0014 Activity 5.3 Sit in a group of three or four and discuss the following reactions (ይህ ትርጓሜ በኢትዮጵያ የ11ኛ ክፍል ሥርዓተ-ትምህርት መሠረት የተዘጋጀ ነው)።",
+            "deep_explanation_amharic": "[አማርኛ ማብራሪያ] Share your findings with the whole class — ይህ ጽንሰ-ሐሳብ ተማሪዎች በክፍል ውስጥ የተማሩትን በቀላሉ እንዲረዱ ይረዳቸዋል።",
+            "real_example_amharic": "[አማርኛ] በገጽ 237 ላይ ያለውን ተግባራዊ ምሳሌ ይመልከቱ።",
+            "common_confusion_amharic": "[አማርኛ] ተማሪዎች ይህንን ጽንሰ-ሐሳብ ከሌሎች ተዛማጅ ርዕሶች ጋር ሊያደናግሩ ይችላሉ።"
+        }
+    ]
+}

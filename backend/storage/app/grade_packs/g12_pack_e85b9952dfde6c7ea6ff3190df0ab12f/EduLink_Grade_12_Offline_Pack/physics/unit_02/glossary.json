@@ -1,0 +1,37 @@
+{
+    "grade": 12,
+    "subject": "physics",
+    "unit_number": 2,
+    "glossary": [
+        {
+            "term": "Unit 2 Two-dimensional Motion Introducti",
+            "definition": "Unit 2 Two-dimensional motion Introduction Kinematics is the study of motion without considering its causes",
+            "source_page": "30"
+        },
+        {
+            "term": "2.1 Projectile Motion 25 2.1 Projectile ",
+            "definition": "2.1 Projectile motion 25 2.1 Projectile motion Discussion question 2.1 Which motion is different from the others? Explain Why? a) A ball thrown horizontally into the air",
+            "source_page": "31"
+        },
+        {
+            "term": "26 Unit 2 Two-dimensional Motion Common ",
+            "definition": "26 Unit 2 Two-dimensional motion common variable for both components",
+            "source_page": "32"
+        },
+        {
+            "term": "2.1 Projectile Motion 27 ∆y = 1 2gt2 Rem",
+            "definition": "2.1 Projectile motion 27 ∆y = 1 2gt2 Remember: When you use equations to answer questions on vertical motion, upwards motion is positive (+) and downwards motion is negative (-)",
+            "source_page": "33"
+        },
+        {
+            "term": "28 Unit 2 Two-dimensional Motion ∆y = 1 ",
+            "definition": "28 Unit 2 Two-dimensional motion ∆y = 1 2gt2 -0.02 m = 1 2(-10)t2 The vertical displacement is in the negative direction, which gives: t=0.06 s Since this is the time of impact with the target, the time of ﬂight of the bullet is also the same",
+            "source_page": "34"
+        },
+        {
+            "term": "2.1 Projectile Motion 29 ∆x =v0xt ∆x =10",
+            "definition": "2.1 Projectile motion 29 ∆x =v0xt ∆x =100 m\/s x 7.74 s ∆x =774 m Activity 2.2 Use this activity to investigate horizontal projection",
+            "source_page": "35"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+# EduLink Textbook Indexer — Python dependencies
+# PyMuPDF 1.28.x works on Python 3.14 (use: pip install --pre pymupdf)
+pymupdf>=1.28.0
+tqdm>=4.66.0
+Pillow>=10.0.0

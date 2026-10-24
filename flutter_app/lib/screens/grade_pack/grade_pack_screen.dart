@@ -32,7 +32,8 @@ class _GradePackScreenState extends State<GradePackScreen> {
   final List<String> _subjects = [
     'mathematics', 'biology', 'chemistry', 'physics',
     'english', 'history', 'geography', 'economics',
-    'civics', 'information_technology'
+    'civics', 'citizenship', 'information_technology',
+    'physical_education', 'agriculture'
   ];
 
   @override
@@ -334,7 +335,7 @@ class _UnitStudySheetState extends State<_UnitStudySheet> with SingleTickerProvi
   @override
   void initState() {
     super.initState();
-    _tabCtrl = TabController(length: 5, vsync: this);
+    _tabCtrl = TabController(length: 6, vsync: this);
   }
 
   @override
@@ -381,6 +382,7 @@ class _UnitStudySheetState extends State<_UnitStudySheet> with SingleTickerProvi
               Tab(text: '📖 Summary'),
               Tab(text: '💡 Concepts'),
               Tab(text: '📚 Glossary'),
+              Tab(text: '🔍 Worked Examples & Review'),
               Tab(text: '📝 Exercises'),
               Tab(text: '🎯 Practice Quiz'),
             ],
@@ -395,6 +397,7 @@ class _UnitStudySheetState extends State<_UnitStudySheet> with SingleTickerProvi
               _buildSummaryTab(),
               _buildConceptsTab(),
               _buildGlossaryTab(),
+              _buildWorkedExamplesTab(),
               _buildExercisesTab(),
               _buildQuizTab(),
             ],
@@ -504,6 +507,16 @@ class _UnitStudySheetState extends State<_UnitStudySheet> with SingleTickerProvi
           ]),
         );
       },
+    );
+  }
+
+  Widget _buildWorkedExamplesTab() {
+    final list = (widget.unitData['worked_examples']?['worked_examples'] as List?)?.cast<Map<String, dynamic>>() ?? [];
+    if (list.isEmpty) return const Center(child: Text('No worked examples / review questions in this unit.', style: TextStyle(color: _text2)));
+    return ListView.builder(
+      padding: const EdgeInsets.all(14),
+      itemCount: list.length,
+      itemBuilder: (ctx, i) => _WorkedExampleCard(item: list[i], index: i + 1),
     );
   }
 
@@ -698,6 +711,112 @@ class _QuizPlayerState extends State<_QuizPlayer> {
           ]),
         );
       },
+    );
+  }
+}
+
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Worked Examples & Review Card Widget
+// ─────────────────────────────────────────────────────────────────────────────
+class _WorkedExampleCard extends StatefulWidget {
+  final Map<String, dynamic> item;
+  final int index;
+  const _WorkedExampleCard({required this.item, required this.index});
+
+  @override
+  State<_WorkedExampleCard> createState() => _WorkedExampleCardState();
+}
+
+class _WorkedExampleCardState extends State<_WorkedExampleCard> {
+  bool _expanded = true;
+
+  @override
+  Widget build(BuildContext context) {
+    final ex = widget.item;
+    final problem = ex['problem'] ?? '';
+    final given = ex['given_information'];
+    final steps = ex['step_by_step_solution'];
+    final answer = ex['final_answer'] ?? '';
+    final explanation = ex['explanation'] ?? '';
+    final page = ex['source_page'];
+
+    return Container(
+      margin: const EdgeInsets.only(bottom: 14),
+      decoration: BoxDecoration(
+        color: _card2,
+        borderRadius: BorderRadius.circular(14),
+        border: Border.all(color: _border),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          ListTile(
+            title: Text(
+              'Example ',
+              style: const TextStyle(color: _purpleL, fontSize: 13, fontWeight: FontWeight.bold),
+            ),
+            subtitle: Text(
+              problem,
+              style: const TextStyle(color: Colors.white, fontSize: 13, height: 1.4),
+            ),
+            trailing: IconButton(
+              icon: Icon(_expanded ? Icons.expand_less : Icons.expand_more, color: _text2),
+              onPressed: () => setState(() => _expanded = !_expanded),
+            ),
+          ),
+          if (_expanded) ...[
+            const Divider(color: _border, height: 1),
+            Padding(
+              padding: const EdgeInsets.all(14),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  if (given != null && given.toString().isNotEmpty) ...[
+                    const Text('📌 Given / Information:', style: TextStyle(color: _purpleL, fontSize: 12, fontWeight: FontWeight.bold)),
+                    const SizedBox(height: 4),
+                    Text(given.toString(), style: const TextStyle(color: _text1, fontSize: 12)),
+                    const SizedBox(height: 10),
+                  ],
+                  if (steps != null) ...[
+                    const Text('📐 Step-by-Step Solution:', style: TextStyle(color: _purpleL, fontSize: 12, fontWeight: FontWeight.bold)),
+                    const SizedBox(height: 6),
+                    if (steps is List)
+                      ...steps.map((st) => Padding(
+                        padding: const EdgeInsets.only(bottom: 4),
+                        child: Row(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            const Text('• ', style: TextStyle(color: _purpleL)),
+                            Expanded(child: Text(st.toString(), style: const TextStyle(color: _text1, fontSize: 12, height: 1.4))),
+                          ],
+                        ),
+                      ))
+                    else
+                      Text(steps.toString(), style: const TextStyle(color: _text1, fontSize: 12, height: 1.4)),
+                    const SizedBox(height: 10),
+                  ],
+                  if (answer.toString().isNotEmpty) ...[
+                    Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                      decoration: BoxDecoration(color: _green.withOpacity(0.15), borderRadius: BorderRadius.circular(8)),
+                      child: Text('✅ Answer: ', style: const TextStyle(color: _green, fontSize: 12, fontWeight: FontWeight.bold)),
+                    ),
+                    const SizedBox(height: 8),
+                  ],
+                  if (explanation.toString().isNotEmpty) ...[
+                    Text('💡 ', style: const TextStyle(color: _text2, fontSize: 11, fontStyle: FontStyle.italic)),
+                  ],
+                  if (page != null) ...[
+                    const SizedBox(height: 6),
+                    Text('Source Page: ', style: const TextStyle(color: _text2, fontSize: 10)),
+                  ],
+                ],
+              ),
+            ),
+          ],
+        ],
+      ),
     );
   }
 }

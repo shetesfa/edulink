@@ -1,13 +1,13 @@
 {
     "pack_id": "g9_pack_ec5b0ff6ac729b6c44f876fd5f16be37",
-    "pack_name": "EduLink Grade 9 Offline Study Pack (Professional Academic EN\/AM)",
+    "pack_name": "EduLink Grade 9 Offline Study Pack (Professional Academic EN/AM)",
     "grade": 9,
     "version": "1.0.0-professional-academic-loanwords",
-    "imported_at": "2026-08-01 01:01:01",
-    "source_file": "EduLink_Grade_9_Offline_Pack (1).zip",
-    "extract_dir": "E:\\EduLink-Complete\\backend\\storage\\app\/grade_packs\/g9_pack_ec5b0ff6ac729b6c44f876fd5f16be37",
+    "imported_at": "2026-10-24 03:15:00",
+    "source_file": "EduLink_Grade_9_Offline_Pack.zip",
+    "extract_dir": "backend/storage/app/grade_packs\\g9_pack_ec5b0ff6ac729b6c44f876fd5f16be37",
     "manifest": {
-        "pack_name": "EduLink Grade 9 Offline Study Pack (Professional Academic EN\/AM)",
+        "pack_name": "EduLink Grade 9 Offline Study Pack (Professional Academic EN/AM)",
         "grade": 9,
         "version": "1.0.0-professional-academic-loanwords",
         "language": "Bilingual (Professional English & Standard Academic Loanword Amharic)",

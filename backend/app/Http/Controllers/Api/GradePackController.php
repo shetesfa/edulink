@@ -386,19 +386,28 @@ class GradePackController extends Controller
 
     private function findSubjectPathInDir(string $packDir, string $subjectKey): ?string
     {
-        // 1. Direct match inside packDir
-        if (File::exists($packDir . '/' . $subjectKey)) {
-            return $packDir . '/' . $subjectKey;
+        $keysToCheck = [$subjectKey];
+        if ($subjectKey === 'civics') {
+            $keysToCheck[] = 'citizenship';
+        } elseif ($subjectKey === 'citizenship') {
+            $keysToCheck[] = 'civics';
         }
 
-        // 2. Direct match inside nested subfolder (e.g. EduLink_Grade_9_Offline_Pack/subject)
-        $subdirs = File::directories($packDir);
-        foreach ($subdirs as $sDir) {
-            if (File::exists($sDir . '/' . $subjectKey)) {
-                return $sDir . '/' . $subjectKey;
+        foreach ($keysToCheck as $key) {
+            // 1. Direct match inside packDir
+            if (File::exists($packDir . '/' . $key)) {
+                return $packDir . '/' . $key;
             }
-            if (strtolower(basename($sDir)) === $subjectKey) {
-                return $sDir;
+
+            // 2. Direct match inside nested subfolder (e.g. EduLink_Grade_9_Offline_Pack/subject)
+            $subdirs = File::directories($packDir);
+            foreach ($subdirs as $sDir) {
+                if (File::exists($sDir . '/' . $key)) {
+                    return $sDir . '/' . $key;
+                }
+                if (strtolower(basename($sDir)) === $key) {
+                    return $sDir;
+                }
             }
         }
 
@@ -420,7 +429,7 @@ class GradePackController extends Controller
             }
             $parts = explode(DIRECTORY_SEPARATOR, $path);
             foreach ($parts as $p) {
-                if (in_array(strtolower($p), ['biology', 'chemistry', 'mathematics', 'physics', 'english', 'history', 'geography', 'civics', 'economics', 'information_technology'])) {
+                if (in_array(strtolower($p), ['biology', 'chemistry', 'mathematics', 'physics', 'english', 'history', 'geography', 'civics', 'citizenship', 'economics', 'information_technology', 'physical_education', 'agriculture'])) {
                     $subjectsFound[strtolower($p)] = true;
                 }
             }
